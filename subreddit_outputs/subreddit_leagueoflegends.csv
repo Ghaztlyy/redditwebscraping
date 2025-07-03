@@ -1,0 +1,1419 @@
+type,subreddit,year,id,parent_id,text,created_utc,sentiment,sentiment_score,emotion,emotion_score
+comment,leagueoflegends,2020,fw6kesg,hgx0je,It's bigger than you. So cool.,2020-06-28T01:06:33,LABEL_2,0.9670763611793518,joy,0.6174631118774414
+comment,leagueoflegends,2020,fw6obd6,hgx0je,"with a bow that big, which i feel like is ""to scale"" with ashe's model in game, no wonder she can shoot frozen arrows from nexus to nexus.",2020-06-28T01:41:14,LABEL_1,0.6270842552185059,surprise,0.8103079795837402
+comment,leagueoflegends,2020,fw6le63,hgx0je,A cosplay with Project Ashe next then you're godmode tbh. Great job!,2020-06-28T01:15:18,LABEL_2,0.9615628719329834,joy,0.7671940326690674
+comment,leagueoflegends,2020,fw6lvia,hgx0je,"That’s wicked, well done. I don’t believe I’ve ever seen a working one before. 
+
+You’ll have to share your complete cosplay when you get round to it.",2020-06-28T01:19:32,LABEL_1,0.40953338146209717,disgust,0.6359736919403076
+comment,leagueoflegends,2020,fw6jlan,hgx0je,Thats insane mate Holy fuck!,2020-06-28T00:59:26,LABEL_0,0.9244232177734375,surprise,0.36223137378692627
+comment,leagueoflegends,2020,fw75jcp,hgx0je,Truly spectacular.  Epic effort my dude.,2020-06-28T04:13:07,LABEL_2,0.952367901802063,surprise,0.7010756134986877
+comment,leagueoflegends,2020,fw6kdk0,hgx0je,The Brotherhood of Steel wants to know your location.,2020-06-28T01:06:16,LABEL_1,0.8977502584457397,neutral,0.862459123134613
+comment,leagueoflegends,2020,fw6pnk8,hgx0je,"Holy moly, see you in hot in couple hours, great freaking job",2020-06-28T01:53:06,LABEL_2,0.9762740135192871,joy,0.9015508890151978
+comment,leagueoflegends,2020,fw6pxec,hgx0je,Do you main Ashe,2020-06-28T01:55:31,LABEL_1,0.8547276258468628,neutral,0.8969773054122925
+comment,leagueoflegends,2020,fw6opoy,hgx0je,ok that's surely the coolest cosplay prop I've ever seen,2020-06-28T01:44:41,LABEL_2,0.9639613032341003,surprise,0.4927820861339569
+comment,leagueoflegends,2020,fm5r68s,ft83x7,april fools day on this sub has turned into league addicts anonymous,2020-04-02T05:58:44,LABEL_0,0.5770379900932312,neutral,0.8705076575279236
+comment,leagueoflegends,2020,fm5imii,ft83x7,This is 11/10 level truth,2020-04-02T04:40:51,LABEL_2,0.6547091603279114,neutral,0.9286214709281921
+comment,leagueoflegends,2020,fm5p4ec,ft83x7,And yet here I am 9 years later,2020-04-02T05:39:50,LABEL_0,0.49046772718429565,surprise,0.9008728265762329
+comment,leagueoflegends,2020,fm5uu66,ft83x7,Downloaded LoL again a few weeks ago. Couldn’t remember my set up from back then so had to remake. Few games in and I realized why I don’t play it anymore. Brings out a side to me I forgot existed,2020-04-02T06:33:29,LABEL_0,0.6732267141342163,surprise,0.6997600793838501
+comment,leagueoflegends,2020,fm5l2gm,ft83x7,big facts 🗣,2020-04-02T05:02:22,LABEL_1,0.4992867112159729,neutral,0.9261972308158875
+comment,leagueoflegends,2020,fm63he7,ft83x7,I look forward to it every night and regret it afterward.,2020-04-02T07:58:09,LABEL_2,0.4220414459705353,sadness,0.8093550205230713
+comment,leagueoflegends,2020,fm6a4n7,ft83x7,Haven’t played in two years. It’s my favourite game.,2020-04-02T09:05:45,LABEL_2,0.9475157260894775,joy,0.6487970352172852
+comment,leagueoflegends,2020,fm60f7b,ft83x7,"Thinking about playing One For All.
+
+Playing One For All.
+
+I swear it's been miserable. I just always seem to end up in terrible matchups, or 2-3 people have no idea how to play the champ or stay safe until they hit a power spike.
+
+I will say, my two best games have been pooping on Yasuo though. Once with Yi, and one with Galeo.",2020-04-02T07:28:04,LABEL_0,0.7096441984176636,sadness,0.8821730017662048
+comment,leagueoflegends,2020,fm6ar9m,ft83x7,"League was described as a ""depression-genre game"" in one of my games yesterday",2020-04-02T09:12:27,LABEL_1,0.6410526633262634,sadness,0.3954624533653259
+comment,leagueoflegends,2020,fm5yxqm,ft83x7,"Definitely relate
+
+Got to my promos ez no problem, first game, 2/11 azir on my team into a velkoz = loss, okay next game np
+
+I get a sett top with 1000 ping, fine, teemo mid (actually made it work so great) and then a kalista who links to the jungle instead of me (support) and then goes 0/3/1 and rage quits at lv 8 
+
+Swear to god riot dont want me to rank up anymore",2020-04-02T07:13:27,LABEL_1,0.478260338306427,anger,0.8426995277404785
+comment,leagueoflegends,2021,gxex7be,n7vg5s,BOOOOOOM baron nashor,2021-05-09T02:43:11,LABEL_1,0.7047152519226074,surprise,0.9444725513458252
+comment,leagueoflegends,2021,gxf81gb,n7vg5s,Was really confused how AOC stole baron against Invictus Gaming for a second there,2021-05-09T04:14:27,LABEL_0,0.7355819344520569,surprise,0.7637060880661011
+comment,leagueoflegends,2021,gxf2pd9,n7vg5s,"I really enjoy watching like, normal people, get excited about playing league. Reminds me that not everyone's as serious about the game as people on this sub. It's kinda wholesome.",2021-05-09T03:29:17,LABEL_2,0.9532572031021118,joy,0.984892725944519
+comment,leagueoflegends,2021,gxfb26s,n7vg5s,This is only weird because 90% of our politicians are 70+ years old and probably hardly know how to use computers in the first place. That’s the real shame,2021-05-09T04:39:53,LABEL_0,0.932775616645813,disgust,0.8134613037109375
+comment,leagueoflegends,2021,gxfjcmo,n7vg5s,"Poor Baron, literally /r/MurderedByAOC",2021-05-09T05:50:44,LABEL_0,0.9008883833885193,sadness,0.7844976186752319
+comment,leagueoflegends,2021,gxfd05a,n7vg5s,"She plays ranked in Silver too, btw.
+
+Edit: A few people are kinda too quick to let me know that this is just a FOTM post to get attention, but I recall her actually placing in Bronze and made a point to promote to Silver, which she shared back in November 2019. She's played the game for a while, at least long enough to be a self-proclaimed Lux/Sona support main... 😑",2021-05-09T04:56:09,LABEL_1,0.6923825144767761,neutral,0.909617006778717
+comment,leagueoflegends,2021,gxf1r4t,n7vg5s,"theres something so weird with politicians playing the same video games as me, not that its bad or anything, just an odd feeling, almost like they are relatable or something wild",2021-05-09T03:21:18,LABEL_0,0.5125125646591187,surprise,0.6557690501213074
+comment,leagueoflegends,2021,gxf4tsd,n7vg5s,Inb4 comments locked,2021-05-09T03:47:18,LABEL_1,0.7183676958084106,neutral,0.7329791784286499
+comment,leagueoflegends,2021,gxf2zrc,n7vg5s,"But did she go afk after that tho?
+
+For the newer players: 
+
+https://www.youtube.com/watch?v=rdUmSQ4exWc",2021-05-09T03:31:43,LABEL_1,0.8687747716903687,neutral,0.7167759537696838
+comment,leagueoflegends,2021,gxf8kyg,n7vg5s,if you wanted to know what a “new york accent” sounds like this is a pretty good video for that,2021-05-09T04:19:05,LABEL_2,0.8566297888755798,neutral,0.9299403429031372
+comment,leagueoflegends,2021,gvxa32m,myw66q,"Honestly, i think this whole presentation could have been an E-mail",2021-04-26T20:52:24,LABEL_1,0.5365252494812012,neutral,0.5402148365974426
+comment,leagueoflegends,2021,gvxbe15,myw66q,"This guy is surely getting picked up as a team analyst in the offseason. Also, fuck Melissa",2021-04-26T21:04:44,LABEL_0,0.7999953627586365,disgust,0.6297222375869751
+comment,leagueoflegends,2021,gvxb207,myw66q,"We all saw the sub 46% winrate, there is no arguing really. I expect a huge buff.",2021-04-26T21:01:36,LABEL_1,0.5366336107254028,neutral,0.7483681440353394
+comment,leagueoflegends,2021,gvx9utp,myw66q,How did you get this clip from riot's balancing team meeting?,2021-04-26T20:50:14,LABEL_1,0.8462888598442078,neutral,0.524349570274353
+comment,leagueoflegends,2021,gvyrnhv,myw66q,This is top-tier. Gonna go buff him rn.,2021-04-27T03:27:32,LABEL_2,0.8371636271476746,neutral,0.8976511359214783
+comment,leagueoflegends,2021,gvx99nl,myw66q,I have a question. Can you answer it?,2021-04-26T20:44:28,LABEL_1,0.8365781307220459,neutral,0.6256162524223328
+comment,leagueoflegends,2021,gvx938p,myw66q,I wasnt convinced but once you mentioned how cool darius is i had to say that you make a very compelling argument,2021-04-26T20:42:42,LABEL_2,0.8087416291236877,joy,0.4036935269832611
+comment,leagueoflegends,2021,gvx83iy,myw66q,Melissa please come back I need you,2021-04-26T20:32:52,LABEL_2,0.5739721059799194,neutral,0.666037917137146
+comment,leagueoflegends,2021,gvxbu41,myw66q,"I wasn't with you at Point 1, but you really brought it back with Point 3 I think",2021-04-26T21:08:50,LABEL_2,0.8050432801246643,neutral,0.6724609136581421
+comment,leagueoflegends,2020,fuwpzlj,h9hxzf,Garen confirmed to be a dad champ,2020-06-15T23:17:20,LABEL_1,0.6600146293640137,neutral,0.6906302571296692
+comment,leagueoflegends,2020,fuwsmrm,h9hxzf,This man will be the 70yo challenger grandfather who will carry the little ones,2020-06-15T23:38:51,LABEL_1,0.7647753953933716,neutral,0.900280237197876
+comment,leagueoflegends,2020,fuwr7a8,h9hxzf,"Congrats!!
+
+> So what I do is play braindead champions in the toplane, disable chat, ward as much as possible, bash towers whenever I can, and let the young folk carry me.
+
+You'd be surprised what good advice this is even for many younger people. Letting people carry you and not standing in their way is an important skill everyone should know.",2020-06-15T23:27:18,LABEL_2,0.835955023765564,surprise,0.9246547222137451
+comment,leagueoflegends,2020,fuwnwi2,h9hxzf,"Congrats on hitting gold. And im sure you're old enough to know, but don't let them try and belittle your enjoyment of something, especially if they are the kind of person* who spends a lot of time on a TV
+
+Edit: Misspelled Person .-.",2020-06-15T23:00:07,LABEL_2,0.4374108612537384,neutral,0.6718012690544128
+comment,leagueoflegends,2020,fuwoq8y,h9hxzf,"old but gold 
+
+GJ!",2020-06-15T23:06:59,LABEL_1,0.6187967658042908,surprise,0.7167163491249084
+comment,leagueoflegends,2020,fuwogj5,h9hxzf,"Congrats on hitting gold!! Dont let toxicity ruin your excitment in this game :D
+
+Road to plat 2020 just begun!!!!",2020-06-15T23:04:45,LABEL_2,0.9539992809295654,disgust,0.48051077127456665
+comment,leagueoflegends,2020,fuwryqa,h9hxzf,"Congrats man. 
+
+I’m in my 30’s with wife and child and thought my dreams were behind me with twitch reflexes. You have inspired me good sir!",2020-06-15T23:33:29,LABEL_2,0.9615610837936401,neutral,0.3945550322532654
+comment,leagueoflegends,2020,fuwnnbf,h9hxzf,Congrats on hitting gold i cant even get out of iron lol,2020-06-15T22:57:57,LABEL_2,0.8996168971061707,neutral,0.5376033782958984
+comment,leagueoflegends,2020,fuwqpul,h9hxzf,"Hello, almost 43, as a fellow kid (39) I congratulate you on hitting gold",2020-06-15T23:23:16,LABEL_2,0.9640019536018372,joy,0.7408730983734131
+comment,leagueoflegends,2020,gdldymf,k10xzw,NA going to feel like an empty bedroom cuz your favorite brother went to college.,2020-11-26T05:23:44,LABEL_0,0.4802109897136688,sadness,0.9762875437736511
+comment,leagueoflegends,2020,gdld0wb,k10xzw,"Uzi Retiring
+
+Bjerg Retiring
+
+Perkz no longer playing for G2
+
+Rekkles no longer playing for Fnatic
+
+Now Doublelift Retiring
+
+Holy shit what is this year???",2020-11-26T05:15:39,LABEL_0,0.6907969117164612,surprise,0.9364455342292786
+comment,leagueoflegends,2020,gdlch6v,k10xzw,Doublelift and Bjergsen both gone in one off-season. End of an era jesus.,2020-11-26T05:10:55,LABEL_0,0.7007643580436707,sadness,0.7657607197761536
+comment,leagueoflegends,2020,gdlcjxj,k10xzw,Tfw it's not a Spica-esque twitlonger,2020-11-26T05:11:35,LABEL_1,0.716749370098114,disgust,0.5956794619560242
+comment,leagueoflegends,2020,gdlcyad,k10xzw,[Never forget.](https://www.youtube.com/watch?v=mFIJFlpMRm4),2020-11-26T05:15:01,LABEL_1,0.7258172631263733,neutral,0.8566731810569763
+comment,leagueoflegends,2020,gdldfp9,k10xzw,The end of an era.,2020-11-26T05:19:17,LABEL_1,0.5794276595115662,sadness,0.7779552340507507
+comment,leagueoflegends,2020,gdlci5v,k10xzw,"Jesus, this worlds really boomed the NA legends",2020-11-26T05:11:09,LABEL_1,0.5370763540267944,surprise,0.7576165795326233
+comment,leagueoflegends,2020,gdld9eb,k10xzw,"Doublelifts Trophy Case
+
+8x LCS Champion (2015 Summer, 2016 Summer, 2017 Summer, 2018 Spring, 2018 Summer, 2019 Spring, 2019 Summer, 2020 Summer)
+
+LCS Most Valuable Player (2018 Summer)
+
+LCS Finals MVP (2019 Spring)
+
+5x LCS All-Star (2013-2016, 2018)
+
+5x LCS All-Pro 1st-Team (2016 Summer, 2017 Summer, 2018 Summer, 2019 Spring, 2019 Summer)
+
+1st LCS Player to hit 1000 Kills
+
+Greatest North American AD to play the game.
+
+Goodbye Doublelift.",2020-11-26T05:17:47,LABEL_1,0.5165233612060547,neutral,0.6168954968452454
+comment,leagueoflegends,2020,gdlcmtt,k10xzw,This has to be the craziest offseason ever.,2020-11-26T05:12:16,LABEL_0,0.3395434319972992,joy,0.5744595527648926
+comment,leagueoflegends,2020,gdldpue,k10xzw,AnnualShallowBlackwidowspider,2020-11-26T05:21:39,LABEL_1,0.8870496153831482,neutral,0.39173421263694763
+comment,leagueoflegends,2020,fnehkwf,g18sl2,They let me get away with anus dominator lmao,2020-04-15T02:38:21,LABEL_1,0.6231257915496826,disgust,0.5624464154243469
+comment,leagueoflegends,2020,fnegvmt,g18sl2,"Few days ago I saw a player called ""CoronaVarus"".",2020-04-15T02:32:23,LABEL_1,0.8812972903251648,disgust,0.35389021039009094
+comment,leagueoflegends,2020,fne3mck,g18sl2,There are far more insensitive/inappropriate names in the player base as well. I'm sorry that this happened to you.,2020-04-15T00:41:04,LABEL_0,0.9573933482170105,sadness,0.8562406301498413
+comment,leagueoflegends,2020,fneekgz,g18sl2,"At least now, when you reached frontpage you have better chance to either keep your nick or make Riot force Coronas on other servers to change their nick as well. That's really fucked up situation. For me word ""Corona"" by itself has none negative connections, Riot is straight up fighting against nonexistent problems",2020-04-15T02:12:49,LABEL_0,0.6120776534080505,anger,0.6552311778068542
+comment,leagueoflegends,2020,fneka2e,g18sl2,played with a guy yesterday whose name was Boy molester like wtf riot you want this guy to change his name but that guy can keep that name here is his op.gg https://eune.op.gg/summoner/userName=Boy+Molester,2020-04-15T03:01:19,LABEL_0,0.7434269189834595,anger,0.91293865442276
+comment,leagueoflegends,2020,fnee0xf,g18sl2,Lmao this is such classic Riot it pains me. Might as well force Crown to change his name also,2020-04-15T02:08:06,LABEL_0,0.6690075397491455,sadness,0.8185857534408569
+comment,leagueoflegends,2020,fnepfym,g18sl2,Corona is not ok but [https://na.op.gg/summoner/userName=hangblacks](https://na.op.gg/summoner/userName=hangblacks) a ok,2020-04-15T03:45:10,LABEL_0,0.7270746827125549,neutral,0.8049144744873047
+comment,leagueoflegends,2020,fnehsum,g18sl2,"Yo reddit let's search more not white-listed names. I will start:
+
+&#x200B;
+
+ AdolfKnittler",2020-04-15T02:40:16,LABEL_1,0.7038176655769348,neutral,0.8795694708824158
+comment,leagueoflegends,2020,fnepb3y,g18sl2,"Meanwhile I got to play with this swell fellow 
+
+https://na.op.gg/summoner/userName=killmuslims666
+
+Lmao",2020-04-15T03:44:00,LABEL_1,0.5490108132362366,neutral,0.4267628788948059
+comment,leagueoflegends,2020,fne5j8h,g18sl2,"That's so fucking stupid. Why the fuck are they forcing this? “Corona” means “crown” in English, it is a common word in Spanish. Fuck Riot.",2020-04-15T00:57:10,LABEL_0,0.969761848449707,anger,0.8043957352638245
+comment,leagueoflegends,2021,hgd41it,q6oi8k,"Very cool, now the Jungler gets flamed in team chat and not in all chat",2021-10-12T23:24:47,LABEL_2,0.56511390209198,neutral,0.47910076379776
+comment,leagueoflegends,2021,hgd5aw4,q6oi8k,The death of gg ez,2021-10-12T23:33:11,LABEL_0,0.5783451795578003,sadness,0.9685238599777222
+comment,leagueoflegends,2021,hgd6ssw,q6oi8k,How does riot put out a fire? They call an ambulance...,2021-10-12T23:43:09,LABEL_0,0.55917888879776,anger,0.6533311605453491
+comment,leagueoflegends,2021,hgd48rf,q6oi8k,April fools?...,2021-10-12T23:26:08,LABEL_1,0.6907508373260498,neutral,0.5397292971611023
+comment,leagueoflegends,2021,hgd49p1,q6oi8k,End of an era for league.,2021-10-12T23:26:18,LABEL_1,0.6370660066604614,sadness,0.5153858661651611
+comment,leagueoflegends,2021,hgd3ken,q6oi8k,Delete ally chat and keep enemy chat.,2021-10-12T23:21:38,LABEL_1,0.5383569002151489,neutral,0.5180507302284241
+comment,leagueoflegends,2021,hgd3v54,q6oi8k,Some of my most wholesome moments in league came from my enemy chats sadge,2021-10-12T23:23:36,LABEL_2,0.9032244682312012,joy,0.7954419255256653
+comment,leagueoflegends,2020,fsxaazf,gwujw6,You got skills man,2020-06-05T09:12:19,LABEL_2,0.6089054346084595,neutral,0.7744739651679993
+comment,leagueoflegends,2020,fsxcp1h,gwujw6,"Guys, I think I finally figured out how to get ripped.",2020-06-05T09:35:11,LABEL_2,0.5901005864143372,neutral,0.5935541391372681
+comment,leagueoflegends,2020,fsxeqwz,gwujw6,Now do my tinder pics,2020-06-05T09:54:46,LABEL_1,0.8388901352882385,neutral,0.8727861642837524
+comment,leagueoflegends,2020,fsxf756,gwujw6,Jhin next maybe? Could have fun with the effects,2020-06-05T09:59:04,LABEL_2,0.8989955186843872,neutral,0.6880231499671936
+comment,leagueoflegends,2020,fsxzzy4,gwujw6,"Guys, Thank you so much for the support! I'm about to quit my job, so it would be very nice if I could get 1000 subs on my youtube channel so I can monetize the videos that I'm gonna start to post, if you like this kind of stuff, [https://www.youtube.com/channel/UCffJ1FVezQOjDWSlJSLZRUw](https://www.youtube.com/channel/UCffJ1FVezQOjDWSlJSLZRUw)  here is the link If you want to follow :)",2020-06-05T13:38:35,LABEL_2,0.9697784781455994,joy,0.49132052063941956
+comment,leagueoflegends,2020,fsxmco7,gwujw6,"I feel like going with the edgy theme of the champs and your look, Kayn is on of the best ones for you to try next",2020-06-05T11:09:15,LABEL_2,0.9613130688667297,joy,0.7925199270248413
+comment,leagueoflegends,2020,fsxcc7t,gwujw6,"You can’t be serious, this isn’t the real account",2020-06-05T09:31:46,LABEL_0,0.7076315879821777,anger,0.32306107878685
+comment,leagueoflegends,2020,fsxiddn,gwujw6,Evelynn please.,2020-06-05T10:29:56,LABEL_1,0.7705148458480835,neutral,0.869793713092804
+comment,leagueoflegends,2020,gbi49xa,jpytwn,"When I saw that face I was prepared
+
+&#x200B;
+
+And I still got surprised by the quality of work, well done.",2020-11-08T06:06:20,LABEL_2,0.8490859866142273,surprise,0.9812493920326233
+comment,leagueoflegends,2020,gbi0ztd,jpytwn,Holy shit this is so good,2020-11-08T05:48:42,LABEL_2,0.9860084652900696,surprise,0.8074488043785095
+comment,leagueoflegends,2020,gbhzord,jpytwn,or at least I tried,2020-11-08T05:41:27,LABEL_1,0.6156101226806641,neutral,0.9537699818611145
+comment,leagueoflegends,2020,gbigmk0,jpytwn,What tf have I just seen. This is amazing. How many hours did it take to make?,2020-11-08T07:15:31,LABEL_2,0.8969012498855591,surprise,0.8922275304794312
+comment,leagueoflegends,2020,gbigm32,jpytwn,Yuumi next...,2020-11-08T07:15:26,LABEL_1,0.8477565050125122,neutral,0.8652724027633667
+comment,leagueoflegends,2020,gbi936z,jpytwn,"Link to his Yone cosplay on Youtube with some interesting behind the scene stuff and funny commentary
+
+https://www.youtube.com/watch?v=efWZvqiZKvA",2020-11-08T06:33:47,LABEL_2,0.8614926338195801,joy,0.7777320742607117
+comment,leagueoflegends,2020,gbihupo,jpytwn,What the actual fuck,2020-11-08T07:22:14,LABEL_0,0.9468069076538086,anger,0.8503341674804688
+comment,leagueoflegends,2020,gbiflv0,jpytwn,Gaddaamnnn! This is far better than I thought it'd be haha,2020-11-08T07:09:39,LABEL_2,0.9868109822273254,surprise,0.7476881742477417
+comment,leagueoflegends,2020,gbig6g0,jpytwn,Yo I wasn't prepared for how dope this is,2020-11-08T07:12:50,LABEL_2,0.8454012274742126,surprise,0.5812274217605591
+comment,leagueoflegends,2020,gbijknt,jpytwn,Thats so fucking cool wtf,2020-11-08T07:31:53,LABEL_2,0.9216226935386658,anger,0.4688684940338135
+comment,leagueoflegends,2020,gaijs72,jke0ds,"Read the title and was like ""...what?""
+
+And then I watched the video and was like ""...what""",2020-10-30T02:03:38,LABEL_0,0.49960026144981384,surprise,0.9029926061630249
+comment,leagueoflegends,2020,gaii29h,jke0ds,"Wow, i'm seriously impressed by the unicycling without visual, while your arms have to move to the gameplay.",2020-10-30T01:52:23,LABEL_2,0.9591880440711975,surprise,0.9759117960929871
+comment,leagueoflegends,2020,gaibzok,jke0ds,"May not be challenger in League, but LCS in beatsaber for sure",2020-10-30T01:11:58,LABEL_1,0.8626617193222046,neutral,0.8879327774047852
+comment,leagueoflegends,2020,gaimuz6,jke0ds,"WHAT THE FUCK?  
+Thats some fucking raw talent?  
+For how long have you been riding the unicycle?",2020-10-30T02:24:31,LABEL_0,0.956031322479248,anger,0.5024467706680298
+comment,leagueoflegends,2020,gaimhkh,jke0ds,'do not try this at home' yeah that's not gonna be a problem chief...,2020-10-30T02:22:01,LABEL_1,0.622918426990509,neutral,0.35113513469696045
+comment,leagueoflegends,2020,gaicpnd,jke0ds,"What the heck, i can't even pass it on expert+ normally. Impressive AF",2020-10-30T01:17:01,LABEL_0,0.43309882283210754,surprise,0.9256028532981873
+comment,leagueoflegends,2020,gaibzre,jke0ds,How do u maintain ur balance on that unicycle that's insane. And very cool cosplay,2020-10-30T01:11:59,LABEL_2,0.8092557787895203,neutral,0.5406585931777954
+comment,leagueoflegends,2020,gaicxet,jke0ds,This is the content I subscribe for,2020-10-30T01:18:33,LABEL_2,0.7915115356445312,neutral,0.9694650173187256
+comment,leagueoflegends,2020,gaijrai,jke0ds,That's a very random combination of talents.,2020-10-30T02:03:27,LABEL_1,0.6121575832366943,neutral,0.5744516849517822
+comment,leagueoflegends,2020,gh1v4uq,kkcfm9,"When this loading screen was a thing, I didn't have a good enough computer to even run the animation... :(",2020-12-26T13:45:44,LABEL_0,0.8962411880493164,sadness,0.39828693866729736
+comment,leagueoflegends,2020,gh1rsko,kkcfm9,Is that her in the background? Lol,2020-12-26T12:59:32,LABEL_1,0.6948462128639221,neutral,0.7545357942581177
+comment,leagueoflegends,2020,gh1ytrl,kkcfm9,"""Some years ago""
+
+*Sylas and Kled, irelia+warwick rework*
+
+I feel so old...",2020-12-26T14:43:10,LABEL_0,0.5662856101989746,sadness,0.7413829565048218
+comment,leagueoflegends,2020,gh1txsh,kkcfm9,"HOW WILL RIOT GAMES KNOW THAT YOU WANT TO PLAY LEAGUE OF LEGENDS IF YOU DON'T CLICK A GIANT ""PLAY"" BUTTON IN THE CLIENT??!?",2020-12-26T13:28:45,LABEL_0,0.6582033634185791,neutral,0.6016774773597717
+comment,leagueoflegends,2020,gh1pk3r,kkcfm9,Damn that’s sick af,2020-12-26T12:30:12,LABEL_0,0.8423236012458801,disgust,0.8586189150810242
+comment,leagueoflegends,2020,gh1ty0o,kkcfm9,"fuckin zoomers being nostalgic for 2019 league  
+
+boomers rise up",2020-12-26T13:28:51,LABEL_0,0.8707795739173889,sadness,0.27037927508354187
+comment,leagueoflegends,2020,gh1ue4x,kkcfm9,"Man, I miss old login screen animations, like the new one is alright but it got me so hyped for a new champ/event seeing their login screen.",2020-12-26T13:35:08,LABEL_2,0.8475519418716431,sadness,0.38844361901283264
+comment,leagueoflegends,2020,gh201zx,kkcfm9,">years ago
+
+wait wasnt sylas released last year? am i old? is time moving too fast now",2020-12-26T15:04:20,LABEL_1,0.4874696135520935,surprise,0.7679607272148132
+comment,leagueoflegends,2020,gh1y6p2,kkcfm9,"You can open this by opening League client (not Riot Client). Log in to league like normal through the Riot Client, then pin the application that’s open when you’re in League client (the one where you make a lobby and queue). Close it, and then directly open that application. Then experience the old login screen again for yourself!",2020-12-26T14:32:36,LABEL_1,0.7359844446182251,neutral,0.9139055013656616
+comment,leagueoflegends,2020,gh1pmdu,kkcfm9,This got me hyped for the next cinematic.,2020-12-26T12:31:01,LABEL_2,0.9822953939437866,joy,0.8863421678543091
+comment,leagueoflegends,2022,i2ynzcg,ttml81,"Did you know that despite cleaning up hundreds of posts a day, reddit moderators are only paid slightly less than teachers in the US? In order to sustain our hard work protecting reddit from free speech, we're launching our [own line of merch](https://www.reddit.com/r/leagueoflegends/comments/ttbwl2/rleagueoflegends_rule_changes_and_reddit/). Get them now while they're hot!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/leagueoflegends) if you have any questions or concerns.*",2022-04-01T17:26:10,LABEL_1,0.552841305732727,neutral,0.8759236931800842
+comment,leagueoflegends,2022,i2z6vke,ttml81,"THIS IS TOTALLY REAL, I TRUST YOU RANDOM PERSON ON THIS DAY OF LIES.  TO THE TOP WE GO.",2022-04-01T20:51:32,LABEL_0,0.501891016960144,neutral,0.7764912247657776
+comment,leagueoflegends,2022,i2ypw1o,ttml81,A NEW HOPE!,2022-04-01T17:52:43,LABEL_2,0.8629751801490784,neutral,0.47543826699256897
+comment,leagueoflegends,2022,i2yqft6,ttml81,Even if there is only a 0.0000001% Chance of this being not an April fools joke we have to Take this chance,2022-04-01T18:00:17,LABEL_1,0.6775785684585571,neutral,0.8907440304756165
+comment,leagueoflegends,2022,i30hvgv,ttml81,![gif](emote|free_emotes_pack|grimacing),2022-04-02T02:14:08,LABEL_1,0.827340841293335,joy,0.7378308176994324
+comment,leagueoflegends,2022,i2yw4l3,ttml81,i didnt fuck my cat. i didnt cum on my cat. i didnt put my dick anywhere near my cat. Ive never done anything weird with my cats. I promised myself i wasnt going to make apology videos after last years thing so im just trying to be as short and honest with this as possible (1/?),2022-04-01T19:10:33,LABEL_1,0.48069503903388977,neutral,0.3717532753944397
+comment,leagueoflegends,2022,i2z71y5,ttml81,BOT UPVOTE BOT UPVOTE BOT UPVOTE,2022-04-01T20:53:01,LABEL_1,0.6424511075019836,neutral,0.9314984083175659
+comment,leagueoflegends,2022,i2z8ee9,ttml81,Fine with me as long as they move my 120k mastery points and blue flag from yuumi to yasuo. That way I can spam my mastery emote while going 0 and 17 in the first 12 minutes.,2022-04-01T21:03:51,LABEL_1,0.6383915543556213,anger,0.6806341409683228
+comment,leagueoflegends,2022,i2z9afs,ttml81,Let me know when they make a deal that removes teemo or Yi,2022-04-01T21:10:54,LABEL_1,0.920865535736084,neutral,0.9615799188613892
+comment,leagueoflegends,2020,fovft6i,g9sj85,Little feather knight stays by his masters side throughout all good and bad,2020-04-29T03:03:09,LABEL_2,0.529000461101532,neutral,0.9224594235420227
+comment,leagueoflegends,2020,fovef2v,g9sj85,"Damn that's hot, Zyra x Kha'zix *art* when",2020-04-29T02:52:11,LABEL_2,0.8920494318008423,disgust,0.31699588894844055
+comment,leagueoflegends,2020,fovheeb,g9sj85,"A kha'zix has succumbed into masochism in Howling Abyss
+
+Start the helicopter. Rescue him before it's too late!",2020-04-29T03:15:54,LABEL_0,0.7086302042007446,fear,0.5180933475494385
+comment,leagueoflegends,2020,fovh7eg,g9sj85,"your mistress needs an assist, you filthy bug",2020-04-29T03:14:22,LABEL_0,0.8852456212043762,disgust,0.9061673879623413
+comment,leagueoflegends,2020,fovlbim,g9sj85,The emote on top of it lmao,2020-04-29T03:47:33,LABEL_1,0.6555987596511841,neutral,0.9434874057769775
+comment,leagueoflegends,2020,foviq6n,g9sj85,Same energy as tahm Kench getting married to gromp,2020-04-29T03:26:38,LABEL_1,0.8379600048065186,neutral,0.6171788573265076
+comment,leagueoflegends,2020,fovl9wl,g9sj85,That perfect emote 🔥,2020-04-29T03:47:12,LABEL_2,0.9066910147666931,neutral,0.7719495296478271
+comment,leagueoflegends,2020,fovoo5i,g9sj85,Will this be the new Ezreal x Shyvana's leg?,2020-04-29T04:14:38,LABEL_1,0.9546853303909302,neutral,0.7945759892463684
+comment,leagueoflegends,2021,gwsarb0,n3wyoc,Every single cinematic since the beginning this was all people asked for and now IT'S FINALLY HAPPENING!!,2021-05-03T22:20:54,LABEL_2,0.9351173043251038,neutral,0.3690371513366699
+comment,leagueoflegends,2021,gwsd9fq,n3wyoc,The final silhouette could be the new ADC from Zaun that was teased on the latest Champion road map. Pretty cool,2021-05-03T22:40:03,LABEL_2,0.9630060791969299,neutral,0.4889489710330963
+comment,leagueoflegends,2021,gwsdla4,n3wyoc,"Really hoping to see Camille, Urgot and Viktor in this series",2021-05-03T22:42:34,LABEL_2,0.9152530431747437,joy,0.6067211627960205
+comment,leagueoflegends,2021,gws9tg6,n3wyoc,"So from the trailer we see Vi, Jinx and Victor? This looks amazing.",2021-05-03T22:13:44,LABEL_2,0.9827495813369751,surprise,0.6867247223854065
+comment,leagueoflegends,2021,gwsdl11,n3wyoc,"after that story of Von Yipp, i really hope he appears as a cameo (human or cat idc)",2021-05-03T22:42:31,LABEL_2,0.6988590955734253,joy,0.6185168623924255
+comment,leagueoflegends,2021,gwsarzf,n3wyoc,"After every single cinematic people begged for Riot to make a movie or a series and now finally we're getting it.
+
+I can't believe it.",2021-05-03T22:21:03,LABEL_1,0.4334905743598938,surprise,0.9564662575721741
+comment,leagueoflegends,2021,gwsbypi,n3wyoc,Sweet! Didn't expect it would come to netflix.,2021-05-03T22:30:08,LABEL_2,0.7589606046676636,surprise,0.9306999444961548
+comment,leagueoflegends,2021,gwsb7lb,n3wyoc,fuck yeah zaun,2021-05-03T22:24:24,LABEL_0,0.8447695970535278,anger,0.6741282939910889
+comment,leagueoflegends,2021,gwse66j,n3wyoc,was that a fucking green goblin at 0:03?,2021-05-03T22:46:56,LABEL_0,0.8609297275543213,disgust,0.4487060606479645
+comment,leagueoflegends,2021,gwse11i,n3wyoc,Anyone know that song? God I hope they release it if it's an original song before fall because it sounds sick,2021-05-03T22:45:50,LABEL_0,0.7342301607131958,disgust,0.6984124779701233
+comment,leagueoflegends,2020,g27idb6,id9l48,Bro that's the dumbest fight I've seen in a while.,2020-08-20T20:57:08,LABEL_0,0.9567682147026062,disgust,0.8782526254653931
+comment,leagueoflegends,2020,g27naw3,id9l48,"lol those dudes arguing about that this is staged, well no shit there isnt anyone else on the map",2020-08-20T21:46:40,LABEL_0,0.6124646663665771,neutral,0.4224444627761841
+comment,leagueoflegends,2020,g27o0t9,id9l48,People here talking about this being staged like they never had a 1v1 with friends before.,2020-08-20T21:53:02,LABEL_0,0.509753406047821,disgust,0.7266595363616943
+comment,leagueoflegends,2020,g2803ep,id9l48,"hey, i;m the red malph you see in this clip! just wanted to let you guys know it wasnt staged xD we always play custom 1 v 1's, sometimes the same champ or sometimes not. Generally goes on for around 30 mins or more where we fiddle around with builds and stuff (seemingly more fun than normal league). Kinda crazy how everyones diving into the details of the fight cause we just slapping rocky foreheads at this point xD. However i did wanna go to the wolves cause we didnt want super minions getting in the way. We always let each other farm up and have a fair fight. Imma post the match history of this game here and the deets just so yall know its real. (Had to delete my previous comments cause my link was screwed)
+
+ [https://imgur.com/a/wCKEx93](https://imgur.com/a/wCKEx93)",2020-08-20T23:31:59,LABEL_1,0.536838710308075,neutral,0.5088135004043579
+comment,leagueoflegends,2020,g27j2je,id9l48,Rock solid,2020-08-20T21:04:41,LABEL_2,0.5740335583686829,neutral,0.9367690682411194
+comment,leagueoflegends,2020,g27v50p,id9l48,"Red side Malph trolled that fight by running away from his own super minion wave, he let GettSchifty smack him thrice on the rump completely unchallenged",2020-08-20T22:53:15,LABEL_1,0.5576707124710083,neutral,0.4867878556251526
+comment,leagueoflegends,2020,g27pm4h,id9l48,Bruh they are 42 mins in the game. Either they suck at staging fights or they were playing a friendly 1v1,2020-08-20T22:07:12,LABEL_0,0.8886194825172424,disgust,0.7199888825416565
+comment,leagueoflegends,2021,gt0qnkp,mhroh7,"Lmfao, and screaming on discord ""YOU DYING?, YOU DYING?""",2021-04-01T19:28:13,LABEL_0,0.722355842590332,anger,0.3683679401874542
+comment,leagueoflegends,2021,gt0zpb6,mhroh7,The classic is watching Morde ult someone with mobility in the jungle. One of the dots goes over the wall while the other stands there sadly.,2021-04-01T21:09:20,LABEL_1,0.5811423063278198,sadness,0.9438053369522095
+comment,leagueoflegends,2021,gt10lth,mhroh7,"Me as an Anivia player : *Walls*
+
+
+Me : HA! Bet you can't touch me now
+
+Also Mord: *Flashes in*
+
+*AAAAAAAAAA AAAAAAAAAA*",2021-04-01T21:17:59,LABEL_1,0.5511773824691772,surprise,0.3931247293949127
+comment,leagueoflegends,2021,gt115jx,mhroh7,I love how sometimes the teamfight just STOPS so we can all back up and watch the balls to be ready to pounce when it's over.,2021-04-01T21:23:09,LABEL_2,0.8838872313499451,neutral,0.7644533514976501
+comment,leagueoflegends,2021,gt0n7fj,mhroh7,And just waiting for it to end 😂😂😂,2021-04-01T18:49:50,LABEL_1,0.5549712777137756,neutral,0.928402841091156
+comment,leagueoflegends,2021,gt0opji,mhroh7,Buys qss but never uses and dies in the ult lol,2021-04-01T19:07:08,LABEL_1,0.5649207234382629,sadness,0.7321920990943909
+comment,leagueoflegends,2021,gt0yyul,mhroh7,me with a cc ready as soon as the morde reappears,2021-04-01T21:02:07,LABEL_1,0.8362095952033997,neutral,0.5842469334602356
+comment,leagueoflegends,2021,gt1041c,mhroh7,me with sylas ready to give him a taste of his own medicine,2021-04-01T21:13:17,LABEL_1,0.8667001724243164,neutral,0.8858393430709839
+comment,leagueoflegends,2021,gt129il,mhroh7,Losing in front the friends in Morde ult feels worse than losing in the Gulag in COD,2021-04-01T21:33:16,LABEL_0,0.9284015893936157,sadness,0.6833415031433105
+comment,leagueoflegends,2020,g71rwlf,j1x43u,"Are we forgetting that the account is also botted? He bought the account, intend and afk for 16 games... Yup.",2020-09-29T19:26:13,LABEL_1,0.5765838027000427,neutral,0.7477267384529114
+comment,leagueoflegends,2020,g71un9d,j1x43u,"The „iron-to challenger, challenger in bronze” series are so cringe at this point. We’ve all seen this shit milion times before and not only isn’t it entertaining anymore, it destroys someone’s game experience at the same time.",2020-09-29T20:05:36,LABEL_0,0.9415783286094666,fear,0.6559553742408752
+comment,leagueoflegends,2020,g71qs4s,j1x43u,Did you expect anything else from someone like him clickbaiting the living shit out of his youtube videos? This guy would probably even int 120 games just to get content to make money. I mean he is the king of scummy clickbaits why would he not.,2020-09-29T19:07:51,LABEL_0,0.852508008480072,surprise,0.46646934747695923
+comment,leagueoflegends,2020,g71szso,j1x43u,"Can't Riot just ban him, the evidence is there? 
+
+I don't get why they're giving their tacit support to this asshole by allowing him to play.",2020-09-29T19:42:42,LABEL_0,0.9565007090568542,anger,0.4763556122779846
+comment,leagueoflegends,2020,g71sws9,j1x43u,"Best part is that he wasn't even steamrolling those games.
+
+He's definitively not a *Challenger* Akali main, maybe d3-2.",2020-09-29T19:41:29,LABEL_1,0.5146738886833191,neutral,0.9457200765609741
+comment,leagueoflegends,2020,g728t3h,j1x43u,"He has just [pinned a comment](https://imgur.com/a/T2iy01l) stating he bought the account, which of course makes it all okay.  /s",2020-09-29T22:19:45,LABEL_2,0.678086519241333,neutral,0.9103778004646301
+comment,leagueoflegends,2020,g71uixl,j1x43u,"I often fall asleep watching people like voyboy or shiphtur and leave auto play on to give them and maybe a few other league content creators a boost on viewership, but whenever I end up on this guys video I have to wake up and actually click out because of how garbage content and just how annoying and droning he gets. I tried to block him on Youtube but nothing seems to work. Maybe there will be an plugin for chrome or something to stop his content showing up for me",2020-09-29T20:03:59,LABEL_0,0.9247123003005981,anger,0.4462568163871765
+comment,leagueoflegends,2020,g71v4ps,j1x43u,Also earlier today he made some shitty apology vid and he whines about how reddit's on his ass lol,2020-09-29T20:12:02,LABEL_0,0.9490472674369812,disgust,0.40427783131599426
+comment,leagueoflegends,2020,g71sz6u,j1x43u,He is doing it because it is the only way he can make money off this game. He is D4 player at best. (Not that it justifies his trolling),2020-09-29T19:42:27,LABEL_1,0.5533136129379272,neutral,0.5075331330299377
+comment,leagueoflegends,2020,g71uv1a,j1x43u,Fuck these streamers and fuck Riot for turning a blind eye to this behavior despite community call outs for so long.,2020-09-29T20:08:27,LABEL_0,0.9636876583099365,anger,0.8598035573959351
+comment,leagueoflegends,2022,iffvjys,vutr24,This is actually insane wtf,2022-07-09T13:21:02,LABEL_0,0.9150292873382568,disgust,0.6304405331611633
+comment,leagueoflegends,2022,iffvdvr,vutr24,"perfect ADC kiting: i sleep
+
+league shop menuing: REAL SHIT",2022-07-09T13:19:13,LABEL_0,0.6023809909820557,surprise,0.8456149101257324
+comment,leagueoflegends,2022,iffx2de,vutr24,Wtf this is some main character plot armor stuff,2022-07-09T13:38:03,LABEL_0,0.5099139213562012,disgust,0.47892463207244873
+comment,leagueoflegends,2022,iffygjb,vutr24,I once sat in the fountain for over 30 seconds with the shop search up trying to remember ‘cloth armor’. Well played.,2022-07-09T13:53:50,LABEL_1,0.5181593298912048,neutral,0.9074620008468628
+comment,leagueoflegends,2022,iffvh60,vutr24,It literally looks like you've been preparing your whole life for this moment XD. WP!,2022-07-09T13:20:11,LABEL_2,0.7851596474647522,surprise,0.4871896505355835
+comment,leagueoflegends,2022,iffvz17,vutr24,League x StarCraft,2022-07-09T13:25:43,LABEL_1,0.6756526827812195,neutral,0.8764838576316833
+comment,leagueoflegends,2022,iffuy63,vutr24,You should consider a career as a Starcraft pro.,2022-07-09T13:14:23,LABEL_1,0.8344151973724365,neutral,0.6242105960845947
+comment,leagueoflegends,2022,iffwaf1,vutr24,Look at the hourglass. Look at the moves. FAKER WHAT WAS THAT?!,2022-07-09T13:29:21,LABEL_1,0.5088655948638916,surprise,0.44825077056884766
+comment,leagueoflegends,2022,iffwete,vutr24,"""I mean, it's immortality. What could it cost, ten thousand gold?""",2022-07-09T13:30:45,LABEL_1,0.6842550039291382,surprise,0.5473044514656067
+comment,leagueoflegends,2020,fdmzx3f,em8meb,Ezreal and Kaisa struggling to fight voidlings while Malzahar is afk looks about right,2020-01-09T20:27:54,LABEL_1,0.7328906655311584,sadness,0.41442328691482544
+comment,leagueoflegends,2020,fdn56rl,em8meb,"Let's all take a moment to appreciate the random Demacian soldier that fucking spear tackeled a Freljordian mage so Lux could get her staff back. 
+
+Absolute legend.",2020-01-09T21:46:37,LABEL_1,0.4061425030231476,neutral,0.4744192957878113
+comment,leagueoflegends,2020,fdn1ees,em8meb,"Bruh, Imagine what a horrifying turn that video would take if Urgot didn't hit VIs Gauntlet with his ult but her body instead .",2020-01-09T20:51:58,LABEL_0,0.7686412930488586,fear,0.9674372673034668
+comment,leagueoflegends,2020,fdn28at,em8meb,"Did Riot forget and named 2 songs Warri...
+
+**AS A CHILD**",2020-01-09T21:04:42,LABEL_1,0.5726755261421204,neutral,0.8763676881790161
+comment,leagueoflegends,2020,fdmz0vd,em8meb,"Still not as good as Warriors
+
+Wait-",2020-01-09T20:12:32,LABEL_0,0.7739328742027283,neutral,0.6924964785575867
+comment,leagueoflegends,2020,fdnjc99,em8meb,"Made some wallpapers from the video, all in 4k, some may be a bit blurry due to movement
+
+These 2 are my favourites: https://i.imgur.com/Lk2DdNt.jpg & https://i.imgur.com/BNMTxJA.jpg  
+
+**Lux:**  
+Happy to see garen: https://i.imgur.com/l744GeT.jpg  
+Angry: https://i.imgur.com/lA0nlhO.jpg
+
+**Urgot:**  
+His people: https://i.imgur.com/AAdGhbL.jpg  
+The chonk: https://i.imgur.com/3IopS7o.jpg  
+Vs Vi: https://i.imgur.com/Lk2DdNt.jpg  
+Don't wanna be him: https://i.imgur.com/HIKXblP.jpg
+
+**Ezreal:**  
+Altar: https://i.imgur.com/IInm0rz.jpg  
+Regrets: https://i.imgur.com/kl3ZgT1.jpg  
+No-Regrets-Angry: https://i.imgur.com/78i52bl.jpg  
+No-Regrets-Cheeky: https://i.imgur.com/bWRjTI1.jpg  
+Feat Kaisa Flashy: https://i.imgur.com/aeswyqv.jpg  
+Feat Kaisa Not-Flashy: https://i.imgur.com/hNuryXV.jpg
+
+**Kai'sa:**  
+Super Hero Landing: https://i.imgur.com/BnaoAxB.jpg  
+Reveal 1: https://i.imgur.com/WuqpvaP.jpg  
+Reveal 2: https://i.imgur.com/t9X4k4v.jpg  
+Reveal 3: https://i.imgur.com/5uIdiUn.jpg  
+Q-Skill: https://i.imgur.com/sa39Y8R.jpg  
+I got help: https://i.imgur.com/BNMTxJA.jpg  
+Feat Ez Flashy: https://i.imgur.com/aeswyqv.jpg  
+Feat Ez Not-Flashy: https://i.imgur.com/hNuryXV.jpg
+
+**Sylas:**  
+Reveal: https://i.imgur.com/vbPXwCM.jpg  
+The Army: https://i.imgur.com/heIyxHS.jpg  
+Vs Garen: https://i.imgur.com/ixMCkxY.jpg  
+Sword: https://i.imgur.com/BAQ8NoI.jpg  
+Sword2: https://i.imgur.com/ztKpW7A.jpg  
+Defeat: https://i.imgur.com/chxlWeO.jpg  
+
+**Vi & Cait:**  
+Reveal Cait: https://i.imgur.com/xpWTYtH.jpg  
+Reveal Vi: https://i.imgur.com/eeHGZ4t.jpg  
+Without gloves: https://i.imgur.com/Lk2DdNt.jpg  
+Knockout: https://i.imgur.com/HIKXblP.jpg",2020-01-10T00:23:37,LABEL_1,0.538272500038147,anger,0.9854260683059692
+comment,leagueoflegends,2020,fdmz8bt,em8meb,The Galio entrance after magic was cast is NUT material,2020-01-09T20:16:16,LABEL_0,0.48791101574897766,neutral,0.8792681694030762
+comment,leagueoflegends,2020,fdn4425,em8meb,"[Don't know if anyone else noticed it, but the Caitlyn + Vi scene happens in the same place of their (+ Jinx's) splash arts. Look at the big white circle window-like thing.](https://i.imgur.com/usefkdB.png)",2020-01-09T21:31:57,LABEL_1,0.857452929019928,neutral,0.6790655851364136
+comment,leagueoflegends,2020,fdmzjrj,em8meb,Urgot went down like a bitch wtf,2020-01-09T20:21:40,LABEL_0,0.9675651788711548,anger,0.9153621792793274
+comment,leagueoflegends,2020,fdmywjy,em8meb,it was nice finally seeing my boy in the flesh but damn they did him dirty with the 2v1,2020-01-09T20:10:22,LABEL_0,0.3699013590812683,disgust,0.6658320426940918
+comment,leagueoflegends,2020,g9x8rf0,jhbdsj,The zilean has been put to rest,2020-10-25T00:05:16,LABEL_1,0.568795382976532,neutral,0.9097590446472168
+comment,leagueoflegends,2020,g9x9qmi,jhbdsj,Shit now its Bjergsen and 5 wards,2020-10-25T00:13:41,LABEL_0,0.6005315780639648,surprise,0.5937827825546265
+comment,leagueoflegends,2020,g9x8ho6,jhbdsj,"Oh shit, 2020 FROM THE TOP ROPE",2020-10-25T00:02:59,LABEL_0,0.6258789300918579,surprise,0.7031498551368713
+comment,leagueoflegends,2020,g9x8jmb,jhbdsj,"holy shit, Bjerg retired before DL??? I would have thought DL retires first, especially after this year.",2020-10-25T00:03:27,LABEL_0,0.601528525352478,surprise,0.9443515539169312
+comment,leagueoflegends,2020,g9x8inh,jhbdsj,WTF Bjerg is head coach now T_T,2020-10-25T00:03:14,LABEL_0,0.4953097105026245,anger,0.5887472033500671
+comment,leagueoflegends,2020,g9x8m8c,jhbdsj,"End of an era man. I remember watching the TSM Bjerg  announcement video and thinking ""who is this"" - without any clue who he'd become.
+
+Wish the best for him and the team moving forward!",2020-10-25T00:04:04,LABEL_2,0.499718576669693,surprise,0.43458741903305054
+comment,leagueoflegends,2020,g9x8gds,jhbdsj,"Holy shit, was not expecting that. Stellar domestic career, what a great player.",2020-10-25T00:02:40,LABEL_2,0.8011096119880676,surprise,0.9638615846633911
+comment,leagueoflegends,2020,g9y5nhs,jhbdsj,"""God I hope for the love of God TSM finds a better coach this off season."" **Monkey paw curls**",2020-10-25T04:40:15,LABEL_2,0.6053961515426636,neutral,0.7067703008651733
+comment,leagueoflegends,2020,g9x9424,jhbdsj,"Leaves a massive hole to fill for TSM, wonder who will be his replacement. 
+
+Easily going to go down as one of the LCS all time greats.",2020-10-25T00:08:17,LABEL_1,0.5678904056549072,surprise,0.7629016041755676
+comment,leagueoflegends,2020,g9x8klf,jhbdsj,"Wtf ?
+
+我很伤心, best of luck Bjergking",2020-10-25T00:03:39,LABEL_2,0.5350303053855896,anger,0.5827407836914062
+comment,leagueoflegends,2021,gt0w9tl,mhsvmy,The croc or alligator is cute though ngl,2021-04-01T20:34:23,LABEL_2,0.9368607401847839,joy,0.8610195517539978
+comment,leagueoflegends,2021,gt0ohge,mhsvmy,When you’re the only champ without a skin,2021-04-01T19:04:33,LABEL_1,0.7605489492416382,neutral,0.6586178541183472
+comment,leagueoflegends,2021,gt0yacn,mhsvmy,Damn you can see how old this memes is from the old masteries. On a related note why does Janna have fervor of battle?,2021-04-01T20:55:22,LABEL_0,0.7998082637786865,disgust,0.39037248492240906
+comment,leagueoflegends,2021,gt0x1x2,mhsvmy,Damn bro the old ranked borders,2021-04-01T20:42:37,LABEL_0,0.6642463803291321,anger,0.3684272766113281
+comment,leagueoflegends,2021,gt1dapl,mhsvmy,Princess Tutu memes? Now that's an anime I haven't seen in a while.,2021-04-01T23:04:08,LABEL_1,0.438810795545578,surprise,0.8064066171646118
+comment,leagueoflegends,2021,gt0xuke,mhsvmy,“Gator don’t play no shit. Gator never been about playing no shit. Gators bitches better be using jimmies!”,2021-04-01T20:50:53,LABEL_0,0.8580265641212463,anger,0.6043611764907837
+comment,leagueoflegends,2021,gt1l6gf,mhsvmy,"Princess Tutu, such underrated anime.",2021-04-02T00:03:27,LABEL_1,0.446720689535141,neutral,0.3517870306968689
+comment,leagueoflegends,2021,gt0rbt2,mhsvmy,Renekton and his bitches.,2021-04-01T19:35:28,LABEL_0,0.759837806224823,disgust,0.7083876729011536
+comment,leagueoflegends,2021,gt1fkqz,mhsvmy,"getting some Tower of God vibes
+
+Renekton Wraithraiser and the gang",2021-04-01T23:21:26,LABEL_1,0.666627049446106,joy,0.7014100551605225
+comment,leagueoflegends,2021,gt1dua0,mhsvmy,I would simp for the crocodile only,2021-04-01T23:08:14,LABEL_1,0.6682323813438416,neutral,0.8609002828598022
+comment,leagueoflegends,2021,god26d9,lpsbhk,"I forgot I've had League set to color blind mode for years until I saw this video. Always liked the color scheme of it better. There should be more support definitely, especislly because there's different types of colorblind",2021-02-23T01:44:39,LABEL_2,0.7704821825027466,surprise,0.574394702911377
+comment,leagueoflegends,2021,gocy902,lpsbhk,Is there a filter that can show us what this video looks like to someone with your colorblindness?,2021-02-23T01:17:52,LABEL_1,0.5507022142410278,neutral,0.845475971698761
+comment,leagueoflegends,2021,god31ub,lpsbhk,"Woah woah woah. It also changes your hp bar to yellow
+
+And singed poison turns from green to blue
+
+That's four whole things total!",2021-02-23T01:50:21,LABEL_1,0.5732192993164062,surprise,0.8103522658348083
+comment,leagueoflegends,2021,god77rs,lpsbhk,Nobody can see the cupcakes,2021-02-23T02:18:59,LABEL_0,0.5097790956497192,disgust,0.3284633457660675
+comment,leagueoflegends,2021,godannf,lpsbhk,"Windows -> Control panel -> Ease of access -> Vision -> Color filters.
+
+Changes all the color elements on your screen, not only the Windows UI. No need to enable color blind modes on any games or anything.
+
+EDIT: As u/ScaleCorrect pointed out, You need Windowed Borderless mode in League video settings for it to work!",2021-02-23T02:43:57,LABEL_1,0.5869982838630676,neutral,0.8940348029136658
+comment,leagueoflegends,2021,god6igg,lpsbhk,Im not colorblind but im using colorblind mode lol,2021-02-23T02:13:51,LABEL_1,0.6854589581489563,sadness,0.9353240132331848
+comment,leagueoflegends,2021,god8mm9,lpsbhk,Bro syndras justicar skin is so freaking pay to win if you are colourblind it is insane. I am already tilted if I have to lane against that skin. Same goes for some lux skins and countless other skins. But hey people are asking for changes for years and nothing happens at all.,2021-02-23T02:29:12,LABEL_0,0.7237629294395447,anger,0.48196136951446533
+comment,leagueoflegends,2021,gocyr8u,lpsbhk,"Real talk you should be able to disable skins.
+
+As someone who is color blind there are some big offenders where the effects are quite literally invisible. Wish there was more consideration taken because color blindness isn't even that uncommon especially in males.",2021-02-23T01:21:29,LABEL_0,0.5888584852218628,neutral,0.825267493724823
+comment,leagueoflegends,2021,god84da,lpsbhk,"As someone who is color blind myself,  I need to give an absolute ""fuck you"" to whoever designed the blood moon particle effects. 
+
+***[ESPECIALLY BLOOD MOON ZILEAN](https://youtu.be/fmGG3oJxxT4)***",2021-02-23T02:25:32,LABEL_0,0.9528986811637878,anger,0.91204434633255
+comment,leagueoflegends,2021,gocyoos,lpsbhk,"you'd think coding a color switch would be possible. 
+
+A function that changes one color gradient to another like a filter.
+
+edit: apparently Windows 10 has  something of the sort",2021-02-23T01:20:58,LABEL_1,0.6639003157615662,neutral,0.5054067969322205
+comment,leagueoflegends,2020,fi0jjkt,f5sci6,"With 0 wins through the spring and summer splits, I'm kinda surprised they had to be kicked and didn't just fold. 
+
+There's no way performing like that can feel good.",2020-02-18T23:07:28,LABEL_0,0.6805345416069031,surprise,0.9830166697502136
+comment,leagueoflegends,2020,fi0erhf,f5sci6,">Riot Games Russia released a statement which says the roster had an “unacceptable level of competitiveness in a closed league” as Vaevictus failed to win a single game in both the Spring and Summer Splits last year.
+
+Wait, this is a thing?",2020-02-18T22:13:08,LABEL_0,0.9170967936515808,disgust,0.3166477382183075
+comment,leagueoflegends,2020,fi0et7t,f5sci6,"Holy, those are some bad stats",2020-02-18T22:13:43,LABEL_0,0.9556577801704407,surprise,0.6729746460914612
+comment,leagueoflegends,2020,fi0gwlp,f5sci6,Least they have cool jackets.,2020-02-18T22:38:21,LABEL_2,0.6957569122314453,neutral,0.9604261517524719
+comment,leagueoflegends,2020,fi0fqct,f5sci6,"These ladies were so funny, I remember that once their opponents banned all support champions against them.",2020-02-18T22:24:51,LABEL_2,0.4437311589717865,joy,0.3721952438354492
+comment,leagueoflegends,2020,fi0hwdh,f5sci6,On a more positive note Likkrit is an owner of the team the that is replacing them. Glad to see him back in the league.,2020-02-18T22:49:23,LABEL_2,0.9514555931091309,joy,0.9764522910118103
+comment,leagueoflegends,2020,fi0k3z0,f5sci6,Just making this team is an insult to them. Why would you make a team where the whole gimmick is gender....,2020-02-18T23:13:34,LABEL_0,0.8746557235717773,anger,0.555318295955658
+comment,leagueoflegends,2020,fi0jooy,f5sci6,"I think that these ""all female"" teams are honestly the most sexist garbage i've seen in esport , if a girl (or anyone) is good enough to be competitive they should be giving a chance , but doing an all female team just for the sake of it and forcing it goes against the point .",2020-02-18T23:08:59,LABEL_0,0.863430380821228,disgust,0.6221254467964172
+comment,leagueoflegends,2020,fi0kj3f,f5sci6,"What a surprise. Putting 5 average players into the pro league won't work out, everyone knew that. This entire team was a fucking marketing stunt.
+
+Stop trying to force women in e-sports. If they're good, they get there. There's the female overwatch pro, so they do exist. But stop trying to force ""diversity"" because that shit is going to backfire. Like team siren wasn't enough of a shitshow already back then and hurt the reputation of every female ever playing this game.",2020-02-18T23:18:03,LABEL_0,0.8996556401252747,anger,0.44421473145484924
+comment,leagueoflegends,2020,fi0h9hg,f5sci6,Took them long enough,2020-02-18T22:42:23,LABEL_1,0.5313525199890137,neutral,0.9465484023094177
+comment,leagueoflegends,2020,fpifp0q,gdmys3,"I pushed for changes through and through at Riot over the last 8 years through many different channels. Riot hasn't made any effort because they don't want to or they're not capable. Should be very apparent as there has been no meaningful since a dinosaur like me can remember.
+
+Took years to crack someone as patient as Voyboy but as he explains it's just getting worse. Competitive spirit is dying more and more everyday and it feels monotonous grind is being promoted.
+
+Every system including ribbons, tribunal, etc have been cancelled or failed.
+
+There's posts from Hai, Bjergsen, Scarra if you look hard enough through search histories the collective opinion is there. GOD looking back is so AWKWARD but here's a post 6 years ago about me complaining about NA solo queue and having an open dialog about solutions.
+
+[https://www.reddit.com/r/leagueoflegends/comments/1sjc73/twitter\_clg\_hotshotgg\_na\_will\_always\_be\_the\_worst/cdy6xse/?context=3](https://www.reddit.com/r/leagueoflegends/comments/1sjc73/twitter_clg_hotshotgg_na_will_always_be_the_worst/cdy6xse/?context=3)
+
+I still believe my idea was great (which is essentially a rip off of GW and WOW). I just want players to have something to strive for that isn't unlocked by their wallet (Riot's fav) or spamming normal games. It's the WoW accessibility problem all over again. Everyone has to have access to everything here at Riot Games, Christ. Give us one cool thing to show off all the effort we've worked towards to become better players and don't quarter ass it like giving away 300 shitty jackets.",2020-05-05T08:52:34,LABEL_0,0.5285479426383972,disgust,0.4204038977622986
+comment,leagueoflegends,2020,fpie4oe,gdmys3,Nothing but respect for Voyboy. The patience on this guy is incomprehensible considering what was said to him on chat.,2020-05-05T08:37:16,LABEL_1,0.45160961151123047,disgust,0.6609582901000977
+comment,leagueoflegends,2020,fpicinq,gdmys3,"My last game 15 mins ago, olaf failed a gank level 2 typed in chat ""gg no ganks for anyone"" then afk farmed, started an ff vote at 15, olaf then dcd for 3 mins, rejoined posted another ff vote, 3/2, then ran into alcove bush and didn't move. He won't get banned.",2020-05-05T08:21:41,LABEL_0,0.5283594131469727,neutral,0.44700887799263
+comment,leagueoflegends,2020,fpieuu6,gdmys3,I have literally been so angry at the game but never once have I been able to will my hands to run it down intentionally. My mind straight up won't let me run into enemy towers or champions like that and I have no idea what kind of mindset people are in when they grief and int in games.,2020-05-05T08:44:27,LABEL_0,0.9617955684661865,anger,0.9442951083183289
+comment,leagueoflegends,2020,fpib7h6,gdmys3,"He's absolutely right though. I was watching his stream the other day and the Aphelios on his team legit brought the argument that his GF ""cheated"" on him for literally no reason. Why does that even happen? Voyboy broughts a real argument, if anybody's inting, everyone whos watching the stream will feel a little bit awkward, there's nothing you can do and it ruins the whole experience.
+
+We all had those ""toxic"" moments, I'm not justifying anybody but just goes to show that when it happens repeatedly there's gotta be a problem. Report doesn't feel like it does anything, if a player has been punished it'll only show the feedback screen to the last player that reported them... why? 
+
+It is not a Riot problem but Riot CAN do something to alleviate some of the issues that are happening.",2020-05-05T08:09:00,LABEL_0,0.8325319886207581,disgust,0.6416247487068176
+comment,leagueoflegends,2020,fpiap5n,gdmys3,"he's so right here. legit all this talk about balance is just running around in circles because meta or what's strong won't stop inters and feeders from ruining games. the past couple seasons two teams have dropped the ball way harder than the balance team, the client and player behavior teams have been straight trash and seemingly do almost nothing
+
+the current bots are way too soft to detect trolls and inters. bring back the tribunal too",2020-05-05T08:04:06,LABEL_0,0.8877240419387817,neutral,0.9184316992759705
+comment,leagueoflegends,2020,fpia1sl,gdmys3,"It's sad that people can really run it down on a live stream to thousands of people and not get punished for it.. If the ambassadors of a game aren't protected from griefers, why would a new player even consider playing league?",2020-05-05T07:57:51,LABEL_0,0.9397811889648438,sadness,0.9297914505004883
+comment,leagueoflegends,2020,fpia4w7,gdmys3,"After that clip with Solo from the other day with Voyboy getting heated, it definitely meant he was at his breaking point. Hopefully Riot helps the kid genius out.",2020-05-05T07:58:41,LABEL_1,0.6018539071083069,neutral,0.9038798809051514
+comment,leagueoflegends,2020,fpibstc,gdmys3,"i've never seen voyboy frustrated or complaining about league , usually it's fun or sarcasm but i guess it hit the sink :(",2020-05-05T08:14:43,LABEL_0,0.6675218343734741,sadness,0.4857270419597626
+comment,leagueoflegends,2020,g3cl916,ijbgci,Is it really a promo if there isnt any anyone inting,2020-08-30T21:03:31,LABEL_1,0.6757680773735046,neutral,0.7254401445388794
+comment,leagueoflegends,2020,g3ceogl,ijbgci,Shyvana username checks out.,2020-08-30T19:54:53,LABEL_1,0.83799809217453,neutral,0.9645962119102478
+comment,leagueoflegends,2020,g3ciz9o,ijbgci,"Hey well deserved my friend, grats. Kinda lost it after Darius ""u know I will 1v9 this right"" immediately after inting.",2020-08-30T20:41:14,LABEL_2,0.6831938028335571,anger,0.47063279151916504
+comment,leagueoflegends,2020,g3celzj,ijbgci,"This was actually fun to watch. I hope you reported that premade for forcing your position and banning the champ you wanted to play by the way, that shit is straight up rude. I’d have banned the shyv in retaliation...",2020-08-30T19:54:08,LABEL_0,0.656334400177002,anger,0.5285474061965942
+comment,leagueoflegends,2020,g3cg20t,ijbgci,What app were you using where it said stuff like “too many kills” etc? Fun video btw!,2020-08-30T20:10:33,LABEL_1,0.5075991749763489,joy,0.7723323106765747
+comment,leagueoflegends,2020,g3cjv98,ijbgci,I think that darius thought he was tryndamere,2020-08-30T20:50:25,LABEL_1,0.7531455159187317,neutral,0.5843499898910522
+comment,leagueoflegends,2020,g3ch3ut,ijbgci,"Great job it was really fun to watch! And congrats for your plat promos, winning with these kind of poeple in your team is very hard but you managed to do it, respect.",2020-08-30T20:21:39,LABEL_2,0.9850742816925049,joy,0.9762276411056519
+comment,leagueoflegends,2020,g3cl0jf,ijbgci,Welcome to a higher elo who players are just as dogshit and with bigger egos :),2020-08-30T21:01:17,LABEL_0,0.559150755405426,disgust,0.7163227796554565
+comment,leagueoflegends,2020,g3ck6iv,ijbgci,I wouldve said fuck it and double jungle,2020-08-30T20:53:20,LABEL_0,0.7765719890594482,anger,0.9085729718208313
+comment,leagueoflegends,2020,g3ckg78,ijbgci,Did your back hurt after carrying them?,2020-08-30T20:55:57,LABEL_1,0.6002624034881592,neutral,0.3445552885532379
+comment,leagueoflegends,2020,fq7fafv,gh8u91,Man I would have tilted to the edge of existence if I was that ez,2020-05-11T05:20:34,LABEL_0,0.6224100589752197,neutral,0.38141387701034546
+comment,leagueoflegends,2020,fq7eye2,gh8u91,By far the most enjoyable highlight I have seen on this sub in a long time! Nice work!,2020-05-11T05:18:30,LABEL_2,0.9918040037155151,joy,0.9864679574966431
+comment,leagueoflegends,2020,fq7mews,gh8u91,This is an actual uninstall moment,2020-05-11T06:05:41,LABEL_0,0.7296546697616577,neutral,0.8909210562705994
+comment,leagueoflegends,2020,fq7k4tj,gh8u91,"Wait.. you LOST this? How?
+
+Enemy team was down two inhibs with Soul coming up and Baron up.",2020-05-11T05:50:54,LABEL_0,0.6331271529197693,surprise,0.837733268737793
+comment,leagueoflegends,2020,fq7gsu5,gh8u91,ezreal is mad probably screaming or breaking the keyboard nice play wp.,2020-05-11T05:29:57,LABEL_0,0.7510643005371094,anger,0.6236282587051392
+comment,leagueoflegends,2020,fq7l32u,gh8u91,No idea how you lost that game since I can't see Ezreal reacting in any other way than with a dc,2020-05-11T05:57:01,LABEL_0,0.6327192187309265,surprise,0.8505836129188538
+comment,leagueoflegends,2020,fq7ok4c,gh8u91,"Man, I'm a pretty casual player so this might not mean much, but I've never seen a Thresh use minions for so much mobility before, its awesome.",2020-05-11T06:19:40,LABEL_2,0.9090215563774109,joy,0.6824536323547363
+comment,leagueoflegends,2020,fq7ta2b,gh8u91,This clip belongs in a museum.,2020-05-11T07:02:33,LABEL_1,0.4635680019855499,neutral,0.9061180353164673
+comment,leagueoflegends,2020,fq7f7d4,gh8u91,My hate for Ez is strong. You have made my day.,2020-05-11T05:20:01,LABEL_0,0.47051602602005005,anger,0.8294351696968079
+comment,leagueoflegends,2020,fq7lxjd,gh8u91,"The last time I saw an Ezreal miss this many skillshots, I was watching a Rav video on YouTube...",2020-05-11T06:02:29,LABEL_1,0.6134015917778015,neutral,0.808048665523529
+comment,leagueoflegends,2020,g1hnhe1,i9tfah,Brand owes Veigar rent money for how much time he spent living inside the stun gate.,2020-08-15T05:54:10,LABEL_0,0.5820954442024231,neutral,0.570316731929779
+comment,leagueoflegends,2020,g1hyrmk,i9tfah,"What I love about this is the fact that any sane person would realise after death 3 maybe a different tactic might be in order.
+
+Beauty of league is this guy essentially tried to do the same thing 18 times with little to no success and came to the conclusion it would have worked if not for the failings of his team.
+
+God I love this game",2020-08-15T07:31:36,LABEL_2,0.4987560510635376,neutral,0.3624518811702728
+comment,leagueoflegends,2020,g1hez2i,i9tfah,"Nobody peeled for him.
+
+And by peel, I mean nobody killed all 5 enemies for him, because that's really what he meant.",2020-08-15T04:46:29,LABEL_0,0.5367969870567322,neutral,0.7705346941947937
+comment,leagueoflegends,2020,g1hgh3l,i9tfah,"Wow, can't believe OP found footage of every Brand support I've ever had",2020-08-15T04:57:29,LABEL_2,0.6467947363853455,surprise,0.9842903017997742
+comment,leagueoflegends,2020,g1hkpbm,i9tfah,why is a level 12 brand trying to 1v1 a lvl 17 riven lmfao,2020-08-15T05:31:23,LABEL_0,0.6248852610588074,surprise,0.7392503619194031
+comment,leagueoflegends,2020,g1hg9z5,i9tfah,"He is not wrong, there was no peel but he was also cosplaying a melee toplaner.",2020-08-15T04:55:57,LABEL_1,0.7980148196220398,neutral,0.7380660176277161
+comment,leagueoflegends,2020,g1hbpq9,i9tfah,That lux made brand their bitch.,2020-08-15T04:21:21,LABEL_0,0.8004978895187378,anger,0.6194779276847839
+comment,leagueoflegends,2020,g1hrqkw,i9tfah,"As an expert gamer, I too hate when teams refuse to peel for their \*checks notes\* *support?*",2020-08-15T06:30:33,LABEL_0,0.94830721616745,anger,0.7608462572097778
+comment,leagueoflegends,2020,g1hfiu5,i9tfah,"I mean, he is technically right. You can't peel an idiot so he got ***literally no peel*** from his horrible plays.",2020-08-15T04:50:32,LABEL_0,0.8498809337615967,disgust,0.7819233536720276
+comment,leagueoflegends,2020,g1hcnpf,i9tfah,"As a support main, if you play support and think you're the one getting the peel, you're playing support wrong.",2020-08-15T04:28:45,LABEL_0,0.7459244132041931,anger,0.5759409666061401
+comment,leagueoflegends,2020,fyb8irb,hske8o,Great touch with the 3 simultaneous POV (and awesome play),2020-07-17T08:40:16,LABEL_2,0.9525068998336792,joy,0.7720423340797424
+comment,leagueoflegends,2020,fybbg6m,hske8o,"Little brother here. I was the malphite and my big brother was the kog maw. I was farming for that 10 buck the whole game lol
+
+Btw i got the money",2020-07-17T09:09:17,LABEL_1,0.663089394569397,joy,0.5276297330856323
+comment,leagueoflegends,2020,fybennf,hske8o,"My older brother told me he would buy me a skin if i stole baron, i was cho gath needless to say i am now a proud owner of the skeleton  cho gath skin",2020-07-17T09:41:25,LABEL_2,0.6360911130905151,joy,0.98197340965271
+comment,leagueoflegends,2020,fyb275v,hske8o,Nice editing withe the 3 pov's,2020-07-17T07:39:29,LABEL_2,0.8041245341300964,joy,0.529057502746582
+comment,leagueoflegends,2020,fyayokf,hske8o,Your little brother deserves the FATTEST RP gift my man/lady!,2020-07-17T07:07:06,LABEL_2,0.9768308401107788,anger,0.29223495721817017
+comment,leagueoflegends,2020,fyaz72v,hske8o,I thought ur brother was the kog and i got so confused,2020-07-17T07:11:51,LABEL_0,0.6507583260536194,surprise,0.7233434915542603
+comment,leagueoflegends,2020,fybk0ki,hske8o,No ones going to talk about the flash hook?,2020-07-17T10:35:57,LABEL_1,0.7048609852790833,neutral,0.39574337005615234
+comment,leagueoflegends,2020,fybj13m,hske8o,that was the best malph ult i've ever seen damn,2020-07-17T10:25:37,LABEL_2,0.9248864054679871,surprise,0.6389977931976318
+comment,leagueoflegends,2020,fyayomr,hske8o,I think you owe him a new car and house,2020-07-17T07:07:07,LABEL_1,0.6555473208427429,neutral,0.7538807988166809
+comment,leagueoflegends,2020,fyb43ky,hske8o,He doesn't do anything,2020-07-17T07:57:11,LABEL_0,0.7211005687713623,anger,0.7338920831680298
+comment,leagueoflegends,2022,i7phrtl,ukiysp,"As always it's sad that we even have to say this, but here goes: Homophobia will get you banned, instantly and permanently. Consider this your warning.",2022-05-08T02:50:26,LABEL_0,0.9435908794403076,sadness,0.9496459364891052
+comment,leagueoflegends,2022,i7pi5nk,ukiysp,"Happy for Biofrost. There’s a video where these three amateurs play him 3V1 and they’re losing so they try to distract him with a cute girl. It’s hilarious knowing this now lol 
+
+*Edit: 16:20 into the video 
+https://youtu.be/TdkHSxxYcLo",2022-05-08T02:53:22,LABEL_2,0.8251162767410278,joy,0.7184805870056152
+comment,leagueoflegends,2022,i7pcwvz,ukiysp,"Man, it really must be awkward hearing a bunch of things and thinking, “well, no chance I’m coming out any time soon.”",2022-05-08T02:13:56,LABEL_0,0.8496202826499939,disgust,0.8708748817443848
+comment,leagueoflegends,2022,i7pebpa,ukiysp,Proud of him. Doubt he'll see this but I hope he lives his best life and can stand against the prejudice.,2022-05-08T02:24:23,LABEL_2,0.8740478754043579,neutral,0.4451083540916443
+comment,leagueoflegends,2022,i7plgkp,ukiysp,I guess that one vid where DL hooks him with a girl got even more awkward than what already was lmao.,2022-05-08T03:18:45,LABEL_0,0.8324124217033386,disgust,0.47002655267715454
+comment,leagueoflegends,2022,i7pcste,ukiysp,That's my Biodaddy <3,2022-05-08T02:13:05,LABEL_2,0.5748416781425476,neutral,0.7656465172767639
+comment,leagueoflegends,2022,i7przgs,ukiysp,We love Biofrost <3,2022-05-08T04:08:21,LABEL_2,0.9788950681686401,joy,0.7109339833259583
+comment,leagueoflegends,2022,i7pej73,ukiysp,"Proud of him, he’s such a nice and humble guy. I’m glad he’s getting so many nice words on this sub for this.",2022-05-08T02:25:58,LABEL_2,0.9879634380340576,joy,0.9602953195571899
+comment,leagueoflegends,2021,gvhejrj,mw8kfy,"For every blind Baron, Drag, and Blue Buff I steal with my Lux ult, I know it will be your eyes guiding that laser. GG WP.",2021-04-23T03:52:09,LABEL_1,0.7459895014762878,neutral,0.958164632320404
+comment,leagueoflegends,2021,gvglveu,mw8kfy,"Man, that really sucks so hard :/ I sincerely hope you can adjust, and still be happy and fullfilled.
+
+I hope you dont get it the wrong way.. its so sad, that this is happening to you :(
+
+Wish you all the best on the journey ahead of you!  
+
+
+Edit: holy moly...all those likes °-° Thank you!",2021-04-23T00:31:33,LABEL_2,0.5535260438919067,sadness,0.9052750468254089
+comment,leagueoflegends,2021,gvgwazg,mw8kfy,i will play lux today in your honor.,2021-04-23T01:43:21,LABEL_2,0.7612636089324951,joy,0.9860072135925293
+comment,leagueoflegends,2021,gvgwauu,mw8kfy,"Thank you for being a part of the community bro. Your story made me tear up, and I'm so sorry you're going through that :(
+
+It's absolutely terrifying for me to even think about, and no matter how much I try. I can't even begin to comprehend your situation.
+
+I hope you can still be happy and hopefully in the future, they figure out some way to help you :(",2021-04-23T01:43:20,LABEL_0,0.4262374937534332,fear,0.9868549108505249
+comment,leagueoflegends,2021,gvgwykm,mw8kfy,"Really sorry to hear about this friend. I'm sure this is a super difficult time.   
+
+
+For whatever its worth, I'm really glad you had fun with the game. Folks like you are why we do it.   
+
+
+Keep it real homie.",2021-04-23T01:47:51,LABEL_2,0.7867534756660461,sadness,0.9428720474243164
+comment,leagueoflegends,2021,gvgml3g,mw8kfy,"Don't make my cry. Wish you the best in your life. I bet you'll find things you can still enjoy. And idk how hard it will be to follow by listening to LoL games, but do give it a shot with pro play games. 
+
+You'll always have people here to support you and hear your story. 
+
+GLHF <3",2021-04-23T00:36:35,LABEL_2,0.8653388619422913,neutral,0.7881924510002136
+comment,leagueoflegends,2021,gvgtcht,mw8kfy,This is just an excuse to create biotic eyes so that this man can continue to experience the horrible game known as league that we have all come to love.,2021-04-23T01:23:08,LABEL_0,0.9498865604400635,disgust,0.6467798352241516
+comment,leagueoflegends,2021,gvgq2qs,mw8kfy,"I'm sorry to hear about your situation. I can't imagine how difficult losing your vision must be.
+
+Thanks for being a part of the game. League is a better community with positive people like you in it.",2021-04-23T01:00:42,LABEL_2,0.7599441409111023,sadness,0.9317691922187805
+comment,leagueoflegends,2021,gvh07zz,mw8kfy,Its a terrible day for a rain,2021-04-23T02:10:12,LABEL_0,0.955542802810669,fear,0.8984156250953674
+comment,leagueoflegends,2021,gvgyk2a,mw8kfy,Best of luck on your future endeavors. I hope one day you’re able to return if anything is able to be done. Till then maybe you can listen to pro matches to stay somewhat connected to the community. Get well soon friend ❤️,2021-04-23T01:58:43,LABEL_2,0.9700796008110046,neutral,0.7966520190238953
+comment,leagueoflegends,2020,fsg61ve,gu40j0,"So impressive wtf, imagine being this good at After Effects, the possibilities",2020-06-01T03:08:10,LABEL_2,0.891959011554718,surprise,0.8675752878189087
+comment,leagueoflegends,2020,fsgagio,gu40j0,That belly slap at the end just makes it perfect,2020-06-01T03:46:14,LABEL_2,0.949425458908081,neutral,0.6187364459037781
+comment,leagueoflegends,2020,fsg7qt7,gu40j0,Uh... He forgot the Mastery 7,2020-06-01T03:22:54,LABEL_1,0.6370590925216675,neutral,0.4164244830608368
+comment,leagueoflegends,2020,fsg1rmy,gu40j0,This is amazing! Great artwork and funny to watch at the same time.,2020-06-01T02:31:13,LABEL_2,0.9893319606781006,joy,0.8562307953834534
+comment,leagueoflegends,2020,fsg7o7w,gu40j0,"thats great but isnt the final result completely cgi? head pose is dif, face looks dif.",2020-06-01T03:22:16,LABEL_2,0.5379172563552856,sadness,0.49132466316223145
+comment,leagueoflegends,2020,fsgcop6,gu40j0,"- Yasuo Cosplay
+- Tiktok
+
+[:)](https://i.imgflip.com/38vwuu.jpg)",2020-06-01T04:05:20,LABEL_1,0.8741603493690491,neutral,0.8284252882003784
+comment,leagueoflegends,2020,fsgafar,gu40j0,"You got the moves, now do Gragas from Wild Rift",2020-06-01T03:45:56,LABEL_1,0.867685854434967,neutral,0.9182509183883667
+comment,leagueoflegends,2020,fsg33uz,gu40j0,All credit goes to @jalexrosa.  https: //vm.tiktok.com/KWWPq1/,2020-06-01T02:42:51,LABEL_1,0.674335241317749,neutral,0.6469279527664185
+comment,leagueoflegends,2020,fsg8r2v,gu40j0,Woow keep it up,2020-06-01T03:31:37,LABEL_2,0.8323599100112915,neutral,0.3780817985534668
+post,leagueoflegends,2020,hgx0je,,"Here is my masterpiece. A funcional project ashe bow for my cossplay of her. it took me more than a houndred hours and eighty euros (with a lot of recycled materials and others that i already had) but i think all the effort has been worthit, enjoy. (sorry for the quality)",2020-06-28T00:54:59,LABEL_2,0.9428087472915649,joy,0.9405340552330017
+post,leagueoflegends,2021,n7vg5s,,AOC featuring her clutch Baron snipe on IG,2021-05-09T02:33:46,LABEL_1,0.7351731061935425,neutral,0.8424328565597534
+post,leagueoflegends,2021,myw66q,,A presentation on why Darius needs buffs,2021-04-26T20:08:15,LABEL_1,0.8854424357414246,neutral,0.6923943758010864
+post,leagueoflegends,2020,h9hxzf,,"I'm almost 43, I just hit Gold, and I have no one to tell it to. TL;DR: I'm old but Gold.
+
+I've been playing League for over nine years now, and the dream always was to be above average. It's not a big dream, but there you go.
+
+When we still had ELO, that meant being above 1200 (I never was). As soon as we had the ranked system, I wanted to be Gold. That's where the shiny borders are. That's where you get skins. That's where you can tell people you're actually kinda decent at this game.
+
+The problem always was that I suck. My already non-existent mechanical skills managed to deteriorate even further after I hit 40. I also can't play every day, since my family and my job come first. And there's always too much happening on the screen for me to follow. I regularly confuse my own character with one of my teammates. I'm incapable of outplaying anyone.
+
+So what I do is play braindead champions in the toplane, disable chat, ward as much as possible, bash towers whenever I can, and let the young folk carry me.
+
+This afternoon it finally happened. I goofed around on Garen a bit while my Draven killed everyone and everything, and at the end of that game I was Gold. I'm absolutely ecstatic, but no one I know plays League. In fact, everyone I know thinks I'm a bit of a twat to still play videogames at my age. But to me this is a big thing.
+
+So there you go. And I'm pretty sure if I can do this, any one of you can too!",2020-06-15T22:57:02,LABEL_0,0.5353337526321411,neutral,0.658195972442627
+post,leagueoflegends,2020,k10xzw,,Doublelift announces retirement,2020-11-26T05:08:51,LABEL_1,0.8543903827667236,neutral,0.2720852196216583
+post,leagueoflegends,2020,g18sl2,,"Riot is forcing me to change my name due to Coronavirus. Hey all, 
+
+So I will try to keep this anonymous as possible, though it's quite hard given my current situation. I've been playing League of Legends for 6 years under the alias Squid Corona - squids are my favourite animal and Corona, believe it or not, is my real life surname. 
+
+As I'm sure everyone is well aware, there is a global pandemic called COVID-19 or, as very inconveniently for me, better known as Coronavirus. Trust me, I've heard all the jokes possible from friends and co-workers. 
+
+At the start of 2019 I managed to change my in-game name to just ""Corona"" as I thought the shorter version of my name was nicer, worked well with telling my real life friends to add me on League, as they all know it's my surname and I think Corona is a cool name so why not have just that. I had to use one of those third party sites to check the name and stay up till midnight in order to secure my family name in League (as a side note, Riot should really consider implementing a bot-detect system to stop name sniping).
+
+I'm by most descriptions a casual player - I play one or two games a day of normal draft pick, almost always with friends just as a way of relaxing after work. On the 1st of April, I try to login to be greeted with a message telling me I need to change my name in order to proceed. I thought it was amusing at first, as almost every game a player would say in chat ""nice name"" to me, but I just shrugged my shoulders and emailed Riot in the hopes of them agreeing that it was a funny situation, and my name would be white-listed. 
+
+After two weeks of back and forth with multiple ""Player Support Specialists"", I was told that they had come to the conclusion that my name would not get white-listed and that I would have to change it if I wanted to keep playing League of Legends. **This is specially stupid since in other regions, players with the name Corona are still active and playing.**
+
+This to me is all very disappointing. I haven't chosen the name ""Corona"" for any reason, and certainly haven't done it during the covid-19 outbreak. I feel like Riot are just sticking a big middle finger to me and telling me that my family name is inappropriate to be a part of their game. I'm posting this to reddit because I want to know if the community really feels offended by the summoner name ""Corona"", or if I'm right in feeling a mild rage and sense of unfairness.
+
+EDIT: here's proof of communication: https://imgur.com/a/OE9l8sc
+Proof of ID has also been privately sent.
+
+EDIT 2: Thanks for the pressure reddit, Riot has given me my account back!",2020-04-15T00:32:38,LABEL_1,0.4587266743183136,neutral,0.4193859398365021
+post,leagueoflegends,2021,q6oi8k,,Riot is disabling /all chat in all matchmaking modes.,2021-10-12T23:19:07,LABEL_0,0.8108240962028503,neutral,0.6851958632469177
+post,leagueoflegends,2020,gwujw6,,"I made a tiktok transforming myself into Sylas, hope you guys gonna like it!",2020-06-05T09:05:11,LABEL_2,0.9418890476226807,joy,0.8228418827056885
+post,leagueoflegends,2020,jpytwn,,I made my Yone cosplay look like a cinematic (kinda),2020-11-08T05:33:32,LABEL_1,0.557341456413269,neutral,0.446600079536438
+post,leagueoflegends,2020,jke0ds,,KDA Akali Cosplay while playing the KDA LoL song expert + on beatsaber on a unicycle (do not try this at home),2020-10-30T01:06:25,LABEL_1,0.6667271256446838,neutral,0.8768602609634399
+post,leagueoflegends,2020,kkcfm9,,"Stayed at my girlfriends parents for Christmas and didn’t bring my laptop. Remembered I’d installed league on hers some years ago and thought I’d play while she slept, only to get graced with this gem of a loading screen one last time while it updated",2020-12-26T12:22:59,LABEL_1,0.4910427927970886,sadness,0.382150262594223
+post,leagueoflegends,2022,ttml81,,RIOT SAID THAT IF THIS POST REACHES THE FRONT PAGE THEY'LL REMOVE YUUMI FROM THE GAME,2022-04-01T17:26:09,LABEL_1,0.7830889821052551,neutral,0.958827555179596
+post,leagueoflegends,2020,g9sj85,,This feeling when you found your prestige mistress on ARAM,2020-04-29T02:23:52,LABEL_1,0.6998074650764465,disgust,0.9092649817466736
+post,leagueoflegends,2021,n3wyoc,,Arcane Animated Series Trailer (Coming to Netflix this Fall),2021-05-03T22:06:19,LABEL_1,0.8993014097213745,neutral,0.6156265139579773
+post,leagueoflegends,2020,id9l48,,Malphite mirror match up,2020-08-20T20:44:39,LABEL_1,0.860402524471283,neutral,0.9445091485977173
+post,leagueoflegends,2021,mhroh7,,How it feels when Mord Ults your teammate.,2021-04-01T17:35:10,LABEL_1,0.7239763736724854,disgust,0.7958497405052185
+post,leagueoflegends,2020,j1x43u,,"Professor Akali intentionally feeding and going afk 16 games in a row just to make a ""Challenger Akali Main visits Iron 4"" Video Today i woke up to see this Professor akali video in my recommended [https://www.youtube.com/watch?v=cNe2mKZx1Tg](https://www.youtube.com/watch?v=cNe2mKZx1Tg)
+
+with the classic ""Challenger Akali Visits Iron4"" Title
+
+And a comment brought to my attention that he intentionally lost 16 games in a row to get to play in this rank so i went and checked it my self
+
+So i Opened op.gg and searched the name of the account he was playing on in the video ""ProfessorIRONxd"" and geuss what there where no account with this name
+
+So i searched the name of his jungler playing zac ""Wreck It Ralph\*\*""\*\* And found the game that had the fed akali in it , which is his only zac game go check it if u want [https://na.op.gg/summoner/userName=Wreck+It+Ralph](https://na.op.gg/summoner/userName=Wreck+It+Ralph)
+
+And i found out that he changed the account name to ""reeeeeeent"" Right after he finished making this video his op.gg [https://na.op.gg/summoner/userName=reeeeeeent](https://na.op.gg/summoner/userName=reeeeeeent)
+
+and if u check this op.gg  ur gonna find that the last 3 games played where akali games that he won (last one played is the one in the video) but before that all of the other games is him going 0/8 ,0/13  etc for 16 games in a row
+
+**Now Tell me is it ok for a player for ruin the experince of 70 players just to make a youtube video styling on low elo player?**
+
+Edit:he just admitted to breaking Riot Tos on twitter [https://twitter.com/TheBestAkaliEvr/status/1310940011559227392](https://twitter.com/TheBestAkaliEvr/status/1310940011559227392)
+
+&#x200B;
+
+https://preview.redd.it/2e00rdjmj2q51.png?width=1574&format=png&auto=webp&s=875da456f04e05cf22914f9b7789c7663500c652",2020-09-29T19:05:00,LABEL_1,0.5181851983070374,neutral,0.48289674520492554
+post,leagueoflegends,2022,vutr24,,1000 apm moment while getting fountain dove,2022-07-09T12:40:24,LABEL_1,0.8352795243263245,surprise,0.7403345108032227
+post,leagueoflegends,2020,em8meb,,Warriors | Season 2020 Cinematic - League of Legends (ft. 2WEI and Edda Hayes),2020-01-09T19:54:19,LABEL_1,0.9321354031562805,neutral,0.8179417252540588
+post,leagueoflegends,2020,jhbdsj,,TSM Bjergsen Announcement,2020-10-25T00:01:36,LABEL_1,0.9047111868858337,joy,0.3884147107601166
+post,leagueoflegends,2021,mhsvmy,,Renekton looks like he’s having fun,2021-04-01T19:03:23,LABEL_2,0.9233561158180237,joy,0.6766960620880127
+post,leagueoflegends,2021,lpsbhk,,The Color Blind Experience,2021-02-23T00:13:47,LABEL_1,0.8414944410324097,neutral,0.41604793071746826
+post,leagueoflegends,2020,f5sci6,,"Averaging 27 deaths a game, the all female team Vaevictis has been kicked from the LCL",2020-02-18T22:10:51,LABEL_0,0.8223217725753784,sadness,0.862663209438324
+post,leagueoflegends,2020,gdmys3,,Voyboy's thoughts on NA solo queue,2020-05-05T07:47:32,LABEL_1,0.9086139798164368,neutral,0.8164803981781006
+post,leagueoflegends,2020,ijbgci,,Promos for Platinum ended up being an adventure so I made a video about it.,2020-08-30T19:48:51,LABEL_1,0.7279447317123413,neutral,0.7207338809967041
+post,leagueoflegends,2020,gh8u91,,"We may lost the game, but we won the mental war",2020-05-11T04:25:45,LABEL_1,0.5783710479736328,neutral,0.44362837076187134
+post,leagueoflegends,2020,i9tfah,,"After a ranked game, Brand said that we didn't give enough peeling (with 18 deaths). Checked the replay to see how he died and if he was right, ended up coming up with this montage of his deaths. Enjoy these clips sync'd with ""In the Hall of The Mountain King""",2020-08-15T04:17:23,LABEL_1,0.5632010698318481,neutral,0.8187850117683411
+post,leagueoflegends,2020,hske8o,,I told my little brother that if he ulted a Lee-Sin mid Q that I'd give him ten bucks. I think I owe him a lot more than that.,2020-07-17T07:00:08,LABEL_1,0.5011000633239746,neutral,0.8078586459159851
+post,leagueoflegends,2022,ukiysp,,"Biofrost comes out as Gay https://twitter.com/Biofrostlol/status/1522999710751076352/photo/1
+
+> I'm gay. I've struggled with my personal identity my entire life. While my parents were working in China, I moved around a lot from homestay to homestay, which is basically where you live in a stranger's home. At the age of 8, I was bombarded with homophobic and sexist remarks at home, and whenever I did something that wasn't ""manly,"" I was told, ""Why are you acting like a girl?"" and to stop being ""gay."" I was hyper-conscious of how I should act and tried not to act or sound ""gay,"" but I was still constantly bullied at school for it. No child should have to feel like they don't belong. Working in the video game industry hasn't helped matters either. On almost every team I've been on, I've heard homophobic comments from either my teammates or the staff and felt uncomfortable, even borderline afraid of possibly losing my job if I told the truth. I'm at a point in my life where I've accepted who I am, and it's taken me a long time to get there. My story is not unique. The gaming industry is rampant with sexism, prejudice, and homophobia. I don't believe there's a quick fix, but it starts with us holding ourselves to a higher standard and treating everyone with dignity. We need to educate people in esports of proper conduct within the workplace. I'm not making this announcement because I owe everyone the details of my personal life, but because I want there to be more awareness about the problems our community faces. Thank you to my parents and friends who have made me feel like I belong. You the real ones.",2022-05-08T02:11:16,LABEL_0,0.695418119430542,fear,0.972804844379425
+post,leagueoflegends,2021,mw8kfy,,"Goodbye, League: A brief love letter from a visually impaired player I was not expecting today to be any different in terms of big life changes, it's really just a Thursday, pandemic seems to be easing up a little... But this morning, as I was playing draft pick, I understood something very painful: It was the last time I would play League of Legends.
+
+I have been experiencing a very sudden process of sight loss due to untreated glaucoma since April 2020 that culminated in me hitting the threshold for legal blindness last December. All throughout the process, I kept playing League, as it was legitimately my favorite game and I had so much fun playing, but the past three months or so have been incredibly taxing, emotionally. I was playing more sporadically because even 15 minutes of straining my eyes leaves me with a migraine, but the more time that went between matches, the more noticeable my sight loss became whenever I logged in and sat for 30 minutes watching my gameplay worsen, the information slowly becoming something I could not parse. It was obviously not just the migraines, but the solidification of the fact that, well, fuck, I am going blind.
+
+I know the community has a reputation for being jaded and toxic, and to an extent, I did get splashes of that experience, but honestly? My experience as a player was overwhelmingly positive. League was something for me to bond over with my real life friends, and a gateway to kind communities where I got to know online friends that would come to matter more to me than words could express. It was rewarding, I could see myself improve with practice, even if I never aimed for a high rank, and sitting down every night to play a few hours was the only thing that kept me going in what have been, quite frankly, a shit couple of years. When I think of League it's never the bad matches that stick with me, it's the neat outplays, the honest conversations about life in voice chat, the delight that came with messing around with builds and meeting people that I had this in common with. 
+
+Today was the day the loss finally hit. I was playing a Lux match, and understanding that even with my main, even with the more contrasting skin I could find, and all the color settings adjusted, and a giant monitor with a magnifier could not do anything about the fact that I just could not play because I could not see anything relevant. No abilities, no health bars, no indicators... My lack of peripheral vision also meant that all my attempts at hitting anything were mostly guesswork. Hell, the only reason I knew who I even was playing was the color of the blurry HP bar that took up a quarter of my monitor. 
+
+I don't think I can kid myself anymore into thinking that things will remain the same even as this huge part of my life changes into something unknown and terrifying. I hate that League of all things was what made me understand how real and irreversible the sight loss is, but it is what it is. So today, I have decided that I have played my last game of League. I did not savor it. I did not prep a goodbye party, and if this is a goodbye speech then it's kind of shitty.
+
+I would still like to make use of this cheesy word vomit to thank League players and the team behind the game. You've brought many things to my life that I hope will remain now that League is no longer in it, and I am grateful. Regardless of what comes next, I will remember these times in my life fondly, and that's pretty much invaluable.
+
+Thank you, it's been great. See you on the flip side.",2021-04-23T00:25:30,LABEL_1,0.4019353985786438,sadness,0.8583568334579468
+post,leagueoflegends,2020,gu40j0,,Best Yasuo Cosplay Hands Down!,2020-06-01T02:20:35,LABEL_2,0.91801518201828,joy,0.47991108894348145
+post,leagueoflegends,2022,vw8r5u,,"KR streamer got sniped and forced to play a single ranked game over 3 hours. AND riot banned the streamer &#x200B;
+
+https://preview.redd.it/ri0j2sojxua91.png?width=1255&format=png&auto=webp&s=ceb556382f4379714b3fef8f511a8d0f7787c5e7
+
+https://preview.redd.it/mft90h2lxua91.png?width=1111&format=png&auto=webp&s=bfc230f4eb855d2e54c59899ec6b24c5e9e83094
+
+Overall timeline
+
+1. Streamer got sniped by 4 people. 2 in her team(Nasus, Jhin) and 2 in the enemy team(Evelynn, Senna)
+
+2. Can't end game by voting surrender since you cannot get the numbers
+
+3. Nasus and Jhin cleared minions to prevent the nexus from being destroyed
+
+Senna and Evelynn prevented her from doing backdoor(Nasus and Jhin tell them where she is)
+
+4. Game goes on for over 3 hours. Death count of streamer was over 120
+
+5. Streamer got banned 14 days by riot (snipers reported her by negative attitude and intentional feeding). Some say why not just leave the game, but she would've got banned for afk then.",2022-07-11T11:29:54,LABEL_0,0.735409677028656,anger,0.3021963834762573
+comment,leagueoflegends,2022,ifomz1i,vw8r5u,"Damn, this is like the next level of obsession/trolling",2022-07-11T12:26:03,LABEL_0,0.9154190421104431,disgust,0.7047658562660217
+comment,leagueoflegends,2022,ifp2ycj,vw8r5u,"She literally died in two Senna's AA's even with so much armor. Senna's attack range was so far she died without even seeing Senna.
+
+EDIT: [https://www.fmkorea.com/4808408099](https://www.fmkorea.com/4808408099)
+
+You can see for yourself Irelia dying from two Senna AA's from an entirely different lane.",2022-07-11T15:32:36,LABEL_0,0.7497478127479553,neutral,0.4619300961494446
+comment,leagueoflegends,2022,ifoso1u,vw8r5u,wow even if this gets overturned I can't imagine how upsetting that must be,2022-07-11T13:25:40,LABEL_0,0.9465883374214172,surprise,0.9491103887557983
+comment,leagueoflegends,2022,ifojbot,vw8r5u,"That is just disgusting and sad, I hope she gets justice and her penalty removed",2022-07-11T11:51:02,LABEL_0,0.9737163186073303,disgust,0.9875364899635315
+comment,leagueoflegends,2022,ifoth55,vw8r5u,"the 4 snipers need a perma-ban for this.
+
+what's even the point in this?",2022-07-11T13:34:40,LABEL_0,0.716724157333374,neutral,0.611537754535675
+comment,leagueoflegends,2022,ifot5bn,vw8r5u,"Riot Korea 🤝 Twitch Korea  
+  
+
+Brothers in arms to fuck up their own users whenever they have the opportunity to do so.",2022-07-11T13:31:00,LABEL_0,0.8971678018569946,anger,0.7142143845558167
+comment,leagueoflegends,2022,ifopgp2,vw8r5u,"that's riot korea/korean league playerbase for you.
+
+&#x200B;
+
+not even remotely surprised.",2022-07-11T12:51:15,LABEL_1,0.5729221701622009,surprise,0.9752062559127808
+comment,leagueoflegends,2022,ifolt30,vw8r5u,better not talk shit about riot korea or you will get Cowsep'd,2022-07-11T12:14:38,LABEL_0,0.8999415636062622,anger,0.8316288590431213
+comment,leagueoflegends,2022,ifojpuz,vw8r5u,"Heinous behavior and I hope she gets unbanned. Who is so obsessive as to waste 3 hours of their own time, all to spite some streamer they don't even know IRL? Losers. Thanks for sharing this, hope something is done about it.",2022-07-11T11:54:39,LABEL_0,0.9456941485404968,anger,0.5917206406593323
+comment,leagueoflegends,2022,ifoob4x,vw8r5u,"Wow! Ridiculous that this happened. I hope Riot KR does the right thing. This is the issue that players face, where it's the  reaction to trolls and inters that gets punished while the other person gets away to troll another day.",2022-07-11T12:39:26,LABEL_0,0.8482471704483032,surprise,0.8431026339530945
+comment,leagueoflegends,2020,g94wwsn,jd286d,WHAT TIMELINE ARE WE IN?,2020-10-18T04:14:49,LABEL_1,0.7216099500656128,neutral,0.783598780632019
+comment,leagueoflegends,2020,g95ce9j,jd286d,"I thought FNC going up 2-0 was unexpected
+
+Then TES said, watch us.
+
+Then T1 said hold my beer.",2020-10-18T06:16:02,LABEL_1,0.5273529291152954,surprise,0.9156657457351685
+comment,leagueoflegends,2020,g957inr,jd286d,Riot Sanjuro made all this possible with few words,2020-10-18T05:36:15,LABEL_0,0.48320668935775757,neutral,0.8774516582489014
+comment,leagueoflegends,2020,g94wumk,jd286d,The mad man actually did it. From being permabanned to being in the same org as Faker.,2020-10-18T04:14:19,LABEL_0,0.6439307332038879,neutral,0.6091903448104858
+comment,leagueoflegends,2020,g94y1tz,jd286d,"T1 is so fucking stacked. 
+
+Tyler1, Faker, mkLeo. Fucking unstoppable.",2020-10-18T04:23:21,LABEL_0,0.42672839760780334,anger,0.8910999298095703
+comment,leagueoflegends,2020,g94wyc7,jd286d,WHERE WERE YOU WHEN T1 JOINED T1!!!!!!,2020-10-18T04:15:10,LABEL_1,0.703999400138855,neutral,0.48784783482551575
+comment,leagueoflegends,2020,g94wt88,jd286d,"Ain't no way, ain't no fucking way",2020-10-18T04:14:00,LABEL_0,0.869948148727417,anger,0.7208074331283569
+comment,leagueoflegends,2020,g94wsca,jd286d,"This is fucking big for T1 Like holy Jesus. T1² , LETS GO BABY",2020-10-18T04:13:49,LABEL_2,0.626889705657959,anger,0.43319326639175415
+comment,leagueoflegends,2022,ix9j0as,z180q4,I see a lot of unused screen space,2022-11-22T03:55:04,LABEL_0,0.7585890293121338,disgust,0.7654320597648621
+comment,leagueoflegends,2022,ix9oe7k,z180q4,Not the star walkin playing in the background 💀,2022-11-22T04:30:38,LABEL_1,0.6232470273971558,neutral,0.7253215312957764
+comment,leagueoflegends,2022,ix9lntt,z180q4,inaccurate there are no crypto sponsors,2022-11-22T04:12:29,LABEL_0,0.4892418384552002,neutral,0.7118272185325623
+comment,leagueoflegends,2022,ix9oste,z180q4,i died when udyr wanted to gank for 5$,2022-11-22T04:33:21,LABEL_0,0.8001195788383484,sadness,0.9687488079071045
+comment,leagueoflegends,2022,ix9w2o9,z180q4,Udyr paid $5.00 to request a bot gank lol,2022-11-22T05:20:12,LABEL_1,0.7185463309288025,neutral,0.6740278005599976
+comment,leagueoflegends,2022,ix9sjub,z180q4,This is one of the funniest shit I've seen on here this year.,2022-11-22T04:57:35,LABEL_0,0.38661810755729675,joy,0.8686299920082092
+comment,leagueoflegends,2022,ix9y6e4,z180q4,Holy fuck the fucking Udyr report instantly banning Udyr is so fucking funny jesus,2022-11-22T05:35:41,LABEL_0,0.8618707656860352,surprise,0.6531714200973511
+comment,leagueoflegends,2022,ix9izk4,z180q4,Don't give them any ideas!,2022-11-22T03:54:57,LABEL_0,0.48114505410194397,anger,0.9082883596420288
+comment,leagueoflegends,2022,ix9p7rw,z180q4,"Actually so fucking good
+
+Only missing bullshit eternals popping up from random players and colliding with the other popups like they already do with objective voting",2022-11-22T04:36:05,LABEL_2,0.35637280344963074,neutral,0.3881268799304962
+comment,leagueoflegends,2020,gdb01p8,jza7id,"Botlane, Jungle & Mid: ***teamfighting, taking turrets, drakes, diving botlane...***  
+
+
+Meanwhile at toplane:",2020-11-23T13:29:16,LABEL_1,0.8243870139122009,neutral,0.4398416578769684
+comment,leagueoflegends,2020,gdaumgi,jza7id,That was so perfectly timed I wouldn’t mind if it was scripted,2020-11-23T12:26:46,LABEL_2,0.6983810067176819,neutral,0.9313540458679199
+comment,leagueoflegends,2020,gdazui2,jza7id,I believe we just witnessed cell division.,2020-11-23T13:26:48,LABEL_0,0.5376737117767334,surprise,0.8162646293640137
+comment,leagueoflegends,2020,gdb02za,jza7id,Mom said it's my turn with the brain cell,2020-11-23T13:29:44,LABEL_1,0.8012744784355164,neutral,0.8484967350959778
+comment,leagueoflegends,2020,gdavbgf,jza7id,wait a minute that mundo is you,2020-11-23T12:33:59,LABEL_1,0.6996927857398987,neutral,0.8852459192276001
+comment,leagueoflegends,2020,gdaxian,jza7id,https://i.imgur.com/FdcX8zn.jpg,2020-11-23T12:58:41,LABEL_1,0.7991990447044373,neutral,0.7941098213195801
+comment,leagueoflegends,2020,gdb1fuv,jza7id,Malphite randomly slapping Mundo before hitting the tower for the demolisher proc is just the icing on the cake,2020-11-23T13:47:08,LABEL_2,0.6545063853263855,neutral,0.7011892199516296
+comment,leagueoflegends,2020,gdasbcf,jza7id,"""is\* wrong"", ""championS\*"", I frustrate myself when I post without rereading what I say.",2020-11-23T12:02:49,LABEL_0,0.9384751319885254,anger,0.904913604259491
+comment,leagueoflegends,2020,gdbfgfj,jza7id,Hi op! May I use this video as a reference for my biology power point on mitosis?,2020-11-23T17:26:23,LABEL_1,0.7978931069374084,neutral,0.49512022733688354
+comment,leagueoflegends,2020,gdawyxf,jza7id,"Ok I just had a really bad game and was a in shit mood till the saw this, thanks for the laugh",2020-11-23T12:52:26,LABEL_0,0.8424827456474304,joy,0.36058998107910156
+comment,leagueoflegends,2021,go98ice,lp2kqn,The execute makes it 100 times better,2021-02-22T03:20:38,LABEL_2,0.9024773240089417,neutral,0.9100165367126465
+comment,leagueoflegends,2021,go9drsr,lp2kqn,"I expected Gragas to flash the Malphite ult, but everything afterwards is just pure comedy gold.",2021-02-22T03:57:19,LABEL_0,0.4448587894439697,neutral,0.5418829917907715
+comment,leagueoflegends,2021,go94mwz,lp2kqn,"Imagine committing 2 flashes and an R only for the prophecy of 'He doesn't do anything"" to take hold.",2021-02-22T02:53:41,LABEL_1,0.5256276726722717,neutral,0.8543268442153931
+comment,leagueoflegends,2021,go98fkx,lp2kqn,okay this is one of the best clips i've seen in a while,2021-02-22T03:20:06,LABEL_2,0.9882424473762512,surprise,0.7929847240447998
+comment,leagueoflegends,2021,go99pqk,lp2kqn,"*Unstoppable Forces on top of you* ""Nothing personnel k-""
+
+*Flashes behind you* ""Nothing personnel ki-""
+
+*Flashes behind you* ""Nothing personnel kid-""
+
+*Tower kills you for an execute*",2021-02-22T03:29:05,LABEL_0,0.7453860640525818,anger,0.35293880105018616
+comment,leagueoflegends,2021,go98mlc,lp2kqn,"that was a ""WTF"" moment after Malphite died, like his drunk ass was trying to make sense of what just happened",2021-02-22T03:21:26,LABEL_0,0.8855648636817932,surprise,0.7442244291305542
+comment,leagueoflegends,2021,go9mduv,lp2kqn,"Outplayed himself with his own flash, then gets executed and no one gets a kill. Who outplayed who here I don’t even know?",2021-02-22T05:05:28,LABEL_0,0.7998645901679993,neutral,0.27555155754089355
+comment,leagueoflegends,2021,go9s94e,lp2kqn,You're a psychopath for that chat placement,2021-02-22T05:50:01,LABEL_0,0.9472393989562988,disgust,0.6600567102432251
+comment,leagueoflegends,2021,go96fth,lp2kqn,*Enemy Executed* what a great clip. Thanks for sharing,2021-02-22T03:06:30,LABEL_2,0.96387779712677,joy,0.6676724553108215
+comment,leagueoflegends,2021,gt1sy4v,mhznd7,"“Finally, a worthy 0/10 power spike”
+
+ -Yasou and Yonu",2021-04-02T01:01:24,LABEL_2,0.5621374249458313,neutral,0.515216588973999
+comment,leagueoflegends,2021,gt1stl9,mhznd7,There is only a single person in the history of this planet who could use this item. Us mongrels are not worthy.,2021-04-02T01:00:25,LABEL_0,0.9623667001724243,neutral,0.8497817516326904
+comment,leagueoflegends,2021,gt1wtq0,mhznd7,new draven build just dropped,2021-04-02T01:30:22,LABEL_1,0.8318622708320618,neutral,0.576321542263031
+comment,leagueoflegends,2021,gt2c70a,mhznd7,"I am the Bone of my Sword
+Steel is my Body and Fire is my Blood.
+I have created over a Thousand Blades,
+Unknown to Death,
+Nor known to Life.
+Have withstood Pain to create many Weapons
+Yet those Hands will never hold Anything.
+So, as I Pray-- 
+Unlimited Blade Works",2021-04-02T03:27:35,LABEL_1,0.628898024559021,sadness,0.8846674561500549
+comment,leagueoflegends,2021,gt2u9zw,mhznd7,Toplane rengars back in the day unironically,2021-04-02T05:48:58,LABEL_1,0.7393590807914734,anger,0.8321383595466614
+comment,leagueoflegends,2021,gt2sxtd,mhznd7,Is this an MTG reference or does eight fucking bears reference something older?,2021-04-02T05:38:03,LABEL_0,0.6925553679466248,anger,0.5813178420066833
+comment,leagueoflegends,2021,gt2neie,mhznd7,"The Ryan Choi special, just missing a tiamat.",2021-04-02T04:54:00,LABEL_1,0.750482439994812,neutral,0.5783048272132874
+comment,leagueoflegends,2021,gt2i74v,mhznd7,This might make the Ryan Choi build viable again tbh.,2021-04-02T04:13:52,LABEL_2,0.7485736608505249,neutral,0.6016378998756409
+comment,leagueoflegends,2021,gt2r83o,mhznd7,"I actually would love if there was an item that's literally other items or the components taped together. Just change Rabadon's Deathcap to ""two needlessly large rods"" or ""dual wielded NLRs"".
+
+It only works if they kinda make sense to be stronger when put together. I could believe using two super powerful magic rods providing an over abundance of ability power. You can't take Blood Thirster's components and be like ""it's a big sword duct taped to a scepter with a cloak wrapped around them"".",2021-04-02T05:24:14,LABEL_2,0.5024737119674683,surprise,0.6141267418861389
+comment,leagueoflegends,2021,gt2pr7h,mhznd7,"Finally a worthy weapon for Genja, only a couple seasons late.",2021-04-02T05:12:24,LABEL_2,0.6695594191551208,neutral,0.8374739289283752
+comment,leagueoflegends,2022,iftv2fc,vx50mc,"These were concepts made by riot 6 years ago. You can watch the videos here:  
+[FIND MATCH](https://youtu.be/EdERrAJ0V90)   
+[PICK N BAN](https://youtu.be/Pnm3Kc0p9fQ)",2022-07-12T15:12:54,LABEL_1,0.8272770047187805,anger,0.452277272939682
+comment,leagueoflegends,2022,ifty9rj,vx50mc,"Impressive, very nice… let’s see Paul Allen’s League client",2022-07-12T15:56:57,LABEL_2,0.963354766368866,joy,0.7123761177062988
+comment,leagueoflegends,2022,iftxujd,vx50mc,Why am I remembering a time in which the client looked like this?,2022-07-12T15:50:58,LABEL_1,0.5398659110069275,surprise,0.79515540599823
+comment,leagueoflegends,2022,ifu0nui,vx50mc,"You know what feels bad? When Riot teased Challenges and showed us a concept where we can have champions + their skins in the background of our banners. 
+
+https://imgur.com/L3hin7l <--- *for reference*",2022-07-12T16:31:12,LABEL_0,0.5266467332839966,disgust,0.61034095287323
+comment,leagueoflegends,2022,iftyeh4,vx50mc,"We don't even need all that nice effects, at this point it would be enough if it just worked properly.",2022-07-12T15:58:49,LABEL_1,0.49609270691871643,neutral,0.9627223610877991
+comment,leagueoflegends,2022,iftyxhs,vx50mc,Client now freezes all the time what would happen if they added this i can't even imagine,2022-07-12T16:06:17,LABEL_0,0.8556095957756042,surprise,0.8137383460998535
+comment,leagueoflegends,2022,iftw3gf,vx50mc,"Love how in the ""non spaghetti"" version heimerdinger's name is in Greek for some reason. Under a picture of Corki.",2022-07-12T15:26:46,LABEL_2,0.6266424655914307,surprise,0.45892900228500366
+comment,leagueoflegends,2022,ifu06ms,vx50mc,"It does look cool but I couldn’t care less about animations.
+
+I want features and smoothness. It’s really not much to ask, but then again its also been so many years…",2022-07-12T16:24:14,LABEL_2,0.4619487226009369,neutral,0.7663734555244446
+comment,leagueoflegends,2022,iftzmqv,vx50mc,So...your idea of well coded is having more animations...?,2022-07-12T16:16:21,LABEL_1,0.7076380252838135,neutral,0.49109548330307007
+comment,leagueoflegends,2022,iftxwd5,vx50mc,"The definition of spaghetti code is not a messy program, but rather code that is hard to maintain. You can create stuff like that with spaghetti code.",2022-07-12T15:51:39,LABEL_1,0.46563318371772766,neutral,0.7670361399650574
+comment,leagueoflegends,2022,iv94uzg,ynhmdi,Individual game discussions: [**Game 1**](https://www.reddit.com/r/leagueoflegends/comments/ynczql/t1_vs_drx_2022_world_championship_semifinals_game/) / [**Game 2**](https://www.reddit.com/r/leagueoflegends/comments/ynef04/t1_vs_drx_2022_world_championship_semifinals_game/) / [**Game 3**](https://www.reddit.com/r/leagueoflegends/comments/ynfglt/t1_vs_drx_2022_world_championship_final_game_3/) / [**Game 4**](https://www.reddit.com/r/leagueoflegends/comments/yngg2n/t1_vs_drx_2022_world_championship_final_game_4/),2022-11-06T14:23:26,LABEL_1,0.8299130797386169,neutral,0.8364613056182861
+comment,leagueoflegends,2022,iv942sr,ynhmdi,"Kingen on Aatrox teleports directly on an enemy control ward to get interrupted and lose them Game 2 of Quarterfinals. 
+
+Kingen on Aatrox walks away far enough to not get his teleport interrupted by T1 while they're trying to backdoor. 
+
+Character development",2022-11-06T14:13:04,LABEL_1,0.5788423418998718,anger,0.41956520080566406
+comment,leagueoflegends,2022,iv909js,ynhmdi,Kingen used Worlds Ender,2022-11-06T13:27:19,LABEL_1,0.8266012072563171,neutral,0.9287590980529785
+comment,leagueoflegends,2022,iv9038a,ynhmdi,Deft is a world champion but what a series from Kingen.,2022-11-06T13:25:29,LABEL_2,0.6365136504173279,surprise,0.46106603741645813
+comment,leagueoflegends,2022,iv903op,ynhmdi,I knew it was over when DRX ignored the Baron,2022-11-06T13:25:37,LABEL_0,0.5374552607536316,neutral,0.3821153938770294
+comment,leagueoflegends,2022,iv903jz,ynhmdi,NOBODY HAD KINGEN TURNING INTO PRIME THESHY - Ava,2022-11-06T13:25:35,LABEL_1,0.6619728803634644,neutral,0.8448182940483093
+comment,leagueoflegends,2022,iv903l5,ynhmdi,"DRX with the most legendary run in worlds history ever, untiltable kings.",2022-11-06T13:25:36,LABEL_2,0.8683336973190308,neutral,0.6830914616584778
+comment,leagueoflegends,2022,iv90719,ynhmdi,No one outsmites pyosik 9 times in a row,2022-11-06T13:26:33,LABEL_1,0.6641707420349121,surprise,0.5327640175819397
+comment,leagueoflegends,2022,iv9049b,ynhmdi,Beryl has eliminated Keria the last 3 years at Worlds,2022-11-06T13:25:46,LABEL_1,0.8546727299690247,sadness,0.4980689585208893
+comment,leagueoflegends,2022,iv903xd,ynhmdi,"DRX Keria: ""I made a promise with Deft to get to Worlds and win it. I’m really happy that we're one step closer.""  
+  
+Bittersweet. These guys were a close duo and sadly only one of them can win worlds.",2022-11-06T13:25:41,LABEL_2,0.9137758016586304,sadness,0.8479840755462646
+comment,leagueoflegends,2021,h18h4fj,nwb3gd,This is why Lee sin is blind,2021-06-10T10:43:45,LABEL_0,0.9119822382926941,sadness,0.5914141535758972
+comment,leagueoflegends,2021,h18di4b,nwb3gd,What in the unholy fuck is THAT,2021-06-10T10:13:28,LABEL_0,0.9621393084526062,anger,0.5638369917869568
+comment,leagueoflegends,2021,h1862da,nwb3gd,This is the first and last time I sort by new.,2021-06-10T09:12:29,LABEL_1,0.8607589602470398,neutral,0.8010784387588501
+comment,leagueoflegends,2021,h18deza,nwb3gd,# MY SINGER BRINGS UGLY DEATH,2021-06-10T10:12:45,LABEL_0,0.955315887928009,sadness,0.8294054865837097
+comment,leagueoflegends,2021,h18d44p,nwb3gd,I would pay my entire paycheck to have this as both a Skarner and a Seraphine skin. This is an absolute triumph of the arts.,2021-06-10T10:10:16,LABEL_2,0.9482748508453369,neutral,0.6737077832221985
+comment,leagueoflegends,2021,h185gju,nwb3gd,jesus christ,2021-06-10T09:07:30,LABEL_0,0.5575437545776367,neutral,0.8146341443061829
+comment,leagueoflegends,2021,h187ycx,nwb3gd,Enough Reddit for today,2021-06-10T09:27:57,LABEL_1,0.6577946543693542,neutral,0.8860177397727966
+comment,leagueoflegends,2021,h186hmz,nwb3gd,Captain Flowers doesn't know how to feel about this.,2021-06-10T09:15:57,LABEL_0,0.7073265314102173,neutral,0.46122437715530396
+comment,leagueoflegends,2021,h18g588,nwb3gd,Gonna post this under kda stans on twitter,2021-06-10T10:35:30,LABEL_1,0.9115777015686035,neutral,0.8885658383369446
+comment,leagueoflegends,2020,fker9go,fi2vhn,Him mimicking the voice makes me very excited,2020-03-14T01:03:44,LABEL_2,0.9875940680503845,joy,0.8537413477897644
+comment,leagueoflegends,2020,fkercsb,fi2vhn,"He's just T-posing there...
+
+***MENACINGLY***",2020-03-14T01:04:38,LABEL_0,0.4889317452907562,disgust,0.45516690611839294
+comment,leagueoflegends,2020,fkerc9v,fi2vhn,"Best champion teaser in a long, long while",2020-03-14T01:04:30,LABEL_2,0.8605993390083313,neutral,0.6877709627151489
+comment,leagueoflegends,2020,fker4hk,fi2vhn,Man that run is crazy,2020-03-14T01:02:21,LABEL_1,0.4634806215763092,anger,0.4161866307258606
+comment,leagueoflegends,2020,fkere2i,fi2vhn,Warwick rework teaser PTSD kicking in,2020-03-14T01:04:59,LABEL_0,0.5313606858253479,neutral,0.46941035985946655
+comment,leagueoflegends,2020,fker4iw,fi2vhn,finally a real scarecrow,2020-03-14T01:02:21,LABEL_1,0.6748337149620056,fear,0.9704429507255554
+comment,leagueoflegends,2020,fker5xl,fi2vhn,That run spooked the hell outta me.,2020-03-14T01:02:45,LABEL_0,0.884543240070343,fear,0.520837664604187
+comment,leagueoflegends,2020,fkes37e,fi2vhn,"Demacia can't catch a break.
+
+First they have to deal with Sylas reaking havoc on their city, being forced to send their best troops to the north, leaving the city exposed to a possible Noxas invade, and NOW they have this spooky ass creature eating the night patrols outside their city, probably getting close to being in their walls.
+
+Riot, I understand you dont what them to be all happy good guys but JEEZE.",2020-03-14T01:11:54,LABEL_0,0.9340779781341553,neutral,0.741784393787384
+comment,leagueoflegends,2020,fkerard,fi2vhn,Friday the 13th,2020-03-14T01:04:05,LABEL_1,0.8823877573013306,neutral,0.3687369227409363
+comment,leagueoflegends,2020,fkes0im,fi2vhn,"Guys, Helmet bro has a name now, he's one step closer to becoming a champion!",2020-03-14T01:11:09,LABEL_2,0.9476615190505981,joy,0.4888397753238678
+comment,leagueoflegends,2020,fvk9r2o,hdavav,"I wonder what percent of this subreddit hasn't played regularly in months or even years but still regularly checks the subreddit and follows league on like social media, etc.",2020-06-22T02:59:29,LABEL_1,0.624685525894165,surprise,0.9610501527786255
+comment,leagueoflegends,2020,fvk0n12,hdavav,Ranked destroys lives,2020-06-22T01:37:47,LABEL_0,0.9386315941810608,anger,0.6482044458389282
+comment,leagueoflegends,2020,fvk3w1q,hdavav,"at some point, the best thing you can do is learn to enjoy the shit show",2020-06-22T02:07:12,LABEL_0,0.3926316499710083,joy,0.3611745238304138
+comment,leagueoflegends,2020,fvk5bi8,hdavav,"I find uninstalling helps, but once a summoner always a summoner.",2020-06-22T02:20:00,LABEL_1,0.5533961653709412,neutral,0.8991671204566956
+comment,leagueoflegends,2020,fvkk7c2,hdavav,Honestly league just feels like a big old mini game to see who gets hard tilted first and throws the game for their team,2020-06-22T04:34:29,LABEL_1,0.7205287218093872,neutral,0.7806071043014526
+comment,leagueoflegends,2020,fvk7owu,hdavav,"Most people are titled by their teammates but I'm tilted by how bad I am at the game. It's truly demoralisering when you realize that you're shit after playing for 1+ year. Winning games doesn't outweigh this feeling, lol.",2020-06-22T02:41:10,LABEL_0,0.9112746119499207,sadness,0.5796675682067871
+comment,leagueoflegends,2020,fvkis8m,hdavav,"I hadn’t played ranked in a month. Yesterday I queue up. 
+
+First game, I mute all just out of habit. Jungler is 6/0, I’m crushing too, other lanes are slightly ahead.
+
+18 minutes jungler and mid afk. I unmute to figure out wtf happened. Mid was mad at jungler for not ganking more. That’s right, the 6/0 jungler wasn’t ganking enough.
+
+We lose that game.
+
+Second game, enemy team gets first blood. Of course my team starts spamming GG at 5 minutes because who wants to play the game at all unless you are absolutely crushing the enemy at all times.
+
+Moral of the story, ranked is full of people with no competitive spirit, at all. Not fun",2020-06-22T04:21:22,LABEL_0,0.878562331199646,anger,0.4419325590133667
+comment,leagueoflegends,2020,fvk8xtw,hdavav,[yes](https://imgur.com/nzZlQEi),2020-06-22T02:52:16,LABEL_1,0.8362740278244019,neutral,0.8474652767181396
+comment,leagueoflegends,2020,fvk4cdq,hdavav,"Yeap exactly this, I watch lec cool teams cool plays, Im right alright lets get this bread and play ranked... and then its all feeders, trolls, inters, flammers etc...
+
+I used to watch soccer without actually playing, maybe same will happen with league",2020-06-22T02:11:16,LABEL_1,0.5178112387657166,neutral,0.6458825469017029
+comment,leagueoflegends,2020,fvkt40z,hdavav,"The big issue is games dont feel rewarding at all anymore, you either smash and other team flames eachother and goes afk or it happens to you. Everytime you play a 50min long game with good teamfights its the best game in the world, but with the shift in meta it just isn’t that way anymore. I genuinely enjoy losing long tryhard games more than winning easy ass games.",2020-06-22T05:56:49,LABEL_0,0.5690010786056519,joy,0.9867867231369019
+comment,leagueoflegends,2020,gcr6ban,jwni1y,"Bjerg retiring, Perkz and Rekkles leaving their team
+
+Craziest off season for the west, by far",2020-11-19T04:21:49,LABEL_0,0.656133234500885,neutral,0.4391134977340698
+comment,leagueoflegends,2020,gcr6r56,jwni1y,LEC became the bundesliga now,2020-11-19T04:25:13,LABEL_1,0.8164941072463989,neutral,0.7632780075073242
+comment,leagueoflegends,2020,gcr61rc,jwni1y,Wait. What the fuck-,2020-11-19T04:19:44,LABEL_0,0.8789029121398926,anger,0.7573255896568298
+comment,leagueoflegends,2020,gcr65gp,jwni1y,FNC is fucked hard lol. But is he going to G2?,2020-11-19T04:20:32,LABEL_0,0.8343673944473267,anger,0.5379542112350464
+comment,leagueoflegends,2020,gcr644z,jwni1y,G2 Rekkles. RIP Bwipo on Dom's stream. He talked about how he wanted to build around him and now he is gone,2020-11-19T04:20:16,LABEL_1,0.49505364894866943,sadness,0.6109640598297119
+comment,leagueoflegends,2020,gcr673w,jwni1y,"Welcome back, FNC Steelback!",2020-11-19T04:20:54,LABEL_2,0.9665001034736633,neutral,0.48652535676956177
+comment,leagueoflegends,2020,gcr79ts,jwni1y,FNC really is just the academy G2 team.,2020-11-19T04:29:27,LABEL_1,0.6729782223701477,neutral,0.9627108573913574
+comment,leagueoflegends,2020,gcr5zze,jwni1y,"HOLY SHIT ITS HAPPENING
+
+but how insane is G2 Rekkles?? Atleast on paper
+
+edit: G2 Rekkles according to
+https://twitter.com/BloopGG/status/1329165788578783232",2020-11-19T04:19:21,LABEL_0,0.7520985007286072,surprise,0.5840175747871399
+comment,leagueoflegends,2020,gcra9rk,jwni1y,"“...after the largest offer Fnatic has ever made to a player – including a long-term plan for his future after his playing career – Martin has made the decision to move on. This decision was not based on financial gain.”
+
+He came to the conclusion that playing with Fnatic, while lucrative, wouldn’t bring the W. He’s been suffering these past couple years and it must’ve taken its toll on him.",2020-11-19T04:53:01,LABEL_0,0.5478010773658752,sadness,0.9118321537971497
+comment,leagueoflegends,2020,ghfzpnl,kmocom,"""All warfare is based on deception"" - Teemo",2020-12-30T07:39:39,LABEL_0,0.6368567943572998,neutral,0.3631695806980133
+comment,leagueoflegends,2020,ghfyuj0,kmocom,"Dear god.
+
+I've never seen a brain so large.",2020-12-30T07:31:59,LABEL_0,0.6265764832496643,surprise,0.839612603187561
+comment,leagueoflegends,2020,ghfvfy6,kmocom,Task failed successfully,2020-12-30T07:02:10,LABEL_0,0.6024859547615051,sadness,0.8617463111877441
+comment,leagueoflegends,2020,ghg2bo3,kmocom,Incredible,2020-12-30T08:02:58,LABEL_2,0.715942919254303,surprise,0.7594732046127319
+comment,leagueoflegends,2020,ghfxvyk,kmocom,Flash cant fail if they cant see you flash,2020-12-30T07:23:37,LABEL_1,0.6298677921295166,neutral,0.4951745271682739
+comment,leagueoflegends,2020,ghg5vt4,kmocom,"now my teammates are gunna try this and just flash, sit there and die",2020-12-30T08:34:53,LABEL_0,0.7640777826309204,anger,0.5629755854606628
+comment,leagueoflegends,2020,ghg23ys,kmocom,Imagine if the khazix had an oracle lmao,2020-12-30T08:01:02,LABEL_1,0.703498899936676,neutral,0.911737322807312
+comment,leagueoflegends,2020,ghg866n,kmocom,If it works it ain't stupid,2020-12-30T08:54:49,LABEL_1,0.5475514531135559,anger,0.7522547841072083
+comment,leagueoflegends,2020,ghg3htz,kmocom,"To be fair, it did look like panth still had vision on the spot where Teemo flashed to. Still an incredible calculated play by Teemo!",2020-12-30T08:13:34,LABEL_2,0.8631312847137451,surprise,0.720089316368103
+comment,leagueoflegends,2020,g176tlu,i8aknf,This could have gone so wrong at every stage lmao,2020-08-12T17:53:59,LABEL_0,0.925482451915741,neutral,0.7956423163414001
+comment,leagueoflegends,2020,g177me0,i8aknf,Upvoted after seeing that flash. The balls,2020-08-12T18:07:26,LABEL_1,0.5637724995613098,surprise,0.5736043453216553
+comment,leagueoflegends,2020,g17aqk8,i8aknf,\[All\](Vel'koz): im a sperm,2020-08-12T18:57:39,LABEL_1,0.5473694205284119,neutral,0.7780258059501648
+comment,leagueoflegends,2020,g17f3yq,i8aknf,Thank your akali. she’s the real hero here. my mid would be under turret question pinging me,2020-08-12T19:59:41,LABEL_2,0.8159030675888062,sadness,0.5395622253417969
+comment,leagueoflegends,2020,g17khdr,i8aknf,EDEN in the background 🙏,2020-08-12T21:02:35,LABEL_2,0.6017155647277832,neutral,0.7608330845832825
+comment,leagueoflegends,2020,g17f7yj,i8aknf,Cho' Gath with Q lvl 1. I thought E was the way to go. Have i been doing it wrong this whole time?,2020-08-12T20:01:05,LABEL_0,0.6559533476829529,neutral,0.6654676795005798
+comment,leagueoflegends,2020,g1777qe,i8aknf,Did you get the double or no??,2020-08-12T18:00:38,LABEL_1,0.8425520062446594,surprise,0.7968224883079529
+comment,leagueoflegends,2020,g17k88q,i8aknf,"Ah yes the famous coinflip to either go back to ur lane without anything and 1 min late, or the same result but with a blue",2020-08-12T20:59:54,LABEL_1,0.7008386850357056,neutral,0.7801838517189026
+comment,leagueoflegends,2020,g17cxb2,i8aknf,But did the double happen? The cut off was so cruel.,2020-08-12T19:30:11,LABEL_0,0.9657742381095886,disgust,0.5372962951660156
+comment,leagueoflegends,2020,g17b9hc,i8aknf,*What the fuck*,2020-08-12T19:05:41,LABEL_0,0.9197654128074646,anger,0.6913064122200012
+comment,leagueoflegends,2020,gaw7c5c,jmmc9z,Just say gg without the ez.,2020-11-02T21:36:29,LABEL_1,0.8080090880393982,disgust,0.6714465618133545
+comment,leagueoflegends,2020,gaw3mcy,jmmc9z,"I, too, would‘ve honored the enemy Nami who went AFK for whatever random reason so we had a fucking fighting chance against that 20 kill Evelynn absolutely destroying us.
+
+...Which is probably also the reason why the feature‘s gone.",2020-11-02T20:52:19,LABEL_0,0.8496723771095276,anger,0.7269284129142761
+comment,leagueoflegends,2020,gaw4kwt,jmmc9z,And honoring just one sucks! I wish I could honor all my teammates sometimes.,2020-11-02T21:04:14,LABEL_0,0.7003893256187439,disgust,0.6847673058509827
+comment,leagueoflegends,2020,gaw3pxv,jmmc9z,"Weekly thread of why can't I honor enemies.
+
+Because it was used to mark ppl who ran it down and gift you free win.",2020-11-02T20:53:34,LABEL_0,0.5917019248008728,neutral,0.86274254322052
+comment,leagueoflegends,2020,gaw9rqj,jmmc9z,"Lately I've had tons of good enemies, they play better then me but stay sportsmanlike, they give tips in chat on how to beat them and they are all around great players. I would love to have the ability to honor them back.  
+
+
+I don't really care much if people use the system to honor inters as long as i get to honor the people who really deserves an honor",2020-11-02T22:02:09,LABEL_2,0.7527598142623901,neutral,0.516942024230957
+comment,leagueoflegends,2020,gawb3hp,jmmc9z,This is actually a good feature they have in ow. You have 3 honors that you can give out to anyone on yours or the enemy team. If they enemy team plays well you can honor them if your team does you can Honor them or a mix of both.,2020-11-02T22:15:18,LABEL_2,0.8979836702346802,neutral,0.946221649646759
+comment,leagueoflegends,2020,gaw4mwv,jmmc9z,I want the report for being unskilled back. Even if it did nothing it was a satisfactory way to vent your frustration so it was working as intended.,2020-11-02T21:04:55,LABEL_1,0.5512948036193848,anger,0.924832820892334
+comment,leagueoflegends,2020,gawbzmp,jmmc9z,"Maybe they could implement a second honor screen, one for your team, one for the enemy team. The first one works as it currently does. The second one is completely simbolic and invisible to others. The person will notice they were honored, but it wouldn't add to honor progress or show up on the next match.
+Therefore it would be nice when correctly used and when incorrectly used, people would ""honor"" griefers with no consequences.
+You keep the feature but remove the things that were abused.
+
+So what's the point then? It's to give people a means of appreciating the enemy and promoting player respect and good behavior, without leaving the possibility of this being abused.",2020-11-02T22:23:54,LABEL_1,0.5574060082435608,neutral,0.9324324727058411
+comment,leagueoflegends,2020,gaw3jlt,jmmc9z,You can use all chat or postmatch lobby to write something,2020-11-02T20:51:21,LABEL_1,0.8944893479347229,neutral,0.967513382434845
+comment,leagueoflegends,2021,gla5eld,l80nz3,"what's unclear to the average follower, ""pleb"" as I like to call it, is that Riot does not possess the LIQUIDITY necessary to facilitate all the LP gains that the POPULIST Swain pick is introducing to the system.
+
+In 2020, Riot started negotiations with Chinese water bottling company Nongfu Spring to take partial ownership to provide much-needed liquidity, hence the introduction of highly OP item Staff of Flowing Water for the 2021 season as payment.
+
+China is getting really smart with product placement.",2021-01-30T03:58:40,LABEL_1,0.589474081993103,neutral,0.950814425945282
+comment,leagueoflegends,2021,gla3a5i,l80nz3,"Didn't expect this here but hey, call me Malphite cause I got DIAMOND HANDS",2021-01-30T03:46:29,LABEL_0,0.4885217249393463,surprise,0.6008413434028625
+comment,leagueoflegends,2021,gla9udm,l80nz3,"If you have ANY Swain games right now, HOLD THE FUCKING LINE AND DO NOT STOP PLAYING 3 SWAIN GAMES A DAY. 
+
+The SQUEEZE HAS NOT YET BEEN SQUOZE. There will be a (LP) ladder attack by Seraphine abusers that could trigger Swain to go down to 40% winrate, BUT DO NOT STOP PLAYING SWAIN. 
+
+Remember back to 2015 Skarner's 70% winrate. We haven't come even close to hitting the peak of Swain's winrate yet. Everyone KEEP PLAYING SWAIN AND WE WILL HIT 70% AND WE WILL ALL COLLECT OUR FREE LP!
+
+
+💎👐 THE LP TO THE MOON 🚀🚀🚀🚀🚀🚀🚀🚀🚀
+
+I AM NOT A HIGH ELO ANALYST, I JUST LIKE THE CHAMP",2021-01-30T04:24:30,LABEL_1,0.4771953225135803,anger,0.591762900352478
+comment,leagueoflegends,2021,gla3kxf,l80nz3,User 'swainfuckinggain' in shambles after recently acquiring over 10 million mastery points.,2021-01-30T03:48:12,LABEL_0,0.7968176007270813,anger,0.7722644209861755
+comment,leagueoflegends,2021,gla495u,l80nz3,TO THE MOON! 🚀,2021-01-30T03:52:02,LABEL_1,0.5106260180473328,neutral,0.5120851993560791
+comment,leagueoflegends,2021,glabbiy,l80nz3,This is some insane meta shitpost.,2021-01-30T04:32:58,LABEL_0,0.9495242238044739,disgust,0.7996816635131836
+comment,leagueoflegends,2021,glacghb,l80nz3,"Challenger players restricting the ""free game"" again, while they can still play whatever they want. And then they blame us for ladder manipulation because we were discussing about playing Swain? 
+
+**WE LIKE THE CHAMP**. 🚀🚀🚀
+
+Disclaimer, this is no gameplay advice, I'm no coach. I'm literally an Iron 2 player.",2021-01-30T04:39:40,LABEL_0,0.4876072108745575,neutral,0.4520414471626282
+comment,leagueoflegends,2021,gla3urn,l80nz3,WE LIKE THE CHAMP,2021-01-30T03:49:45,LABEL_2,0.6134296655654907,neutral,0.7875020503997803
+comment,leagueoflegends,2021,gla32i1,l80nz3,"We really need flairs though having to put ""[Satire]"" on meme posts in the title takes the fun out of it while reading the title",2021-01-30T03:45:14,LABEL_0,0.7021920680999756,neutral,0.7770846486091614
+comment,leagueoflegends,2021,gl9ypw0,l80nz3,TO THE MOON,2021-01-30T03:20:06,LABEL_1,0.7923764586448669,neutral,0.8804960250854492
+comment,leagueoflegends,2020,fzecsbh,hyr8dn,"This may be why blue side always wins when you let only the minions fight, since the blue cannon minions can attack sooner.",2020-07-27T20:42:26,LABEL_1,0.7115615606307983,neutral,0.9668643474578857
+comment,leagueoflegends,2020,fzedzpy,hyr8dn,This game's been rigged from the start...,2020-07-27T20:56:04,LABEL_0,0.9242634773254395,disgust,0.40168923139572144
+comment,leagueoflegends,2020,fzf6mm8,hyr8dn,"This is such a weird coincidence. Just last week I was looking through the minion data and found this bug. I legit spent like 2 hours double triple checking to make sure that these values were actually the ones controlling range, like who would've thought this would be in the game since Alpha.
+
+Anyways, the very fabric of league of legends is probably gonna break and minions will never be the same after this. (It seems pretty much the same on internal environments tbh). What a wild bug, and what a hilarious coincidence.",2020-07-28T01:04:45,LABEL_0,0.6099351644515991,surprise,0.5253437161445618
+comment,leagueoflegends,2020,fzed6cb,hyr8dn,"No! If that 280 is changed to a 300, the very fabric of the Summoner's Rift will fall apart! This range difference between the two sides is the prime coordinate of all the spaghetti in the game. It is the original noodle, if you will. The creation of all things and origin of the very spaghetti foundation is at stake.",2020-07-27T20:46:53,LABEL_0,0.5533328652381897,anger,0.3836422562599182
+comment,leagueoflegends,2020,fzecxnr,hyr8dn,inb4 red side toplaners new scapegoat for bad trades.,2020-07-27T20:44:07,LABEL_0,0.5145110487937927,anger,0.4928823411464691
+comment,leagueoflegends,2020,fzemr1h,hyr8dn,This invalidates all previous World Championships.,2020-07-27T22:21:52,LABEL_0,0.7148609161376953,neutral,0.7028908729553223
+comment,leagueoflegends,2020,fzebbh0,hyr8dn,"Had this TL;DR prepared.
+https://i.imgur.com/jNJgQLt.png",2020-07-27T20:24:53,LABEL_1,0.8371242880821228,neutral,0.9469218254089355
+comment,leagueoflegends,2020,fzeensy,hyr8dn,"Things I learned from this post:
+
+\- Blue cannon > Red cannon
+
+\- Neeko as thicc as Urgot
+
+\- Warwick is a Yordle",2020-07-27T21:03:29,LABEL_1,0.7422022819519043,neutral,0.474343478679657
+comment,leagueoflegends,2020,fzebrvc,hyr8dn,"A bug that's older than Mordekaiser's existence? There is no telling what could happen if this gets fixed 
+
+monkaW 
+
+But for real hope this gets fixed.",2020-07-27T20:30:24,LABEL_1,0.43965068459510803,fear,0.5565195679664612
+comment,leagueoflegends,2020,fzedyvv,hyr8dn,I am scared what would happen if they touch that ancient spaghetti.,2020-07-27T20:55:49,LABEL_0,0.8974184989929199,fear,0.9893355965614319
+comment,leagueoflegends,2021,h2mcngt,o5d8wj,As soon as I saw the circle closing in I knew it.,2021-06-22T13:06:37,LABEL_1,0.7749887108802795,surprise,0.7089316248893738
+comment,leagueoflegends,2021,h2mbjvr,o5d8wj,i find the lack of pings disturbing,2021-06-22T12:53:24,LABEL_0,0.9134680032730103,sadness,0.40952757000923157
+comment,leagueoflegends,2021,h2mbym3,o5d8wj,why 5 people were dancing around afraid to go on janna beats me lol,2021-06-22T12:58:18,LABEL_1,0.4879266023635864,fear,0.7786824107170105
+comment,leagueoflegends,2021,h2me4ld,o5d8wj,"Weird how qiyana got that rumble kill, does Janna ult not count towards a kill?",2021-06-22T13:25:09,LABEL_1,0.5664222836494446,disgust,0.7827491164207458
+comment,leagueoflegends,2021,h2mga7g,o5d8wj,The ending was obvious but still very satisfying,2021-06-22T13:53:03,LABEL_2,0.9378135204315186,joy,0.9837391376495361
+comment,leagueoflegends,2021,h2maq4a,o5d8wj,You gotta love the janna ult in nexus blitz,2021-06-22T12:43:39,LABEL_2,0.9487189650535583,neutral,0.8074570298194885
+comment,leagueoflegends,2021,h2mf6zz,o5d8wj,FUS RO DAH,2021-06-22T13:38:49,LABEL_1,0.5695102214813232,anger,0.7846260070800781
+comment,leagueoflegends,2021,h2m62b3,o5d8wj,That right there was amazing,2021-06-22T11:51:27,LABEL_2,0.9755063056945801,surprise,0.875590980052948
+comment,leagueoflegends,2021,h2mg7q8,o5d8wj,"Guys, it's the paranoia bardle royale, so the pings are disabled and they couldn't really see the janna",2021-06-22T13:52:07,LABEL_0,0.5598194003105164,neutral,0.6075683236122131
+comment,leagueoflegends,2020,geqkzi8,k7f479,"Garen: I'm going to baron pit
+
+Olaf: Understandable, have a nice day",2020-12-06T05:27:36,LABEL_2,0.7800965309143066,neutral,0.4823266565799713
+comment,leagueoflegends,2020,geqqjda,k7f479,"Once the Olaf ult wore off hes just leaves like oh sorry, that wasn't me. He must've had a snickers and came back to his senses.",2020-12-06T06:09:01,LABEL_1,0.6222490668296814,sadness,0.6152623295783997
+comment,leagueoflegends,2020,geqgh64,k7f479,Olaf with the 2head plays lol,2020-12-06T04:52:57,LABEL_1,0.6922861933708191,joy,0.5055770874023438
+comment,leagueoflegends,2020,geqlbnz,k7f479,I can almost hear Olaf pinging Garen flash,2020-12-06T05:30:15,LABEL_1,0.7963775396347046,disgust,0.39755746722221375
+comment,leagueoflegends,2020,geqt3xn,k7f479,He was scared of Baron,2020-12-06T06:28:49,LABEL_1,0.6083503365516663,fear,0.9890601634979248
+comment,leagueoflegends,2020,ger8qg6,k7f479,Fooling an Olaf player is on the same level as convincing your dog you threw the ball,2020-12-06T08:29:57,LABEL_0,0.8521015048027039,anger,0.49860143661499023
+comment,leagueoflegends,2020,ger2weo,k7f479,It was actually just a race to baron,2020-12-06T07:43:43,LABEL_1,0.7643059492111206,neutral,0.9511228799819946
+comment,leagueoflegends,2020,ger1dbe,k7f479,"The Garen used Q before he was hit with a sure slow, and used W when nothing was incoming.",2020-12-06T07:31:51,LABEL_1,0.8157625794410706,neutral,0.9428256154060364
+comment,leagueoflegends,2020,ger2qd6,k7f479,Aight I'm gonna head out Garen........theres a cannon in lane.,2020-12-06T07:42:25,LABEL_1,0.8611654043197632,neutral,0.5279136896133423
+comment,leagueoflegends,2020,geqklzl,k7f479,Expected from an Olaf player,2020-12-06T05:24:38,LABEL_1,0.8163619637489319,neutral,0.6227748394012451
+comment,leagueoflegends,2020,gdqc4s7,k1rhma,MOM DIFF 😭,2020-11-27T11:29:57,LABEL_1,0.4992143213748932,neutral,0.6949389576911926
+comment,leagueoflegends,2020,gdq1be8,k1rhma,For more parents/people like you who are willing to embrace the challenge of a new thing to save an important relationship instead of giving it up.,2020-11-27T09:29:45,LABEL_2,0.7871555685997009,neutral,0.4561145007610321
+comment,leagueoflegends,2020,gdq4ueq,k1rhma,This makes me wonder if League can stay long enough that the earliest League players can play and watch League together with their children just like traditional sports.,2020-11-27T10:09:24,LABEL_1,0.7253226637840271,surprise,0.9402754306793213
+comment,leagueoflegends,2020,gdq0ahr,k1rhma,It’s enough to make a man cry...,2020-11-27T09:18:29,LABEL_1,0.5339984893798828,neutral,0.574293315410614
+comment,leagueoflegends,2020,gdq7zov,k1rhma,Parents willing to try and understand their kid's interests are the best kind of parents.,2020-11-27T10:43:49,LABEL_2,0.8118252158164978,neutral,0.8021523952484131
+comment,leagueoflegends,2020,gdq7197,k1rhma,"My boy is only 3 months old but I hope to play with him when he grows up. If instead he chooses to be a sporty guy, I'll take inspiration from you, suck it up and learn the sport to connect with him",2020-11-27T10:33:24,LABEL_2,0.6826353669166565,neutral,0.6720827221870422
+comment,leagueoflegends,2020,gdq2uu1,k1rhma,You are an amazing mother! I bet he treasures that memory too :),2020-11-27T09:47:01,LABEL_2,0.9881459474563599,surprise,0.35868769884109497
+comment,leagueoflegends,2020,gdq6mcp,k1rhma,"You’re and incredible mother and your son is extremely lucky to have been able to bond with you over this game. I promise you he cherishes those memories and will never forget them.
+
+Cheers :)",2020-11-27T10:28:56,LABEL_2,0.9870603084564209,joy,0.7964135408401489
+comment,leagueoflegends,2020,gdq8941,k1rhma,Moms are the best. When I was 15 I had my first job and had to miss my first New Years Eve. I got home after midnight and I was super sad because all my friends had so much fun. My mom ended up playing Gears of War with me to cheer me up and holy crap was it the funniest thing I have ever seen in my life. Cheered me right up!,2020-11-27T10:46:42,LABEL_2,0.988840639591217,sadness,0.5741360187530518
+comment,leagueoflegends,2020,gdq0fa8,k1rhma,Love to see it :),2020-11-27T09:19:57,LABEL_2,0.9797955751419067,joy,0.963670015335083
+comment,leagueoflegends,2020,fd7fk6r,ek8xh1,Notice they speed up the video over lee's reactions to make the plays seem bigger.  Awesome plays anyway tho. Id do anything to be as good as him.  Except practice.,2020-01-05T13:54:49,LABEL_2,0.6967309713363647,surprise,0.5459641218185425
+comment,leagueoflegends,2020,fd7oszx,ek8xh1,No champ offers the chance to show off like Lee Sin does.,2020-01-05T15:02:44,LABEL_1,0.6670845746994019,neutral,0.7754365801811218
+comment,leagueoflegends,2020,fd7gr0f,ek8xh1,"Jesus...
+
+And I am getting hyped as hell if I manage to do basic insec without killing myself, or my team, as a result",2020-01-05T14:04:06,LABEL_1,0.4104173183441162,disgust,0.49084094166755676
+comment,leagueoflegends,2020,fd7vjkl,ek8xh1,Is everything sped up or is my brain too Pepega.,2020-01-05T15:53:03,LABEL_0,0.7358388900756836,neutral,0.6828885674476624
+comment,leagueoflegends,2020,fd7mnd7,ek8xh1,Why are these videos always cut off? I swear its custom games cus you literally never see the whole screen with these. Not that I could pull these off in a custom but still...,2020-01-05T14:46:58,LABEL_0,0.778177797794342,surprise,0.7675496339797974
+comment,leagueoflegends,2020,fd7l7wr,ek8xh1,"Well that’s just rude, Hecarim coming over the wall and Lee just like NOPE",2020-01-05T14:36:48,LABEL_0,0.875316321849823,disgust,0.33889004588127136
+comment,leagueoflegends,2020,fd7nfw8,ek8xh1,"As pointed out in previous posts, likely staged for tiktok views.",2020-01-05T14:52:47,LABEL_1,0.7434772253036499,neutral,0.8459786772727966
+comment,leagueoflegends,2020,fd7s4g8,ek8xh1,/r/scriptedasiangifs,2020-01-05T15:27:20,LABEL_1,0.7474597692489624,neutral,0.7914471626281738
+comment,leagueoflegends,2020,fd92fjz,ek8xh1,Theese videos are totally fake. I mean enemy players deserve Oscar.,2020-01-05T20:29:26,LABEL_0,0.9040111899375916,anger,0.5296331644058228
+comment,leagueoflegends,2020,fd7t554,ek8xh1,I heard that those are just staged to get views,2020-01-05T15:34:53,LABEL_1,0.5646724104881287,neutral,0.7417954802513123
+comment,leagueoflegends,2020,flhk85r,fow271,This with any spam champ = epileptic seizure.,2020-03-26T03:23:59,LABEL_0,0.7726344466209412,neutral,0.5973380208015442
+comment,leagueoflegends,2020,flhqpw4,fow271,"For anyone interested in the technical details, the setup is a NodeMCU paired with a WS2812 LED strip running WLED software, which receives E1.31 (sACN) data over WiFi, sent by my PC with a custom C# program (what a mouthful). As soon as I get some more work done, I'll make a repository.  
+
+The program is not even remotely done. The main idea is that it will tap on LoL live client data to figure out which champion is being played, and then set up keyboard macros, so that when you press R, a certain animation plays. So you could have different animation sets for Vel'Koz, Evelynn or Xerath. Only Vel'Koz for now because Vel'Koz mains.  
+Some people were right in that the animations don't trigger when an enemy is hit, or accounts for channel interruptions, it's just a timer.  
+
+The next step will be integrating it with more stats, such as Health/Mana, to create interesting effects.  
+
+EDIT: I'm absolutely going to create a GitHub repo for this so you can contribute with animations for every champ. As soon as I add support for it and document everything up I'll post a follow-up with the repo link.
+  
+EDIT2: Check out the repository [here](https://github.com/nicolasdeory/leagueoflegends-led)! Help is greatly appreciated.",2020-03-26T04:22:07,LABEL_2,0.5284494757652283,neutral,0.9341866970062256
+comment,leagueoflegends,2020,flhjjlr,fow271,"this is pretty cool! i wouldnt mind a tutorial ~~if this blows up~~
+
+edit: would want a tutorial anways",2020-03-26T03:17:47,LABEL_2,0.9247390031814575,joy,0.38920289278030396
+comment,leagueoflegends,2020,flhrj76,fow271,Why can Vel get boots but Cass can’t? Rito pls.,2020-03-26T04:29:16,LABEL_1,0.5722719430923462,neutral,0.6848528981208801
+comment,leagueoflegends,2020,flhx75v,fow271,Looks good but holy shit I would go insane in less than 5 minutes probably.,2020-03-26T05:19:44,LABEL_2,0.5992832183837891,disgust,0.3231774866580963
+comment,leagueoflegends,2020,flhkcv3,fow271,"Would love to know what you're using for this, both hardware and software.
+
+&#x200B;
+
+Looks incredible though!",2020-03-26T03:25:11,LABEL_2,0.9568641781806946,surprise,0.4855605363845825
+comment,leagueoflegends,2020,flhv7ie,fow271,Ulting causes epilepsy and Velkoz uses this information to his advantage,2020-03-26T05:01:44,LABEL_0,0.7517592906951904,neutral,0.5649102926254272
+comment,leagueoflegends,2020,flhp6m1,fow271,"**It's beautiful, I've looked at this for five hours now.**",2020-03-26T04:08:05,LABEL_2,0.9772018194198608,neutral,0.5771808624267578
+comment,leagueoflegends,2020,flhpg17,fow271,I guess it reacts to your key presses as opposed to what happens ingame?,2020-03-26T04:10:26,LABEL_1,0.8272557854652405,neutral,0.9111102223396301
+comment,leagueoflegends,2020,flhpyni,fow271,I find their elbows obscene.,2020-03-26T04:15:15,LABEL_0,0.9509682655334473,disgust,0.984660804271698
+comment,leagueoflegends,2020,gfvrsuf,kdcfym,fuck i really wanted him to live,2020-12-15T10:54:38,LABEL_0,0.7301623225212097,anger,0.8609097599983215
+comment,leagueoflegends,2020,gfvsa1l,kdcfym,Rip lil minion. You will be remembered!,2020-12-15T10:58:49,LABEL_2,0.7137797474861145,joy,0.3273615837097168
+comment,leagueoflegends,2020,gfw1lgk,kdcfym,Also the greatest Vayne ever.,2020-12-15T12:23:50,LABEL_2,0.8886590600013733,neutral,0.43468156456947327
+comment,leagueoflegends,2020,gfvtkzx,kdcfym,You guys better honor this minion,2020-12-15T11:10:21,LABEL_1,0.47796741127967834,neutral,0.5741901397705078
+comment,leagueoflegends,2020,gfvvzqx,kdcfym,Oh the roller coaster of emotion when the new minion wave emerged.,2020-12-15T11:32:09,LABEL_2,0.49413001537323,surprise,0.737368106842041
+comment,leagueoflegends,2020,gfvu2di,kdcfym,"Did you really have to cut out the music right before the ""from dust?"" XD Great clip tho",2020-12-15T11:14:33,LABEL_2,0.7060560584068298,surprise,0.7921209931373596
+comment,leagueoflegends,2020,gfvrw4b,kdcfym,Holy shit that was epic. I wish I had a free award because this minion deserves it.,2020-12-15T10:55:26,LABEL_2,0.9567171335220337,surprise,0.929500162601471
+comment,leagueoflegends,2020,gfw4lz5,kdcfym,Vayne threw hard.,2020-12-15T12:52:20,LABEL_1,0.7367426753044128,neutral,0.40192708373069763
+comment,leagueoflegends,2020,gfw87bj,kdcfym,Imagine if there was a game mode where everyone is just fucking minions,2020-12-15T13:31:52,LABEL_0,0.8356267809867859,anger,0.5602774024009705
+comment,leagueoflegends,2020,gfvtqz8,kdcfym,New champ confirmed?,2020-12-15T11:11:47,LABEL_1,0.9146384000778198,neutral,0.5773745775222778
+comment,leagueoflegends,2021,h47ec92,oel9aa,"i was wondering why he kept deaggroing so gromp regened to full and re-engaging despite being lower in hp every time
+
+turns out this man's actually a supercomputer and calculating the perfect sequence of events to both kill it and get a fast back. absolutely flawless take.",2021-07-06T12:46:49,LABEL_2,0.6533174514770508,surprise,0.9732037782669067
+comment,leagueoflegends,2021,h472wxm,oel9aa,"Ngl, when I saw that smite, I died. Legit wasn't expecting that cause I thought it was solo lane Yone LOL",2021-07-06T10:46:19,LABEL_0,0.4885866045951843,surprise,0.7244030833244324
+comment,leagueoflegends,2021,h474ms6,oel9aa,Hear me out… he got the gromp,2021-07-06T11:02:48,LABEL_1,0.7414405345916748,neutral,0.42153504490852356
+comment,leagueoflegends,2021,h47aon7,oel9aa,Your teams Yone,2021-07-06T12:04:58,LABEL_1,0.7703966498374939,neutral,0.9198575615882874
+comment,leagueoflegends,2021,h474q09,oel9aa,LOL THAT GUY FUCKING ULTED A GROMP,2021-07-06T11:03:41,LABEL_0,0.8955409526824951,anger,0.6177877187728882
+comment,leagueoflegends,2021,h47c3ev,oel9aa,What the fuck,2021-07-06T12:20:36,LABEL_0,0.9482038617134094,anger,0.7825895547866821
+comment,leagueoflegends,2021,h47c5l6,oel9aa,this needs some suspenseful music that pauses then resumes when he goes back to finish it off,2021-07-06T12:21:15,LABEL_1,0.810357928276062,fear,0.835939347743988
+comment,leagueoflegends,2021,h479je2,oel9aa,"LOOK AT THE ULT
+LOOK AT THE MOVES
+FAKER
+WHAT
+WAS
+THAT",2021-07-06T11:52:34,LABEL_1,0.6683267951011658,neutral,0.8735827207565308
+comment,leagueoflegends,2021,h47g7zq,oel9aa,The fact this was recorded on a phone when it is easy to export video directly from the client adds to the shittiness of this video.,2021-07-06T13:09:46,LABEL_0,0.9183083176612854,disgust,0.9570282101631165
+comment,leagueoflegends,2021,h47b9an,oel9aa,This is pretty cement evidence that Yone is in fact Yasuo's brother.,2021-07-06T12:11:17,LABEL_1,0.7844387888908386,neutral,0.8563223481178284
+comment,leagueoflegends,2020,fr190bm,gm2hd4,I haven't seen a shitpost on such a cosmic scale ever since aphelios was announced on official forums.,2020-05-18T23:25:10,LABEL_0,0.6581435203552246,disgust,0.6958240866661072
+comment,leagueoflegends,2020,fr1bz2s,gm2hd4,">ADC players are masochists. They like being slaved around by their random braindead partner.
+
+Leatherman Braum when.",2020-05-18T23:50:41,LABEL_0,0.9176377058029175,disgust,0.8182005286216736
+comment,leagueoflegends,2020,fr14hfb,gm2hd4,Porn Star Aatrox prestige edition when?,2020-05-18T22:44:42,LABEL_1,0.9133575558662415,neutral,0.5411748290061951
+comment,leagueoflegends,2020,fr19ds1,gm2hd4,"Apology to all streamers, coaches, lol content creator, karma hoarder, and rapper Ja Rule for having to cancel their podcast/video since I already saved SoloQ.",2020-05-18T23:28:24,LABEL_1,0.5803759694099426,sadness,0.6122542023658752
+comment,leagueoflegends,2020,fr160cn,gm2hd4,"This is one of the best shit posts I have read in months. 
+
+""They are trying to scout that bronze brand who solo killed faker years ago. 
+
+Actually lol'd",2020-05-18T22:58:30,LABEL_0,0.5047369003295898,neutral,0.5236352682113647
+comment,leagueoflegends,2020,fr1mv7d,gm2hd4,"I write porn on commission and as a hobby, and as much of a meme as this post is, I'm always shocked by how unpopular League is compared to other games. Overwatch is still huge, Nintendo games like FE are huge, FF is dominating right now. But in certain circles League is just a rare treat. I find it interesting how the biggest game isn't number one porn wise.",2020-05-19T01:21:06,LABEL_1,0.44151273369789124,surprise,0.9748120903968811
+comment,leagueoflegends,2020,fr15bfy,gm2hd4,You are spot on about top lane. Give Pool Party Garen pls.,2020-05-18T22:52:18,LABEL_2,0.620267391204834,neutral,0.9353161454200745
+comment,leagueoflegends,2020,fr17ngh,gm2hd4,We need a Ricardo Milos Pantheon skin.,2020-05-18T23:13:08,LABEL_1,0.8487850427627563,neutral,0.9477776885032654
+comment,leagueoflegends,2022,hrdjq1h,rwqu00,Ievan Polkka is a BOP,2022-01-06T01:09:40,LABEL_0,0.47314468026161194,neutral,0.9090452790260315
+comment,leagueoflegends,2022,hrdn8zj,rwqu00,This is going to be a great emote for spamming when I miss all of my abilities and die,2022-01-06T01:30:39,LABEL_2,0.49274614453315735,neutral,0.6462264657020569
+comment,leagueoflegends,2022,hrdekmz,rwqu00,Me mindlessly spamming Q at the enemy team until one hits for 1k damage.,2022-01-06T00:38:32,LABEL_1,0.6546866297721863,anger,0.8605090379714966
+comment,leagueoflegends,2022,hrdiidd,rwqu00,Reminds me of the God-King Darius and Garen dances,2022-01-06T01:02:22,LABEL_1,0.8257056474685669,neutral,0.8478087186813354
+comment,leagueoflegends,2022,hrdutml,rwqu00,"Porcelain Ezreal, God-king Darius/Garen and Dragon Trainer Tristana can now all bop together.",2022-01-06T02:15:30,LABEL_2,0.6144326329231262,neutral,0.9223465323448181
+comment,leagueoflegends,2022,hrdep61,rwqu00,Welp thats a buy. i was not at first but now i have no choice.,2022-01-06T00:39:17,LABEL_1,0.46300044655799866,sadness,0.3927646577358246
+comment,leagueoflegends,2022,hrdnhfr,rwqu00,catJAM Any Jammers ? catJAM,2022-01-06T01:32:04,LABEL_1,0.8290922045707703,neutral,0.8269405364990234
+comment,leagueoflegends,2022,hrdi793,rwqu00,just perfection,2022-01-06T01:00:28,LABEL_2,0.5697184801101685,neutral,0.9495542049407959
+comment,leagueoflegends,2022,hrdovv5,rwqu00,Shouldnt this dance be in a Lee Sin skin? (jkjk i love Bilal),2022-01-06T01:40:30,LABEL_2,0.6527315378189087,neutral,0.47688859701156616
+comment,leagueoflegends,2022,hrev6yc,rwqu00,I'm picturing a rioter spending three days just staring at his screen as he tries to sync the animations to this clip,2022-01-06T06:16:24,LABEL_0,0.597988486289978,disgust,0.4269798696041107
+comment,leagueoflegends,2020,fzi0di1,hz9oqb,Not until both side's cannons have the same range...,2020-07-28T18:36:31,LABEL_1,0.8310210108757019,neutral,0.8992946743965149
+comment,leagueoflegends,2020,fzhx5bo,hz9oqb,"Nah man this will never work.. Too confusing for the community.. 
+Red side should ban Yone because he has a red mask, blue side bans Yasuo because he has blue clothing.",2020-07-28T17:41:30,LABEL_0,0.9093825221061707,disgust,0.42414823174476624
+comment,leagueoflegends,2020,fzhu9vm,hz9oqb,Just the fact that Yone doesn't have wind wall and can't jump to any enemy champ that's airborne makes him seem way less annoying.,2020-07-28T16:51:49,LABEL_0,0.5751441717147827,neutral,0.8271125555038452
+comment,leagueoflegends,2020,fzhtnzp,hz9oqb,"On red side pick Yasuo, blue side pick Yone, gotcha.",2020-07-28T16:41:24,LABEL_1,0.8820605874061584,neutral,0.8429547548294067
+comment,leagueoflegends,2020,fzi2gfe,hz9oqb,"The only reason i ban Yasuo is because of the windwall. I play twitch 90% of the time, and Yasuos wall is just so good against my ult! I dont really mind playing with him or against him otherwise...",2020-07-28T19:09:31,LABEL_2,0.6801308989524841,neutral,0.6972048878669739
+comment,leagueoflegends,2020,fzja6fo,hz9oqb,"Nice try, red side Yasuo main.",2020-07-29T02:00:17,LABEL_2,0.715109646320343,joy,0.7198054790496826
+comment,leagueoflegends,2020,fzhvqh5,hz9oqb,"Kind of dumb how Graves was changed because he filled a ""similar niche"" to Lucian but they just straight up release ""Yasuo 2 : Hasagi Boogaloo"" and called it a day.",2020-07-28T17:17:01,LABEL_0,0.5083476305007935,disgust,0.43382298946380615
+comment,leagueoflegends,2020,fzi94yp,hz9oqb,Funny joke turns into a thread where people are actually bitching about not being able to ban both yas and yone. whut.,2020-07-28T20:37:33,LABEL_0,0.6686206459999084,joy,0.4472564458847046
+comment,leagueoflegends,2020,fzhwc7u,hz9oqb,"This is brilliant, consider it done.",2020-07-28T17:27:26,LABEL_2,0.9785773754119873,joy,0.4690902531147003
+comment,leagueoflegends,2020,g3v6oma,ilwjkt,"They had us in the first half not gonna lie.
+
+
+I really thought you were yasuo",2020-09-04T00:27:25,LABEL_1,0.590416431427002,surprise,0.9614118933677673
+comment,leagueoflegends,2020,g3v9ayv,ilwjkt,Truly outsmarted and outplayed,2020-09-04T00:42:57,LABEL_0,0.668123185634613,surprise,0.6911769509315491
+comment,leagueoflegends,2020,g3vhj7f,ilwjkt,The cocky title is just perfect bait lol,2020-09-04T01:36:15,LABEL_2,0.4183359444141388,neutral,0.5971235036849976
+comment,leagueoflegends,2020,g3visxn,ilwjkt,I promoted 3 times just from watching this,2020-09-04T01:42:04,LABEL_2,0.8273029923439026,joy,0.4404505491256714
+comment,leagueoflegends,2020,g3vhdlv,ilwjkt,m. night shyamalan,2020-09-04T01:35:28,LABEL_1,0.8501014113426208,neutral,0.5761265158653259
+comment,leagueoflegends,2020,g3vf105,ilwjkt,Plot twist,2020-09-04T01:20:52,LABEL_1,0.7275750637054443,neutral,0.7255925536155701
+comment,leagueoflegends,2020,g3vb4yj,ilwjkt,Truly unexpected.,2020-09-04T00:55:34,LABEL_1,0.5100571513175964,surprise,0.9522976279258728
+comment,leagueoflegends,2020,g3vmwxu,ilwjkt,"This isn’t real, there are no ????????????? Spampings",2020-09-04T02:04:19,LABEL_0,0.8447880148887634,surprise,0.610363245010376
+comment,leagueoflegends,2020,g3vlm7h,ilwjkt,Just Ornn things,2020-09-04T01:57:36,LABEL_1,0.7651693820953369,neutral,0.9299569725990295
+post,leagueoflegends,2020,jd286d,,Tyler1 officialy joins T1,2020-10-18T04:11:13,LABEL_1,0.9091284275054932,neutral,0.6145414710044861
+post,leagueoflegends,2022,z180q4,,Welcome to Season 13,2022-11-22T03:38:21,LABEL_2,0.7865394949913025,neutral,0.850877046585083
+post,leagueoflegends,2020,jza7id,,Whoever says that Malphite and Mundo are played by people with a single brain cell are wrong. They actually share that brain cell between the two champion.,2020-11-23T11:46:28,LABEL_0,0.5169209837913513,neutral,0.8711755871772766
+post,leagueoflegends,2021,lp2kqn,,Unstoppable force meets confused drunk,2021-02-22T01:57:57,LABEL_1,0.558388888835907,fear,0.7349761128425598
+post,leagueoflegends,2021,mhznd7,,New mythic item??,2021-04-02T00:56:40,LABEL_1,0.8954147696495056,surprise,0.7247375249862671
+post,leagueoflegends,2022,vx50mc,,What the client would have looked like if it wasn't spaghetti coded,2022-07-12T15:07:18,LABEL_1,0.7524285912513733,neutral,0.9062182903289795
+post,leagueoflegends,2022,ynhmdi,,"T1 vs. DRX / 2022 World Championship - Final / Post-Match Discussion ###WORLDS 2022 PLAYOFFS                 
+[Official page](https://watch.lolesports.com/) | [Leaguepedia](https://lol.fandom.com/wiki/2022_Season_World_Championship/Main_Event) | [Liquipedia](https://liquipedia.net/leagueoflegends/World_Championship/2022) | [Eventvods.com](https://eventvods.com/featured/lol?utm_source=reddit&utm_medium=subreddit&utm_campaign=post_match_threads) | [New to LoL](http://lol.gamepedia.com/New_To_League/Welcome)               
+
+---
+
+###T1 2-3 DRX              
+**Congratulations to DRX for winning the 2022 World Championship!** 
+
+**[Finals MVP: Kingen](https://i.imgur.com/8jacmAO.png)**
+
+**- This is the first time Kingen, Pyosik, Zeka and Deft have won a Worlds Title and second time for BeryL!**            
+                  
+**T1** | [Leaguepedia](https://lol.fandom.com/wiki/T1) | [Liquipedia](http://liquipedia.net/leagueoflegends/SK_Telecom_T1) | [Website](https://t1.gg/) | [Twitter](https://twitter.com/T1LoL) | [Facebook](https://www.facebook.com/T1LoL) | [YouTube](https://www.youtube.com/user/SKTTeam1st)                  
+**DRX** | [Leaguepedia](https://lol.fandom.com/wiki/DRX) | [Liquipedia](https://liquipedia.net/leagueoflegends/DragonX) | [Twitter](https://twitter.com/DRXGlobal) | [Facebook](https://www.facebook.com/DRXGlobal) | [YouTube](https://www.youtube.com/channel/UC5WN-znPsJK0BbA8aHxZHWQ) | [Subreddit](https://reddit.com/r/DRX_Official)                  
+
+---
+
+###MATCH 1: T1 vs. DRX            
+[**Winner: T1** in 31m](https://i.imgur.com/dSKLktY.png)       
+[Game Breakdown](https://i.imgur.com/suqax9f.png) | [Runes](https://i.imgur.com/447Ft9g.png)
+
+||Bans 1|Bans 2|[G](#mt-gold)|[K](#mt-kills)|[T](#mt-towers)|D/B|
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|
+|**T1**|[akali](#c-akali) [sejuani](#c-sejuani) [ashe](#c-ashe)|[rell](#c-rell) [ezreal](#c-ezreal)|61.5k|15|11|[C](#mt-cloud)^1 [M](#mt-mountain)^3 [H](#mt-herald)^4 [O](#mt-ocean)^5 [B](#mt-barons)^6 [B](#mt-barons)^8 [O](#mt-ocean)^9 |
+|**DRX**|[yuumi](#c-yuumi) [lucian](#c-lucian) [caitlyn](#c-caitlyn)|[ryze](#c-ryze) [graves](#c-graves)|50.4k|5|0|[H](#mt-herald)^2 [O](#mt-ocean)^7 |
+
+|**T1**|15-5-29|[vs](#mt-kills)|5-15-11|**DRX**|
+|--:|--:|:--:|:--|:--|
+|Zeus [yone](#c-yone) ^2|4-1-5|TOP|3-2-1|^1 [aatrox](#c-aatrox) Kingen|
+|Oner [lee sin](#c-leesin) ^3|3-1-7|JNG|0-3-3|^1 [viego](#c-viego) Pyosik|
+|Faker [azir](#c-azir) ^3|6-1-4|MID|1-4-3|^2 [sylas](#c-sylas) Zeka|
+|Gumayusi [varus](#c-varus) ^1|0-0-6|BOT|1-3-1|^4 [sivir](#c-sivir) Deft|
+|Keria [renata glasc](#c-renataglasc) ^2|2-2-7|SUP|0-3-3|^3 [heimerdinger](#c-heimerdinger) BeryL|
+
+---
+
+###MATCH 2: DRX vs. T1            
+[**Winner: DRX** in 46m](https://i.imgur.com/S2LWLnp.png)       
+[Game Breakdown](https://i.imgur.com/nUi8RZl.png) | [Runes](https://i.imgur.com/rPYnVLW.png)
+
+||Bans 1|Bans 2|[G](#mt-gold)|[K](#mt-kills)|[T](#mt-towers)|D/B|
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|
+|**DRX**|[lucian](#c-lucian) [ryze](#c-ryze) [renata glasc](#c-renataglasc)|[nocturne](#c-nocturne) [azir](#c-azir)|80.5k|17|9|[H](#mt-herald)^3 [M](#mt-mountain)^4 [O](#mt-ocean)^5 [O](#mt-ocean)^6 [B](#mt-barons)^8 |
+|**T1**|[yuumi](#c-yuumi) [caitlyn](#c-caitlyn) [sejuani](#c-sejuani)|[akali](#c-akali) [kindred](#c-kindred)|79.6k|13|4|[H](#mt-herald)^1 [C](#mt-cloud)^2 [O](#mt-ocean)^7 [O](#mt-ocean)^9 [O](#mt-ocean)^10 |
+
+|**DRX**|17-13-36|[vs](#mt-kills)|13-18-29|**T1**|
+|--:|--:|:--:|:--|:--|
+|Kingen [camille](#c-camille) ^2|4-3-10|TOP|3-5-5|^1 [aatrox](#c-aatrox) Zeus|
+|Pyosik [viego](#c-viego) ^3|1-3-10|JNG|4-3-7|^3 [graves](#c-graves) Oner|
+|Zeka [sylas](#c-sylas) ^3|5-2-2|MID|4-5-2|^4 [viktor](#c-viktor) Faker|
+|Deft [varus](#c-varus) ^1|6-1-6|BOT|1-2-5|^1 [ashe](#c-ashe) Gumayusi|
+|BeryL [heimerdinger](#c-heimerdinger) ^2|1-4-8|SUP|1-3-10|^2 [lux](#c-lux) Keria |
+
+---
+
+###MATCH 3: T1 vs. DRX            
+[**Winner: T1** in 32m](https://i.imgur.com/cQeYy4A.png)       
+[Game Breakdown](https://i.imgur.com/FkJvScV.png) | [Runes](https://i.imgur.com/ai4oEBk.png)
+
+||Bans 1|Bans 2|[G](#mt-gold)|[K](#mt-kills)|[T](#mt-towers)|D/B|
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|
+|**T1**|[akali](#c-akali) [sejuani](#c-sejuani) [ashe](#c-ashe)|[aatrox](#c-aatrox) [kindred](#c-kindred)|60.1k|12|10|[O](#mt-ocean)^3 [C](#mt-cloud)^5 [B](#mt-barons)^6 [C](#mt-cloud)^7 [B](#mt-barons)^9 |
+|**DRX**|[yuumi](#c-yuumi) [lucian](#c-lucian) [caitlyn](#c-caitlyn)|[yone](#c-yone) [lee sin](#c-leesin)|53.8k|12|3|[M](#mt-mountain)^1 [H](#mt-herald)^2 [H](#mt-herald)^4 [C](#mt-cloud)^8 |
+
+|**T1**|12-12-23|[vs](#mt-kills)|12-12-30|**DRX**|
+|--:|--:|:--:|:--|:--|
+|Zeus [gragas](#c-gragas) ^3|2-1-7|TOP|0-3-5|^4 [ornn](#c-ornn) Kingen|
+|Oner [graves](#c-graves) ^3|2-4-2|JNG|2-2-6|^3 [viego](#c-viego) Pyosik |
+|Faker [azir](#c-azir) ^2|3-5-1|MID|5-2-3|^2 [sylas](#c-sylas) Zeka|
+|Gumayusi [varus](#c-varus) ^1|2-2-5|BOT|4-3-5|^1 [kalista](#c-kalista) Deft|
+|Keria  [karma](#c-karma) ^2|3-0-8|SUP|1-2-11|^1 [renata glasc](#c-renataglasc) BeryL|
+
+---
+
+###MATCH 4: DRX vs. T1            
+[**Winner: DRX** in 28m](https://i.imgur.com/It2PiYm.png)       
+[Game Breakdown](https://i.imgur.com/bvNVQF8.png) | [Runes](https://i.imgur.com/doEY1Jh.png)
+
+||Bans 1|Bans 2|[G](#mt-gold)|[K](#mt-kills)|[T](#mt-towers)|D/B|
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|
+|**DRX**|[lucian](#c-lucian) [ashe](#c-ashe) [ryze](#c-ryze)|[viktor](#c-viktor) [yone](#c-yone)|54.8k|14|9|[C](#mt-cloud)^3 [H](#mt-herald)^4 [M](#mt-mountain)^5 [M](#mt-mountain)^6 [B](#mt-barons)^7 |
+|**T1**|[caitlyn](#c-caitlyn) [yuumi](#c-yuumi) [heimerdinger](#c-heimerdinger)|[kindred](#c-kindred) [viego](#c-viego)|46.4k|4|3|[I](#mt-infernal)^1 [H](#mt-herald)^2 |
+
+|**DRX**|14-4-26|[vs](#mt-kills)|4-14-8|**T1**|
+|--:|--:|:--:|:--|:--|
+|Kingen [aatrox](#c-aatrox) ^3|5-0-5|TOP|1-2-1|^4 [fiora](#c-fiora) Zeus|
+|Pyosik [maokai](#c-maokai) ^3|4-0-6|JNG|1-3-2|^1 [sejuani](#c-sejuani) Oner|
+|Zeka [azir](#c-azir) ^2|1-1-5|MID|0-3-0|^3 [akali](#c-akali) Faker|
+|Deft [varus](#c-varus) ^1|3-3-4|BOT|0-3-3|^1 [kalista](#c-kalista) Gumayusi|
+|BeryL [renata glasc](#c-renataglasc) ^2|1-0-6|SUP|2-3-2|^2 [soraka](#c-soraka) Keria |
+
+---
+
+###MATCH 5: T1 vs. DRX            
+[**Winner: DRX** in 42m](https://i.imgur.com/BkjrVCY.png)       
+[Game Breakdown](https://i.imgur.com/xHJJWYR.png) | [Runes](https://i.imgur.com/oNWXQhu.png)
+
+||Bans 1|Bans 2|[G](#mt-gold)|[K](#mt-kills)|[T](#mt-towers)|D/B|
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|
+|**T1**|[akali](#c-akali) [heimerdinger](#c-heimerdinger) [renata glasc](#c-renataglasc)|[sejuani](#c-sejuani) [kindred](#c-kindred)|72.1k|10|8|[I](#mt-infernal)^1 [B](#mt-barons)^5 [M](#mt-mountain)^6 [B](#mt-barons)^9 |
+|**DRX**|[yuumi](#c-yuumi) [lucian](#c-lucian) [lux](#c-lux)|[yone](#c-yone) [lee sin](#c-leesin)|74.7k|19|8|[H](#mt-herald)^2 [O](#mt-ocean)^3 [M](#mt-mountain)^4 [M](#mt-mountain)^7 [M](#mt-mountain)^8 [E](#mt-elder)^10 |
+
+|**T1**|10-19-20|[vs](#mt-kills)|19-10-37|**DRX**|
+|--:|--:|:--:|:--|:--|
+|Zeus [gwen](#c-gwen) ^3|4-4-3|TOP|6-3-6|^2 [aatrox](#c-aatrox) Kingen|
+|Oner [viego](#c-viego) ^3|2-2-7|JNG|5-4-8|^4 [hecarim](#c-hecarim) Pyosik|
+|Faker [viktor](#c-viktor) ^2|2-5-4|MID|3-2-9|^1 [azir](#c-azir) Zeka|
+|Gumayusi [varus](#c-varus) ^2|1-3-3|BOT|5-0-4|^1 [caitlyn](#c-caitlyn) Deft|
+|Keria [karma](#c-karma) ^1|1-5-3|SUP|0-1-10|^3 [bard](#c-bard) BeryL|
+
+[Patch 12.18 - Udyr Disabled](https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-18-notes/)
+
+---
+
+[This thread was created by the Post-Match Team](https://postmatch.team).",2022-11-06T13:25:21,LABEL_1,0.5358368754386902,neutral,0.6291794180870056
+post,leagueoflegends,2021,nwb3gd,,"Seraphine is so pretty, which inspired me to design a new skin. ""Become better every single day. Only bring the finest of my skill to serve the community"". That's my motive.
+
+If you like it, you can follow me on Instagram: 
+
+[MrTalkingTree (@mrtalkingtree) • Instagram photos and videos](https://www.instagram.com/mrtalkingtree/) 
+
+[If Skarner community doesn't receive love from Riot, I'll do it. We can't expect the company to do all the work.](https://preview.redd.it/k35gjrdy5c471.png?width=2340&format=png&auto=webp&s=889f859e52baf34f684fbeb55cf6e5b17f50ea9a)",2021-06-10T08:57:00,LABEL_2,0.7778412699699402,neutral,0.38691067695617676
+post,leagueoflegends,2020,fi2vhn,,Terror in Demacia | League of Legends,2020-03-14T01:00:55,LABEL_0,0.5356546640396118,fear,0.9876884818077087
+post,leagueoflegends,2020,hdavav,,"I feel like league is a game that's much more fun to think about playing than it is to actually play Every time I get back into esports or see highlight clips of league i think ""wow damn, this shit looks so much fun I gotta go rank up in league!"" and then I play a ranked game and it's such a shit show that I just drop it for a few days and then repeat the process over again. Anyone else feel this way?",2020-06-22T01:33:15,LABEL_0,0.478450745344162,surprise,0.601235032081604
+post,leagueoflegends,2020,jwni1y,,Rekkles Leaves Fnatic,2020-11-19T04:18:55,LABEL_1,0.8754784464836121,neutral,0.6482473015785217
+post,leagueoflegends,2020,kmocom,,Challenger Teemo Mechanics at Work,2020-12-30T06:17:36,LABEL_1,0.8985015153884888,neutral,0.8009878396987915
+post,leagueoflegends,2020,i8aknf,,A very desperate Teemo steal tilts the jungler,2020-08-12T17:19:01,LABEL_0,0.5705462694168091,fear,0.8116647005081177
+post,leagueoflegends,2020,jmmc9z,,"I want the ""Honor your opponent"" back. I want to be able to show my opponents that I enjoyed playing against them. Few years ago, when there was an option to honor your opponent, I used it all the time. With the new system introduced a couple of seasons ago, I felt like we're moving backwards with it. 
+
+Sometimes after I won a game, I want a way to show my opponents that I enjoyed play against them and they did well, despite the loss.
+
+It's just a ""social"" feature that needs to be in the game. 
+
+What do you think about it?",2020-11-02T20:14:06,LABEL_2,0.45263156294822693,neutral,0.7436398267745972
+post,leagueoflegends,2021,l80nz3,,"[Satire] REPORT: Due to a highly volatile win rate, every player is currently limited to 3 Swain games a day. STATEMENT from the balance team:
+
+> ""Players are overplaying Swain and reaching ranks that they were not intended to. We want to be clear that the decision to restrict Swain games is an action taken to protect lower-ranked players from themselves. Do they want to end up in Platinum? Diamond? Above? We know they really don't want to be in the big pond with the big fish, and this action is taken to prevent exactly that. Swain is a meme pick--we recommend gold players and below actually perform their due diligence by listening to their overlords, the mega hot streamers and diamond youtube content creators.  
+
+> ""...the limit of three games will be imposed until Swain's winrate has returned to normal. Thank you for understanding!""
+
+As well, players silver and below will no longer be allowed to play Rammus. Highly respected and diamond-ranked coach BaldBaby92 claims that this move will ""stop the plebes from ruining my games, or taking Swain from me in Champ Select."" 
+
+More at 11 or what the fuck ever",2021-01-30T02:51:36,LABEL_1,0.47554704546928406,neutral,0.714524507522583
+post,leagueoflegends,2020,hyr8dn,,"Red Side Cannon Minions have 20 lower attack range than Blue Side ones (for 11 years, since Alpha) I was writing a new wiki page about [unit size](https://leagueoflegends.fandom.com/wiki/Size) the other day. One of the size modifiers that exists is Baron Buff, which only affects minions, but sure enough, this page was about non-champion sizes, too.
+
+So after I set out to determine those modifiers, I also wanted to confirm the attack range increases on the Baron Buff page, which I asked a friend to get me. For the Cannon Minions, he returned '1050/1030 total range'.
+
+I looked at those 2 values the same way you are right now. Nope, this isn't about other minions on any separate map; these are SR cannon minions. The Blue Cannon has 300 attack range; The Red Cannon only has 280 range!
+
+As it turned out, this has been a bug since the earliest builds of the game we have access to; all the way back from Alpha! Minions are coded as separate units for both sides of the map; So are skins, technically, albeit they properly draw from the same data file for the gameplay side (the only differences are tags like 'human' and 'freljord' which VO interactions use). Same types of minions...do not draw from the same file. Not a big problem, though, as they only have to get a few values right? Yes, in theory, that isn't a big problem.
+
+Unfortunately, in the game right now, [**this** is an excerpt the Blue Cannon Minion data file](https://cdn.discordapp.com/attachments/334447591372619778/736725095849918484/unknown.png), and [this is the same excerpt in the data for the Red Cannon minion](https://cdn.discordapp.com/attachments/334447591372619778/736722781516857444/unknown.png). apart from the Name ID's, notice a difference?
+
+And indeed, in the game, these minions adhere to those range values. 
+
+[If you make 2 opposing cannons run into each other without interference, they'll not always start attacking each other at the same time like same-ranged units would](see \*Edit below for why this link is missing) - instead the Blue Minion goes first a lot of times. The reason it doesn't happen always is that 'is my enemy in attack range yet' is checked only so often, which is also why attacking an enemy moves your champion slightly closer than their attack range would require most of the time. Some would argue that that is to aid in chasing/orb-walking, but I don't think it was set up with that in mind. In any case, attack pathfinding at least doesn't path you into Dragon pit if you want to attack someone on the other side of that wall that is in range of Dragon pit at the time, which would be dumb.
+
+###Edit: I got some help in re-doing the proof for this:
+
+Using Syndra W, we can get exact range values and eliminate the *'is my enemy in attack range yet' check* by throwing the minion straight from inside its range to slightly further than it was before. If it attacks without walking, it's inside its attack range; If it nudges forward first, it was thrown further than it's attack range.
+
+[Test with Blue Cannon](https://www.youtube.com/watch?v=7KGli9vl6LA) | [Test with Red Cannon](https://www.youtube.com/watch?v=Spxwe27i6P4)
+
+Here is a [comparison for the longest throw at which the minion doesn't nudge forward (= is still in attack range) at.](https://cdn.discordapp.com/attachments/549266844964618242/737305947759837324/unknown.png) The difference isn't large (it's about 5% of attack range against a normal-sized champion), but you can see it [via the cursor location.](https://cdn.discordapp.com/attachments/549266844964618242/737307018922295387/unknown.png)
+
+-
+
+Also, [there's a Ryze bug that made separating these minions kinda annoying yet kind of fun.](https://www.youtube.com/watch?v=PmgKH_Aadps) This is the reason you canot port a single Rift Herald, or a single minion period, btw (first minion takes last ported champion's position, or won't get a new location at all if no champion was ported).
+
+-
+
+I tried showing off this difference in the one patch where the new HUD showed unit ranges in the collapsed version (5.14), [however minions all show as 0-ranged anyway due to ((bug))](https://cdn.discordapp.com/attachments/549266844964618242/737283877122343043/unknown.png). Which is sad, maybe someone would have noticed it then already!
+
+-
+
+The fact that blue team seems to generally win when the game is left alone by players entirely might be due to this bug. Blue team also has a higher winrate overall in the game, which is often attributed to the assymetry in HUD and the map, which is reasonable, but I wonder what the impact of this bug has been on that winrate, afterall.
+
+-
+
+\*Edit: Turns out the mentioned tickrates make this way too hard, and upon reviewing the best clip I have, it has minion damage increase due to my target dummies leveling up, so ~~I'll remake this for you with a proof that's less up-to chance.~~
+
+Edit2: Remade proof. Now definitive. See above.
+
+---
+
+**TL:DR**: [Spot the difference](https://cdn.discordapp.com/attachments/549266844964618242/737282716000714802/Cannon_Minion_data.gif)
+
+---
+
+Edit: Would you believe it, turns out this bug is LITERALLY fixed on PBE this cycle already. I did all this confirmation work for naught. Well, at least we know the fix will be in 10.16 (next full patch), most likely!",2020-07-27T20:20:58,LABEL_1,0.5481805801391602,neutral,0.8965287804603577
+post,leagueoflegends,2021,o5d8wj,,Told my team I was choosing my Pocket Pick. They didn't believe me.,2021-06-22T11:29:42,LABEL_0,0.5786065459251404,anger,0.6488454341888428
+post,leagueoflegends,2020,k7f479,,"If you don't have flash, just pretend that you do.",2020-12-06T04:29:58,LABEL_1,0.6349950432777405,neutral,0.9291813969612122
+post,leagueoflegends,2020,k1rhma,,"A 53 year old Mum giving thanks to League of Legends for helping her to reconnect with her son Five years ago, I felt disconnected from my 17 year old son. All he talked about was League and I had never played a computer game in my life. I did not understand why he couldn't just stop mid-game when I needed him to. I did not understand his love of esports. We were drifting apart.
+
+So, I asked him to teach me how to play.
+
+To say that it was a steep learning curve is an understatement. But I kept at it because I loved him. The more I understood about the game, the closer we got. After some disastrous games on Summoner's Rift (where I was rightly flamed for not knowing how to ping), I switched to just playing ARAM because it forced me to learn what all champions do. It was also more chill.
+
+While I was never very good and never tried playing ranked, I understood enough to enjoy watching the LCK, MSI and Worlds. In 2019, my son and I travelled to Taiwan together to watch both of the semifinals of MSI. It is a memory that I will always cherish.
+
+Now that he has grown up and left home, I don't play anymore but I am so grateful that I made the effort to understand the game he loved. Definitely worth.",2020-11-27T09:12:00,LABEL_2,0.7035437226295471,sadness,0.8570283651351929
+post,leagueoflegends,2020,ek8xh1,,Another top Chinese leesin main. Don’t breath,2020-01-05T13:50:42,LABEL_1,0.5412905216217041,neutral,0.8054159283638
+post,leagueoflegends,2020,fow271,,A WIP Preview of my Vel'Koz LED Strip Integration. Doesn't work flawlessly just yet :-),2020-03-26T03:05:31,LABEL_0,0.4924764335155487,neutral,0.8010164499282837
+post,leagueoflegends,2020,kdcfym,,The Greatest Minion Ever,2020-12-15T10:11:35,LABEL_2,0.866472601890564,neutral,0.6019048094749451
+post,leagueoflegends,2021,oel9aa,,The most epic duel of all time,2021-07-06T09:52:26,LABEL_2,0.7204397320747375,neutral,0.41812577843666077
+post,leagueoflegends,2020,gm2hd4,,"The Only Way to Solve Toxicity is with More Sexually Aggressive Skins/Champions The only way to solve toxicity in SoloQ is with more sexually aggressive skins. 
+&nbsp;
+
+Think about it. What causes toxicity in Soloq? Toxicity exists because players play the game. However, by having more sexually aggressive skins/champions. By limiting the hands require to play the game to one the toxicity would be reduced literally to 50%. That one toxic player in your team? His toxicity now are reduced to 50%. He call your mom fat? He now calls you mom. 
+&nbsp;
+
+#But We already have some and that didn't help
+Pool party Taric, Armor of the fifth age Taric, Ahri, Pajama Urgot, Rek Sai, etc. They are all great skins/champions but there is a greater demand than the supply. Everyone has their ""playstyle"" and not all their ""playstyle"" is being fulfilled. So more skins/champions would make players happier. 
+&nbsp;
+
+Let's compare real numbers. Not counting PBE let's say toxicity level in Fiddlestick Rework Patch is 10. Right now the toxicity level is 0 on Voibear Rework patch(10.11) as of today. You can even say no one is playing on that patch except Riot Client Programers. This is why I think Fiddlestick should have been reworked to a Waifu that hugs you when he ults and not this little scared farmer's son hiding in the jungle. 
+
+#Real Science behind it
+ Freud the father of Psychology says that libido, our sexual desire, drives our every action. Libido has a broader meaning than just sexual desire but it doesn't fit my narrative so I am going to ignore it. Right now League player's libido are not being fulfilled so they try to release it in ways that could be harmful to people around them and themselves. 
+ &nbsp;
+
+#Top Lane
+Top lane has been recognized as one of the worst roles to play but there is a reason people still play them. If you ask any top laners why they **really** play top lane they would say ""I just want to see two big dudes smashing each other."" This is why people play top. People pick Jax so they can see and feel Jax use his big and necessary large rod against Malphite who is literally just a big bulge. However, this is not enough for some players. When they play jax they imagine themself as Jax smashing Malphite but when they realize they are the one being smashed their mental collapse. Their libido went unfulfilled so they tried to smash anything that is close by which is in many cases their junglers. They smashed Jungler via their chat and well that is how toxicity start. 
+&nbsp;
+
+But if Jax or even Malphite has a attractive skin Jax wouldn't need to chat or int to fulfill his libido. He could simply zoom in on his character which he is already doing it anyway. He could just play his best and accept he can't be on top every game and sometimes he have to be bottom. This combine with 50% of hand usage elimination would eliminate toxicity on Top lane. 
+#ADC
+ADC players are masochists. They like being slaved around by their random braindead partner. They like comparing their suffering to other ADC and enjoy the rush of freedom when eventually their shackle are set free. That high when 0/10 Jinx reached 4 items and is no longer a ranged minion is something no any role can reach. But now that even when you reach 4 items that high is no longer guaranteed. 30 minutes of buildup just to be instantly killed off by a 0/2/99 mid laner. Where does that energy go? That energy that has been built up for the last 30 minutes? Into the chat it goes. 
+&nbsp;
+
+People start picking Mages bot not because they are stronger or something(lol) but because they have better skins. Ahri, Vlad, Ziggs, Syndra all have very attractive skins and only MF could really compete against them. Which is probably why MF has one of the highest pick rate and win rate. 
+#Mid/Jungle/Support
+NO one cares about those roles. They don't do anything in game anyway so there is no need to talk about them. Right now games are decided by Top and ADC. Mid/Jungle/Support has no agency whatsoever compare to Top/ADC so there is no point talking about them. 
+#It's time for more Kaisa Skin
+Voibear Rework is a step in the right direction. This would fulfill people with questionable desires and hopefully stop them from going outside. Many people libido are being unfulfilled and by giving them champions and skin that matched their disgusting desire they would be happier. Don't ask which demographic they made Yuumi for. For F2P player the Honor System could reward them with skins which would prompt them to think libido in long term and reward holding it in. Streamers should also be encouraged to equipped those skins so the viewers could learn that that is a way to release their libido. I don't think it is right to witch hunt streamers that don't equip those skins since everyone has their own ""preference"" and you never know what the context is. Unless obviously if they play Taric without Pool Party or Gem of the fifth age skin but even then just report them and don't personally attack them.
+&nbsp;
+
+#What I am trying to say is: It is time to pull out Pool Part Urgot.
+
+&nbsp;
+
+&nbsp;
+
+#Potential Question:
+&nbsp;
+
+1. Why does NA have this problem and not Korea?
+&nbsp;
+
+A: Cause NA doesn't have Kpop and not having Kpop stars ruling your country is a big disadvantage culturally. Everyone there is playing League to please their Kpop King/Queen so victory is the way they fulfill their libido. 
+
+&nbsp;
+
+2. How about the little blue mens ruining my games??
+
+&nbsp;
+
+A: Those blue men are typically called smurfs and they are actually pro player/coaches trying to scout that Gold 4 Brand that solo killed Faker years ago. Unfortunately, the scout is unsuccessful but still ongoing and now it is almost a part of the game. Just try your best and maybe you can fool them that you are the brand player and get in LCS. Just remember that they are scouting because they are not at Faker's level so just laugh at them desperately trying to scout Faker killer in Iron 2 and being hardstuck at LCS. 
+
+&nbsp;
+
+3. What should I do when other player tries to fulfill their libido on me?
+
+&nbsp;
+
+A: If you are into it you can enter their role play but just don't become the problem trying to solve the problem. Let's say your step-sister is stuck in the bathroom and needs your help. Don't go in and get stuck yourselves. Call the fire department because accidents in the bathroom are dangerous and can break some bones if you are not careful. Sometime the fire department comes too late or never comes. In that case, you should simply lock the door and cover your ear to prevent your sister's dying cry from traumatizing you. Know that even Saints like Voyboy are unsuccessful in helping others get unstuck. Don't get yourself stuck trying to help others because now your stepmom has to come help and it just keeps ongoing. 
+
+&nbsp;
+
+4. Voyboy, Press B to be Dominated/Dominate, Morellono Merchant/Dirty Mono Blue Player, Germ, T1 the Redeemed/Unredeemed,Blue man TF, DoubleSwitcherino, the guy that made me question my sexuality, Mega iGNAR, Best NA Jungler's friend: Santorin
+&nbsp;
+
+
+A: just name dropping some random names since apparently Reddit loves to name drop when it is irrelevant to the discussion.",2020-05-18T22:30:05,LABEL_0,0.5768535137176514,anger,0.6605886816978455
+post,leagueoflegends,2022,rwqu00,,Porcelain Ezreal Dance reference is hilarious,2022-01-06T00:31:14,LABEL_2,0.7860339879989624,joy,0.9588661789894104
+post,leagueoflegends,2020,hz9oqb,,"Gentleman’s agreement; Red side ban Yasuo, Blue side ban Yone To prevent wasting 4 ban slots per game, I propose a gentleman’s agreement that Red side will ban Yasuo and Blue side will ban Yone. That way we will all be able to play the game without using all our bans.",2020-07-28T14:38:57,LABEL_1,0.652581512928009,neutral,0.8188735842704773
+post,leagueoflegends,2020,ilwjkt,,Just a terrific and impeccable display of skill for my first ever penta,2020-09-04T00:16:39,LABEL_2,0.9748305678367615,joy,0.6567994356155396
+post,leagueoflegends,2020,ibtimh,,Unassuming jungler brutally slaughtered by ravenous disco wolves,2020-08-18T11:34:48,LABEL_0,0.8909764885902405,fear,0.40699729323387146
+post,leagueoflegends,2020,j4x6yq,,"After 4 months of work I can show the champion I created for League of Legends This is a fan concept for the champion Brenvar I made. I really like the game and wanted to create a champion that fits into its universe. I've put a lot of effort into this and am very happy to hear what you think of it! Also I'm applying to the riot games internship with this, do I have a chance? ..
+
+Brenvar Concept: https://www.artstation.com/artwork/eaRn6P",2020-10-04T19:02:44,LABEL_2,0.9600164890289307,joy,0.7589263916015625
+post,leagueoflegends,2021,lhis1l,,First time I tried this with Gnars Q,2021-02-11T19:24:28,LABEL_1,0.8972470760345459,fear,0.651891827583313
+comment,leagueoflegends,2020,g1y3ghw,ibtimh,I love watching twitch try to get his positioning just right.,2020-08-18T11:42:34,LABEL_2,0.8853986859321594,joy,0.9615704417228699
+comment,leagueoflegends,2020,g1y7y35,ibtimh,Malph's so committed to role playing that he ulted wolves. Dam.,2020-08-18T12:30:54,LABEL_0,0.49881523847579956,disgust,0.3960403800010681
+comment,leagueoflegends,2020,g1yc32z,ibtimh,I can't believe in 9 years of league I've never seen something like this before... it's beautiful,2020-08-18T13:21:06,LABEL_2,0.9579671621322632,surprise,0.9617051482200623
+comment,leagueoflegends,2020,g1yd0wv,ibtimh,"That poor player must have PTSD from moments like these. The horrible atrocities junglers must go through just trying to get a little extra coin. 
+
+
+
+
+
+
+On the other hand, Three Musketeers.",2020-08-18T13:33:24,LABEL_0,0.9141127467155457,fear,0.6805512309074402
+comment,leagueoflegends,2020,g1yc2yq,ibtimh,"Love how Kha doesn't want to waste any time and jumps straight in the ""wolves gang"".",2020-08-18T13:21:04,LABEL_2,0.6293534636497498,joy,0.35052308440208435
+comment,leagueoflegends,2020,g1ygxdu,ibtimh,Ngl I’d be pretty scarred if that happened to me lol,2020-08-18T14:28:52,LABEL_0,0.7161195874214172,sadness,0.6088138222694397
+comment,leagueoflegends,2020,g1ya5ti,ibtimh,"Malphite be like: ""get the f\*\*\* out of here u imposters""",2020-08-18T12:57:10,LABEL_0,0.8851011395454407,anger,0.5175862908363342
+comment,leagueoflegends,2020,g1ygt1y,ibtimh,"lol you guys are dicks.
+
+but i still laughed",2020-08-18T14:27:05,LABEL_0,0.7962362170219421,joy,0.6467685103416443
+comment,leagueoflegends,2020,g1ya63b,ibtimh,i didn't realize they were in enemy jg. i thought malph was rage stealing camps since he ulted. the standstill confused me but the dead bug had me rolling,2020-08-18T12:57:16,LABEL_0,0.6552374362945557,surprise,0.8786909580230713
+comment,leagueoflegends,2020,g1ycsu7,ibtimh,"Identity theft is not a joke, Jim",2020-08-18T13:30:25,LABEL_0,0.8151063919067383,disgust,0.35907140374183655
+comment,leagueoflegends,2020,g7q5yd0,j4x6yq,"Holy cow, this is very awesome. I cant stop watching the little GIF animations you did of the spells. 
+
+You definitely have a bright future making games!",2020-10-05T05:46:00,LABEL_2,0.9892144799232483,joy,0.5580260157585144
+comment,leagueoflegends,2020,g7nvhzx,j4x6yq,"That's an insane amount of dedication. Idea,artwork and the visualisation are so on point. 
+
+Awesome",2020-10-04T19:09:14,LABEL_2,0.9475502967834473,surprise,0.5398210287094116
+comment,leagueoflegends,2020,g7o2bbe,j4x6yq,"This looks like an awesomely designed champ.
+
+I imagine it would end up being support due to the high amount of CC you built into the kit with the hook, stun, and the chain slow. Not to mention the shielding on W and Ult.
+
+Still, it would be a really fun support that could do well. It brings unique aspects to the 'hook' game with being able to do like Orianna ball type tricks.
+
+Would absolutely love to have Brenvar in League!",2020-10-04T19:56:23,LABEL_2,0.9644762277603149,joy,0.868528425693512
+comment,leagueoflegends,2020,g7nw0zl,j4x6yq,"This is so detailed and cohesive. I wish more people would see your concept, because you have definitely put in work.",2020-10-04T19:13:02,LABEL_2,0.9567731618881226,neutral,0.7064924240112305
+comment,leagueoflegends,2020,g7o4fyc,j4x6yq,"I really like the chain idea, him draging something physically with him. Might be difficult to code though.",2020-10-04T20:11:33,LABEL_2,0.6974474191665649,joy,0.8043394088745117
+comment,leagueoflegends,2020,g7nw42y,j4x6yq,Art style really matches the game nice job,2020-10-04T19:13:39,LABEL_2,0.9440153241157532,neutral,0.5661717057228088
+comment,leagueoflegends,2020,g7o58bl,j4x6yq,"I loves this, an actual fan concept where the creator (you) actually put some effort into it :D. This is in my opinion the best fan made champion. Which Riot department are you applying for? Good luck wherever it is and hopefully you get it :)",2020-10-04T20:17:00,LABEL_2,0.9898483157157898,joy,0.6024908423423767
+comment,leagueoflegends,2020,g7o9jpi,j4x6yq,"I expect a champion ""inspired"" by your art in about 4-5 years.",2020-10-04T20:52:25,LABEL_2,0.5377829074859619,neutral,0.7908400893211365
+comment,leagueoflegends,2020,g7o17jf,j4x6yq,that's a cool design but I think he has way to much cc,2020-10-04T19:48:26,LABEL_2,0.5177938342094421,neutral,0.5550426244735718
+comment,leagueoflegends,2021,gmxf9dy,lhis1l,I try this every time I get into a scenario like this but have yet to confirm a kill with it. It's useful for canceling backs though.,2021-02-11T19:41:11,LABEL_1,0.6065097451210022,neutral,0.9602676033973694
+comment,leagueoflegends,2021,gmxm1la,lhis1l,This is why he's named Gnar. Its Riot's subtle hint that you need to throw your Boome*rang* backwards.,2021-02-11T21:04:14,LABEL_1,0.5591791272163391,neutral,0.9251152276992798
+comment,leagueoflegends,2021,gmxj6u6,lhis1l,I did this all the time in urf since the normal way is just too short ranged lmao,2021-02-11T20:32:06,LABEL_1,0.6463921070098877,neutral,0.940410852432251
+comment,leagueoflegends,2021,gmxij0m,lhis1l,I had no idea you could do this!,2021-02-11T20:23:59,LABEL_1,0.4223175346851349,surprise,0.8068447113037109
+comment,leagueoflegends,2021,gmxjr09,lhis1l,Clever and well played. I didn't know this was a thing.,2021-02-11T20:38:42,LABEL_2,0.8243000507354736,surprise,0.9116736054420471
+comment,leagueoflegends,2021,gmxta2v,lhis1l,Part of me wants that’s to be a coincidence and graves really just killed himself try to smite and heal in jungle,2021-02-11T22:11:49,LABEL_0,0.5581275820732117,neutral,0.7033064365386963
+comment,leagueoflegends,2021,gmxwmyh,lhis1l,"My caveman brain never considered this a possibility. I see thing I can catch, I go catch. Maybe this is why I suck at draven",2021-02-11T22:39:03,LABEL_0,0.8531439900398254,disgust,0.8334051370620728
+comment,leagueoflegends,2021,gmxv8pw,lhis1l,The aram special,2021-02-11T22:27:55,LABEL_1,0.7969746589660645,neutral,0.6118784546852112
+comment,leagueoflegends,2021,gmyj2ts,lhis1l,Digger wo sind die Kommentare wegen Papaplatte,2021-02-12T01:19:24,LABEL_1,0.7418141961097717,neutral,0.4974645972251892
+comment,leagueoflegends,2021,gmy0fov,lhis1l,Its like a reverse Zoe,2021-02-11T23:07:36,LABEL_1,0.7423754930496216,neutral,0.862455427646637
