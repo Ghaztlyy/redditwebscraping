@@ -1,0 +1,1310 @@
+type,subreddit,year,id,parent_id,text,created_utc,sentiment,sentiment_score
+comment,minecraft,2020,fz5sjs8,hxf9wg,"The amount of detail you put into this is astounding, well done man",2020-07-25T10:55:34,LABEL_2,0.934420108795166
+comment,minecraft,2020,fz5u6e7,hxf9wg,"How in the heck, those are the best animations in game I've ever seen, didn't know you could do that type of stuff with command blocks that's insane. Well done!!!",2020-07-25T11:12:43,LABEL_2,0.9600077271461487
+comment,minecraft,2020,fz5um6m,hxf9wg,"Wait, command blocks meaning this was done in vanilla?",2020-07-25T11:17:26,LABEL_1,0.7724727392196655
+comment,minecraft,2020,fz5sexh,hxf9wg,Now how do you get it back,2020-07-25T10:54:09,LABEL_1,0.6896162629127502
+comment,minecraft,2020,fz5trh0,hxf9wg,"In all the time it took to set up the zip line, you could have just crossed over by foot. But also, you’d lose all the *style*",2020-07-25T11:08:18,LABEL_0,0.5162574648857117
+comment,minecraft,2020,fz5rn0o,hxf9wg,My computer would deep fry itself within the first two seconds of running that,2020-07-25T10:46:08,LABEL_0,0.8821921348571777
+comment,minecraft,2020,fz5vl29,hxf9wg,How did you make the blocks move so smoothly with a bounce also,2020-07-25T11:27:53,LABEL_1,0.5774556994438171
+comment,minecraft,2020,fz5uot8,hxf9wg,Why isnt the whole world lagging and the pc on fire ?,2020-07-25T11:18:13,LABEL_0,0.7761684060096741
+comment,minecraft,2020,fz5uy64,hxf9wg,My mind doesn’t even know how to get command blocks,2020-07-25T11:20:59,LABEL_0,0.8134886026382446
+comment,minecraft,2020,fz5upl7,hxf9wg,Best in-minecraft animations ive ever seen!,2020-07-25T11:18:26,LABEL_2,0.9317013025283813
+comment,minecraft,2020,g492cm9,inpzob,"This is really slick! I'd be curious to know how sprinting affects it though. Do you go faster, or slower even?",2020-09-07T01:42:42,LABEL_2,0.8666011095046997
+comment,minecraft,2020,g4afgxv,inpzob,You can make a 4 block/step staircase: [https://imgur.com/a/ncrxmdu](https://imgur.com/a/ncrxmdu),2020-09-07T09:35:17,LABEL_1,0.9181095361709595
+comment,minecraft,2020,g49345o,inpzob,"At first I was like “yeah ok that’s cool, but it’s so short it’s not practical” then he made the second one... wow, super cool and fast",2020-09-07T01:48:53,LABEL_2,0.9373923540115356
+comment,minecraft,2020,g497mil,inpzob,"""I've searched quite a while, & I think I'm the first to discover this. if nobody else has ever made this design, start calling it the qwublington staircase that's q-w-u always wanted something to name after me"". just in case anyone trying to pause it",2020-09-07T02:28:27,LABEL_1,0.6694927215576172
+comment,minecraft,2020,g494by1,inpzob,That's a pretty cool staircase design. We could call it the Qwuiblington staircase?,2020-09-07T01:58:41,LABEL_2,0.9784626960754395
+comment,minecraft,2020,g490mzb,inpzob,That’s crazy cool,2020-09-07T01:28:52,LABEL_2,0.9676116704940796
+comment,minecraft,2020,g495n2a,inpzob,Imagine being able to just eat the left side of your stairs.,2020-09-07T02:10:37,LABEL_1,0.5120120048522949
+comment,minecraft,2020,g497ug3,inpzob,"Yeah, the stairs are cool, but is nobody gonna talk about that birch tree transition",2020-09-07T02:30:24,LABEL_1,0.49143674969673157
+comment,minecraft,2020,g491b0w,inpzob,I’m going to use this in my survival base for no reason,2020-09-07T01:33:54,LABEL_1,0.6522730588912964
+comment,minecraft,2021,goa1wyy,lp8jjm,Y'all really went full-out scholar mode for minecraft lol,2021-02-22T07:10:55,LABEL_1,0.60805743932724
+comment,minecraft,2021,go9yxpg,lp8jjm,Imagine dying.,2021-02-22T06:45:43,LABEL_0,0.8122518062591553
+comment,minecraft,2021,goa2emw,lp8jjm,My favorite part is how everyone is a sesame street skin.,2021-02-22T07:15:04,LABEL_2,0.9039422273635864
+comment,minecraft,2021,goaeb7r,lp8jjm,"Quick disclaimer! There's been some confusion about when the world was reset- we reset whenever someone died *in-game*, not of coronavirus.",2021-02-22T08:58:59,LABEL_1,0.5146570205688477
+comment,minecraft,2021,goa0cgh,lp8jjm,The presentation for this post is just amazing,2021-02-22T06:57:34,LABEL_2,0.9850316047668457
+comment,minecraft,2021,go9yzmm,lp8jjm,Shoutout to world 12,2021-02-22T06:46:09,LABEL_1,0.6219739317893982
+comment,minecraft,2021,goa1rbc,lp8jjm,"Awesome graphic! I'm really jealous of you guys, I typically only play at work on my switch (I'm actually a really good employee, I swear!) so I've only ever played solo.",2021-02-22T07:09:38,LABEL_2,0.668185830116272
+comment,minecraft,2021,goa1e95,lp8jjm,This is awesome! Great breakdown of everything. How long did it take you to figure all this out and make the visual?,2021-02-22T07:06:34,LABEL_2,0.977562665939331
+comment,minecraft,2021,goa43jj,lp8jjm,"This is amazing! Imagine a YouTube series based off of this, that would be awesome",2021-02-22T07:29:29,LABEL_2,0.9877041578292847
+comment,minecraft,2021,goa6wk4,lp8jjm,I’d hate to be that guy that fell from the mob grinder and caused the world to be deleted.,2021-02-22T07:53:14,LABEL_0,0.8626978397369385
+comment,minecraft,2020,g27jd9q,id9vpq,"Wow, that's really cool! You should do the same thing but with enchantments and potion effects and stuff, or different blocks!",2020-08-20T21:07:50,LABEL_2,0.9789672493934631
+comment,minecraft,2020,g27n0ze,id9vpq,lol I thought the netherite pickaxe was stone xD,2020-08-20T21:44:15,LABEL_1,0.7552831768989563
+comment,minecraft,2020,g27jcdw,id9vpq,"I wish they would revamp gold tools, they feel so useless in the game, but I think that it has a lot of potential",2020-08-20T21:07:35,LABEL_2,0.443755567073822
+comment,minecraft,2020,g27o6vh,id9vpq,"I'm like the golden pickaxe in a race, I go super fast in the beginning and then I lose my breath : D",2020-08-20T21:54:28,LABEL_1,0.4422610104084015
+comment,minecraft,2020,g27mmnd,id9vpq,So what you’re saying is that a gold pickax with unbreaking 3 on it would be much faster than an iron pickax with the same enchantment.,2020-08-20T21:40:42,LABEL_1,0.6698041558265686
+comment,minecraft,2020,g27qclf,id9vpq,"At first I was like ""Why is the stone pickaxe so fast. Even faster than diamond"" And then I remembered about 1.16",2020-08-20T22:13:30,LABEL_1,0.6203686594963074
+comment,minecraft,2020,g27pq47,id9vpq,Olym-**pick** games,2020-08-20T22:08:08,LABEL_1,0.7640609741210938
+comment,minecraft,2020,g27mv91,id9vpq,Awesome! I'd like to see you do more of these!,2020-08-20T21:42:50,LABEL_2,0.9838079810142517
+comment,minecraft,2020,g27k3qm,id9vpq,I guess the gold pickaxe couldn't go for the gold.,2020-08-20T21:15:37,LABEL_0,0.5335229635238647
+comment,minecraft,2020,g27pd69,id9vpq,we all knew what would happen but we all watched it all the way through,2020-08-20T22:05:05,LABEL_1,0.6857711672782898
+comment,minecraft,2020,gaidybb,jkdp8n,hehe there is a chicken in there,2020-10-30T01:25:40,LABEL_1,0.5071064233779907
+comment,minecraft,2020,gaifsfw,jkdp8n,Creeper looks like a hand on its fingers,2020-10-30T01:37:25,LABEL_0,0.5699329972267151
+comment,minecraft,2020,gaie1lw,jkdp8n,"this looks like that ""what would you do if we were trapped in a box together"" thing",2020-10-30T01:26:15,LABEL_1,0.7835150957107544
+comment,minecraft,2020,gaidxpn,jkdp8n,"Ahh a classic, dirt hole for the first night",2020-10-30T01:25:36,LABEL_1,0.6007584929466248
+comment,minecraft,2020,gaibbeg,jkdp8n,God damn Steve is buff af,2020-10-30T01:06:49,LABEL_0,0.961944580078125
+comment,minecraft,2020,gaicugk,jkdp8n,Minecraft season 1; Spring 2021,2020-10-30T01:17:57,LABEL_1,0.9192264676094055
+comment,minecraft,2020,gaieycv,jkdp8n,Steve is just the fucking rock holy shit,2020-10-30T01:32:03,LABEL_2,0.5696467757225037
+comment,minecraft,2020,gaibxt5,jkdp8n,"Wtf why is Steve so damn buff
+
+Edit: damn I got it he carries a lot of shit and punches trees for a living!",2020-10-30T01:11:37,LABEL_0,0.9519834518432617
+comment,minecraft,2020,gaijgjc,jkdp8n,"Kinda looks like Alex put Steve in the hole to protect the monsters, not the other way around",2020-10-30T02:01:28,LABEL_1,0.566721498966217
+comment,minecraft,2020,gaicilu,jkdp8n,Could you stop staring steve?,2020-10-30T01:15:40,LABEL_1,0.7487099170684814
+comment,minecraft,2022,ir13piv,xvial7,"""I did some offcamera mining""",2022-10-04T23:56:58,LABEL_1,0.8239675164222717
+comment,minecraft,2022,ir14obp,xvial7,Building calculators. Mother boards. Working computers.  The ability to play minecraft in minecraft. The Universe.. at this point I'm waiting to see someone build sentient life in minecraft. Well done everyone. Well done.,2022-10-05T00:03:08,LABEL_2,0.8372605443000793
+comment,minecraft,2022,ir12ejs,xvial7,how long did this project take???,2022-10-04T23:48:34,LABEL_1,0.7429445385932922
+comment,minecraft,2022,ir126md,xvial7,I can see my house from here.,2022-10-04T23:47:08,LABEL_1,0.7349827289581299
+comment,minecraft,2022,ir1147j,xvial7,"Wow. Just wow. I mean, truly.. **out of this world** type of build. 😉",2022-10-04T23:40:25,LABEL_2,0.9397822022438049
+comment,minecraft,2022,ir11d21,xvial7,Shout out to the camera man for taking such a risky journey through the Universe,2022-10-04T23:41:54,LABEL_1,0.6246424913406372
+comment,minecraft,2022,ir11yvn,xvial7,"That is actually really fucking impressive
+
+Well done!",2022-10-04T23:45:45,LABEL_2,0.9742351770401001
+comment,minecraft,2022,ir153bp,xvial7,"I need to have that world!
+
+Please, would there be any way for you to upload the world folder online?",2022-10-05T00:05:51,LABEL_1,0.6965568661689758
+comment,minecraft,2022,ir11fhi,xvial7,If this doesn’t become one of the top posts on the Minecraft subreddit I’ll be offended. Few people in the world can do what you do. I mean.. man built a freakin galaxy! Who does that!,2022-10-04T23:42:18,LABEL_0,0.6182466745376587
+comment,minecraft,2022,ir14bgm,xvial7,new james webb telescope pics just dropped,2022-10-05T00:00:50,LABEL_1,0.8922848105430603
+comment,minecraft,2020,fruv9je,gqu6dp,"*""Behold mortals, my ascension beyond this imperfect existance.""*",2020-05-26T18:11:12,LABEL_1,0.7448948621749878
+comment,minecraft,2020,fruvqh2,gqu6dp,Best way to get rid of nitwits.,2020-05-26T18:18:55,LABEL_1,0.4987003803253174
+comment,minecraft,2020,fruuyla,gqu6dp,Thats why you don’t take things from strangers,2020-05-26T18:06:13,LABEL_1,0.6241339445114136
+comment,minecraft,2020,frux09c,gqu6dp,"""Distant explosion noises""",2020-05-26T18:39:39,LABEL_1,0.5929540991783142
+comment,minecraft,2020,frv233m,gqu6dp,Let me get this straight. The second guy gave it to a kid and ran away like a bitch only to get blown to smithereens anyways.,2020-05-26T19:55:28,LABEL_0,0.8634703159332275
+comment,minecraft,2020,fruuyvb,gqu6dp,"This is really well done and awesome :D And a funny little story :D
+
+Im just curious and want to learn something, could you explain how you did this?
+
+How did you make the villagers eat the item? Eating particles?
+
+And how did you make their heads track the diffrent villagers? I know there is the rotation commands that allows you to rotate their heads/bodies but the tracking part Im curious about.
+
+Also, where the villagers totally controlled with everything they do? I.e. do they have NoAI?",2020-05-26T18:06:20,LABEL_2,0.8265588879585266
+comment,minecraft,2020,frv0ain,gqu6dp,"Have to say, that was hilarious and unexpected at the end. Really thought the child would explode :D really funny how he ran away tho, didn't change much but was funny",2020-05-26T19:30:10,LABEL_2,0.9228309392929077
+comment,minecraft,2020,fruuw9q,gqu6dp,**put floating audio sound effect*,2020-05-26T18:05:09,LABEL_1,0.8060401082038879
+comment,minecraft,2020,fruwpr0,gqu6dp,Thats why you don't take drugs,2020-05-26T18:35:01,LABEL_1,0.5453274846076965
+comment,minecraft,2020,fruws78,gqu6dp,fucking dumbass villager thinks he can play a disgraceful prank against the youth,2020-05-26T18:36:06,LABEL_0,0.9772207736968994
+comment,minecraft,2020,fwdkvix,hi22zu,I like it! How long did it take to make?,2020-06-29T23:50:20,LABEL_2,0.9558375477790833
+comment,minecraft,2020,fwdo8sq,hi22zu,"Mumbo Jumbo would like to know your location. But for real, good job mate this is awesome",2020-06-30T00:19:51,LABEL_2,0.9785575270652771
+comment,minecraft,2020,fwdjtz5,hi22zu,"Awesome! 
+
+And cue the Rube Goldberg Minecraft machines for the next week or so.",2020-06-29T23:41:29,LABEL_2,0.9663065671920776
+comment,minecraft,2020,fwdpw1f,hi22zu,r/rubegoldberg,2020-06-30T00:33:31,LABEL_1,0.7714542150497437
+comment,minecraft,2020,fwdopnf,hi22zu,"No, you are awesome!",2020-06-30T00:23:44,LABEL_2,0.9707620143890381
+comment,minecraft,2020,fwdvt2e,hi22zu,This did make my day better :),2020-06-30T01:20:43,LABEL_2,0.9877930283546448
+comment,minecraft,2020,fwdqn3e,hi22zu,u/vredditdownloader,2020-06-30T00:39:40,LABEL_1,0.7169724702835083
+comment,minecraft,2020,fwdvu74,hi22zu,Now that's a phrase I haven't heard in a long time. A long time.,2020-06-30T01:20:57,LABEL_1,0.4566028416156769
+comment,minecraft,2020,fwdk8ff,hi22zu,Thats satisfying! Take my upvote.,2020-06-29T23:44:56,LABEL_2,0.9673717021942139
+comment,minecraft,2021,h27r3ob,o2qa4o,"have yet to try the pack but im having fun imagining you flying at high speeds with elytra towards a mountain and the mountain just goes ""lol nope"" and moves out of the way.",2021-06-18T22:45:17,LABEL_2,0.7525847554206848
+comment,minecraft,2021,h27y7bt,o2qa4o,"**Wondrous datapack!**
+
+\-However, I found a way to die! ;)
+
+| Placing a respawn anchor in the overworld and charging it with glowstone causes its explosion and the player's death too, even with the Invincible Difficulty!",2021-06-18T23:38:29,LABEL_0,0.6941174268722534
+comment,minecraft,2021,h27p1nn,o2qa4o,The bed part killed me xD,2021-06-18T22:29:47,LABEL_0,0.8712702989578247
+comment,minecraft,2021,h27rxoi,o2qa4o,April first get some friends together to make a “hardcore” series only to include this data pack,2021-06-18T22:51:37,LABEL_1,0.8323140740394592
+comment,minecraft,2021,h288ayw,o2qa4o,[idk whats happening but i died](https://imgur.com/a/7yIxXbO),2021-06-19T00:53:13,LABEL_0,0.7318000793457031
+comment,minecraft,2021,h27uzjm,o2qa4o,What about walking in a small tunnel just big enough for you that's completely submerged in water? The floaties won't work...Perhaps air bubbles?,2021-06-18T23:14:37,LABEL_0,0.6742352247238159
+comment,minecraft,2021,h27oxn0,o2qa4o,What about lava tho? Or mobs?,2021-06-18T22:28:56,LABEL_1,0.8685384392738342
+comment,minecraft,2021,h27y3dj,o2qa4o,Fighting Toriel be like:,2021-06-18T23:37:40,LABEL_1,0.8515297174453735
+comment,minecraft,2020,g0vz73t,i6itrn,This may the coolest secret base I’ve ever seen.,2020-08-09T21:01:26,LABEL_2,0.9490745663642883
+comment,minecraft,2020,g0w24hf,i6itrn,Well you messed up. Now you need to make a new one because we know where it is!,2020-08-09T21:33:08,LABEL_0,0.8168993592262268
+comment,minecraft,2020,g0vzyv9,i6itrn,That’s a very creative build. The red stone adds a nice touch as nobody would think to just touch red stone underwater 9.5-10,2020-08-09T21:09:52,LABEL_2,0.9318545460700989
+comment,minecraft,2020,g0w347v,i6itrn,Thats definitely the most creative under water base I’ve ever seen might go with a similar base style in the future. (i hate building underwater with a passion though),2020-08-09T21:43:26,LABEL_2,0.6062372326850891
+comment,minecraft,2020,g0w1ydj,i6itrn,Best secret base I’ve ever seen! Well done,2020-08-09T21:31:20,LABEL_2,0.9735873937606812
+comment,minecraft,2020,g0w4ai9,i6itrn,Does punching the redstone block activate the observer? Didn't know the punch is actually a block state change.,2020-08-09T21:55:51,LABEL_1,0.7174369096755981
+comment,minecraft,2020,g0w66ad,i6itrn,/r/cozyplaces,2020-08-09T22:15:41,LABEL_1,0.7672252655029297
+comment,minecraft,2020,g0vzst5,i6itrn,How did u get thevillagers get down there !? Great build,2020-08-09T21:08:01,LABEL_2,0.8616887331008911
+comment,minecraft,2020,g0w3b9d,i6itrn,"How the fuck did you pull this off on survival!?
+
+This is insanely good",2020-08-09T21:45:23,LABEL_2,0.4297163784503937
+comment,minecraft,2020,g0w9bhr,i6itrn,My magma block arent making ubble collumns underwater. Does someone have any clue ?,2020-08-09T22:47:19,LABEL_0,0.5959143042564392
+comment,minecraft,2020,fvevxt3,hcg6hy,"Here's the link to the Planet Minecraft page: https://www.planetminecraft.com/project/drehmal-v2-prim-rdial-12k-x-12k-survival-adventure-map/
+
+This has been out for a while and I've finally decided to share it on r/minecraft. I'd like to thank u/ChaoticRift for being my partner in this project.
+
+Hope you enjoy it! :)",2020-06-20T13:06:55,LABEL_2,0.9808474779129028
+comment,minecraft,2020,fvezpf6,hcg6hy,"It looks like a modded map to Ark survival evolved
+
+Impressive",2020-06-20T13:57:21,LABEL_2,0.8067775964736938
+comment,minecraft,2020,fvf1hi2,hcg6hy,Oh. Is this Elden ring?!,2020-06-20T14:23:04,LABEL_1,0.8862923383712769
+comment,minecraft,2020,fvf2a7c,hcg6hy,"I love the idea of an intentionally designed Minecraft world, I'll have to give this a shot some time!",2020-06-20T14:35:00,LABEL_2,0.9891619682312012
+comment,minecraft,2020,fvey2cs,hcg6hy,How long did this take cause it looks amazing,2020-06-20T13:34:47,LABEL_2,0.9729991555213928
+comment,minecraft,2020,fvfao7a,hcg6hy,Hey would it be alright if me and some buddies made a youtube series of this? We'll give full credit to you guys and link the world download in the description!,2020-06-20T16:51:26,LABEL_2,0.7834982872009277
+comment,minecraft,2020,fvf26gx,hcg6hy,NGL looks like the Avatar world if all the Islands/Continents were merged together.,2020-06-20T14:33:26,LABEL_1,0.8273445963859558
+comment,minecraft,2020,fvew6ti,hcg6hy,Amazing bro,2020-06-20T13:10:05,LABEL_2,0.8369535207748413
+comment,minecraft,2020,fvf0svg,hcg6hy,I’ll give it a try but gotta ask if its lan compatible,2020-06-20T14:13:02,LABEL_1,0.82899409532547
+comment,minecraft,2020,g44ma2c,in0c4u,"Even though I barely play minecraft I love this kind of content. It feels like they managed to unlock the origin of some part of nostalgic memory. It is just truly amazing. You might show this to your brother or a friend and they most likely will not understand or not care, but you do.",2020-09-05T22:36:15,LABEL_2,0.9684764742851257
+comment,minecraft,2020,g44a1uz,in0c4u,"It's amazing they found the exact place given so little info
+
+But
+
+Is the pig from the image there too :( the pig truly completes the scene",2020-09-05T21:01:05,LABEL_2,0.773419201374054
+comment,minecraft,2020,g447nbu,in0c4u,GG.These madlads did it. It has been found.,2020-09-05T20:35:00,LABEL_0,0.4894118309020996
+comment,minecraft,2020,g44hxz8,in0c4u,"They even found the title screen world, originally having to try to narrow down 281,474,976,710,656 worlds. And that was the version from around 2013
+
+https://youtu.be/GaRurhiK-Lk",2020-09-05T22:03:25,LABEL_1,0.8437103033065796
+comment,minecraft,2020,g44b2i2,in0c4u,Cant wait to watch the salc1 video tomorrow,2020-09-05T21:09:05,LABEL_2,0.9835802912712097
+comment,minecraft,2020,g44b8vw,in0c4u,What is the seed,2020-09-05T21:10:30,LABEL_1,0.7930282354354858
+comment,minecraft,2020,g44hc1o,in0c4u,Is salc1 in that screenshot? Wasn’t he part of the project,2020-09-05T21:58:41,LABEL_1,0.8544076085090637
+comment,minecraft,2020,g44o2pl,in0c4u,"Link to Earth computer's video:
+https://youtu.be/wZGPg6Ckp3Q",2020-09-05T22:49:03,LABEL_1,0.8582895398139954
+comment,minecraft,2020,g44kxag,in0c4u,This is amazing. Mojang should make a painting of pack.png now!,2020-09-05T22:26:12,LABEL_2,0.9789568781852722
+comment,minecraft,2020,g44qsxt,in0c4u,"“The pig has waited, in lonely silence, but yet finally he’s been found”
+His coming rejoiced by the weary travelers, who spill his blood upon the ground.",2020-09-05T23:06:49,LABEL_1,0.5776239037513733
+comment,minecraft,2020,fqp5u1a,gk61b6,"Honestly it's amazing seeing what people are able to make using command blocks, while I can't even do a simple /fill command",2020-05-15T17:48:06,LABEL_2,0.689782977104187
+comment,minecraft,2020,fqp6h2z,gk61b6,RIP meatball. 2020 - 2020. Gone but not forgotten,2020-05-15T17:59:01,LABEL_1,0.5115393400192261
+comment,minecraft,2020,fqp6jw9,gk61b6,looks like you got the hot sauce instead,2020-05-15T18:00:20,LABEL_1,0.5329018831253052
+comment,minecraft,2020,fqpaiqq,gk61b6,"Bro, your "" break in case of emergency"" had me dying. Break in case there's ever a meatball catastrophe 😂",2020-05-15T19:05:46,LABEL_0,0.6742748618125916
+comment,minecraft,2020,fqp9ybw,gk61b6,"I like the two types of creators in MC. The ones that use mods to achieve their goals, and the ones who literally bend space-time with command blocks",2020-05-15T18:56:54,LABEL_2,0.708534836769104
+comment,minecraft,2020,fqp6g7g,gk61b6,"One small porkchop comes in, 1 gigantic meatball comes out.",2020-05-15T17:58:35,LABEL_1,0.8216943144798279
+comment,minecraft,2020,fqpdztq,gk61b6,I’m Swedish and NO SANE BEING HAVE EVER USE BBQ SAUCE ON A MEATBALL! (Love this video tho),2020-05-15T19:57:24,LABEL_2,0.6949558258056641
+comment,minecraft,2020,fqp9evz,gk61b6,I love the way you van see the panic haha,2020-05-15T18:48:20,LABEL_2,0.8974258303642273
+comment,minecraft,2022,iefdozn,voole2,"A quick note about our rules regarding this and similar threads:
+
+* Rule #6 (__Unrelated Content__) states that anything about YouTube personalities (which Technoblade certainly was) is supposed to be posted/commented in their respective fan communities. (Here that would be r/Technoblade, in case you didn't know that's a thing.) __We are leaving this particular post up out of respect, though.__
+* Rule #7 (__Chain Posts__) states that posts made in reference of other posts will be removed. Keep your Technoblade-related discussion in this post or in r/Technoblade, please. We don't need New to be flooded with individual comment posts that could as well have been replies to this post.
+* Rule #1 (__Derogatory language, purposefully inciting arguments__) will be grounds for trolls to be banned without further warning. If you see comments severely breaking this rule, especially in relation to the topic of this thread, please report them so we are aware and can take action. We simply have no way of keeping track of the comments in this thread without your help. __Do not reply to (""feed"") trolls__, let the moderators take care of the issue. Breaking rule #1 in response to someone else doing the same risks you facing consequences as well.",2022-07-01T15:59:45,LABEL_0,0.581413984298706
+comment,minecraft,2022,ieeh3t0,voole2,"We lost a good one
+
+Damn it ;-;",2022-07-01T10:22:26,LABEL_0,0.9229779839515686
+comment,minecraft,2022,ieehcai,voole2,"It’s really hard for me to process this. Rest In Peace techno, and screw cancer.",2022-07-01T10:24:21,LABEL_0,0.8854648470878601
+comment,minecraft,2022,ieehi4i,voole2,Ive never been this sad for a youtuber. Rest in peace techno,2022-07-01T10:25:41,LABEL_0,0.777079701423645
+comment,minecraft,2022,ieegbfe,voole2,"It's not often you expect legends to actually end. I didn't even watch his content that often, but this makes me really, really sad.",2022-07-01T10:16:04,LABEL_0,0.9274400472640991
+comment,minecraft,2022,ieegow2,voole2,"""Techno never dies"" he will never die in our hearts",2022-07-01T10:19:05,LABEL_1,0.5125364661216736
+comment,minecraft,2022,ieejsv0,voole2,"I can't believe he's really gone.
+
+I first started watching him back when he was doing the bedwars challenge, and watched him religiously throughout highschool. 
+
+When I first heard he had cancer, I didn't really pay much mind to it. It never seemed too serious, and with his videos, I assumed he was fine. I can't believe it got this bad. Looking back, I wish I hadn't taken it so lightly.",2022-07-01T10:44:42,LABEL_0,0.6559402942657471
+comment,minecraft,2022,ieehn11,voole2,"Hypixel should add a statue in Skywars and Bedwars. Nothing to glamorous, just a simple tribute to one of the best skywars and bedwars player.",2022-07-01T10:26:48,LABEL_2,0.7481845021247864
+comment,minecraft,2022,ieefvoe,voole2,"One of the only 2 mc youtubers i watched cause they were genuinely funny and entertaining
+
+
+R.I.P Legend",2022-07-01T10:12:36,LABEL_2,0.9599599242210388
+comment,minecraft,2021,h77gtge,ov7cvn,Something about that classic image of Steve sitting in the field that captures the essence of 2010-2012-era Minecraft. Great job!,2021-07-31T22:47:54,LABEL_2,0.9733297228813171
+comment,minecraft,2021,h77d5t7,ov7cvn,I imagine you expanded the height limit?,2021-07-31T22:17:42,LABEL_1,0.8387030363082886
+comment,minecraft,2021,h779nau,ov7cvn,satisfying,2021-07-31T21:47:07,LABEL_2,0.846530020236969
+comment,minecraft,2021,h77mq2b,ov7cvn,Does anyone know who originally made that image? 2010 - 2013 Minercraft was very fun and nostalgic,2021-07-31T23:35:49,LABEL_2,0.9526849389076233
+comment,minecraft,2021,h779ths,ov7cvn,"Yes, Artwork involving Steve, ill rate it stack of stack (64/64)",2021-07-31T21:48:41,LABEL_2,0.7005110383033752
+comment,minecraft,2021,h77cx8v,ov7cvn,"Computer, softly '*don't*'",2021-07-31T22:15:43,LABEL_1,0.726518452167511
+comment,minecraft,2021,h77czyr,ov7cvn,"I like sand.  Its cool, and neat and imaginative.  And it gets everywhere.",2021-07-31T22:16:21,LABEL_2,0.9680487513542175
+comment,minecraft,2021,h77kvwc,ov7cvn,It's enough to make a minecraft veteran cry....n it's okay <3,2021-07-31T23:20:43,LABEL_2,0.7381772398948669
+comment,minecraft,2021,h77n2zx,ov7cvn,Holy. Fuck.,2021-07-31T23:38:48,LABEL_0,0.9391646385192871
+comment,minecraft,2021,h77dn0v,ov7cvn,I remember when I used to have that pic as my wallpaper. amazing art!!,2021-07-31T22:21:31,LABEL_2,0.9729870557785034
+comment,minecraft,2020,fh3vosj,f1c354,This reminds me of when you finish building things in Lego Games.,2020-02-10T02:25:42,LABEL_2,0.7117143869400024
+comment,minecraft,2020,fh3wf21,f1c354,Would this make red stone break?,2020-02-10T02:30:02,LABEL_1,0.8740776777267456
+comment,minecraft,2020,fh3nd6z,f1c354,"You should make the animation for the portal actually being lit more dramatic aswell and as someone else said, have some nether rack leak out of it.",2020-02-10T01:48:52,LABEL_1,0.7290600538253784
+comment,minecraft,2020,fh46ea3,f1c354,"For everyone asking for a download, here it is:  [https://www.mediafire.com/file/kwpfbtvrbawvs9f/portal\_animation.zip/file](https://www.mediafire.com/file/kwpfbtvrbawvs9f/portal_animation.zip/file)
+
+This is just a proof of concept tho, and will not work out of the box like this. feel free to take the above pack and improve it to your likings.
+
+Bonus: [https://gfycat.com/cheerylividafricanrockpython](https://gfycat.com/cheerylividafricanrockpython)",2020-02-10T03:14:12,LABEL_1,0.5955043435096741
+comment,minecraft,2020,fh3n5qz,f1c354,Maybe it could spawn a bit of nether rack spikes around it,2020-02-10T01:47:45,LABEL_1,0.909243106842041
+comment,minecraft,2020,fh3z6r0,f1c354,"Imagine making this in your home, and its just fucks over half the stuff in the building",2020-02-10T02:41:41,LABEL_0,0.9320157766342163
+comment,minecraft,2020,fh3tdik,f1c354,That would scare the absolute shit out of me,2020-02-10T02:14:52,LABEL_0,0.9512360095977783
+comment,minecraft,2020,fh401p1,f1c354,And in the mean time I just found out that beds explode in the nether,2020-02-10T02:46:31,LABEL_0,0.5621384978294373
+comment,minecraft,2020,fh3s89p,f1c354,Such a great fucking idea.,2020-02-10T02:09:17,LABEL_2,0.8003515601158142
+comment,minecraft,2020,fmq333q,fwr4br,Is there a way you could rig it so when the map is broken it sets off red stone and fired arrows at them or something?,2020-04-08T04:39:46,LABEL_1,0.557908833026886
+comment,minecraft,2020,fmpwikw,fwr4br,that is a truly horrible thing to do. ive never seen this done. absolute madman.,2020-04-08T03:43:41,LABEL_0,0.9753960371017456
+comment,minecraft,2020,fmq1lg2,fwr4br,Thats evil,2020-04-08T04:26:53,LABEL_0,0.9018881916999817
+comment,minecraft,2020,fmq2fdv,fwr4br,I want to wallpaper my whole mine with this.,2020-04-08T04:34:03,LABEL_2,0.8759394288063049
+comment,minecraft,2020,fmq16ao,fwr4br,You monster!,2020-04-08T04:23:19,LABEL_0,0.8956552743911743
+comment,minecraft,2020,fmq03a4,fwr4br,D I A B O L I C A L,2020-04-08T04:14:05,LABEL_0,0.5004783868789673
+comment,minecraft,2020,fmq3nyn,fwr4br,I wanna do that. What blocks did you use?,2020-04-08T04:44:42,LABEL_1,0.8472203016281128
+comment,minecraft,2020,fmq6nwi,fwr4br,That one guy with the custom texture pack: Excuse Me what the fuck 🙃,2020-04-08T05:11:03,LABEL_0,0.9016028046607971
+comment,minecraft,2020,fmq4ih2,fwr4br,"Perfectly placed beside lava, so that players can jump in after realising what just happened.",2020-04-08T04:52:02,LABEL_2,0.49150487780570984
+comment,minecraft,2020,fmpwaqj,fwr4br,"Do you have a bunch of friends ur playing with? If so, you are very toxic my sir(but in a funny way)",2020-04-08T03:41:48,LABEL_0,0.8735992908477783
+comment,minecraft,2020,g63a74n,iwxbmo,How our grandparents walked to school,2020-09-21T19:42:14,LABEL_1,0.8512333631515503
+comment,minecraft,2020,g63136t,iwxbmo,How much of your week did you spend on this?,2020-09-21T17:54:05,LABEL_1,0.8755928874015808
+comment,minecraft,2020,g631eik,iwxbmo,"The sfx timing was great, the visuals kept me glued to the screen, and nice touch with the pvz boss battle music",2020-09-21T17:59:13,LABEL_2,0.9848591685295105
+comment,minecraft,2020,g631b7y,iwxbmo,"This is insane my man, you’re seriously talented to pull this off. Not only were the transitions smooth, the build itself was aesthetically beautiful. Good job!",2020-09-21T17:57:44,LABEL_2,0.9800410270690918
+comment,minecraft,2020,g6314o0,iwxbmo,"My lord, that was fantastic! That's really impressive that you can build all that, and then actually do it! That's amazing!",2020-09-21T17:54:45,LABEL_2,0.9861050248146057
+comment,minecraft,2020,g63a3eu,iwxbmo,"Damn, for someone who still likes to watch and keep up with the minecraft's community but hasn't played it since 2013 it still amazes me of what people can do with redstone and command blocks",2020-09-21T19:41:10,LABEL_0,0.5053115487098694
+comment,minecraft,2020,g637l7c,iwxbmo,"Plants vs Zombies Music?
+
+Ahh, good times
+
+Good vid btw",2020-09-21T19:14:56,LABEL_2,0.7760156989097595
+comment,minecraft,2020,g63b7ug,iwxbmo,What shader did you use?,2020-09-21T19:53:16,LABEL_1,0.8582800626754761
+comment,minecraft,2020,g1qspj9,ias5gg,This is why veterinarians have a giant funnel full of steak for treating canines IRL.  Who needs plasma or medication when you can pump 15 lbs of porterhouse into an animal in under 10 seconds.,2020-08-16T23:45:45,LABEL_1,0.5239665508270264
+comment,minecraft,2020,g1qiv52,ias5gg,Awww that really upset me to hear that dog cry lol,2020-08-16T22:10:19,LABEL_0,0.9605568051338196
+comment,minecraft,2020,g1qtjb3,ias5gg,Why do people take their dogs mining? It’s almost always a death sentence for the dog.,2020-08-16T23:53:25,LABEL_0,0.9232423901557922
+comment,minecraft,2020,g1ql2ub,ias5gg,This is why steak > golden carrots,2020-08-16T22:33:02,LABEL_1,0.7419423460960388
+comment,minecraft,2020,g1qt22z,ias5gg,EAT EAT EAT,2020-08-16T23:49:01,LABEL_1,0.5829032063484192
+comment,minecraft,2020,g1qerae,ias5gg,"He worked harder, not smarter and spent 30 more steak and a totem than he needed to.",2020-08-16T21:24:13,LABEL_0,0.7143245339393616
+comment,minecraft,2020,g1qecif,ias5gg,You had water,2020-08-16T21:19:12,LABEL_1,0.7400153875350952
+comment,minecraft,2020,g1qtxbp,ias5gg,*dog immediately jumps back in*,2020-08-16T23:57:06,LABEL_1,0.5022510290145874
+comment,minecraft,2020,g1qmew5,ias5gg,If only all pet owners in real life were like that.,2020-08-16T22:46:11,LABEL_1,0.6397095322608948
+comment,minecraft,2020,fk81hh3,fgzvi9,Who needs a ti-84 when you have Minecraft,2020-03-12T01:26:23,LABEL_1,0.584625780582428
+comment,minecraft,2020,fk83fvf,fgzvi9,"The 2D graphs were pretty standard and using certain blocks as variables/numbers was pretty cool, but graphing 3 dimensions in real time? Holy *fuck* my inner math nerd just came.",2020-03-12T01:43:51,LABEL_0,0.6237785220146179
+comment,minecraft,2020,fk8a0sw,fgzvi9,"Link to video:
+
+https://youtu.be/lTMQDslfSfk",2020-03-12T02:42:40,LABEL_1,0.8439750075340271
+comment,minecraft,2020,fk7zf8h,fgzvi9,"Is this done with commands or a datapack, and can you make a download",2020-03-12T01:08:04,LABEL_1,0.8970052003860474
+comment,minecraft,2020,fk7y0ds,fgzvi9,That’s cool and all but can it type 80085,2020-03-12T00:55:22,LABEL_2,0.6374049186706543
+comment,minecraft,2020,fk7x2mp,fgzvi9,See you in hot buddy,2020-03-12T00:47:05,LABEL_2,0.5077046155929565
+comment,minecraft,2020,fk7wzru,fgzvi9,"I HATE MATH BUT
+
+_THIS IS COOL_",2020-03-12T00:46:23,LABEL_0,0.7668772339820862
+comment,minecraft,2020,fk7vl4e,fgzvi9,That’s so fricking cool,2020-03-12T00:34:03,LABEL_2,0.9693715572357178
+comment,minecraft,2020,fk81ib6,fgzvi9,Can it operate wth complex numbers?,2020-03-12T01:26:35,LABEL_1,0.8331229090690613
+comment,minecraft,2020,frq6v5j,gq1gid,*portal not to scale*,2020-05-25T09:49:45,LABEL_1,0.7090445160865784
+comment,minecraft,2020,frq35vp,gq1gid,That actually makes a lot of sense,2020-05-25T09:10:57,LABEL_2,0.8219050765037537
+comment,minecraft,2020,frq5pzh,gq1gid,Woah thanks for the visual,2020-05-25T09:37:40,LABEL_2,0.9669194221496582
+comment,minecraft,2020,frq34gd,gq1gid,Make sense.,2020-05-25T09:10:33,LABEL_1,0.6504606604576111
+comment,minecraft,2020,frqcjd9,gq1gid,"What if someone made a mod, where instead of the world border existing, if you are near where the world border is supposed to be, the game will load chunks on the other side of the world, effectively making a loop.",2020-05-25T10:50:12,LABEL_1,0.7721207141876221
+comment,minecraft,2020,frqyuky,gq1gid,"If we apply this to the Minecraft world, using the Farlands as borders for the world (As in walking from across the entire Minecraft world from Farland to Farland would be like walking the equator) then we know that the circumference of the world would be 25,122,058 meters round. Dividing by 2 pi to get the radius would give us 3,998,299 meters as the radius. Converting to km would be 3,998.299 of course. 
+
+Interestingly this makes the Minecraft world smaller than our own, as the Earth's radius is between 6,357 and 6,378 km. 
+
+Then to find how far down the Nether would have to be for this image to be true, we use the equation (Suface Length) = (Radius) * (Angle). We can apply that to both the Surface level and the Nether level, giving us the equations 8 = 3998.299 * (Angle) and 1 = (Nether radius) * (Angle), respectively. As the angle is consistent between the equations, we can instead rearrange the equations to find angle and then set them equal to each other. This gives us 8 / 3998.299 = 1 / (Nether radius). Solving for this we can find the Nether radius is equal to 3998.299 / 8 which is equal to 499.78 km.
+
+This means that the Nether would be about 3,498.519 km below the surface.
+
+Similarly, applying all of that to Earth's measurements it would mean the Nether would be about 5,571.5625 km below the surface, for reference that is well within the solid Inner Core of Earth.",2020-05-25T15:36:36,LABEL_1,0.7253984808921814
+comment,minecraft,2020,frq63w0,gq1gid,my mind is fricken blown,2020-05-25T09:41:46,LABEL_0,0.8140578269958496
+comment,minecraft,2020,frqcso3,gq1gid,"In like to think that the overworld is the surface of the minecraft planet, the nether is the mantle/outer core of the planet, and The End ""dimension"" is just the astroid belt in the solar system",2020-05-25T10:52:59,LABEL_1,0.7860593199729919
+comment,minecraft,2020,frq9u4u,gq1gid,"If this were the case 1 block in the nether would be a different number of blocks in the overworld depending on the height, but given that the radius of circle would be millions of blocks, I don't think 256 blocks would make much of a difference.
+
+The only flaw I can see with this is that portals don't always go to the coordinates that would be directly below them. So really you're just saying that the surface area of the nether is 1/8th (edit: actually 1/64th, but you understood what I meant to say anyway) of the overworlds. These surfaces can still be configured in any way because portals can be connected in any way, not just straight down. A sphere in a sphere could be one of those configurations though.",2020-05-25T10:21:13,LABEL_1,0.599923849105835
+comment,minecraft,2020,g5hrssz,iu0khd,that is impressive,2020-09-17T01:56:48,LABEL_2,0.9563101530075073
+comment,minecraft,2020,g5hr234,iu0khd,How long did that take? it huge af,2020-09-17T01:50:57,LABEL_1,0.5654666423797607
+comment,minecraft,2020,g5hy2xh,iu0khd,What's inside it? Tombs? Treasure? A functioning city/state with self reliant agriculture? Or is it blocks all the way through?,2020-09-17T02:48:06,LABEL_1,0.84861159324646
+comment,minecraft,2020,g5ht4f3,iu0khd,You madman,2020-09-17T02:07:31,LABEL_0,0.8071038722991943
+comment,minecraft,2020,g5hxjlh,iu0khd,"Indubitably amazing, what're the dimensions on that incredible piece of art?",2020-09-17T02:43:42,LABEL_2,0.9211525917053223
+comment,minecraft,2020,g5hvcg7,iu0khd,"......
+
+Excuse me for a moment while I remove my jaw from the floor...",2020-09-17T02:25:38,LABEL_1,0.4887758195400238
+comment,minecraft,2020,g5hxuam,iu0khd,I’m waiting for the day that I will have enough patience and skill to make something that friggin huge and detailed. That’s incredible!,2020-09-17T02:46:06,LABEL_2,0.9493152499198914
+comment,minecraft,2020,g5hyy37,iu0khd,Sad Cubfan noises,2020-09-17T02:55:06,LABEL_0,0.6600483059883118
+comment,minecraft,2020,g5hqwog,iu0khd,That’s beautiful,2020-09-17T01:49:47,LABEL_2,0.9502980709075928
+comment,minecraft,2020,g7iyhe3,j4hjvx,"both caves and mountains look huge, looks like world generation uses the entire build limit now? or maybe that will be increased as well",2020-10-04T00:28:49,LABEL_1,0.5771258473396301
+comment,minecraft,2020,g7iw617,j4hjvx,"Me five minutes ago: I really hope it's either a cave or mountain update.
+
+Mojang: How about *both*?",2020-10-04T00:07:00,LABEL_1,0.6502891778945923
+comment,minecraft,2020,g7iw0s4,j4hjvx,"Damn 2020 is a good year for Minecraft.
+
+EDIT: Update is coming in summer 2021 so I guess it's a good two years for Minecraft.",2020-10-04T00:05:37,LABEL_2,0.9620205760002136
+comment,minecraft,2020,g7izkxv,j4hjvx,"The skulk is amazing, it's basically wireless redstone.",2020-10-04T00:39:22,LABEL_2,0.98056960105896
+comment,minecraft,2020,g7j1g3s,j4hjvx,I am so excited and also terrified of that new Warden mob,2020-10-04T00:56:47,LABEL_2,0.7607268691062927
+comment,minecraft,2020,g7j0s2h,j4hjvx,"I feel like such a boomer, I remember when sprinting/food stacking got added. I would have freaked the HELL out If I ever saw this is what Minecraft was going to become. So awesome to see what this game has turned into",2020-10-04T00:50:42,LABEL_2,0.8706836700439453
+comment,minecraft,2020,g7iwc9o,j4hjvx,"Add News flair, you were first to put it here",2020-10-04T00:08:36,LABEL_1,0.7887846231460571
+comment,minecraft,2020,g7j0d1x,j4hjvx,Are they doing anything with mining as well?,2020-10-04T00:46:50,LABEL_1,0.9179406762123108
+comment,minecraft,2020,g7j9tdv,j4hjvx,[highlights](https://youtu.be/rmkGOy7pS4I) from the stream,2020-10-04T02:12:29,LABEL_1,0.8480578064918518
+comment,minecraft,2020,fze32ov,hypo9v,Yo look at the soundbar,2020-07-27T18:23:27,LABEL_1,0.816455602645874
+comment,minecraft,2020,fze2x9p,hypo9v,Amazing gameplay though.,2020-07-27T18:20:56,LABEL_2,0.896175742149353
+comment,minecraft,2020,fze5v4n,hypo9v,what's your texture pack? i like the shiny enchantments,2020-07-27T19:08:51,LABEL_2,0.8862887620925903
+comment,minecraft,2020,fze7uud,hypo9v,"I have no idea what's happening, but it felt stressful.  
+
+Like running up the basement stairs, with the lights off.",2020-07-27T19:38:29,LABEL_0,0.8180227279663086
+comment,minecraft,2020,fze2xsb,hypo9v,Oh my god what the frickity frackity,2020-07-27T18:21:12,LABEL_0,0.9334486722946167
+comment,minecraft,2020,fze56fy,hypo9v,Yo those were some sick parkour moves,2020-07-27T18:58:09,LABEL_1,0.4789060354232788
+comment,minecraft,2020,fzeb4ok,hypo9v,My dad telling how he went to scool be like,2020-07-27T20:22:31,LABEL_1,0.840384304523468
+comment,minecraft,2020,fze8ruf,hypo9v,That totem clutch was top tier tho,2020-07-27T19:51:18,LABEL_2,0.6396695971488953
+comment,minecraft,2020,fze3rwv,hypo9v,Shield gang,2020-07-27T18:35:15,LABEL_1,0.737130343914032
+comment,minecraft,2021,gmqhl2u,lgc29k,Does it make like a logo clicking sound when you place blocks,2021-02-10T04:05:06,LABEL_1,0.8319628834724426
+comment,minecraft,2021,gmqindn,lgc29k,We will watch your career with great interest.,2021-02-10T04:12:44,LABEL_2,0.9223030209541321
+comment,minecraft,2021,gmqq92p,lgc29k,"some people seem kinda rude about it, but it might legitimately be a good idea to take the logo off so this doesn't get taken down bc it looks so cool. Maybe call it ""lego-inspired""? Whatever you do, we'll all be very interested",2021-02-10T05:06:21,LABEL_2,0.8847814202308655
+comment,minecraft,2021,gmqrrql,lgc29k,How are you gonna do water?,2021-02-10T05:17:11,LABEL_1,0.8538861870765686
+comment,minecraft,2021,gmqivpf,lgc29k,This looks so surreal,2021-02-10T04:14:21,LABEL_2,0.9285900592803955
+comment,minecraft,2021,gmqo1s8,lgc29k,"If you don’t walk with boots on you take damage, right?",2021-02-10T04:50:50,LABEL_0,0.6416319012641907
+comment,minecraft,2021,gmqnmuz,lgc29k,Definitely needs to have POM for the tops... that would be cool.,2021-02-10T04:47:55,LABEL_2,0.8803966045379639
+comment,minecraft,2021,gmqycpi,lgc29k,Reminds me of Lego Worlds,2021-02-10T06:04:53,LABEL_2,0.6694990992546082
+comment,minecraft,2021,gmqpztl,lgc29k,You are strong and wise and I am very proud of you,2021-02-10T05:04:35,LABEL_2,0.9879953265190125
+comment,minecraft,2021,gmqzeoo,lgc29k,reminds me of the old OLD Lego minecraft texture pack from years ago,2021-02-10T06:12:51,LABEL_1,0.7373679876327515
+comment,minecraft,2020,gc8xkh6,ju0f7a,So you're not bothered by the fact that the item is somewhat round-ish but the armor itself is square?,2020-11-14T20:32:29,LABEL_1,0.702223539352417
+comment,minecraft,2020,gc8t6jb,ju0f7a,Now it has,2020-11-14T19:14:16,LABEL_1,0.6927736401557922
+comment,minecraft,2020,gc8tmrh,ju0f7a,Yes it does it ruins alot of my skins,2020-11-14T19:22:53,LABEL_0,0.9517268538475037
+comment,minecraft,2020,gc8vh48,ju0f7a,"Not really. Yeah, I was confused when I wore armor for the first time, but I just learned to roll with it.",2020-11-14T19:57:22,LABEL_1,0.6455508470535278
+comment,minecraft,2020,gc8u7hr,ju0f7a,"Not until now, THANKS!",2020-11-14T19:33:47,LABEL_2,0.8740779161453247
+comment,minecraft,2020,gc8vh9u,ju0f7a,"I’d find a texture pack that either adds a nose guard to the item image or removes it from the armour model, a few vanilla tweak texture packs do it.",2020-11-14T19:57:27,LABEL_1,0.8756746649742126
+comment,minecraft,2020,gc8thos,ju0f7a,I didnt even realize until now,2020-11-14T19:20:12,LABEL_1,0.5456789135932922
+comment,minecraft,2020,gc8wbgz,ju0f7a,"Goddamnit, now it will",2020-11-14T20:12:03,LABEL_0,0.748953104019165
+comment,minecraft,2020,gc8zxwi,ju0f7a,"That's because the item images were created before the current armor models.
+
+[This is what the original ""plate armor"" looked like](https://minecraft.fandom.com/wiki/Plate_Armor)",2020-11-14T21:08:05,LABEL_1,0.7996941208839417
+comment,minecraft,2020,gc8wdar,ju0f7a,I don't play in F5,2020-11-14T20:12:52,LABEL_1,0.49957263469696045
+comment,minecraft,2020,g0ycznj,i6vsdq,"Ok ok chill, I’m going back there chill.",2020-08-10T10:17:17,LABEL_1,0.614971399307251
+comment,minecraft,2020,g0ycjzi,i6vsdq,Stockholm syndrome,2020-08-10T10:12:55,LABEL_1,0.6010916829109192
+comment,minecraft,2020,g0ye9b2,i6vsdq,You should rename that chicken Sisyphus,2020-08-10T10:29:55,LABEL_0,0.5201716423034668
+comment,minecraft,2020,g0yiyje,i6vsdq,the path finding ai for baby animals tells them to stay near their mother,2020-08-10T11:18:53,LABEL_1,0.8468629121780396
+comment,minecraft,2020,g0yhlfn,i6vsdq,"That dance at the end... he didn't even want to escape, he just wanted to send a message.",2020-08-10T11:04:04,LABEL_1,0.7270387411117554
+comment,minecraft,2020,g0yg1s7,i6vsdq,"I love how instead of trying to get it back in the pen, you immediately try to kill it",2020-08-10T10:47:49,LABEL_2,0.4987752139568329
+comment,minecraft,2020,g0yioi2,i6vsdq,"""You could not live with you failure. Where did that bring you? Back to me""",2020-08-10T11:15:49,LABEL_0,0.7064785957336426
+comment,minecraft,2020,g0ydxob,i6vsdq,Why... Why do you have a gold sword?,2020-08-10T10:26:50,LABEL_1,0.6754819750785828
+comment,minecraft,2020,g0yn1c2,i6vsdq,LPT: Use carpets on your fences! You can jump on them but mobs don’t realize they can so they will stay inside. Best way to prevent this!,2020-08-10T12:04:35,LABEL_1,0.5238926410675049
+comment,minecraft,2020,g0yihoi,i6vsdq,task failed successfully,2020-08-10T11:13:44,LABEL_0,0.6474131345748901
+comment,minecraft,2020,gdkp6m0,k0vp9r,The splitting into tiny slimes at the end was a great touch,2020-11-26T01:56:13,LABEL_2,0.9333686828613281
+comment,minecraft,2020,gdkjkgl,k0vp9r,this is perfect. now all we need is a movie,2020-11-26T01:11:35,LABEL_2,0.9795829653739929
+comment,minecraft,2020,gdkjmlm,k0vp9r,Them splitting to make the I is genius,2020-11-26T01:12:04,LABEL_1,0.5598188638687134
+comment,minecraft,2020,gdkh7t5,k0vp9r,this better not die in new,2020-11-26T00:52:32,LABEL_0,0.5209836959838867
+comment,minecraft,2020,gdkii47,k0vp9r,That slime got into a sticky situation,2020-11-26T01:02:55,LABEL_0,0.6910391449928284
+comment,minecraft,2020,gdkgymo,k0vp9r,hahaha it looks great,2020-11-26T00:50:28,LABEL_2,0.9829778075218201
+comment,minecraft,2020,gdkhsho,k0vp9r,this is strait going into hot,2020-11-26T00:57:12,LABEL_1,0.7157214283943176
+comment,minecraft,2020,gdki65x,k0vp9r,looks great,2020-11-26T01:00:14,LABEL_2,0.974378764629364
+post,minecraft,2020,hxf9wg,,A ziplining contraption I created with 1000+ command blocks,2020-07-25T10:41:37,LABEL_1,0.6835823655128479
+post,minecraft,2020,inpzob,,The steepest walkable staircase possible in 1.16,2020-09-07T01:23:39,LABEL_2,0.534973680973053
+post,minecraft,2021,lp8jjm,,"We played a multiplayer hardcore realm during corona, where any time any person died we reset the world. Here's how we did!",2021-02-22T06:38:22,LABEL_1,0.672164261341095
+post,minecraft,2020,id9vpq,,All pickaxes racing against each other.,2020-08-20T21:03:35,LABEL_1,0.6911822557449341
+post,minecraft,2020,jkdp8n,,The First Night,2020-10-30T00:50:50,LABEL_1,0.7420797944068909
+post,minecraft,2022,xvial7,,I Built the Entire Universe in Minecraft! ✨,2022-10-04T23:37:55,LABEL_2,0.9459407329559326
+post,minecraft,2020,gqu6dp,,I gave Villagers some Wonder Apples,2020-05-26T18:00:05,LABEL_1,0.705117404460907
+post,minecraft,2020,hi22zu,,Hope this makes your day better.,2020-06-29T23:37:15,LABEL_2,0.9771872162818909
+post,minecraft,2021,o2qa4o,,[::] So I made a datapack which makes it impossible to die...,2021-06-18T22:24:02,LABEL_1,0.49176090955734253
+post,minecraft,2020,i6itrn,,Hidden survival base on our server,2020-08-09T20:52:22,LABEL_1,0.8620247840881348
+post,minecraft,2020,hcg6hy,,"My 12k by 12k survival/adventure map is out! It features 300 unique structures, 13 custom villages, dungeons, puzzles, a fast travel system, special weapons, and more! Download in the comments",2020-06-20T13:05:39,LABEL_2,0.6632411479949951
+post,minecraft,2020,in0c4u,,"History has been made - After 8 months of work, the original world of the pack.png image (the default image of minecraft worlds) has been found. (Screenshot from Earthcomputer on Youtube)",2020-09-05T20:32:06,LABEL_1,0.6206678748130798
+post,minecraft,2020,gk61b6,,I messed up my giant meatball :(,2020-05-15T17:36:26,LABEL_0,0.965247392654419
+post,minecraft,2022,voole2,,it has been an honor...,2022-07-01T09:34:55,LABEL_2,0.9266824722290039
+post,minecraft,2021,ov7cvn,,I made the biggest falling sand art in Minecraft,2021-07-31T21:41:59,LABEL_2,0.8612958192825317
+post,minecraft,2020,f1c354,,"In honor of the nether update I made the netherportal have a bit more... ""impact""",2020-02-10T01:46:18,LABEL_2,0.5284745097160339
+post,minecraft,2020,fwr4br,,I scattered hundreds diamond ore map arts in my server like a madman!,2020-04-08T03:40:12,LABEL_1,0.4858795702457428
+post,minecraft,2020,iwxbmo,,I accidentally broke into Creeper's maze......,2020-09-21T17:45:15,LABEL_0,0.5883978605270386
+post,minecraft,2020,ias5gg,,"Not me, but this touched my heart",2020-08-16T21:15:00,LABEL_2,0.7951209545135498
+post,minecraft,2020,fgzvi9,,I made a real-time 3D graphing calculator in Minecraft.,2020-03-12T00:29:03,LABEL_2,0.8367943167686462
+post,minecraft,2020,gq1gid,,Why one block in the nether is 8 blocks in the overworld,2020-05-25T09:09:33,LABEL_1,0.7313197255134583
+post,minecraft,2020,iu0khd,,Finall pyramid,2020-09-17T01:48:08,LABEL_1,0.6661714315414429
+post,minecraft,2020,j4hjvx,,New Update,2020-10-04T00:04:10,LABEL_1,0.8077599406242371
+post,minecraft,2020,hypo9v,,Caving in freakin’ scary bro! They had me down to half a heart!,2020-07-27T18:16:23,LABEL_0,0.8742600083351135
+post,minecraft,2021,lgc29k,,Minecraft + Lego = Love (making my own texturepack!),2021-02-10T04:03:12,LABEL_2,0.9591800570487976
+post,minecraft,2020,ju0f7a,,Has this ever bothered you?,2020-11-14T19:12:18,LABEL_1,0.5337236523628235
+post,minecraft,2020,i6vsdq,,The greatest escape in history...,2020-08-10T09:45:11,LABEL_2,0.7849993109703064
+post,minecraft,2020,k0vp9r,,Decided to make a very slimy Minecraft Pixar intro!,2020-11-26T00:49:12,LABEL_2,0.5098440051078796
+post,minecraft,2020,gwogu8,,BEHOLD.... my stuff,2020-06-05T03:36:39,LABEL_1,0.7140112519264221
+post,minecraft,2020,jp0b34,,Timelapse Statue of Liberty,2020-11-06T14:45:43,LABEL_1,0.8161029815673828
+post,minecraft,2020,hokrdg,,"Just a Nether Portal Sword design, any thought?",2020-07-10T15:39:32,LABEL_1,0.912644624710083
+post,minecraft,2021,lhesmn,,Hole Filler Mod - Smart Hole Filler,2021-02-11T14:34:46,LABEL_1,0.8789118528366089
+comment,minecraft,2020,fswda6c,gwogu8,This is a really cool concept. Imagine doing this to multiple rooms at once and you invite your friends over,2020-06-05T04:29:25,LABEL_2,0.9804014563560486
+comment,minecraft,2020,fswc605,gwogu8,"Then, all of the sudden:
+
+*new update*
+
+*nothing works*",2020-06-05T04:20:45,LABEL_0,0.7146102786064148
+comment,minecraft,2020,fswff3f,gwogu8,"Dude, can we get a world download or tutorial? This is epic!",2020-06-05T04:45:51,LABEL_2,0.9474455714225769
+comment,minecraft,2020,fsw6xyd,gwogu8,BEHOLD.... My positive comment! That is a pretty epic room ya got there.,2020-06-05T03:40:28,LABEL_2,0.9577645063400269
+comment,minecraft,2020,fswaegy,gwogu8,The real magic of redstone tech,2020-06-05T04:07:05,LABEL_1,0.5311732888221741
+comment,minecraft,2020,fsw70v1,gwogu8,"I read this like the scientist guy from Aqua Teen Hunger Force lol
+This is really cool !",2020-06-05T03:41:05,LABEL_2,0.9839984178543091
+comment,minecraft,2020,fswj57k,gwogu8,This is Des and this is Troy.,2020-06-05T05:14:45,LABEL_1,0.6191295981407166
+comment,minecraft,2020,fswitt9,gwogu8,WOW. That's awesome!,2020-06-05T05:12:11,LABEL_2,0.9886125922203064
+comment,minecraft,2020,fswk1ah,gwogu8,"Corporate needs you to find the difference between this picture (post) and this picture (https://youtu.be/-B21IDMoWCg)
+They are the same picture
+
+Jokes aside, really cool job, you don’t need to have Mumbo Jumbo level to make interesting stuff, take my upvote :)
+
+Edit: Wrong link (oops)",2020-06-05T05:21:51,LABEL_2,0.7333922982215881
+comment,minecraft,2020,gbbqdmd,jp0b34,It's still weird to think that the  statue of liberty was once copper colored,2020-11-06T16:02:53,LABEL_0,0.5500460863113403
+comment,minecraft,2020,gbboj23,jp0b34,"Wow! This has taken building to new heights!
+
+Might I suggest some fire on top of the torch?",2020-11-06T15:35:48,LABEL_2,0.9658916592597961
+comment,minecraft,2020,gbbo07x,jp0b34,"I kinda wish there was a middle stage in between Lightly and Semi weathered blocks, cause that color change from orange immediately to green was fairly drastic.",2020-11-06T15:28:10,LABEL_1,0.5388714671134949
+comment,minecraft,2020,gbbny6q,jp0b34,"This was orgasmic to watch
+
+Edit: This is the most successful comment I've ever made. Thanks for all the updoots and awards guys!",2020-11-06T15:27:20,LABEL_2,0.9881566166877747
+comment,minecraft,2020,gbbp5k6,jp0b34,"I get teary eyed just thinking about the hallowed words etched into the base of Lady Liberty:
+
+“*u/Qroqo*”
+
+Really summates the American experience imo",2020-11-06T15:44:57,LABEL_1,0.48344165086746216
+comment,minecraft,2020,gbbrcna,jp0b34,This taught me that there was a point in time where the statue of liberty was a gross slate brown for probably a decade or two.,2020-11-06T16:17:45,LABEL_1,0.5323178172111511
+comment,minecraft,2020,gbbl5xi,jp0b34,u have a lot of free time,2020-11-06T14:48:19,LABEL_1,0.6272013783454895
+comment,minecraft,2020,gbbmnxb,jp0b34,This is amazing to watch!,2020-11-06T15:08:58,LABEL_2,0.9896323680877686
+comment,minecraft,2020,gbbyn0z,jp0b34,"Allright, this kinda blew up! 
+
+First of all: Thanks to [u/Jacobletrashe](https://www.reddit.com/user/Jacobletrashe/) for giving me [the inspiration](https://www.reddit.com/r/Minecraft/comments/joqo0x/and_now_we_wait/).
+
+Secondly: Thanks to the original builder from 2013: [Tatoa38](https://www.planetminecraft.com/project/statue-of-liberty-2320870/)
+
+Thirdly: Thanks to everyone giving me awards! You've made my day!
+
+Since lot's of people are saying this is done using ""*/gamerule randomtickspeed"".* This isn't right. Tickspeed doesn't affect copper. I used a custom script that I made for 1.16 to speed up the whole game, apparently it also worked for this snapshot. This script makes the game run a lot faster. Also in the menu screen (example: [https://imgur.com/a/C5F4905](https://imgur.com/a/C5F4905))
+
+I sped my game up by 80 times and it took 1 hour to completly oxidize the whole statue. It takes somewhere between 50 and 84 hours to change from brown/orange to fully oxidized.
+
+Here is a version with a day/night cycle. **Epilepsy warning though!** [https://www.youtube.com/watch?v=JlhZezkoIpU](https://www.youtube.com/watch?v=JlhZezkoIpU&feature=youtu.be&ab_channel=steve)",2020-11-06T18:17:06,LABEL_2,0.585580050945282
+comment,minecraft,2020,fxidxcv,hokrdg,Thats amazing,2020-07-10T15:45:02,LABEL_2,0.960934579372406
+comment,minecraft,2020,fxik1fy,hokrdg,Ok I'm sorry but I'm definitely going to yoink this idea,2020-07-10T17:28:30,LABEL_0,0.47627145051956177
+comment,minecraft,2020,fxikoe5,hokrdg,"Extremely cool! My only feedback is to make the hilt and cross bars more than 1 block wide - they look a little skinny right now, slightly out of proportion to the wide sword blade.",2020-07-10T17:39:12,LABEL_2,0.8478785157203674
+comment,minecraft,2020,fxig4mm,hokrdg,"This is amazing dawg. Although I have one question, was this creative or survival?",2020-07-10T16:21:56,LABEL_2,0.9522459506988525
+comment,minecraft,2020,fxidzm7,hokrdg,Yoo that’s cool as shit!,2020-07-10T15:46:04,LABEL_2,0.9779585003852844
+comment,minecraft,2020,fxilwqp,hokrdg,Reminds me of Azeroth,2020-07-10T18:00:06,LABEL_1,0.8235682249069214
+comment,minecraft,2020,fxixyht,hokrdg,"First thought - holy shit!
+
+Second thought - like really, holy shit dude!
+
+Third thought - I should build that
+
+Fourth thought - I can't build that",2020-07-10T20:49:19,LABEL_0,0.726430356502533
+comment,minecraft,2020,fxitqt2,hokrdg,#ASGARD! I AM YOUR DOOM,2020-07-10T19:58:44,LABEL_1,0.5872367024421692
+comment,minecraft,2020,fxigkkr,hokrdg,"This is so awesome!
+
+Are you planning on adding a big statue holding it in the ""normal"" world, and the same, dead, statue in the nether?",2020-07-10T16:29:29,LABEL_2,0.9536584615707397
+comment,minecraft,2021,gmwv4eo,lhesmn,"Wow, that is actually damn impressive. Good job.",2021-02-11T14:38:20,LABEL_2,0.9658520817756653
+comment,minecraft,2021,gmwxuk5,lhesmn,My tiny brain can’t comprehend the genius behind this wonderful creation but I thank you,2021-02-11T15:15:52,LABEL_2,0.9573038816452026
+comment,minecraft,2021,gmwxdgx,lhesmn,What happens if you trow it in a open place like superflat world,2021-02-11T15:09:06,LABEL_1,0.8725641965866089
+comment,minecraft,2021,gmww32q,lhesmn,"Damn that's pretty cool AND useful, good job mate",2021-02-11T14:51:16,LABEL_2,0.9853996634483337
+comment,minecraft,2021,gmwzd4l,lhesmn,Imagine throwing that into a ravine,2021-02-11T15:37:23,LABEL_0,0.6827970147132874
+comment,minecraft,2021,gmx0mgp,lhesmn,"Im imagining all the times you loaded a previous version of this, threw it in a creeper hole, and watched it consume the test world",2021-02-11T15:55:50,LABEL_0,0.6556693911552429
+comment,minecraft,2021,gmx0k0r,lhesmn,imagine trapping someone in a cave and using the hole filler lol,2021-02-11T15:54:51,LABEL_1,0.7255351543426514
+comment,minecraft,2021,gmxd55s,lhesmn,does it work in real life,2021-02-11T19:10:24,LABEL_1,0.8271102905273438
+comment,minecraft,2021,gmwva38,lhesmn,"Thats amazing, its that a mod, a plugin? When you finish that? For map makera that we do terrafornation thats soo necesary, when you finish say me and i will download it!",2021-02-11T14:40:23,LABEL_2,0.9656181931495667
+comment,minecraft,2021,gmwz1oo,lhesmn,What happens if you use it inside deep underground in a big cave?,2021-02-11T15:32:48,LABEL_1,0.7263117432594299
+comment,minecraft,2020,fpkq5tj,ge1uww,"I plan on adding icons for the elytra, dyed leather armor, and animated icons for enchanted armor. If you guys like it I will include a link to download once it's fully finished.
+
+Also, yes, although I didn't include it in the post above, I made a turtle shell icon as well:  [https://imgur.com/qphs8Cl](https://imgur.com/qphs8Cl)  So cute!
+
+EDIT to clarify a few things: As I have said in a couple of comments down below, this is in fact a resource pack and data pack combo. Both will need to be installed.
+
+Also, I apologize for the wait, but I don't want to publish an unfinished product. I have been working with a few other Minecrafter friends of mine on this project, and we have recently ran in to a big problem that a fellow redditor messaged me to warn me would happen when different types of armor are put on. We are currently testing some creative solutions and are trying to finish this as soon as possible. Thanks for your patience!
+
+EDIT2: Looks like it's a bust, guys. Me and my friends have tried a lot of different ways to fix the game breaking bugs that this pack poses, but no matter what it doesn't seem like it'll work. Sorry for leading you guys on, I really thought this gamechanging pack would work. Hopefully someone more clever than us will eventually be able to figure out how to circumvent the bugs. Until then, thanks for your understanding.
+
+\-8BitMemes",2020-05-06T01:18:26,LABEL_1,0.4357570707798004
+comment,minecraft,2020,fpkrkiq,ge1uww,Why is this not an official feature? Such a good idea,2020-05-06T01:30:03,LABEL_2,0.6712037920951843
+comment,minecraft,2020,fpks5eo,ge1uww,Will you release the download?,2020-05-06T01:34:55,LABEL_1,0.9142342209815979
+comment,minecraft,2020,fpkzow6,ge1uww,How did you do that with a datapack? Or is this some optifine texture pack feature? And what happens if one armor icon has to be half one type of armor and half of another? Does it still work?,2020-05-06T02:37:00,LABEL_1,0.7643079161643982
+comment,minecraft,2020,fpktg4t,ge1uww,"Great plan, may I suggest adding something for unique armors like elytra/turtle helmet?",2020-05-06T01:45:38,LABEL_2,0.8477849364280701
+comment,minecraft,2020,fpl7z6z,ge1uww,How can this work? how does a datapack modify the textures based on what you are wearing? Does it require a resourcepack to match? and how does it change the textures dynamically?,2020-05-06T03:46:15,LABEL_1,0.894889771938324
+comment,minecraft,2020,fpkw3f2,ge1uww,It even works underwater!,2020-05-06T02:07:26,LABEL_2,0.7546398043632507
+comment,minecraft,2020,fpkwk7i,ge1uww,What does a turtle helmet look like?,2020-05-06T02:11:16,LABEL_1,0.8837020397186279
+comment,minecraft,2020,fpktu90,ge1uww,I didn't know I needed this until now,2020-05-06T01:48:52,LABEL_1,0.4434222877025604
+comment,minecraft,2021,h4xsm4s,oiv0za,Imagine racing with these,2021-07-13T00:48:49,LABEL_1,0.6454870700836182
+comment,minecraft,2021,h4xwk3h,oiv0za,Come back in winter and try racing on ice!,2021-07-13T01:18:01,LABEL_1,0.6478071212768555
+comment,minecraft,2021,h4xs9bu,oiv0za,r/MinecraftIRL literally,2021-07-13T00:46:11,LABEL_1,0.6713947057723999
+comment,minecraft,2021,h4xtp7c,oiv0za,Now you need to recreate strider IRL and then test it on lava,2021-07-13T00:56:36,LABEL_1,0.8612726926803589
+comment,minecraft,2021,h4xxlat,oiv0za,the looks you got are hilarious!,2021-07-13T01:25:36,LABEL_2,0.8867037892341614
+comment,minecraft,2021,h4y8pi3,oiv0za,"Well, the reason you cant go as fast is because you arent as strong as steve. Keep in mind he can carry 63,936 cubic meters of gold and still run just as fast as without them",2021-07-13T02:48:21,LABEL_1,0.6140807867050171
+comment,minecraft,2021,h4xvocu,oiv0za,Damn this new texture pack looks sick,2021-07-13T01:11:21,LABEL_0,0.48380184173583984
+comment,minecraft,2021,h4xwx6g,oiv0za,/r/boatbuilding will get some giggles out of that :),2021-07-13T01:20:41,LABEL_2,0.9246956706047058
+comment,minecraft,2021,h4xwd1x,oiv0za,Did you make it the whole day without falling in? It looks so tippy!,2021-07-13T01:16:33,LABEL_2,0.4697256088256836
+comment,minecraft,2021,h4xy9ag,oiv0za,Ha this is great! Though wouldn’t it have technically had mounted oars? Might have given you an easier time of maneuvering.,2021-07-13T01:30:34,LABEL_2,0.9498202204704285
+comment,minecraft,2020,fwm08mr,hjfok0,"Well done! The background is great and your style is so smooth and well-defined! The animation is very satisfying to watch :D
+
+I especially love the perfectly cut ending lol Great job with the comedic timing :)",2020-07-02T02:44:04,LABEL_2,0.9917206764221191
+comment,minecraft,2020,fwlwa1d,hjfok0,"(I uploaded an unfinished version of this video like a year ago. If posting it again as a final version goes against some of the rules of the subreddit, I'll delete this post)
+ 
+Edit: You can find it now on Youtube here (as well as other animations if I do more some day):
+
+ [https://www.youtube.com/watch?v=j07iHQHxp04](https://www.youtube.com/watch?v=j07iHQHxp04)",2020-07-02T02:14:51,LABEL_1,0.5557858943939209
+comment,minecraft,2020,fwlwh99,hjfok0,Hahaha. Adorable! I love it.,2020-07-02T02:16:19,LABEL_2,0.9890612363815308
+comment,minecraft,2020,fwlwjsg,hjfok0,"This is really good, you’ve definitely got some talent",2020-07-02T02:16:51,LABEL_2,0.9873972535133362
+comment,minecraft,2020,fwlwwne,hjfok0,I absolutely love it,2020-07-02T02:19:28,LABEL_2,0.9815327525138855
+comment,minecraft,2020,fwlxk8z,hjfok0,Sad ender boi,2020-07-02T02:24:16,LABEL_0,0.7727758884429932
+comment,minecraft,2020,fwm1xxo,hjfok0,Top 10 anime deaths,2020-07-02T02:56:41,LABEL_0,0.5291347503662109
+comment,minecraft,2020,fwm77in,hjfok0,"So cute
+
+Also F for Endermen",2020-07-02T03:36:00,LABEL_2,0.9512673020362854
+comment,minecraft,2020,fwm1uw6,hjfok0,"This is a very funny and goofy animation. Hope you make more, because I liked it!",2020-07-02T02:56:03,LABEL_2,0.9804695248603821
+comment,minecraft,2020,fwlz63r,hjfok0,"Nice, great animation!",2020-07-02T02:36:12,LABEL_2,0.9743779897689819
+comment,minecraft,2020,gfpe4wj,kccf1h,"Holy crap, what kind of supercomputer is this running on?",2020-12-13T23:29:44,LABEL_0,0.6165174841880798
+comment,minecraft,2020,gfpfub9,kccf1h,"You gotta lick the marble, you gotta date the marble, you gotta BE THE MARBLE!",2020-12-13T23:45:52,LABEL_1,0.6098851561546326
+comment,minecraft,2020,gfpegan,kccf1h,How long did it take??,2020-12-13T23:32:41,LABEL_1,0.7963457107543945
+comment,minecraft,2020,gfptvk8,kccf1h,did u use silverfish blocks for the statue so it wouldn’t dissolve with the rest of the stone?,2020-12-14T01:23:20,LABEL_1,0.8566847443580627
+comment,minecraft,2020,gfpe8ua,kccf1h,"I'll give gold to the first person that accurately and fully explains how
+
+a) I made the blocks ""dissolve"" away
+
+b) I distinguished between the stone that was part of the statue and the stone that should be dissolved
+
+Silver for partial credit :)
+
+Edit: Lmao don't downvote this I want other people to see and try
+
+Edit 2: I guess I should clarify that I used commands for this, no actual programming
+
+Edit 3: Someone got it! The command block summons an area effect cloud, and that area effect cloud sets the block to air. It checks the adjacent blocks and if the block is stone, it summons another one of itself at that block. The new area effect clouds execute the same function and spread throughout the stone. The statue is made out of infested stone so it doesn't get deleted or spread to. There are four markers in the corners that make the closest area effect clouds execute the spreading function, resulting in the spheres you see.",2020-12-13T23:30:45,LABEL_1,0.6101048588752747
+comment,minecraft,2020,gfpw5wz,kccf1h,“How’s this Squidward?”,2020-12-14T01:43:34,LABEL_1,0.8652235269546509
+comment,minecraft,2020,gfq29fw,kccf1h,"Dunno, looks like a clock to me",2020-12-14T02:35:14,LABEL_1,0.6530304551124573
+comment,minecraft,2020,gfpg4h5,kccf1h,"Crazy man, this looks so cool. Its awesome what you can do with a datapack",2020-12-13T23:48:29,LABEL_2,0.9896507263183594
+comment,minecraft,2020,gfpq8h6,kccf1h,"This is like resin 3d printing, BUT IN MINECRAFT HOLY SH!T",2020-12-14T00:58:12,LABEL_1,0.41264957189559937
+comment,minecraft,2020,gfppxpr,kccf1h,I thought for sure it was gonna be dickbutt or “send nudes”.,2020-12-14T00:56:16,LABEL_0,0.5967345833778381
+comment,minecraft,2020,fzx5aws,i1gg5b,"One fine day with a wolf and a purr, a baby was born and it caused a little stir..",2020-08-01T05:57:50,LABEL_1,0.5332096219062805
+comment,minecraft,2020,fzxlh3k,i1gg5b,"I like how it ends immediately after they turn their heads, as if what unfolded next was too sensitive to be shown",2020-08-01T07:47:14,LABEL_1,0.48563963174819946
+comment,minecraft,2020,fzxc198,i1gg5b,"Ah yes, the must have 14 compasses",2020-08-01T06:35:34,LABEL_1,0.6281639337539673
+comment,minecraft,2020,fzxh0mk,i1gg5b,I love how the flair is “help”,2020-08-01T07:11:31,LABEL_2,0.9028768539428711
+comment,minecraft,2020,fzxlfrf,i1gg5b,"one always lies, the other always tells the truth.",2020-08-01T07:46:56,LABEL_0,0.6393906474113464
+comment,minecraft,2020,fzxcce0,i1gg5b,Ancient psychic tandem war sheep,2020-08-01T06:37:16,LABEL_1,0.7663915753364563
+comment,minecraft,2020,fzxn5w7,i1gg5b,Will anyone else talk about how there is a pillager outpost in the middle of a village?,2020-08-01T08:00:56,LABEL_1,0.6456891298294067
+comment,minecraft,2020,fzxlw5s,i1gg5b,"""k-k-KiLL...MeEeEE......""",2020-08-01T07:50:33,LABEL_1,0.6947180032730103
+comment,minecraft,2020,fzxglqp,i1gg5b,Come Play with us,2020-08-01T07:08:10,LABEL_1,0.5003858208656311
+comment,minecraft,2020,fwbivsp,hhpcet,He’s gonna need a lot more for when he goes mining...,2020-06-29T08:33:01,LABEL_1,0.6044028401374817
+comment,minecraft,2020,fwbizrc,hhpcet,I had the plastic one you get in stores that lights up. Take my upvote you talented human being,2020-06-29T08:34:06,LABEL_2,0.574486255645752
+comment,minecraft,2020,fwbj9za,hhpcet,Take our money.,2020-06-29T08:36:56,LABEL_1,0.5934892892837524
+comment,minecraft,2020,fwbfzi2,hhpcet,This is some fantastic craftsmanship!,2020-06-29T08:04:41,LABEL_2,0.9725064039230347
+comment,minecraft,2020,fwbs7f9,hhpcet,"They actually sold this kind of thing, but plastic (including the bottom flip thing) at GameStop, probably ~8 years ago.
+
+What they didn't have was the cool flickering flame effect. Nor did they have the attention to detail and personal passion for the craft this one has. Nice work!",2020-06-29T10:07:58,LABEL_2,0.5436751246452332
+comment,minecraft,2020,fwbgwq2,hhpcet,I want one!,2020-06-29T08:13:24,LABEL_2,0.9282561540603638
+comment,minecraft,2020,fwbry37,hhpcet,But does it have the correct lightlevel? You dont want monsters spawning in your bedroom,2020-06-29T10:05:18,LABEL_0,0.6288783550262451
+comment,minecraft,2020,fwbfl8t,hhpcet,"Wow! The way the bottom flips is amazing. Nice work!
+
+Edit: OMG thanks for all the likes this is the most I’ve ever gotten!!",2020-06-29T08:00:56,LABEL_2,0.989678144454956
+comment,minecraft,2020,fwbsgti,hhpcet,"Here, for those who don’t wanna invest the time https://www.amazon.com/ThinkGeek-Minecraft-Light-Up-Wall-Torch/dp/B00B0FV4FE
+
+Edit: there’s tons of these from tons of websites
+
+Edit edit, yes I know he made this one himself, and it looks very high quality, unlike the shop ones.",2020-06-29T10:10:42,LABEL_2,0.7925350666046143
+comment,minecraft,2020,fwbqf8p,hhpcet,Hi would you do commissions for a soul torch because 🥺,2020-06-29T09:49:43,LABEL_1,0.7793562412261963
+comment,minecraft,2020,fr0uh6v,gm11po,"This is (possibly) the beginning of a series where I ""explode"" a Minecraft chunk to view its composition. In the future I plan on looking at other biomes and maybe even structures, but I am open to any suggestions and feedback. I used Mineways to export the world to an object file and Blender to create the animation (Eevee for color/lighting, Cycles for motion blur).",2020-05-18T21:03:50,LABEL_2,0.674838125705719
+comment,minecraft,2020,fr0wbsa,gm11po,"If you could add the numbers for ore, stone and dirt it is perfect! Looks amazing!
+
+EDIT: Thanks for all the reddit love, didn't expect this to explode!",2020-05-18T21:24:10,LABEL_2,0.9850835204124451
+comment,minecraft,2020,fr0v2ph,gm11po,This is actually amazing! Can you explode a guardian temple?,2020-05-18T21:10:31,LABEL_2,0.9851812124252319
+comment,minecraft,2020,fr0wdko,gm11po,Are you manually selecting those voxels in blender to explode or how does that work?,2020-05-18T21:24:43,LABEL_1,0.8065974712371826
+comment,minecraft,2020,fr0yvti,gm11po,Where the diamonds at,2020-05-18T21:51:06,LABEL_1,0.7794731259346008
+comment,minecraft,2020,fr0yrf0,gm11po,This is oddly satisfying. I could watch this all day!,2020-05-18T21:49:53,LABEL_2,0.9874722957611084
+comment,minecraft,2020,fr121hv,gm11po,This is the coolest god damn exploded diagram I have ever seen,2020-05-18T22:21:57,LABEL_2,0.8874468207359314
+comment,minecraft,2020,fr102rk,gm11po,"Nice job. 
+But when it stops for a second u should have made the parts/chunks sperate out before going to the side i think it would look a little but better.(not saying u did a bad job but just trying to help)",2020-05-18T22:02:54,LABEL_2,0.5431907176971436
+comment,minecraft,2020,fr159nt,gm11po,Glorious. I would only add a way to visualize caves. Do it in the nether next please!,2020-05-18T22:51:51,LABEL_2,0.8198525905609131
+comment,minecraft,2021,hcqhb8f,pnmskg,"Damn, can’t wait to BLJ to the world border",2021-09-14T04:31:28,LABEL_2,0.8976205587387085
+comment,minecraft,2021,hcqd6ii,pnmskg,"1) This is really cool, i can imagine so many levels people would create in the minecraft engine for mario to jump around in. 
+
+2) If this takes off, expect a cease and desist from nintendo relatively quickly.",2021-09-14T04:03:59,LABEL_2,0.9536356329917908
+comment,minecraft,2021,hcqchhv,pnmskg,But can it run doom?,2021-09-14T03:59:18,LABEL_1,0.7849448919296265
+comment,minecraft,2021,hcqjssq,pnmskg,Can you swing the enderdragon around like bowser? Also it would be awesome if you could emulate the dynamic camera movement and distance,2021-09-14T04:48:18,LABEL_2,0.8697234392166138
+comment,minecraft,2021,hcqb0ii,pnmskg,Damn it looks very good! Almost if it were to be a mod for sm64 instead of Minecraft.,2021-09-14T03:49:31,LABEL_2,0.9723676443099976
+comment,minecraft,2021,hcqfxx5,pnmskg,"YOU JUST COMBINED BOTH OF MY FAVOURITE GAMES AND I LOVE YOU. 
+
+Where can I keep updated???",2021-09-14T04:22:29,LABEL_2,0.972690224647522
+comment,minecraft,2021,hcqarz0,pnmskg,"Dang man, that looks great.",2021-09-14T03:47:57,LABEL_2,0.9773021936416626
+comment,minecraft,2021,hcqfq0o,pnmskg,Ok first of all how the fuck,2021-09-14T04:21:01,LABEL_0,0.9618433117866516
+comment,minecraft,2021,hcqhdu6,pnmskg,But are there parallel universes?,2021-09-14T04:31:57,LABEL_1,0.8512173295021057
+comment,minecraft,2020,fyw6vyj,hvw536,Cool. I was planning on making some kind of a pathfinder but that is probably better than I could have done.,2020-07-23T01:48:48,LABEL_2,0.8862444162368774
+comment,minecraft,2020,fyvto23,hvw536,How long did it take you to do this ?,2020-07-23T00:03:19,LABEL_1,0.8810691237449646
+comment,minecraft,2020,fyvxrt2,hvw536,Does it work on any maze? Btw awesome job,2020-07-23T00:36:46,LABEL_2,0.9082293510437012
+comment,minecraft,2020,fyvz2su,hvw536,Now kiss. u/anssila,2020-07-23T00:47:14,LABEL_1,0.7896601557731628
+comment,minecraft,2020,fyvyf6c,hvw536,"You and the guy who made the maze generator, you two should join a world together, have the other guy make a maze generator and you make a maze solver. Then have your maze solver solve the maze his maze generator makes.
+
+Edit: why do random ideas end up doubling my karma lol",2020-07-23T00:41:57,LABEL_1,0.5056360960006714
+comment,minecraft,2020,fyw2ceo,hvw536,It's using DFS isn't it,2020-07-23T01:13:26,LABEL_1,0.8184984922409058
+comment,minecraft,2020,fyvwn42,hvw536,Battle of the Bots!,2020-07-23T00:27:33,LABEL_1,0.7195945382118225
+comment,minecraft,2020,fyw199v,hvw536,Always two there are: a master and an apprentice,2020-07-23T01:04:44,LABEL_1,0.847906768321991
+comment,minecraft,2020,fyvtf1o,hvw536,That’s pretty cool,2020-07-23T00:01:17,LABEL_2,0.9791837930679321
+comment,minecraft,2020,fyvwwb0,hvw536,aMAZEing work you did there,2020-07-23T00:29:36,LABEL_1,0.6644462943077087
+comment,minecraft,2020,g215hce,ic9gmh,that’s really amazing! you should post a video of what it looks like when you get abducted,2020-08-19T05:03:04,LABEL_2,0.9537623524665833
+comment,minecraft,2020,g214ayt,ic9gmh,You really went for it. Great work.,2020-08-19T04:53:32,LABEL_2,0.9504730701446533
+comment,minecraft,2020,g218cun,ic9gmh,Did i see a tardis at the start???,2020-08-19T05:26:59,LABEL_1,0.8093001246452332
+comment,minecraft,2020,g216mgz,ic9gmh,Does the TARDIS function?,2020-08-19T05:12:29,LABEL_1,0.886702299118042
+comment,minecraft,2020,g219wv9,ic9gmh,Where do they go? I think there should be some sort of easter egg map that leads you into a building with everything that's been abducted,2020-08-19T05:39:53,LABEL_1,0.7185992002487183
+comment,minecraft,2020,g216ytg,ic9gmh,Niiice! Reminds me of destroy all humans. May I ask what resource pack you're using? And is this a mod you're working on? Would be cool for people to add it to their world's.,2020-08-19T05:15:21,LABEL_1,0.5007163286209106
+comment,minecraft,2020,g21g4mz,ic9gmh,This reminds me of spore where spaceships would randomly abduct monsters in animal stage,2020-08-19T06:31:40,LABEL_1,0.6392643451690674
+comment,minecraft,2020,g21aio5,ic9gmh,U use a ufo? I just use a white van and offer free candy,2020-08-19T05:44:54,LABEL_1,0.683681309223175
+comment,minecraft,2020,gc4gahs,jt8y4i,i saw nothing and so did you,2020-11-13T12:28:42,LABEL_0,0.51775723695755
+comment,minecraft,2020,gc4bre7,jt8y4i,This is not the law of equivalent exchange,2020-11-13T11:43:05,LABEL_0,0.5952995419502258
+comment,minecraft,2020,gc4fbpw,jt8y4i,I’m about to make myself a full netherite beacon 100% legit no creative mode.,2020-11-13T12:18:20,LABEL_2,0.6801564693450928
+comment,minecraft,2020,gc49fnz,jt8y4i,Can you do it with potatoes? I love potatoes,2020-11-13T11:20:39,LABEL_2,0.9603990912437439
+comment,minecraft,2020,gc4gl2b,jt8y4i,"“No, this isn’t how you’re supposed to play the game”",2020-11-13T12:31:59,LABEL_0,0.8052349090576172
+comment,minecraft,2020,gc4b8sh,jt8y4i,“*And that is the story of how I made infinite money.*” -Technoblade,2020-11-13T11:37:57,LABEL_1,0.6590301990509033
+comment,minecraft,2020,gc46fcv,jt8y4i,Rip Mojang is gonna fix it probably.,2020-11-13T10:51:45,LABEL_2,0.5448485612869263
+comment,minecraft,2020,gc46vbq,jt8y4i,How do I delete someone else's post?,2020-11-13T10:55:59,LABEL_0,0.5084007978439331
+comment,minecraft,2020,gc456i3,jt8y4i,Don’t say anything to anyone. Thank you for this,2020-11-13T10:39:44,LABEL_2,0.724865198135376
+comment,minecraft,2020,gc4ix3a,jt8y4i,"\*Furious Typing\*  
+\-Mojang",2020-11-13T12:58:41,LABEL_1,0.613364040851593
+comment,minecraft,2020,getxpkj,k7udyd,"Dude, that is awesome.",2020-12-06T22:11:18,LABEL_2,0.9788148999214172
+comment,minecraft,2020,getyqll,k7udyd,Now that's just awesome how long have u been building this?,2020-12-06T22:18:15,LABEL_2,0.9695103764533997
+comment,minecraft,2020,geud62g,k7udyd,Anyone else thinking of Nier: Automata?,2020-12-07T00:09:44,LABEL_1,0.9230273962020874
+comment,minecraft,2020,gety1aw,k7udyd,Wow that's great! Reminds me of Last of Us.,2020-12-06T22:13:32,LABEL_2,0.9896402955055237
+comment,minecraft,2020,geu7npw,k7udyd,*Nier Automata would like to know your location*,2020-12-06T23:19:09,LABEL_1,0.9018329977989197
+comment,minecraft,2020,geu55n3,k7udyd,remember the of hunger games map with all the youtuber? kinda reminds me of that,2020-12-06T23:02:57,LABEL_1,0.728675127029419
+comment,minecraft,2020,geu2316,k7udyd,This looks awesome how long did it take you,2020-12-06T22:40:57,LABEL_2,0.9833161234855652
+comment,minecraft,2020,geubcpc,k7udyd,Gives me NieR: Automata vibes!,2020-12-06T23:53:10,LABEL_2,0.8425891995429993
+comment,minecraft,2020,fwjhyue,hj138b,That looks awesome what’s the purple blocked used?,2020-07-01T09:58:18,LABEL_2,0.9660176038742065
+comment,minecraft,2020,fwjiip9,hj138b,That is one expensive build,2020-07-01T10:03:55,LABEL_0,0.7488909959793091
+comment,minecraft,2020,fwjhhs9,hj138b,I love this idea! You could probably do something similar with your base/house.,2020-07-01T09:53:28,LABEL_2,0.9840203523635864
+comment,minecraft,2020,fwjkqp4,hj138b,Request: can you move it to coming out if the ceiling?,2020-07-01T10:26:50,LABEL_1,0.9003472328186035
+comment,minecraft,2020,fwjofdp,hj138b,Are the coordinates exact to one another?,2020-07-01T11:05:04,LABEL_1,0.891176700592041
+comment,minecraft,2020,fwjkwga,hj138b,That’s a long sword,2020-07-01T10:28:31,LABEL_1,0.670962393283844
+comment,minecraft,2020,fwjqjpv,hj138b,I like the concept but I feel like it should be coming out of the ceiling.,2020-07-01T11:27:39,LABEL_2,0.536311149597168
+comment,minecraft,2020,fwjpqpw,hj138b,Don't right click.,2020-07-01T11:19:05,LABEL_0,0.5575302243232727
+comment,minecraft,2020,fwjnqa4,hj138b,That’s one long sword,2020-07-01T10:57:40,LABEL_1,0.6873165369033813
+comment,minecraft,2020,fqx6ag4,glg86u,"Falling in lava TWICE has to get your heart rate up, nice save.",2020-05-17T22:45:56,LABEL_2,0.6809489727020264
+comment,minecraft,2020,fqx5cvr,glg86u,Half expected a creeper to fall down the hole after digging the gravel,2020-05-17T22:36:04,LABEL_0,0.533000111579895
+comment,minecraft,2020,fqxehgp,glg86u,2020 be like,2020-05-17T23:56:29,LABEL_1,0.7857285737991333
+comment,minecraft,2020,fqx6dc4,glg86u,I believe you must see r/fuckgravel,2020-05-17T22:46:45,LABEL_0,0.6848006844520569
+comment,minecraft,2020,fqx7hug,glg86u,"wow dude, everything sandwiched on you at once.",2020-05-17T22:58:13,LABEL_1,0.5623936653137207
+comment,minecraft,2020,fqxfknh,glg86u,wtf did you do to anger the gods so much,2020-05-18T00:05:20,LABEL_0,0.917626142501831
+comment,minecraft,2020,fqxfflf,glg86u,The gods really wanted you to die there. But why don't you keep a water bucket in your hotbar?,2020-05-18T00:04:06,LABEL_0,0.6597291827201843
+comment,minecraft,2020,fqxabjb,glg86u,Did you have fire prot. 4 on all your armor,2020-05-17T23:21:43,LABEL_1,0.8610861897468567
+comment,minecraft,2020,fqx5puf,glg86u,Dude that's one bad day,2020-05-17T22:39:54,LABEL_0,0.9686440825462341
+comment,minecraft,2020,fqx94b6,glg86u,One thing after another lol,2020-05-17T23:12:18,LABEL_1,0.642439603805542
+comment,minecraft,2020,g9lbbii,jflnaw,"Let me guess, the ps4 cord got unplugged while minecraft was running? Happened to me on my 2 year old survival world. I feel your pain.",2020-10-22T06:54:00,LABEL_0,0.8443684577941895
+comment,minecraft,2020,g9kzsmv,jflnaw,I feel you man...,2020-10-22T05:20:06,LABEL_1,0.5620608925819397
+comment,minecraft,2020,g9kycw1,jflnaw,"wait so you lost than ridiculous 1500 block long ship from that other post
+
+also im not the best in saying how awful  things are when things like this happen but i shall do so in typical internet fashion
+
+f",2020-10-22T05:08:01,LABEL_0,0.9031937718391418
+comment,minecraft,2020,g9l5zxa,jflnaw,"Try this first 
+
+https://minecraft.gamepedia.com/Tutorials/Recover_corrupted_saved_world_data",2020-10-22T06:07:34,LABEL_1,0.6640586256980896
+comment,minecraft,2020,g9kydyt,jflnaw,Press F to pay respects,2020-10-22T05:08:17,LABEL_1,0.8225204348564148
+comment,minecraft,2020,g9l55el,jflnaw,Mojang had to stop you before you took over Minecraft,2020-10-22T06:00:57,LABEL_1,0.5253919959068298
+comment,minecraft,2020,g9ky9cx,jflnaw,did u make a backup,2020-10-22T05:07:12,LABEL_1,0.7614073157310486
+comment,minecraft,2020,g9kyhyd,jflnaw,HOLY SHIT YOU MADE A SHIP THAT WAS TWELVE FUCKING LIGHT YEARS LONG?!?!,2020-10-22T05:09:12,LABEL_0,0.9410550594329834
+comment,minecraft,2020,g9l64ty,jflnaw,"One thing to try, create a new world then copy the level.dat into the corrupted world folder. Itll delete your inventory but at least the buildings are there",2020-10-22T06:08:38,LABEL_1,0.5421531200408936
+comment,minecraft,2020,gamjffh,jl2bwb,"I'm the guy with the dragon head.
+
+Needless to say I did nearly nothing to help with the construction.",2020-10-31T02:35:00,LABEL_0,0.784423291683197
+comment,minecraft,2020,gamju0c,jl2bwb,"Always find more to add! 
+
+Put in other planets he doesn’t control, way in the distance. 
+
+Or other giant stone men that are broken and defeated. 
+
+Or potentially even smaller stone people that are worshipping the obviously powerful being",2020-10-31T02:38:24,LABEL_0,0.5274670124053955
+comment,minecraft,2020,gamln5n,jl2bwb,Build a massive sun above all the planets,2020-10-31T02:53:28,LABEL_2,0.6560543179512024
+comment,minecraft,2020,gamj8tt,jl2bwb,Hey man! I just wanted to chime in again and say I'm love the addition! I voted for man and the world in each hand but I love love love this addition!,2020-10-31T02:33:27,LABEL_2,0.990924060344696
+comment,minecraft,2020,gampbrf,jl2bwb,This is beautiful! Could we get a world download to look at it in more detail and have a better scale for it?,2020-10-31T03:24:42,LABEL_2,0.9759860634803772
+comment,minecraft,2020,gamq3yq,jl2bwb,"Innacurate, the earth should be flat. /s",2020-10-31T03:31:26,LABEL_1,0.489459365606308
+comment,minecraft,2020,gaortjr,jl2bwb,"For everyone who has questions (and for the people who don't believe it was made in survival):
+
+* I have no point in lying. If it was made in creative, the result would have been the same, and people would still have liked it. I wanted to create it in survival firstly because I wanted to flex on my friends (on the bottom left of the picture). Also, building it in survival makes me way more proud of it, and the process of building it was part of the journey, and I enjoyed it!
+* I did it alone. Our server is new, so I had to create farms (gold farm to max out beacons to mine blocks way faster, and stone generator), and I like to count it in the process. [My friends helped me gather ressources for the planets](https://www.reddit.com/r/Minecraft/comments/jl2bwb/my_biggest_survival_build_50_hours_and_60000/gamjjiu?utm_source=share&utm_medium=web2x&context=3), so it took only 1 to 1.5 hour to pick blocks in a desert, a gravelly mountain, and a mesa. Also, for everyone talking about pickaxes... *Mending*.
+* [Here are the game statistics](https://i.imgur.com/kGOoHDg.png). There is 2 screenshots because I used 2 accounts, because my first account was stolen (don't put the same password on every website lol) then given back to me 2.5 weeks later (yikes that felt long, thanks u/Taledo for the temporary account).
+* The process took *only* 50h (and I know how many blocks I needed) because of great planning. Also, as I already said, the process was the following:
+
+1. create a 3D model for the man (I downloaded a free 3D model of a man and learnt how to use Blender to edit it);
+2. convert it to blocks (as a schematic) using a voxelizer (I used [this one](http://drubutu.com/miscellaneous/voxelizer/));
+3. import it on my word as a schematic using Litematica (also learnt how to use it);
+4. gather the blocs and place them following the hologram;
+5. for the planets, convert a sphere to blocs adding each texture with the same voxelizer;
+6. edit the blocks in a creative world because it looked very bad, then create new schematics;
+7. then step 3 & 4 again.
+8. PS: [everything is hollow](https://imgur.com/a/rdRSp6o), so that's why it didn't take more time.
+
+* I had the time to do it because online classes, and because quarantine. I enjoyed doing it. And for all hater saying I'm unemployed and stuff, I just signed my apprenticeship contract for the year!
+
+Good day folks, and thanks for the ride! Also, thanks for all the kind comments, and all the awards and upvotes <3
+
+&#x200B;
+
+edit: [download!](https://www.reddit.com/r/Minecraft/comments/mu7gmn/finally_sharing_my_build_download_links_in_the/)",2020-10-31T18:39:23,LABEL_2,0.6389524340629578
+comment,minecraft,2020,gamlm1d,jl2bwb,This is amazing dude. Thanks for posting this,2020-10-31T02:53:13,LABEL_2,0.9887017011642456
+comment,minecraft,2020,g4t6c83,iqm3q9,"There was a crash that happened when falling 49 blocks in a boat, this is almost certainly related. If it's the same bug it should work at 12.5, 13.5, 49.5, 51.5, 111.5, 114.5, 198.5, or 202.5 blocks.",2020-09-11T18:09:00,LABEL_1,0.5565574169158936
+comment,minecraft,2020,g4t0qyy,iqm3q9,"Huh strange? How did u figure that out? 
+
+It seems like a glitch. Did you try multiples of 49? Does the same thing happen?",2020-09-11T16:23:59,LABEL_1,0.5259013175964355
+comment,minecraft,2020,g4syf09,iqm3q9,Please watch the full video. You can try it out yourself. Try 200 blocks—you’ll survive.,2020-09-11T15:41:03,LABEL_2,0.5123628377914429
+comment,minecraft,2020,g4sygpk,iqm3q9,That's whack does minecraft just hate the number 49,2020-09-11T15:41:53,LABEL_0,0.9775410294532776
+comment,minecraft,2020,g4t3ht2,iqm3q9,"It probably calculates falling speed and then if over a certain amount, checks the other conditions like being in a boat to see if you should get hurt, except there's a rounding error or something on the speed calculation at 49 blocks so it's enough to hurt you but not enough to go into the other conditions.",2020-09-11T17:15:54,LABEL_0,0.5535404086112976
+comment,minecraft,2020,g4t1sk9,iqm3q9,try 98 please,2020-09-11T16:43:39,LABEL_1,0.7883110046386719
+comment,minecraft,2020,g4t0z6p,iqm3q9,"It’s because you’re 49 blocks high and most minecraft blocks are cubes and each cube has *square* faces and the *square* root of 49 is 7.
+
+Now how many different heights did you die from in the boat in this video? Just one, and 7-1=6.
+
+You attempted it from *three* different heights so if we take the digit 6 and use it *three times* in a row we get 666, the number of the beast.
+
+And the beast wants your soul.
+
+And that’s why you die from height 49 in a boat.
+
+—
+
+Edit: Terrible grammar and typos removed.
+
+Edit 2: Well this blew up somewhat... mega thanks for all the awards!",2020-09-11T16:28:14,LABEL_0,0.623089075088501
+comment,minecraft,2020,g4t6dr2,iqm3q9,"The method net.minecraft.entity.item.EntityBoat.getBoatGlide() and probably all the other methods working the same are not detecting the ground below the boat in the tick its OnGround field is set to true. Besides that the method net.minecraft.entity.item.EntityBoat.updateFallState(double, boolean, IBlockState, BlockPos) tests in theory the same condition twice. What it does is that if the boat is on the ground, but its status is not ON\_LAND it cancels all fall damage. If the getBoatGlide() method worked correctly this should probably never happen, but for some reason, it's happening when fallDistance == 49f.",2020-09-11T18:09:47,LABEL_1,0.5004493594169617
+comment,minecraft,2020,g4t13wu,iqm3q9,Try 98 blocks,2020-09-11T16:30:44,LABEL_1,0.7922006845474243
+comment,minecraft,2020,g4t4thd,iqm3q9,Woah you got some fast fingers my man you typed creative as if it were the last thing you were ever gonna type,2020-09-11T17:40:59,LABEL_1,0.5499391555786133
+comment,minecraft,2021,gk6zs6l,l2qndx,"Under the request of /u/minecraftathome, here is a comment with more info:
+
+>One of the hardest and most iconic seed ever have been found thanks to the thorough work of andrew\_555 (Kminster) with the help of Minecraft@Home. Check out [https://minecraftathome.com/herobrine](https://minecraftathome.com/herobrine) for more details
+
+Please post any images of the seeds under this thread, and not as a separate post
+
+Also note that Herobrine is not real and has never been, this is just the seed used for the original creepypasta image",2021-01-23T00:03:25,LABEL_2,0.5704776644706726
+comment,minecraft,2021,gk708n0,l2qndx,"Whats planned next lmao, great job to everyone still",2021-01-23T00:05:42,LABEL_2,0.898287832736969
+comment,minecraft,2021,gk6zqtd,l2qndx,"GG Guys, heres to the next one",2021-01-23T00:03:13,LABEL_1,0.6553900241851807
+comment,minecraft,2021,gk701pf,l2qndx,It was fun working on this!,2021-01-23T00:04:45,LABEL_2,0.9801023602485657
+comment,minecraft,2021,gk71zkl,l2qndx,"what. have. you. done.
+
+in all seriousness. huge grats! been looking forward to this for a long time!",2021-01-23T00:14:16,LABEL_2,0.97431880235672
+comment,minecraft,2021,gk726n3,l2qndx,"The Herobrine seed, thought to be impossible to find, was finally cracked by Andrew (/u/K\_Minster) a week ago!
+
+See our website for all the necessary info you need to load this world:  
+[https://minecraftathome.com/herobrine](https://minecraftathome.com/herobrine)",2021-01-23T00:15:14,LABEL_1,0.5788734555244446
+comment,minecraft,2021,gk75hqo,l2qndx,It’s insane what people can do nowadays with just a cool idea and some teamwork.,2021-01-23T00:31:12,LABEL_2,0.700401782989502
+comment,minecraft,2021,gk79e0e,l2qndx,How does finding a specific seed and a specific spot in a Minecraft world even work?,2021-01-23T00:51:11,LABEL_1,0.6845361590385437
+comment,minecraft,2021,gk6zshc,l2qndx,That's pretty cool!,2021-01-23T00:03:27,LABEL_2,0.9887813925743103
+comment,minecraft,2021,gk7m54k,l2qndx,"Saved you a click:
+
+Seed: 478868574082066804
+
+Version: Java Alpha 1.0.16_02
+
+Alpha coordinates: X=5.06 Y=71 (72.62 eye pos) Z=-298.54
+
+Modern coordinates: X=5.16 Y=71 Z=-298.53
+
+Camera angle: RX=93.75 RY=-1.2",2021-01-23T01:52:25,LABEL_1,0.8092836737632751
+comment,minecraft,2020,fzsuvol,i0w4og,How many tries?,2020-07-31T07:02:19,LABEL_1,0.7637019157409668
+comment,minecraft,2020,fzt45yq,i0w4og,"""Watch until the end.""
+
+Sees 10 second video.
+
+I ain't got time for this.",2020-07-31T08:18:10,LABEL_0,0.6865009665489197
+comment,minecraft,2020,fzsuwhg,i0w4og,How long did this take?,2020-07-31T07:02:30,LABEL_1,0.8137926459312439
+comment,minecraft,2020,fzt0hm7,i0w4og,Send it to your crush,2020-07-31T07:48:41,LABEL_1,0.8420335650444031
+comment,minecraft,2020,fzsy03b,i0w4og,"I love you, bro",2020-07-31T07:27:38,LABEL_2,0.973155677318573
+comment,minecraft,2020,fzt17oi,i0w4og,"So whenever I saw this I couldn’t help but think this.
+
+
+
+
+
+SHOT THROUGH THE HEART, AND YOUR TO BLAME, YOU GIVE LOVE A BAD NAME",2020-07-31T07:54:42,LABEL_0,0.7554046511650085
+comment,minecraft,2020,fzt1zgk,i0w4og,Im gonna send this to my crush,2020-07-31T08:01:08,LABEL_1,0.6988814473152161
+comment,minecraft,2020,fzszwek,i0w4og,This is the wholesome Minecraft content the world needs,2020-07-31T07:43:55,LABEL_2,0.975324273109436
+comment,minecraft,2020,fztbeeg,i0w4og,10 seconds and you still had to say it,2020-07-31T09:07:13,LABEL_0,0.48838141560554504
+comment,minecraft,2020,g0nxwdg,i5bni6,"Its pretty cool. Good thing you did. I kind of reminds me of that big ""Minecraft"" sign when I used to play on console. I have no Idea where the sign was at though.",2020-08-07T19:23:38,LABEL_2,0.9639235138893127
+comment,minecraft,2020,g0ny8k9,i5bni6,"I like how you used the old bed icon from before 1.12. 
+
+EDIT: I didn't expect this many upvotes...",2020-08-07T19:26:52,LABEL_2,0.7918395400047302
+comment,minecraft,2020,g0o0pf6,i5bni6,God it's really going to be a shame when one of those tools changes durability and you've gotta replace it.,2020-08-07T19:50:56,LABEL_0,0.9529233574867249
+comment,minecraft,2020,g0o1dxe,i5bni6,the sun.... is a CUUUBE,2020-08-07T19:56:50,LABEL_2,0.6375114917755127
+comment,minecraft,2020,g0o0yju,i5bni6,The old bucket,2020-08-07T19:53:17,LABEL_1,0.7011990547180176
+comment,minecraft,2020,g0nvkqm,i5bni6,You’re crazy. Have an upvote.,2020-08-07T18:58:26,LABEL_0,0.7379387021064758
+comment,minecraft,2020,g0oclrk,i5bni6,add back stained glass behind the slots for extra detail,2020-08-07T21:25:56,LABEL_1,0.8508267998695374
+comment,minecraft,2020,g0o2g65,i5bni6,That hot bar management though...,2020-08-07T20:05:54,LABEL_1,0.6673445701599121
+comment,minecraft,2020,g0o95jf,i5bni6,Line it up with the real one and press F1,2020-08-07T20:59:36,LABEL_1,0.8431998491287231
+comment,minecraft,2020,g0nx1fy,i5bni6,I temporarily thought you were in VR Or a mod or something,2020-08-07T19:15:00,LABEL_1,0.7998142838478088
+comment,minecraft,2020,fmoj305,fwixgq,"Wow insane!!
+Totally agree dude, we need em so badly..",2020-04-07T19:56:27,LABEL_2,0.7371221780776978
+comment,minecraft,2020,fmoiyu1,fwixgq,May I ask for your pc specs to be able to handle those shaders? Or is it not expensive resource wise?,2020-04-07T19:54:44,LABEL_1,0.6641968488693237
+comment,minecraft,2020,fmohihv,fwixgq,o damn r those shaders?,2020-04-07T19:32:28,LABEL_0,0.6948398351669312
+comment,minecraft,2020,fmoizku,fwixgq,"1.17... the RGB update
+
+Edit: I didn't even realize this was Vesco's post, but please show him some respect... Mumbo Jumbo did mention several times that he took inspiration from Vesco
+
+Vesco, keep up the good work bud, you're a trend setter :)",2020-04-07T19:55:03,LABEL_2,0.9034780263900757
+comment,minecraft,2020,fmoms3o,fwixgq,Is this the build that inspired mumbo?,2020-04-07T20:47:39,LABEL_1,0.8911423683166504
+comment,minecraft,2020,fmol915,fwixgq,Is this where mumbo took insparation from?,2020-04-07T20:27:20,LABEL_1,0.5656550526618958
+comment,minecraft,2020,fmomb0y,fwixgq,This looks like Tron and I'm all about it,2020-04-07T20:41:35,LABEL_2,0.7833713889122009
+comment,minecraft,2020,fmonisf,fwixgq,"Everyone's commenting on the design (It's beautiful, btw), I'm more interested in how many levels you have lmao",2020-04-07T20:56:43,LABEL_2,0.9418479204177856
+comment,minecraft,2020,fmont7l,fwixgq,1.17 RGB lamp block: works like an Redstone lamp but you can dye it with a dye.,2020-04-07T21:00:15,LABEL_1,0.8473753333091736
+comment,minecraft,2020,fmojot0,fwixgq,Looking cool my guy! Thanks for being the inspiration for many!,2020-04-07T20:05:23,LABEL_2,0.9912036657333374
+comment,minecraft,2020,gbn0rxt,jqg7g1,Steve dying instantly made me laugh idk why,2020-11-09T02:51:02,LABEL_2,0.698579728603363
+comment,minecraft,2020,gbn27tz,jqg7g1,Damn! Those bees are *rich*,2020-11-09T03:02:52,LABEL_0,0.5145058035850525
+comment,minecraft,2020,gbmx9i6,jqg7g1,Very smooth transitions,2020-11-09T02:22:54,LABEL_2,0.8277360200881958
+comment,minecraft,2020,gbn0cue,jqg7g1,Actual documentary quality,2020-11-09T02:47:39,LABEL_1,0.7519739866256714
+comment,minecraft,2020,gbn2w5o,jqg7g1,That's done really well!,2020-11-09T03:08:31,LABEL_2,0.977627694606781
+comment,minecraft,2020,gbn3yhj,jqg7g1,"Jesus, steve just got slapped out of existence.",2020-11-09T03:17:11,LABEL_0,0.8937926888465881
+comment,minecraft,2020,gbn76xd,jqg7g1,Where are the bestagons?,2020-11-09T03:44:06,LABEL_1,0.7038900256156921
+comment,minecraft,2020,gbnkbd3,jqg7g1,"What ACTUALLY happens if you go into spectator mode, click a bee to see it's POV and then it gets into its hive",2020-11-09T05:27:52,LABEL_1,0.8029183745384216
+comment,minecraft,2020,gbn3v85,jqg7g1,"Alright, this was clever",2020-11-09T03:16:27,LABEL_2,0.8812522292137146
+comment,minecraft,2020,gb9n6jl,joqo0x,its gonna look so perfect when its oxidized (or whatever its called) \^\^,2020-11-06T04:45:12,LABEL_2,0.9688100218772888
+comment,minecraft,2020,gb9sxs3,joqo0x,Looks great! What's the scale?,2020-11-06T05:28:39,LABEL_2,0.9823048114776611
+comment,minecraft,2020,gb9q24k,joqo0x,"Bruh. How have you already managed to build a full replica of the statue of liberty. It's been like a day and a half. And that don't look like no small build either. Mans, that is impressive. Can't wait to see it fully oxidized in like 80 hours.",2020-11-06T05:06:32,LABEL_2,0.9006198048591614
+comment,minecraft,2020,gb9n2zs,joqo0x,Bruh I sat here for a good thirty seconds thinking this was a video,2020-11-06T04:44:28,LABEL_1,0.48910918831825256
+comment,minecraft,2020,gb9tyno,joqo0x,Try AFKing and posting a timelapse.,2020-11-06T05:36:35,LABEL_1,0.8815029859542847
+comment,minecraft,2020,gba31m6,joqo0x,Wait wasn’t this how it looked when it was built? And it’s green now because of oxidation? Anyways cool build!,2020-11-06T06:47:54,LABEL_2,0.8950008153915405
+comment,minecraft,2020,gbaj7x8,joqo0x,Nevada be like:,2020-11-06T08:54:41,LABEL_1,0.8071945309638977
+comment,minecraft,2020,gb9xf2i,joqo0x,"Saw your comments, looking for a way to speed up the oxidation process, if you want to, you can use a mod named ""carpet"" by gnembon, and use its /tick rate to speed up the game.
+
+Edit : only quick-carpet is available for the 1.17 snapshot, but the command is the same. [Download here](https://github.com/gnembon/quick-carpet/releases) (it's a fabric mod btw)",2020-11-06T06:03:29,LABEL_1,0.7083575129508972
+comment,minecraft,2020,gba365v,joqo0x,I can see the trolls now. Waiting for it to oxidize then breaking off a piece to replace it with a new one.,2020-11-06T06:48:53,LABEL_0,0.5408265590667725
+comment,minecraft,2020,fkdsujo,fhx8dl,So I was trying to transport my villagers to my house and.. uh yeah,2020-03-13T17:59:55,LABEL_1,0.7970185875892639
+comment,minecraft,2020,fkdu9mj,fhx8dl,"I love how the villager looked up as he fell
+
+“Fuuuuuuckkkkkkkk yooooouuuuuu”
+
+Splat",2020-03-13T18:30:26,LABEL_2,0.46978896856307983
+comment,minecraft,2020,fkdw3ln,fhx8dl,"I can run around in pitch black caves, jungles at night, boat over unlimited throw pitch fork weilding zombies, weave through creeper filled forests, but nothing in this game scares me as much as sand and gravel.",2020-03-13T19:05:52,LABEL_0,0.7640016078948975
+comment,minecraft,2020,fkdxca2,fhx8dl,The peaceful piano music makes this even funnier,2020-03-13T19:27:26,LABEL_2,0.9002810120582581
+comment,minecraft,2020,fkdsxk8,fhx8dl,"I.. Did not notice the ravine , I.. noticed a hole..",2020-03-13T18:01:52,LABEL_1,0.49192699790000916
+comment,minecraft,2020,fkdt87q,fhx8dl,"I’m sorry, but this is hilarious",2020-03-13T18:08:25,LABEL_2,0.6584494113922119
+comment,minecraft,2020,fkdtiju,fhx8dl,Another one bites the dust,2020-03-13T18:14:40,LABEL_0,0.6305645704269409
+comment,minecraft,2020,fkdzbsf,fhx8dl,"This is part of my ongoing love-hate relationship with snow biomes. Sometimes snow generates above holes in the ground like ravines or mini-caves and watering holes. Since you can't actually walk on snow, this means that snow biomes are filled with invisible death-traps that can only be detected by clearing the snow on every block before you step on it. Since nobody does that, this means that occasionally when walking in a snow biome you'll suddenly just fall through the snow without warning into a pit full of zombies, or fall into a ravine and die. And the best part is that the snow doesn't break when you fall through it, so you'd better know exactly where the invisible hole is or you're never getting your stuff back.",2020-03-13T19:59:04,LABEL_1,0.4277966618537903
+comment,minecraft,2020,fke1kq9,fhx8dl,Don’t you just hate it when you’re walking down the street and a gaping hellhole opens up under you?,2020-03-13T20:31:19,LABEL_0,0.9404361844062805
+comment,minecraft,2020,fke093k,fhx8dl,r/villagerrights,2020-03-13T20:12:39,LABEL_1,0.7737953066825867
+comment,minecraft,2020,fdeoxvj,ekz63o,Someone should combine this with that moving one posted the other day,2020-01-07T04:46:21,LABEL_1,0.8743023872375488
+comment,minecraft,2020,fdej76g,ekz63o,That’s trippy,2020-01-07T03:49:26,LABEL_1,0.508033275604248
+comment,minecraft,2020,fdejydx,ekz63o,Are those blocks also made from blocks?,2020-01-07T03:57:03,LABEL_1,0.8732190728187561
+comment,minecraft,2020,fdej6tu,ekz63o,[Download](https://resource-pack.com/blocks-in-blocks-resource-pack/),2020-01-07T03:49:21,LABEL_1,0.8110200762748718
+comment,minecraft,2020,fdepq1j,ekz63o,I use the blocks to build the blocks,2020-01-07T04:53:59,LABEL_1,0.822860598564148
+comment,minecraft,2020,fdemnqe,ekz63o,Giant building just got easier,2020-01-07T04:24:04,LABEL_2,0.9134531021118164
+comment,minecraft,2020,fdesmee,ekz63o,Yo dawg i heard you like blocks so i got you a texture pack where your blocks are made from blocks for your blocks,2020-01-07T05:22:36,LABEL_1,0.889352560043335
+comment,minecraft,2020,fdex4lt,ekz63o,"Hmm 
+
+Yes
+
+The blocks here are made out of blocks",2020-01-07T06:07:28,LABEL_1,0.7743876576423645
+comment,minecraft,2020,fder5un,ekz63o,"Seconds 1-7: “I don’t get it...”
+Second 8: “holy shit!”
+
+Mind blowing, I love it.",2020-01-07T05:08:10,LABEL_2,0.4775509238243103
+comment,minecraft,2020,fdeqlbp,ekz63o,Do that with the mobs too!,2020-01-07T05:02:30,LABEL_1,0.7421649694442749
+comment,minecraft,2020,g9wxeyy,jh9h7p,"This looks more like a render, great job",2020-10-24T22:37:20,LABEL_2,0.9139233231544495
+comment,minecraft,2020,g9wug69,jh9h7p,How tall is it??,2020-10-24T22:15:45,LABEL_1,0.8884691596031189
+comment,minecraft,2020,g9x3677,jh9h7p,It looks a little different but I can’t quite place it. What did you change?,2020-10-24T23:18:13,LABEL_1,0.7141252160072327
+comment,minecraft,2020,g9x18nf,jh9h7p,"This isn't transformation this is whole new building!!!
+And that's awesome",2020-10-24T23:03:46,LABEL_2,0.9732955098152161
+comment,minecraft,2020,g9wyizh,jh9h7p,"this. is. **A M A Z I N G**
+
+I’m using a ton of blackstone in my seed right now and this is so inspiring for a build in my desert",2020-10-24T22:45:01,LABEL_2,0.9563488364219666
+comment,minecraft,2020,g9x4z3m,jh9h7p,"Alright Bill Cipher
+
+
+Amazing build!",2020-10-24T23:32:55,LABEL_2,0.9399083852767944
+comment,minecraft,2020,g9x2lvv,jh9h7p,This is why black stone is one of the best blocks ever added to the game.,2020-10-24T23:13:42,LABEL_2,0.9723208546638489
+comment,minecraft,2020,g9x1dht,jh9h7p,Okay Nyarlathotep.,2020-10-24T23:04:45,LABEL_1,0.8283213376998901
+comment,minecraft,2020,g9wzs6q,jh9h7p,Creative or survival? I’m hoping survival that would make a killer base,2020-10-24T22:53:49,LABEL_1,0.6528568267822266
+comment,minecraft,2021,gx813vh,n6n04u,Now this is the content i look through reddit for,2021-05-07T09:23:29,LABEL_1,0.4897262454032898
+comment,minecraft,2021,gx83219,n6n04u,"Well, now I don't feel like such an odd ball for enjoying Minecraft at 65.
+
+ETA: OH wow thanks for the hugs and awards. To me Minecraft is much more than 'just a game'. It's one of those unique games that offers building skills, architecture, programming, etc. I run a couple of servers for some of my friends kids, and of course myself as well haha.
+
+On my personal server, I have the goal of building a massive infrastructure with accompanying hamlets that have their own economies et al. So far I have the main infrastructure I am working on (which is pretty massive right how, and I have 50 fully fledged hamlets and villages thriving.....well except for raiders keep plundering the goodies.
+
+I've 'played' Minecraft since if first came out, and I am thoroughly hooked. So, you can call me nerdy for enjoying a simplistic game on the surface, but oh so involving once you dip into the deep end of the pool.
+
+Right now I'm trying to 'shoot video' of the whole set up...but replay mod confuses me. I'll get it tho, and then I can trot around my pony in proper fashion with all the cool kids. LOL
+
+Thanks again guys and gals.
+
+ETA2: Still figuring out Reddit's changes made to replies. Used to be I could go down the list and upvote all replies. That seems to have changed. At any rate, I want to personally thank all who replied. You guys and gals are the best.
+
+ETA3: Thanks for all the awards. I'm not sure why they were bestowed on me, but thanks just the same.",2021-05-07T09:40:03,LABEL_2,0.868590772151947
+comment,minecraft,2021,gx84sdx,n6n04u,"Minecraft is the first online game that when it says it's for all ages, it actually has people of ALL ages playing the game. Kids, Teens, Adults are all playing the game and it isn't even looked down upon if you are an older person seen playing it.",2021-05-07T09:54:49,LABEL_2,0.8965031504631042
+comment,minecraft,2021,gx8aiq9,n6n04u,What's the red square s?,2021-05-07T10:44:36,LABEL_1,0.820567786693573
+comment,minecraft,2021,gx89aww,n6n04u,"Jesus, thats alot of desert.",2021-05-07T10:33:47,LABEL_0,0.5203045606613159
+comment,minecraft,2021,gx8bpla,n6n04u,"Let me guess, still hasn't found a jungle biome?
+Same.",2021-05-07T10:55:15,LABEL_0,0.6003437042236328
+comment,minecraft,2021,gx8cdek,n6n04u,"My dad is 60 and I can't even teach him the basic hand posture required to use the WASD and mouse format lol, your dad is awesome.",2021-05-07T11:01:13,LABEL_2,0.8340795040130615
+comment,minecraft,2021,gx8c797,n6n04u,"Relatable. 
+I’m 38 and finally started playing on survival. My teenager is so annoyed because every day I’m like: Hey, check this out/Look what I did/How do I do this?
+And she (playing for a decade) trying to talk to her GF; massive eye rolls, yeah mom, that’s how Minecraft works. 
+We proceed to play together for 3 hours.",2021-05-07T10:59:42,LABEL_0,0.48724451661109924
+comment,minecraft,2021,gx826bk,n6n04u,That's actually pretty cool,2021-05-07T09:32:35,LABEL_2,0.9886119961738586
+comment,minecraft,2020,g7jmgvw,j4jnn3,"YOU FORGOT THE CANDLES, FUCKING FINALLY.
+
+... i just hope they add wax block back so we can craft candle from it.",2020-10-04T03:33:27,LABEL_0,0.6162938475608826
+comment,minecraft,2020,g7jo5iq,j4jnn3,They did it. They added copper. No more 10+ variants of copper in modpacks.,2020-10-04T03:43:30,LABEL_1,0.6516962051391602
+comment,minecraft,2020,g7jhoft,j4jnn3,What's the use for a lightning rod?,2020-10-04T03:06:16,LABEL_1,0.9034306406974792
+comment,minecraft,2020,g7jjea4,j4jnn3,Those new mountains look like something a terraformer would make.,2020-10-04T03:16:26,LABEL_2,0.5025514960289001
+comment,minecraft,2020,g7jcjb7,j4jnn3,What do people think on build limit now? Think it will be increased to fit the new world generation due to big ol' caves and mountains now,2020-10-04T02:34:33,LABEL_1,0.8392161130905151
+comment,minecraft,2020,g7j9zc0,j4jnn3,"What are bundles?
+
+I’m sorry I didn’t see",2020-10-04T02:13:48,LABEL_0,0.6239054203033447
+comment,minecraft,2020,g7jktq7,j4jnn3,please tell me you can tame axolotls I really want to tame one and name it mudkip please please,2020-10-04T03:24:14,LABEL_2,0.591517984867096
+comment,minecraft,2020,g7jnoxi,j4jnn3,Telescope is neat but seems like it falls just short -- I want to be able to attach it to a bow or crossbow.,2020-10-04T03:40:45,LABEL_0,0.4468945860862732
+comment,minecraft,2020,g7jo6dq,j4jnn3,ARE THOSE AXOLOTLS I SEE,2020-10-04T03:43:38,LABEL_1,0.7415372729301453
+comment,minecraft,2020,g7jmz9g,j4jnn3,"Mojang: adds telescopes
+
+Optifine: 👁👄👁",2020-10-04T03:36:26,LABEL_1,0.7763320207595825
+post,minecraft,2020,ge1uww,,I made a datapack that gives each type of armor a unique icon on the actionbar!,2020-05-06T01:15:56,LABEL_1,0.5703428983688354
+post,minecraft,2021,oiv0za,,I recreated Minecraft's boat IRL and tested it against real boats... it was fun,2021-07-13T00:41:04,LABEL_2,0.9660154581069946
+post,minecraft,2020,hjfok0,,I finished my 2D enderman animation in a cartoony style.,2020-07-02T02:13:45,LABEL_1,0.5765783786773682
+post,minecraft,2020,kccf1h,,Dissolving a Statue out of a Block of Stone,2020-12-13T23:27:08,LABEL_1,0.7413296699523926
+post,minecraft,2020,i1gg5b,,I am now scarred for life,2020-08-01T05:55:21,LABEL_0,0.9455736875534058
+post,minecraft,2020,hhpcet,,Designed and 3D printed an IRL wooden Minecraft torch for a buddy of mine,2020-06-29T07:59:32,LABEL_1,0.5686291456222534
+post,minecraft,2020,gm11po,,Inside a Minecraft Chunk - Plains Biome,2020-05-18T21:03:02,LABEL_1,0.8186162710189819
+post,minecraft,2021,pnmskg,,I'm working on a mod that runs the Super Mario 64 engine on Minecraft,2021-09-14T03:43:08,LABEL_2,0.6490337252616882
+post,minecraft,2020,hvw536,,"To the guy who made the maze generator, I made a maze solver in Minecraft",2020-07-22T23:48:08,LABEL_2,0.5222480297088623
+post,minecraft,2020,ic9gmh,,So I made a UFO that randomly appears and abducts any mob including players (with sound),2020-08-19T04:51:13,LABEL_1,0.6519042253494263
+post,minecraft,2020,jt8y4i,,It’s called game design sweetheart,2020-11-13T10:37:05,LABEL_2,0.4946969151496887
+post,minecraft,2020,k7udyd,,I made apocalyptic city,2020-12-06T22:10:00,LABEL_1,0.6655617356300354
+post,minecraft,2020,hj138b,,I did a thing,2020-07-01T09:51:59,LABEL_1,0.6517781019210815
+post,minecraft,2020,glg86u,,Scariest thing to ever happen to me,2020-05-17T22:24:29,LABEL_0,0.9265532493591309
+post,minecraft,2020,jflnaw,,Today my world got corrupted and got deleted because of this i had lost my ship that ive building for weeks this photo is last thing i have of the world,2020-10-22T05:03:46,LABEL_0,0.9432955980300903
+post,minecraft,2020,jl2bwb,,My biggest survival build! 50+ hours and 60000+ blocs invested. Should I add more to it?,2020-10-31T02:30:02,LABEL_2,0.901354968547821
+post,minecraft,2020,iqm3q9,,Can someone explain why this is the case?,2020-09-11T15:38:22,LABEL_1,0.7002827525138855
+post,minecraft,2021,l2qndx,,The original Herobrine seed has been found!,2021-01-23T00:02:20,LABEL_2,0.6202356815338135
+post,minecraft,2020,i0w4og,,Watch until the end,2020-07-31T06:54:34,LABEL_1,0.7904776334762573
+post,minecraft,2020,i5bni6,,I don't know why I made this,2020-08-07T18:49:57,LABEL_0,0.8356388211250305
+post,minecraft,2020,fwixgq,,This is why we need colored lights.,2020-04-07T19:31:20,LABEL_1,0.6574642658233643
+post,minecraft,2020,jqg7g1,,When Bee's go into their behive ;),2020-11-09T02:01:29,LABEL_2,0.5978400111198425
+post,minecraft,2020,joqo0x,,and now we wait...,2020-11-06T04:42:55,LABEL_1,0.6166717410087585
+post,minecraft,2020,fhx8dl,,I.. Did not notice the ravine..,2020-03-13T17:58:48,LABEL_1,0.520901620388031
+post,minecraft,2020,ekz63o,,I created a Texture Pack where blocks are made out of blocks,2020-01-07T03:47:32,LABEL_1,0.8574479818344116
+post,minecraft,2020,jh9h7p,,I Transformed The Desert Temple,2020-10-24T22:05:21,LABEL_1,0.9087673425674438
+post,minecraft,2021,n6n04u,,"I introduced my 65 year-old dad to Minecraft a few years ago. I'm back visiting home for a few weeks and he said he wanted to ""show me something."" He then brings this posterboard with a pieced-together map he created encompassing the world he was playing/exploring.",2021-05-07T09:22:45,LABEL_2,0.8472587466239929
+post,minecraft,2020,j4jnn3,,Everything Announced,2020-10-04T02:01:06,LABEL_1,0.8764830231666565
+post,minecraft,2021,nrg93t,,How to go through a stack of steak in less than 1 minute:,2021-06-03T23:31:24,LABEL_1,0.7680749893188477
+post,minecraft,2020,hllgjp,,Here's a tutorial for that nether portal technique speedrunners are always doing,2020-07-05T19:57:40,LABEL_1,0.8116636276245117
+post,minecraft,2020,jrklom,,Try this if your villagers are not giving good trades!,2020-11-10T21:05:27,LABEL_0,0.5554547309875488
+post,minecraft,2021,ksml58,,Making a mirror room in Minecraft RTX,2021-01-08T04:57:45,LABEL_1,0.7970212697982788
+comment,minecraft,2021,h0gsyqj,nrg93t,That dog technically ate around 32 cows worth of meat in less than a minute.,2021-06-04T01:55:28,LABEL_0,0.4874362349510193
+comment,minecraft,2021,h0ge3q5,nrg93t,Exactly why pets do not go on mining trips,2021-06-04T00:12:57,LABEL_0,0.8680723905563354
+comment,minecraft,2021,h0gc6mi,nrg93t,It's worth it he is alive and gave you a doggy kiss,2021-06-03T23:59:42,LABEL_2,0.8830100893974304
+comment,minecraft,2021,h0gn7fw,nrg93t,"I'm gonna fell bad saying this but it was a dope beat lmao
+
+Pd dogs need more hearts in-game and maybe armors",2021-06-04T01:16:17,LABEL_2,0.6270471811294556
+comment,minecraft,2021,h0glcck,nrg93t,"the things you'd do for your dog
+
+also , amazing reflexes! i would've gone braindead in that situation",2021-06-04T01:03:25,LABEL_2,0.4389498829841614
+comment,minecraft,2021,h0ginmj,nrg93t,It kinda started sounding like music halfway through....,2021-06-04T00:44:44,LABEL_1,0.7163261771202087
+comment,minecraft,2021,h0g95r2,nrg93t,You. You sir are a good sir for saving a good boi!,2021-06-03T23:39:13,LABEL_2,0.9522618651390076
+comment,minecraft,2021,h0g9vhp,nrg93t,Protocol 3 protect the dog,2021-06-03T23:44:08,LABEL_1,0.7577661871910095
+comment,minecraft,2021,h0gntya,nrg93t,Should have started with the bucket,2021-06-04T01:20:38,LABEL_1,0.7114591598510742
+comment,minecraft,2021,h0g8gqy,nrg93t,Why would you take your dog strip mining in the first place,2021-06-03T23:34:29,LABEL_0,0.8258627653121948
+comment,minecraft,2020,fwzt9ho,hllgjp,"also note sometimes the lava will only be 1 block deep, so it wont always form the bottom 2 blocks of obsidian. if that happens just break the blocks where the obsidian should be and place lava there while the waters flowing",2020-07-05T20:58:57,LABEL_1,0.7714967727661133
+comment,minecraft,2020,fwztp89,hllgjp,I once tried but i didn't put the 2 blocks on the left and the entire lava pool turned into obsidian,2020-07-05T21:04:26,LABEL_0,0.6426635980606079
+comment,minecraft,2020,fwzq5m2,hllgjp,Yes thank you so much! Much appreciated!,2020-07-05T20:16:08,LABEL_2,0.9905750751495361
+comment,minecraft,2020,fwzse8w,hllgjp,I've learned this technique from Dream. It's really good if you want to save some time in a speedrun.,2020-07-05T20:47:28,LABEL_2,0.9491233825683594
+comment,minecraft,2020,fwzta1h,hllgjp,Now I gotta learn to do this at light speed,2020-07-05T20:59:09,LABEL_1,0.7604963183403015
+comment,minecraft,2020,fwzwg8p,hllgjp,Fucking hell I don’t have to watch Dream do this at like -2 speed on YouTube or some shit Gosh Bless you sir.,2020-07-05T21:37:41,LABEL_0,0.9222567677497864
+comment,minecraft,2020,fx0ib3s,hllgjp,"Minecraft devs: ""Let's make the portal out of obsidian, so players will have to get diamonds first, in order to gain access to the nether""
+
+  
+Speedrunners: ""Hold my wooden sword...""",2020-07-06T01:07:42,LABEL_1,0.7594152092933655
+comment,minecraft,2020,fx03c7t,hllgjp,"I've seen a lot of people credit dream for this portal, but it's actually illuminas method. hes been using it for years, but dream just popularized it. this is how most speedrunners make their portals, but there are tons of other ways to do it",2020-07-05T22:49:41,LABEL_1,0.6822100281715393
+comment,minecraft,2020,fwzt1ss,hllgjp,"Ohhh, so that’s how you do it!",2020-07-05T20:56:12,LABEL_1,0.5977402329444885
+comment,minecraft,2020,gbtv1sc,jrklom,"""Will it help me get good trades?""
+
+""What?""",2020-11-10T22:24:23,LABEL_1,0.7644239664077759
+comment,minecraft,2020,gbtoogs,jrklom,Villager torture,2020-11-10T21:18:30,LABEL_0,0.6071981191635132
+comment,minecraft,2020,gbtrel1,jrklom,"torture... Pure, sweet, torture",2020-11-10T21:48:22,LABEL_0,0.6260055303573608
+comment,minecraft,2020,gbtvv1y,jrklom,Just Surround him with his family and then slaughter them with your totally legit netherite sharpness 5 flame sword,2020-11-10T22:32:04,LABEL_0,0.6525604128837585
+comment,minecraft,2020,gbtvaf9,jrklom,"If I’m still trading with villagers, why the hell would I’d have half a stack of iron blocks and obsidian?",2020-11-10T22:26:39,LABEL_0,0.8096415400505066
+comment,minecraft,2020,gbtsp3v,jrklom,"Ah my cousin once came over to my house and we played MC together, and he is really good at Redstone. I remember him making this machine for me in my survival world, this brings memories back",2020-11-10T22:01:33,LABEL_2,0.9645386338233948
+comment,minecraft,2020,gbtushm,jrklom,"\-Play me-
+
+As you can see
+
+you are stuck in a loop
+
+if don't give good trades
+
+you'll be here for the rest of your life
+
+Now, all you need to do is:
+
+GIVE ME A MENDING TRADE",2020-11-10T22:21:56,LABEL_1,0.4618740379810333
+comment,minecraft,2020,gbu2i22,jrklom,"You could make a clock out of this.
+
+^^^No, ^^^wait. ^^^Don't...",2020-11-10T23:30:26,LABEL_1,0.483438640832901
+comment,minecraft,2020,gbtvx39,jrklom,Does the direction change if you are in the northern hemisphere?,2020-11-10T22:32:36,LABEL_1,0.9161990880966187
+comment,minecraft,2020,gbtpikg,jrklom,BAD VILLAGERS GET PUT IN THE TORTURE SWASTIKA!!!,2020-11-10T21:28:09,LABEL_1,0.6592500805854797
+comment,minecraft,2021,gigumrl,ksml58,damn that’s really trippy,2021-01-08T05:07:35,LABEL_0,0.7616348266601562
+comment,minecraft,2021,gih0peg,ksml58,"You can see the point where it just stops making reflections to preserve speed/memory
+
+Edit: who is still giving this an award this long after it was posted?",2021-01-08T05:53:30,LABEL_1,0.5886425375938416
+comment,minecraft,2021,gigv62e,ksml58,"""red nether brick"" That's an interesting choice for the reflective block...",2021-01-08T05:11:38,LABEL_2,0.8397493362426758
+comment,minecraft,2021,gih16wl,ksml58,It bothered me so much that you didnt have the single block floating perfecting centered in the room. I was waiting for it :<,2021-01-08T05:57:16,LABEL_0,0.8584916591644287
+comment,minecraft,2021,gih59es,ksml58,Anyone else finds it highly sus that we can not see u/22Megabits' reflection in the mirror blocks?,2021-01-08T06:29:07,LABEL_0,0.8145191669464111
+comment,minecraft,2021,gihe50u,ksml58,"FAQ’s about this post:
+
+I'm using a 3060 Ti
+
+This is a downloadable world from 
+the Minecraft Marketplace 
+
+Here's how you can get ray tracing 
+(if you meet the requirements)
+
+Java: [tutorial](https://youtu.be/_45ZVwwdJSE)
+
+Bedrock: [tutorial](https://youtu.be/VoB-WANMum4)",2021-01-08T07:40:37,LABEL_1,0.7548489570617676
+comment,minecraft,2021,gih3syr,ksml58,Imagine having a RTX capable PC.,2021-01-08T06:17:43,LABEL_1,0.6133649349212646
+comment,minecraft,2021,gih1x5d,ksml58,you must be a vampire then,2021-01-08T06:02:51,LABEL_1,0.534802258014679
+comment,minecraft,2021,gih1d6n,ksml58,I can almost hear your computer smoking as it’s melts😂,2021-01-08T05:58:36,LABEL_1,0.5022544860839844
+comment,minecraft,2021,gihbz6h,ksml58,It reminds me of the infinity rooms by  Yayoi Kusama. I'd love to see you recreate some of her work but in minecraft.,2021-01-08T07:23:00,LABEL_2,0.9004279375076294
+comment,minecraft,2020,gcq9fbv,jwhqmn,There is a map of Denmark with 1:1 scale somewhere :),2020-11-19T00:03:10,LABEL_2,0.7423937320709229
+comment,minecraft,2020,gcqfie6,jwhqmn,Time to play EU4 in Minecraft boys,2020-11-19T00:51:32,LABEL_2,0.7305610775947571
+comment,minecraft,2020,gcqcmfp,jwhqmn,"Get this man to top posts of all time, he put 100 times the effort the average poster puts in his posts on here",2020-11-19T00:28:53,LABEL_2,0.6543667912483215
+comment,minecraft,2020,gcqdzoe,jwhqmn,"This is amazing; thanks so much for your hard work, OP! Does this map have naturally spawning ores and other resources? In other words, can you play on survival?",2020-11-19T00:39:39,LABEL_2,0.986823320388794
+comment,minecraft,2020,gcq7xie,jwhqmn,Whoa! That's awesome!,2020-11-18T23:51:04,LABEL_2,0.9892197251319885
+comment,minecraft,2020,gcqg92h,jwhqmn,r/buildtheearth would like to have a word lol,2020-11-19T00:57:22,LABEL_1,0.6544165015220642
+comment,minecraft,2020,gcqefzk,jwhqmn,damn.. this is really outstanding work.. awesome job,2020-11-19T00:43:10,LABEL_2,0.9823740720748901
+comment,minecraft,2020,gcqcgs0,jwhqmn,How has this not blown up yet,2020-11-19T00:27:39,LABEL_0,0.5459149479866028
+comment,minecraft,2020,gcqfbos,jwhqmn,"That’s amazing, im located somewhere in there",2020-11-19T00:50:04,LABEL_2,0.9721673130989075
+comment,minecraft,2020,ffir4ca,etudgo,How do we blow it up? There’s always a way to do that.,2020-01-26T03:30:21,LABEL_1,0.5433141589164734
+comment,minecraft,2020,ffilfur,etudgo,"You mad lad, this is beautiful",2020-01-26T02:24:50,LABEL_2,0.7897157073020935
+comment,minecraft,2020,ffis1on,etudgo,"I have such a n00b question to ask, but I’m such a huge fan of Minecraft I don’t care about showing my ignorance. 
+
+How do people take screenshots of their worlds showing vast distances with all of the chunks loaded?? Especially builds like these which are giant. I have a beefy enough PC to play MC with settings just about maxed, but I could still never pull off a screenshot like the ones I see here on reddit. Is it just because I’m using Java? I know bedrock has better rendering distance, but still... what gives lol",2020-01-26T03:41:18,LABEL_0,0.49313101172447205
+comment,minecraft,2020,ffiqvm3,etudgo,"*All remaining systems will BOW to the First Order!*
+
+*And will remember this,* *AS THE* ***LAST DAY, OF THE REPUBLIC!***",2020-01-26T03:27:33,LABEL_1,0.6933708190917969
+comment,minecraft,2020,ffis1xh,etudgo,How long did this take? Because IT IS EPIC,2020-01-26T03:41:23,LABEL_2,0.7924073338508606
+comment,minecraft,2020,ffiljkf,etudgo,This is my original post: https://www.planetminecraft.com/project/star-killer-planet---new-order-superweapon/,2020-01-26T02:26:03,LABEL_1,0.8410361409187317
+comment,minecraft,2020,ffilgqv,etudgo,Must see more pictures this looks crazy,2020-01-26T02:25:08,LABEL_2,0.6915857195854187
+comment,minecraft,2020,ffilmtc,etudgo,"Oh shit, you're crazy man",2020-01-26T02:27:05,LABEL_0,0.9417964220046997
+comment,minecraft,2020,ffiphei,etudgo,R.I.P Hosnian Prime,2020-01-26T03:11:16,LABEL_1,0.6673229932785034
+comment,minecraft,2021,gsgmmqi,mef9yd,water when i misclick on my redstone contraption:,2021-03-27T23:47:47,LABEL_0,0.498585969209671
+comment,minecraft,2021,gsgjxjx,mef9yd,The Incan Empire approves,2021-03-27T23:37:23,LABEL_1,0.5150942206382751
+comment,minecraft,2021,gsgglxn,mef9yd,When you lose your second water bucket in skyblock,2021-03-27T23:14:26,LABEL_0,0.7404133677482605
+comment,minecraft,2021,gsgeg3e,mef9yd,Haha it's not Rick Astley,2021-03-27T22:55:46,LABEL_1,0.675858736038208
+comment,minecraft,2021,gsgps7u,mef9yd,"... this is going to be the thing everybody posts for the next week, isn't it?
+
+&#x200B;
+
+I love it though. very well don\[e\]",2021-03-28T00:00:02,LABEL_2,0.9771150350570679
+comment,minecraft,2021,gsguf2v,mef9yd,r/oddlysatisfying,2021-03-28T00:21:23,LABEL_1,0.5261489152908325
+comment,minecraft,2021,gsgicym,mef9yd,The most overpowered thing in minecraft,2021-03-27T23:28:58,LABEL_2,0.4830220937728882
+comment,minecraft,2021,gsgwn3s,mef9yd,"Reminds me of that old Campbells soup commercial where the can falls of the shelf and follows the little girl and her mom home
+
+Edit: it’s chef boyardee not campbells",2021-03-28T00:30:44,LABEL_1,0.6451358795166016
+comment,minecraft,2021,gsh9xzn,mef9yd,Imagine looking for a water source block through this. That would be so painful.,2021-03-28T01:29:48,LABEL_0,0.9308491945266724
+comment,minecraft,2021,gyv4wrr,nh8oz8,The swinging of the trapdoor was perfect! Amazing work!,2021-05-21T04:17:07,LABEL_2,0.983329176902771
+comment,minecraft,2021,gyv1im1,nh8oz8,"Thought it was real. Wouldn't matter though, a mod like this would make my computer commit suicide instantly",2021-05-21T03:52:38,LABEL_0,0.7046337723731995
+comment,minecraft,2021,gyuw2e7,nh8oz8,The game is a paid actor,2021-05-21T03:14:53,LABEL_0,0.5161986351013184
+comment,minecraft,2021,gyuvjss,nh8oz8,if i add this physics to mc my computer dies immediately,2021-05-21T03:11:16,LABEL_0,0.9071469902992249
+comment,minecraft,2021,gyuxf18,nh8oz8,This looks amazing. Really curious how you made it? The lighting and camera movements are on point,2021-05-21T03:24:13,LABEL_2,0.9878949522972107
+comment,minecraft,2021,gyv6t6g,nh8oz8,I would kill for this to be a mod. Also realistic mud would be another one to do :D/rainy day,2021-05-21T04:31:00,LABEL_1,0.5077102780342102
+comment,minecraft,2021,gyv1gio,nh8oz8,It looks so real.,2021-05-21T03:52:14,LABEL_2,0.7271795868873596
+comment,minecraft,2021,gyv6mqa,nh8oz8,How did you get a 3090,2021-05-21T04:29:41,LABEL_1,0.7787985801696777
+comment,minecraft,2021,gyv0zv3,nh8oz8,It looks so cool but why is my computer so hot?!,2021-05-21T03:49:03,LABEL_2,0.605499267578125
+comment,minecraft,2020,gcuo18w,jx7gqh,how did you resolve this... infestation?,2020-11-20T02:04:02,LABEL_1,0.5574578046798706
+comment,minecraft,2020,gcuuo49,jx7gqh,I’m sorry but this is hilarious the fucking BARRAGE of arrows that immediately came through once you opened the door made me actually laugh,2020-11-20T02:55:20,LABEL_2,0.8124411106109619
+comment,minecraft,2020,gcupj90,jx7gqh,Shouldn't entity cramming have killed most of them tho?,2020-11-20T02:15:22,LABEL_0,0.6315574645996094
+comment,minecraft,2020,gcuogfu,jx7gqh,introducing minigun,2020-11-20T02:07:18,LABEL_1,0.8447165489196777
+comment,minecraft,2020,gcusrfw,jx7gqh,"""There's power in numbers"" This quote lives up right now at it's finest.",2020-11-20T02:40:39,LABEL_2,0.9382629990577698
+comment,minecraft,2020,gcv1ud4,jx7gqh,[Oops.](https://giphy.com/gifs/americangods-starz-american-gods-xUPGcIb6MUmPXS0QCY),2020-11-20T03:52:21,LABEL_1,0.6251378655433655
+comment,minecraft,2020,gcuvzjz,jx7gqh,nice sentry gun,2020-11-20T03:05:45,LABEL_2,0.5156316161155701
+comment,minecraft,2020,gcv0fml,jx7gqh,THAT SHIELD GOT DELETED.,2020-11-20T03:41:10,LABEL_0,0.6584928035736084
+comment,minecraft,2020,gcusih3,jx7gqh,Thats a lot of skeletons,2020-11-20T02:38:44,LABEL_1,0.5456783771514893
+comment,minecraft,2020,gcunn0f,jx7gqh,Get a pack of dogs to deal with it,2020-11-20T02:01:02,LABEL_1,0.6035058498382568
+comment,minecraft,2020,fq0tzpw,ggh5qj,"Fuck, that's some real effort you put in. how long did that take you?",2020-05-09T23:20:17,LABEL_0,0.873528003692627
+comment,minecraft,2020,fq15b49,ggh5qj,"Is there a reason that line is there? 
+Really good btw ( ;",2020-05-10T00:32:18,LABEL_2,0.8406288027763367
+comment,minecraft,2020,fq1193n,ggh5qj,Where do I sign up?,2020-05-10T00:06:44,LABEL_1,0.8276681900024414
+comment,minecraft,2020,fq11qkr,ggh5qj,Task failed sucessfully,2020-05-10T00:09:54,LABEL_0,0.7380973100662231
+comment,minecraft,2020,fq108iv,ggh5qj,When do I have to rsvp?,2020-05-09T23:59:41,LABEL_1,0.8508663773536682
+comment,minecraft,2020,fq167iv,ggh5qj,The cake is a lie :((,2020-05-10T00:38:36,LABEL_0,0.9571103453636169
+comment,minecraft,2020,fq183l2,ggh5qj,Of course I'll join there's cake,2020-05-10T00:51:04,LABEL_2,0.835482120513916
+comment,minecraft,2020,fq13vei,ggh5qj,*Clicks furiously*,2020-05-10T00:23:07,LABEL_1,0.6921505331993103
+comment,minecraft,2020,fl1xf8s,fm1a8r,You’re basically scrat from ice age,2020-03-21T05:05:18,LABEL_0,0.5922968983650208
+comment,minecraft,2020,fl1pv7t,fm1a8r,excuse me what the fuck,2020-03-21T03:50:44,LABEL_0,0.9489668607711792
+comment,minecraft,2020,fl1v1du,fm1a8r,What’s the seed?,2020-03-21T04:41:29,LABEL_1,0.8101081848144531
+comment,minecraft,2020,fl1y6ld,fm1a8r,This guy carved out a mountain in one swoop of his shovel and y'all talking about gravel??,2020-03-21T05:13:06,LABEL_1,0.6192023754119873
+comment,minecraft,2020,fl1pb61,fm1a8r,That is truly a satisfying sight.,2020-03-21T03:45:26,LABEL_2,0.9760462641716003
+comment,minecraft,2020,fl1sbz4,fm1a8r,r/fuckgravel,2020-03-21T04:14:37,LABEL_0,0.870840847492218
+comment,minecraft,2020,fl1ssjy,fm1a8r,"Apart from scaring the shit out of you, that was pretty!",2020-03-21T04:19:09,LABEL_2,0.4454251825809479
+comment,minecraft,2020,fl1qmop,fm1a8r,Imagine how much free concrete you just got,2020-03-21T03:58:05,LABEL_1,0.49009034037590027
+comment,minecraft,2020,fl1pbbj,fm1a8r,r/oddlysatisfying,2020-03-21T03:45:28,LABEL_1,0.5261489152908325
+comment,minecraft,2020,fnf9nzh,g1dwpy,I'm kind of curious on the math behind this. How long does the bridge have to be for the time to build this gorgeous redstone nightmare to become less than the time to just build the bridge manually?,2020-04-15T06:39:37,LABEL_1,0.6216856837272644
+comment,minecraft,2020,fnf78mp,g1dwpy,Holy shit that's cool. How much planning did that take!,2020-04-15T06:18:12,LABEL_2,0.9588205814361572
+comment,minecraft,2020,fnfbngg,g1dwpy,this looks like a ribosome doing rna transcription lol,2020-04-15T06:56:52,LABEL_1,0.764080822467804
+comment,minecraft,2020,fnf1p2b,g1dwpy,"I don’t even know how to make a useless flying machine alone, don’t know the mechanics well enough
+
+
+By far my most successful comment, nice",2020-04-15T05:29:47,LABEL_0,0.40809041261672974
+comment,minecraft,2020,fnf9ec8,g1dwpy,it sounds like a doctor suess machine,2020-04-15T06:37:14,LABEL_1,0.6189767122268677
+comment,minecraft,2020,fnf9ve0,g1dwpy,"People doing this while I still don’t know the right way to use a red stone comparator
+
+Edit: why the crap did this blow up",2020-04-15T06:41:26,LABEL_0,0.8909764289855957
+comment,minecraft,2020,fnf7uk0,g1dwpy,"pretty awesome, even without the top bit its a damn fine bridge",2020-04-15T06:23:34,LABEL_2,0.9717020988464355
+comment,minecraft,2020,fnfdbhb,g1dwpy,"do you want to get somewhere but there's a lava lake blocking your path? it's simple! all you need is 64 observers, 128 pistons, 4 stacks of slime blocks...",2020-04-15T07:11:39,LABEL_1,0.6047671437263489
+comment,minecraft,2020,fnfafl6,g1dwpy,Nicknamr: The Server Destroyer,2020-04-15T06:46:24,LABEL_1,0.6901059746742249
+comment,minecraft,2020,gedqf21,k5bf4m,Then cook an egg on your cpu.,2020-12-03T00:03:00,LABEL_1,0.7532574534416199
+comment,minecraft,2020,gedoh9v,k5bf4m,"Next thing you know, a black hole appears in the centre",2020-12-02T23:49:53,LABEL_1,0.6259123682975769
+comment,minecraft,2020,gedmzy2,k5bf4m,I think you just invented the wheel my dude,2020-12-02T23:39:41,LABEL_1,0.4992370903491974
+comment,minecraft,2020,gedmvbx,k5bf4m,The sun in the middle is satisfying,2020-12-02T23:38:47,LABEL_2,0.9440951347351074
+comment,minecraft,2020,gedpsjl,k5bf4m,He is too dangerous to be left alive,2020-12-02T23:58:45,LABEL_0,0.9686685800552368
+comment,minecraft,2020,gedrqnh,k5bf4m,Can u pass the command? i ~~want~~ **need** it,2020-12-03T00:12:19,LABEL_1,0.6295461058616638
+comment,minecraft,2020,gedr40w,k5bf4m,please await your execution,2020-12-03T00:07:50,LABEL_0,0.6748369932174683
+comment,minecraft,2020,gedrknp,k5bf4m,Witchcraft!,2020-12-03T00:11:08,LABEL_1,0.6621341705322266
+comment,minecraft,2020,gee0czl,k5bf4m,"-What about fps?  
+-Yes, I have one",2020-12-03T01:10:00,LABEL_1,0.6591499447822571
+comment,minecraft,2021,ghtnr93,kow5br,"It's all fun and games until the skeleton knocks you into the creeper hole lol  
+But in all seriousness, this is a dream come true for me. Nice find!",2021-01-02T21:04:34,LABEL_2,0.9421160817146301
+comment,minecraft,2021,ghtl2e7,kow5br,That's absolutely genius! I'm totally doing that at some point!,2021-01-02T20:22:40,LABEL_2,0.9724053144454956
+comment,minecraft,2021,ghto719,kow5br,"This is absolute genius! I have a few questions that would be great if you could answer!
+
+• Can you get every disc from doing this?
+
+• Did you use commands to spawn the creepers or did you find a way to get all those creepers down there in full survival?
+
+• Continuing of the last question, if you used solely survival, how did you get those creepers down there? Is there a trick to spawn only them or did you take heaps of time to get them down there one at a time?
+
+All in all, this is absolute genius and I’m actually kinda mad I didn’t think of it myself! Take my award my friend!",2021-01-02T21:11:01,LABEL_2,0.8004369735717773
+comment,minecraft,2021,ghtpeth,kow5br,This is absolute genius but the part where you almost went to the edge gave me the creeps,2021-01-02T21:27:52,LABEL_0,0.4147995710372925
+comment,minecraft,2021,ghtinod,kow5br,Is this Java?,2021-01-02T19:40:56,LABEL_1,0.8461673855781555
+comment,minecraft,2021,ghtisjm,kow5br,Do you have like a 500” monitor or just enjoy small GUI?,2021-01-02T19:43:20,LABEL_1,0.8605535626411438
+comment,minecraft,2021,ghtojv7,kow5br,Howzieky disk farm,2021-01-02T21:16:02,LABEL_1,0.769894540309906
+comment,minecraft,2021,ghtmye3,kow5br,How did you find out about this? Were you just messing around in creative then managed to stumble upon this? This is so useful for flex rooms.,2021-01-02T20:52:43,LABEL_2,0.9064595699310303
+comment,minecraft,2021,ghtubhs,kow5br,"The best thing about this is that it's not even a bug, all of this are totally intended behaviours working together for maximum profit. So it likely won't go away any time soon.",2021-01-02T22:29:28,LABEL_2,0.8887700438499451
+comment,minecraft,2021,ghtrlzg,kow5br,"Now I'm wondering if there's some way to set this up such that you stand in a known location and detect the arrow during flight, using pistons to automate the dodge and ensure the tnt is hit...
+
+I'll give it a go today, I'm 99% sure it's doable",2021-01-02T21:56:44,LABEL_2,0.5069729089736938
+comment,minecraft,2020,gcoh9v5,jw6ftx,"Step 1: Clear out the mountain
+
+Me: ok nevermind I can't do this",2020-11-18T10:35:24,LABEL_0,0.5091105103492737
+comment,minecraft,2020,gcoda5k,jw6ftx,Once I finish my 4X4 house with a grass roof I’ll get right on this one,2020-11-18T09:58:00,LABEL_1,0.6343528032302856
+comment,minecraft,2020,gcok7s6,jw6ftx,Even in creative mode this would take forever,2020-11-18T11:03:08,LABEL_0,0.6227790713310242
+comment,minecraft,2020,gcoeiaq,jw6ftx,"Coolest thing I've seen today, hands down",2020-11-18T10:09:29,LABEL_2,0.9795877933502197
+comment,minecraft,2020,gcobum4,jw6ftx,That’s insane,2020-11-18T09:44:34,LABEL_0,0.6195578575134277
+comment,minecraft,2020,gcogy7i,jw6ftx,"This is brilliant, I need more of it, reminds of how Ethiopian churches were carved",2020-11-18T10:32:22,LABEL_2,0.9427530169487
+comment,minecraft,2020,gcogue6,jw6ftx,This is incredible. Keep up the insane work,2020-11-18T10:31:24,LABEL_2,0.9767361879348755
+comment,minecraft,2020,gcobfmm,jw6ftx,Wow! I can make a dirt house though :D,2020-11-18T09:40:45,LABEL_2,0.955187201499939
+comment,minecraft,2020,gcojaum,jw6ftx,I bet this will be one of those posts that have 100 awards,2020-11-18T10:54:26,LABEL_1,0.5950749516487122
+comment,minecraft,2020,ga1n8w8,jhrt6p,"This project is a work in progress. It has not been released yet.  
+See more here [doomed-mc.carrd.co](https://doomed-mc.carrd.co)",2020-10-25T19:33:42,LABEL_1,0.7314220666885376
+comment,minecraft,2020,ga1sosh,jhrt6p,Minecraft mods have always been and still are fucking insane.,2020-10-25T20:24:46,LABEL_0,0.9590699672698975
+comment,minecraft,2020,ga1ohzp,jhrt6p,"Dang it, now you're making me want to play Doom",2020-10-25T19:44:49,LABEL_1,0.4790585935115814
+comment,minecraft,2020,ga1mib8,jhrt6p,"Are you going to release it when it's done?
+Edit: And to where?",2020-10-25T19:27:36,LABEL_1,0.9231338500976562
+comment,minecraft,2020,ga1uh9x,jhrt6p,"Now add a nice shader and it may look even better (just my own opinion)
+
+It looks great and its a great idea, nice that you have done it. Are the missions and level designs from a doom game or have you made them on your own?",2020-10-25T20:42:21,LABEL_2,0.9673573970794678
+comment,minecraft,2020,ga1u9xp,jhrt6p,"This subreddit is like:
+
+Watch me save myself with my elyctra when I 100% ""accidentally"" fall off a high place:20k upvotes +
+
+A dude literally making Doom on Minecraft:760 upvotes
+
+Edit:I'm glad I was proved wrong for once but by sorting by new I can assure you gems like these die pretty frequently.",2020-10-25T20:40:20,LABEL_1,0.426999032497406
+comment,minecraft,2020,ga1y8fw,jhrt6p,r/itrunsdoom?,2020-10-25T21:17:51,LABEL_1,0.835978090763092
+comment,minecraft,2020,ga1t4xt,jhrt6p,Thats nuts,2020-10-25T20:29:16,LABEL_0,0.6608361005783081
+comment,minecraft,2020,ga1pbp7,jhrt6p,This is an Omega Project of Doom,2020-10-25T19:52:55,LABEL_0,0.7137174010276794
+comment,minecraft,2020,g9c52kq,je477c,Very nice!,2020-10-19T23:54:26,LABEL_2,0.9762025475502014
+comment,minecraft,2020,g9ceb0s,je477c,"The best thing here is the fact that you swapped fox the fighter for an actual minecraft fox, that's crazy attention to detail and I chuckled when I first realized it",2020-10-20T01:02:17,LABEL_2,0.9663325548171997
+comment,minecraft,2020,g9cdzlz,je477c,Just the fact that this works so well show the attention to detail at Nintendo,2020-10-20T00:59:43,LABEL_2,0.952089250087738
+comment,minecraft,2020,g9cdm9m,je477c,Dude Steve from smash in Minecraft now! Never thought of that crossover. Very cool!,2020-10-20T00:56:46,LABEL_2,0.9773245453834534
+comment,minecraft,2020,g9cb3ow,je477c,I normally think Minecraft edits and crossovers are really cringy but this is beautiful,2020-10-20T00:37:40,LABEL_2,0.4501988887786865
+comment,minecraft,2020,g9ciwvy,je477c,"00:19, stone supposed to be an iron block, unacceptable /s
+
+Very very nice work",2020-10-20T01:39:05,LABEL_2,0.585898220539093
+comment,minecraft,2020,g9c5hr5,je477c,"Great Effort.
+Take my upvote.",2020-10-19T23:57:20,LABEL_2,0.8991180062294006
+comment,minecraft,2020,g9cea6i,je477c,The Panda being launched lmao,2020-10-20T01:02:06,LABEL_1,0.7629734873771667
+comment,minecraft,2020,ghav1tw,kltc81,It should change pigs to hoglins and villagers to piglins,2020-12-29T00:51:06,LABEL_1,0.630989670753479
+comment,minecraft,2020,ghaw5kq,kltc81,Terraria Crimson vibes,2020-12-29T01:00:39,LABEL_1,0.8529109954833984
+comment,minecraft,2020,ghar69f,kltc81,"Here's the [data pack download](https://drive.google.com/file/d/1kpIhO7JCJXquAPAusXFsKq1VjhbSd8VD/view?usp=sharing).
+
+Do /function virus:spawn to start the spread of the nether. Sorry for naming it virus lol, it's not an actual virus I just thought the spread somewhat resembled a virus",2020-12-29T00:16:53,LABEL_0,0.5671775937080383
+comment,minecraft,2020,ghax4i0,kltc81,your world is 100% corrupt,2020-12-29T01:08:59,LABEL_0,0.9728814363479614
+comment,minecraft,2020,ghau613,kltc81,"Incredible work, love how you made the village turn as well, looks awesome.",2020-12-29T00:43:24,LABEL_2,0.9888628721237183
+comment,minecraft,2020,ghay5g9,kltc81,"""My world"" is 15% corrupted!",2020-12-29T01:17:40,LABEL_0,0.9084044098854065
+comment,minecraft,2020,ghayyil,kltc81,"Can you change it to spread outward from the portal, rather than where you’re looking? It cold be cool watching it slowly take over your world like in Terraria",2020-12-29T01:24:31,LABEL_2,0.5935899019241333
+comment,minecraft,2020,ghau2y5,kltc81,Holy crap that is awesome,2020-12-29T00:42:38,LABEL_2,0.9776031374931335
+comment,minecraft,2020,fjkyxt4,fe0hma,He will think he's delusional.,2020-03-06T03:31:02,LABEL_0,0.8324245810508728
+comment,minecraft,2020,fjl52h5,fe0hma,That’s hilarious. It stinks the shades of green don’t match up,2020-03-06T04:27:57,LABEL_0,0.8384600877761841
+comment,minecraft,2020,fjkyeya,fe0hma,This is awesome,2020-03-06T03:26:06,LABEL_2,0.9864804148674011
+comment,minecraft,2020,fjkythp,fe0hma,Best prank..,2020-03-06T03:29:53,LABEL_2,0.6718242764472961
+comment,minecraft,2020,fjlduj4,fe0hma,I pranked my friend by moving his house over 5 blocks every day he didn’t get online,2020-03-06T05:48:37,LABEL_0,0.7511913180351257
+comment,minecraft,2020,fjkyzrj,fe0hma,Gutenprank,2020-03-06T03:31:32,LABEL_1,0.6529602408409119
+comment,minecraft,2020,fjl0ila,fe0hma,"I thought it was the same thing twice when I saw it, took me a second to figure out what was going on, lol",2020-03-06T03:45:50,LABEL_1,0.6226702928543091
+comment,minecraft,2020,fjl2c42,fe0hma,The correct term is “diabolical.”,2020-03-06T04:02:44,LABEL_0,0.6300088167190552
+comment,minecraft,2020,fjlbsgf,fe0hma,Don’t forget to put a bed there.,2020-03-06T05:29:51,LABEL_1,0.742882490158081
+comment,minecraft,2020,fjlfvx9,fe0hma,Just got inspiration to make a base where the nether portal takes you to a corrupted copy of the base. Wonder if there's an overworld biome that matches the nethers biome tint for grass and such.,2020-03-06T06:04:59,LABEL_1,0.7486395239830017
+comment,minecraft,2020,fx3cwgn,hm6ox0,"I can not express how much I love this 
+
+Edit; it just goes with the whole vibe of the end",2020-07-06T20:28:34,LABEL_2,0.9822172522544861
+comment,minecraft,2020,fx3dc9h,hm6ox0,Ok that's actually pretty darn clever. Looks pretty cool.,2020-07-06T20:34:07,LABEL_2,0.9893012642860413
+comment,minecraft,2020,fx3eie2,hm6ox0,"Is it a texture pack? I would like to have it, because of how good it looks.",2020-07-06T20:48:20,LABEL_2,0.9671558737754822
+comment,minecraft,2020,fx3ej5j,hm6ox0,Now what I'm wondering is if when it explodes do the individual pieces come apart or does it just go up in a puff of smoke in an explosion,2020-07-06T20:48:35,LABEL_1,0.6782650351524353
+comment,minecraft,2020,fx3f3dz,hm6ox0,Does it solve itself?,2020-07-06T20:55:10,LABEL_1,0.8077986240386963
+comment,minecraft,2020,fx3iqib,hm6ox0,Amazing idea OP,2020-07-06T21:35:06,LABEL_2,0.9338119029998779
+comment,minecraft,2020,fx3e6cr,hm6ox0,I love it! Very hellraiser puzzle cube vibes,2020-07-06T20:44:20,LABEL_2,0.9870715737342834
+comment,minecraft,2020,fx3kmbf,hm6ox0,"Ya know what I kinda want this irl 
+
+A Rubik’s cube that is an end crystal 
+
+And the colors are the weird symbols instead",2020-07-06T21:54:12,LABEL_1,0.6423161029815674
+comment,minecraft,2020,gepnhzb,k79uk4,Brilliant man! An entire theme park of anxiety and despair sounds kind of badass now. Although building one....,2020-12-06T00:55:09,LABEL_2,0.8393275737762451
+comment,minecraft,2020,gepr2rd,k79uk4,Stop edging the poor creeper,2020-12-06T01:26:56,LABEL_0,0.9316193461418152
+comment,minecraft,2020,geph7gk,k79uk4,"thanks, I hate it!",2020-12-05T23:58:26,LABEL_0,0.9352430105209351
+comment,minecraft,2020,gepibic,k79uk4,"But why, why would you do this?",2020-12-06T00:08:36,LABEL_0,0.7112429738044739
+comment,minecraft,2020,gepohd8,k79uk4,How many times did you unsuccessfully try this?,2020-12-06T01:03:50,LABEL_1,0.7802031636238098
+comment,minecraft,2020,gephccs,k79uk4,HISSSSSSSSS,2020-12-05T23:59:44,LABEL_1,0.5028693675994873
+comment,minecraft,2020,geq0ovo,k79uk4,1 tick of lag: I'm about to end this man's whole career,2020-12-06T02:45:06,LABEL_0,0.8587732911109924
+comment,minecraft,2020,gepnwkn,k79uk4,How do you sync the minecarts safely?,2020-12-06T00:58:37,LABEL_1,0.8481410145759583
+comment,minecraft,2020,geq1flq,k79uk4,put a cat instead and it's a anxiety machine for the creeper,2020-12-06T02:51:07,LABEL_0,0.4975971281528473
+comment,minecraft,2020,gepn9hd,k79uk4,"*hears ssss*
+
+**freaks out**
+
+*creeper doesn't explode*
+
+KALM
+
+**it's an infinite loop**
+
+PANIK",2020-12-06T00:53:11,LABEL_0,0.5283603072166443
+comment,minecraft,2020,fynqzrv,hulsci,"For some context, I only started playing a couple of weeks ago. My little boy has been desperate for me to play Minecraft with him for a while. I was hesitant, as I wasn’t sure it would be my cupp’a tea and I didn’t want him to be disappointed that I didn’t like the thing he loves, but it’s really started to get it’s hooks into me and now we’re playing together at least every other night.
+
+We built the house from a YouTube tutorial I found a few days ago, then yesterday I found him laughing his arse off at his new addition to our build. It actually took me a while to see what was different. 
+
+You really can’t beat the classics.",2020-07-20T22:03:46,LABEL_2,0.4501718282699585
+comment,minecraft,2020,fynzavj,hulsci,"And then he wrote poop out of blocks.
+Funniest shit i've ever seen",2020-07-20T23:19:14,LABEL_0,0.9139065146446228
+comment,minecraft,2020,fynx8k7,hulsci,"Truly brilliant, the mind of a child is.",2020-07-20T23:01:08,LABEL_2,0.7909926176071167
+comment,minecraft,2020,fynwu3g,hulsci,Probably the only place he's allowed to say that.,2020-07-20T22:57:35,LABEL_1,0.7788107395172119
+comment,minecraft,2020,fynxcz2,hulsci,I’ve built that house too! It’s an awesome build,2020-07-20T23:02:11,LABEL_2,0.9854006171226501
+comment,minecraft,2020,fyny4kb,hulsci,"Ah yes, floating poop rods.",2020-07-20T23:09:01,LABEL_1,0.521259605884552
+comment,minecraft,2020,fyo7bq7,hulsci,At age 14 I think I almost collapsed a lung when my Australian friend yelled STOP BUILDING PENISES IN THE BASE with the fury of Zeus it was funny as hell,2020-07-21T00:26:25,LABEL_1,0.38865959644317627
+comment,minecraft,2020,fyo12t9,hulsci,~~My 8-year-old son~~ I could not stop laughing,2020-07-20T23:34:25,LABEL_2,0.9263834953308105
+comment,minecraft,2020,fynzcqb,hulsci,"Wdym, Your eight year old son is a comedy genius",2020-07-20T23:19:40,LABEL_2,0.5955846309661865
+comment,minecraft,2020,g1mrq3d,iacpxn,"Woah, these look sick! Great job",2020-08-16T02:36:55,LABEL_2,0.9279743432998657
+comment,minecraft,2020,g1mt52k,iacpxn,The last one got me,2020-08-16T02:48:07,LABEL_1,0.5874282121658325
+comment,minecraft,2020,g1mrjwq,iacpxn,You didn’t make a cave one cause it’s not happening,2020-08-16T02:35:22,LABEL_0,0.6792043447494507
+comment,minecraft,2020,g1mutg4,iacpxn,Dark Forest Update is rather needed.,2020-08-16T02:57:35,LABEL_1,0.663740873336792
+comment,minecraft,2020,g1mzy9z,iacpxn,"Dude these look so official, I thought there was a new update. Amazing job!",2020-08-16T03:22:55,LABEL_2,0.9811268448829651
+comment,minecraft,2020,g1n3jrz,iacpxn,I swear if they make a birch forest update I'll throw my 9 enchanted diamond shovels into lava,2020-08-16T03:40:53,LABEL_0,0.763276994228363
+comment,minecraft,2020,g1n4v3j,iacpxn,"A deep sea update would be AWESOME. Almost Subnautica-esque.
+
+Edit: what I mean by that, is I want there to be more in terms of exploration and other stuff, such as under water caves with rare materials, but it’d also be cool if there were other enemies other than DROWNED.",2020-08-16T03:48:16,LABEL_2,0.9278491139411926
+comment,minecraft,2020,g1mvnz7,iacpxn,Birch would be best,2020-08-16T03:01:48,LABEL_2,0.7418500781059265
+comment,minecraft,2020,g1n82lq,iacpxn,"I'm sad about the swamp update not winning, I really want to make a big frog space filled with dem froggies, the goats are really cool as well but I had big plans.",2020-08-16T04:05:03,LABEL_1,0.3782876133918762
+comment,minecraft,2020,g1mti81,iacpxn,good job it looks amazing,2020-08-16T02:50:36,LABEL_2,0.9864991903305054
+comment,minecraft,2020,fsynerr,gx2nji,That's a big turtle,2020-06-05T19:22:52,LABEL_1,0.570387065410614
+comment,minecraft,2020,fsynekf,gx2nji,"Yeah, you got me good.",2020-06-05T19:22:47,LABEL_2,0.8274332284927368
+comment,minecraft,2020,fsysl4v,gx2nji,I was wondering for a second where the new turtle texture came from,2020-06-05T20:28:52,LABEL_1,0.860907256603241
+comment,minecraft,2020,fsyu8vj,gx2nji,"I feel bad for that one turtle that was left turned on and alone, reminds me a lot about me",2020-06-05T20:47:20,LABEL_0,0.8427940607070923
+comment,minecraft,2020,fsynm0s,gx2nji,Best optic illusion ever!,2020-06-05T19:25:38,LABEL_2,0.9193224906921387
+comment,minecraft,2020,fsyn5m1,gx2nji,"Check out the build [here](https://www.planetminecraft.com/project/turtle-4470415) if you're interested.
+
+EDIT: I just created a turtle mob skin so that the statue and the mobs look more alike. It's not 100% accurate but for my first skin I'm pretty happy. You can check it out [here](https://www.planetminecraft.com/mob-skin/block-palette-turtle/)!",2020-06-05T19:19:22,LABEL_2,0.9332238435745239
+comment,minecraft,2020,fsynyf4,gx2nji,Yeah okay you got me,2020-06-05T19:30:33,LABEL_2,0.6032004952430725
+comment,minecraft,2020,fsysoi1,gx2nji,"Yep, you got me",2020-06-05T20:29:55,LABEL_2,0.6188824772834778
+comment,minecraft,2020,fsyukix,gx2nji,Why is the sun a cube,2020-06-05T20:50:50,LABEL_1,0.7454792857170105
+post,minecraft,2020,jwhqmn,,"I made a fully playable Map of Europe in Minecraft, 1:230 scale, using NASA and ESA satellite data.",2020-11-18T23:26:51,LABEL_2,0.8137561678886414
+post,minecraft,2020,etudgo,,"My most famous project ever made in Minecraft, never posted it on Reddit!",2020-01-26T02:22:40,LABEL_2,0.9194384813308716
+post,minecraft,2021,mef9yd,,One bucket of water goes a long way,2021-03-27T22:52:45,LABEL_1,0.6181073784828186
+post,minecraft,2021,nh8oz8,,Realistic snow physics,2021-05-21T03:08:04,LABEL_1,0.7833046317100525
+post,minecraft,2020,jx7gqh,,i should've thought this through...,2020-11-20T01:51:55,LABEL_1,0.49693456292152405
+post,minecraft,2020,ggh5qj,,"This is my first map art, I hope you all like it!",2020-05-09T23:17:58,LABEL_2,0.9713358879089355
+post,minecraft,2020,fm1a8r,,Just some gravel,2020-03-21T03:40:21,LABEL_1,0.6109781265258789
+post,minecraft,2020,g1dwpy,,I made an automatic intricate bridge builder,2020-04-15T05:07:39,LABEL_1,0.651146650314331
+post,minecraft,2020,k5bf4m,,"""Circles don't exist in Minecraft.""",2020-12-02T23:35:58,LABEL_1,0.5132899880409241
+post,minecraft,2021,kow5br,,So... I figured out how to get infinite music discs from a single skeleton arrow,2021-01-02T19:38:27,LABEL_1,0.6336517930030823
+post,minecraft,2020,jw6ftx,,Molding a Statue inside a Mountain out of Lava,2020-11-18T09:35:54,LABEL_1,0.822363555431366
+post,minecraft,2020,jhrt6p,,I'm making DOOM in Minecraft. This is the end of level 1,2020-10-25T19:21:29,LABEL_2,0.6298367381095886
+post,minecraft,2020,je477c,,I made the Steve Smash Bros trailer in actual Minecraft. (ik its not perfect but I thought it was still pretty cool),2020-10-19T23:52:12,LABEL_2,0.8856671452522278
+post,minecraft,2020,kltc81,,Minecraft but the Nether spreads into the Overworld,2020-12-29T00:15:42,LABEL_1,0.7935246825218201
+post,minecraft,2020,fe0hma,,Making my friend paranoid by rebuilding his house on the other side of the portal,2020-03-06T03:25:03,LABEL_0,0.649978756904602
+post,minecraft,2020,hm6ox0,,I made the Ender Crystal look like a Rubik's Cube,2020-07-06T20:25:39,LABEL_1,0.7277301549911499
+post,minecraft,2020,k79uk4,,Creeper anxiety machine,2020-12-05T23:56:21,LABEL_0,0.9056936502456665
+post,minecraft,2020,hulsci,,My 8-year-old son could not stop laughing at his addition to our house.,2020-07-20T22:03:20,LABEL_2,0.7771203517913818
+post,minecraft,2020,iacpxn,,"I made potential update posters for 12 of the Minecraft Biomes, hope you all enjoy :)",2020-08-16T02:33:48,LABEL_2,0.9673789143562317
+post,minecraft,2020,gx2nji,,My turtle won't eat. Maybe I fed it too much,2020-06-05T19:18:43,LABEL_0,0.9036232829093933
+post,minecraft,2021,p9ezvh,,Life of a cow is hard in Minecraft,2021-08-22T23:56:49,LABEL_0,0.7440405488014221
+post,minecraft,2020,h7dbf9,,the dumbest skin i have ever seen,2020-06-12T11:41:47,LABEL_0,0.9140490889549255
+post,minecraft,2020,fr13su,,Space Travel (In Progress),2020-03-29T14:07:33,LABEL_1,0.8882589936256409
+comment,minecraft,2021,h9xfqbm,p9ezvh,"me, who just finished making my cow farm in a survival world: 
+
+_**and thus begins my reign of terror over 2,000 generations of incest!**_",2021-08-23T00:58:49,LABEL_0,0.7396836280822754
+comment,minecraft,2021,h9x7r4g,p9ezvh,I love how every living creature in Minecraft is effectively a functional hermaphrodite.,2021-08-23T00:02:30,LABEL_2,0.9739635586738586
+comment,minecraft,2021,h9xb0li,p9ezvh,I breed and leave all the baby’s before I butcher lol,2021-08-23T00:25:20,LABEL_1,0.7662005424499512
+comment,minecraft,2021,h9xhhpr,p9ezvh,i renamed my minecraft cow habsburg cuz its so inbred,2021-08-23T01:11:15,LABEL_0,0.7267805933952332
+comment,minecraft,2021,h9xaf9v,p9ezvh,"their lifes are **hard**
+
+especially when they eat wheat",2021-08-23T00:21:12,LABEL_0,0.8630196452140808
+comment,minecraft,2021,h9xdvi6,p9ezvh,Life cycle of every breedable mob except for others,2021-08-23T00:45:37,LABEL_1,0.6421567797660828
+comment,minecraft,2021,h9xfl72,p9ezvh,"Ironically the Minecraft cows are better off than most real cows, getting to eat real grass products, and live outside.
+
+Until the mid game when the player automates the wood fencing into a factory killing floor for steaks.",2021-08-23T00:57:47,LABEL_1,0.4879571497440338
+comment,minecraft,2021,h9xeu9s,p9ezvh,"**Holy cow**
+
+I saw what you did there.",2021-08-23T00:52:29,LABEL_0,0.6511054039001465
+comment,minecraft,2021,h9xqbma,p9ezvh,"I've always said, I think every animal should enter that that post-damage panic mode when they see you are holding meat of their kind in your hand. Kinda pointless gameplay-wise, but I feel like it'd be a nice touch.",2021-08-23T02:14:34,LABEL_1,0.491811066865921
+comment,minecraft,2020,fukjtau,h7dbf9,I thought transparency in skins wasn't possible. How did you do it?,2020-06-12T13:40:46,LABEL_1,0.5078396201133728
+comment,minecraft,2020,fukml0i,h7dbf9,"I recreated the skin, you can download it off my [post](https://www.reddit.com/r/Minecraft/comments/h7fcgx/stupidest_bedrock_edition_skin/)!",2020-06-12T14:19:27,LABEL_1,0.6252962350845337
+comment,minecraft,2020,fukgpkb,h7dbf9,I think you misspelled “coolest”,2020-06-12T13:00:00,LABEL_1,0.4817388951778412
+comment,minecraft,2020,fukl5u8,h7dbf9,how is the body invisible?,2020-06-12T13:59:16,LABEL_1,0.6932044625282288
+comment,minecraft,2020,fukiqum,h7dbf9,I need this skin now. Anyone know where to find it?,2020-06-12T13:26:28,LABEL_1,0.6782795786857605
+comment,minecraft,2020,fukjl8c,h7dbf9,*S   M   O   O   S   H*,2020-06-12T13:37:44,LABEL_1,0.7507058382034302
+comment,minecraft,2020,fltb2nw,fr13su,"The sealantern effect was cool
+
+was the grey just fog before the chunks loaded? looked cool like it was coming into focus.",2020-03-29T15:04:57,LABEL_2,0.9484611749649048
+comment,minecraft,2020,fltdfrt,fr13su,You’ve set the bar too high,2020-03-29T15:49:40,LABEL_0,0.44288697838783264
+comment,minecraft,2020,fltf1zf,fr13su,Disney land can stay closed cuz I just rode space mountain right there,2020-03-29T16:21:31,LABEL_2,0.49994325637817383
+comment,minecraft,2020,flt804n,fr13su,The square rings is hard to digest on the planet,2020-03-29T14:11:31,LABEL_0,0.8946216702461243
+comment,minecraft,2020,fltb3il,fr13su,That is fucking amazing. I absolutely love this and wish I had the motivation to do something like it.,2020-03-29T15:05:23,LABEL_2,0.9870432019233704
+comment,minecraft,2020,flt9ft7,fr13su,"if you use F1 while recording, the effect would be WAY cooler! btw, great job :)",2020-03-29T14:35:56,LABEL_2,0.9699068665504456
+comment,minecraft,2020,fltdwr2,fr13su,I could imagine this as being a dropper map,2020-03-29T15:58:46,LABEL_1,0.8211184144020081
+comment,minecraft,2020,fltgqtd,fr13su,"Nice, but it's missing [a certain something](https://youtu.be/75V4ClJZME4)",2020-03-29T16:55:57,LABEL_1,0.5268394947052002
+comment,minecraft,2020,fltieeg,fr13su,"My God, it's full of stars",2020-03-29T17:30:09,LABEL_2,0.9129987359046936

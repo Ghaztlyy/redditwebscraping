@@ -1,341 +1,10 @@
-type,subreddit,year,id,parent_id,text,created_utc,sentiment,sentiment_score,emotion,emotion_score
-comment,overwatch,2020,fzk7lax,hznm1a,Still the hog thumbs up lol,2020-07-29T06:32:21,LABEL_2,0.5455647706985474,neutral,0.6615199446678162
-comment,overwatch,2020,fzk3zx0,hznm1a,This should be added next patch,2020-07-29T06:01:24,LABEL_2,0.6754789352416992,neutral,0.9568928480148315
-comment,overwatch,2020,fzk5ddi,hznm1a,Passive aggressive. Perfect,2020-07-29T06:13:15,LABEL_2,0.6431949734687805,neutral,0.4462720453739166
-comment,overwatch,2020,fzkdbu1,hznm1a,"I love this idea, but by default it would let these players know when their team DIDN'T win...which will let some people justify their leaving, so it isn't a good idea. We just need penalties to kick in sooner, not after like 9 QP leaves.
-
-
-**Edit: The comment below from Urgalicious should simply be a thing:**
-
->""If you leave a match, even if it's QP, then requeing should put you back in that match. If it gets backfilled? Sorry, can't que until the match finishes.""",2020-07-29T07:23:05,LABEL_0,0.5340657234191895,neutral,0.3889531195163727
-comment,overwatch,2020,fzkbeg5,hznm1a,"I can't tell you how many times I've experienced this, especially in Mystery Heroes. Someone would be toxic, complain about teammates, leave the game after 1 round of control, 1 minute into the game, or even when there's 1 minute left.
-
-Then after they leave, the backfill comes in and we end up winning. :) Obviously I've been on the other end too when we're stomping them, they have quitters and their backfill comes in to even up the score. Anyway! I've been tempted on a few occasions, depending on what they said in voice or message chat to say, ""Thanks for leaving because we won."" I've never done it, but if they ever added this how great would that be? lol",2020-07-29T07:05:45,LABEL_1,0.4511151909828186,neutral,0.7459477186203003
-comment,overwatch,2020,fzk4mmk,hznm1a,Someone upvote this to oblivion blizzard needs to know,2020-07-29T06:06:54,LABEL_1,0.4908602237701416,neutral,0.9152325391769409
-comment,overwatch,2020,fzkbqz7,hznm1a,Junkrat pointing and laughing though. Would be perfect.,2020-07-29T07:08:55,LABEL_2,0.8880298733711243,neutral,0.5518855452537537
-comment,overwatch,2020,fzk5tku,hznm1a,I'm in full support of this,2020-07-29T06:17:05,LABEL_2,0.9241576790809631,joy,0.8052504658699036
-comment,overwatch,2020,fzkezbr,hznm1a,"All multiplayer games should start doing what Battleborn did. If you leave a match in progress, you're not allowed to join another until the one you left is over. You're welcome to rejoin the one you left but no new match for leavers.",2020-07-29T07:37:59,LABEL_1,0.6346558928489685,neutral,0.9374743700027466
-comment,overwatch,2020,fzkc9l8,hznm1a,What is even the punishment for leavers? I once got disconnected and only got banned for 9 min,2020-07-29T07:13:36,LABEL_0,0.884757399559021,neutral,0.6184073686599731
-comment,overwatch,2020,fda1txt,ekd1pt,And Junkrats ammo could be filled with water,2020-01-06T00:12:33,LABEL_1,0.7272974252700806,neutral,0.9028375148773193
-comment,overwatch,2020,fd9i0d2,ekd1pt,"I would play actual money for those skins, this is a wonderful cause.",2020-01-05T22:12:46,LABEL_2,0.9747692942619324,joy,0.966172456741333
-comment,overwatch,2020,fd9ylm1,ekd1pt,I’m gonna be honest this is a great idea. Yes if people are concerned they should just go donate. But stop flaming people for coming up with creative ideas to support a tragedy.,2020-01-05T23:54:24,LABEL_2,0.6251125335693359,neutral,0.42704999446868896
-comment,overwatch,2020,fd9h7ov,ekd1pt,Honestly I don't buy skins and I would consider buying these.,2020-01-05T22:08:34,LABEL_1,0.6891813278198242,neutral,0.6589263677597046
-comment,overwatch,2020,fd9dvsa,ekd1pt,That's a smart idea you got here,2020-01-05T21:47:45,LABEL_2,0.8690374493598938,neutral,0.7218171954154968
-comment,overwatch,2020,fd9m89g,ekd1pt,That's... actually an amazing idea,2020-01-05T22:41:27,LABEL_2,0.973965585231781,surprise,0.8931425213813782
-comment,overwatch,2020,fd9tiwn,ekd1pt,"As much as I love this, the easiest thing to do would be a recolor of mei's firefighter skin or something. At least to help the immediate fires",2020-01-05T23:24:31,LABEL_2,0.7891565561294556,joy,0.5017556548118591
-comment,overwatch,2020,fd9tf9z,ekd1pt,After buying the pink Mercy skin I would willingly sacrifice my wallet for stuff like this.,2020-01-05T23:23:45,LABEL_0,0.5893942713737488,disgust,0.3663249611854553
-comment,overwatch,2020,fd9iufx,ekd1pt,Thatd be pretty cash money of them,2020-01-05T22:20:25,LABEL_1,0.5250089168548584,neutral,0.703636109828949
-comment,overwatch,2020,fd9dnj4,ekd1pt,oh boy that'd be something now wouldn't it?,2020-01-05T21:46:30,LABEL_1,0.5806131958961487,surprise,0.9370439648628235
-comment,overwatch,2022,iu2shc0,yf9w5o,Nice! Now pierce it directly into your gaming hand for immersion.,2022-10-28T11:09:15,LABEL_2,0.7650272250175476,neutral,0.5219229459762573
-comment,overwatch,2022,iu2lhdb,yf9w5o,"Careful, they might update the merch store prices if they find out",2022-10-28T10:13:59,LABEL_1,0.7784825563430786,neutral,0.9116677641868591
-comment,overwatch,2022,iu2r6va,yf9w5o,Ha wow. even from the official blizzard store no less. Careful now they’re just gonna raise the prices of the physical stuff!,2022-10-28T10:58:33,LABEL_1,0.44338715076446533,surprise,0.9248614311218262
-comment,overwatch,2022,iu2rmi7,yf9w5o,"Now you have to staple it into your hand, since there's no other possible way to show it off",2022-10-28T11:02:08,LABEL_1,0.5911608338356018,neutral,0.8327072858810425
-comment,overwatch,2022,iu2lyct,yf9w5o,"How do they do the math for pricing? That irl item has an overhead cause every single on of those take real matiels to make and transport. Once the code and design for the in game one is done, it essentially has not overhead. How could they ever convince themselves or anyone for that matter, that they're being fair with their pricing. I'm so annoyed",2022-10-28T10:17:33,LABEL_0,0.8576051592826843,anger,0.9104853272438049
-comment,overwatch,2022,iu2uddz,yf9w5o,Oh my god lmao. I know that’s not adding anything to a discussion but *oh my god lmao*,2022-10-28T11:25:22,LABEL_0,0.5691492557525635,surprise,0.91109299659729
-comment,overwatch,2022,iu2hab3,yf9w5o,This remember me that one collection pack from fallout that the bag was horrible and they gave money in the game to the people who bought the pack but they couldnt buy a bag in the game.,2022-10-28T09:42:05,LABEL_0,0.9101377725601196,disgust,0.8443249464035034
-comment,overwatch,2022,iu2hunu,yf9w5o,"I remember when a 2.50 cosmetic DLC was worthy of mockery...
-
-Now we have this.
-
-
-Thank you, Oblivion, you damned the entire video game industry",2022-10-28T09:46:26,LABEL_0,0.9224932789802551,disgust,0.5211133360862732
-comment,overwatch,2022,iu33xk3,yf9w5o,"Boycott the skins, do not buy them.",2022-10-28T12:58:58,LABEL_0,0.9307669401168823,anger,0.9539846181869507
-comment,overwatch,2022,iu2jiwy,yf9w5o,Just goes to show how fucking stupid Blizzard thinks we all are.,2022-10-28T09:59:07,LABEL_0,0.9757247567176819,anger,0.7878629565238953
-comment,overwatch,2021,gvhv0dz,mwf8e4,"You will be missed, Mr. Fromtheoverwatchteam.",2021-04-23T05:50:35,LABEL_1,0.567021906375885,sadness,0.911243200302124
-comment,overwatch,2021,gvhrqba,mwf8e4,Thanks Jeff for your time and stay safe out there,2021-04-23T05:26:35,LABEL_2,0.9321238994598389,neutral,0.4668656289577484
-comment,overwatch,2021,gvi1nnu,mwf8e4,Disappointed Jeff's not just randomly shouting out a cow sub.,2021-04-23T06:41:36,LABEL_0,0.8226804137229919,surprise,0.49194225668907166
-comment,overwatch,2021,gvhz6yx,mwf8e4,"I stopped playing Overwatch a while ago. But I have always appreciated Jeff's approach to the community and engagement of the fans. A constant butt of jokes, a target on his back, and yet there was almost always a more positive air about his involvement with redditors in particular even if it wasn't always a pleasant situation. 
-
-Thank you Jeff. We will miss you.",2021-04-23T06:22:22,LABEL_2,0.8708133101463318,sadness,0.8650150299072266
-comment,overwatch,2021,gvhu8sj,mwf8e4,"On behalf of everyone, we love you Jeff ❤️",2021-04-23T05:44:53,LABEL_2,0.986331582069397,joy,0.844258725643158
-comment,overwatch,2021,gvhsug8,mwf8e4,Love you Jeff,2021-04-23T05:34:47,LABEL_2,0.9430220127105713,joy,0.6218233108520508
-comment,overwatch,2021,gvhty3w,mwf8e4,"Much love, Jeff. <3 We will miss you",2021-04-23T05:42:44,LABEL_2,0.9505206346511841,sadness,0.9654970169067383
-comment,overwatch,2021,gvhxrrj,mwf8e4,"Jeff, your passion for the game has been infectious. Good luck on whatever you pursue next, and thank you for the work you put in to this game.
-
-As much as many of us are Overwatch fans, we're also *Jeff* fans. Thanks for everything.",2021-04-23T06:11:22,LABEL_2,0.9795548319816589,joy,0.546953022480011
-comment,overwatch,2021,gvhtmwc,mwf8e4,Between WoW and Overwatch I have some of the best memories of my life and you had a part in both. I met my wife playing WoW in 2007 while my group was looking for a 5th to do BRD and we invited the first person that ran by the stone. In Overwatch we have spent hundreds of hours since 2016 playing and seeing and hearing you was always a highlight. You will be missed. Thanks for providing us with years of entertainment.,2021-04-23T05:40:26,LABEL_2,0.9754871129989624,sadness,0.5339578986167908
-comment,overwatch,2021,gvhugok,mwf8e4,Overwatch won't be the same without you. gg Jeff,2021-04-23T05:46:32,LABEL_1,0.49345090985298157,sadness,0.3760278820991516
-comment,overwatch,2020,ggipso1,kgyo6c,Hello r/all.  Be mindful of the [rules](https://www.reddit.com/r/Overwatch/wiki/rules/) and enjoy your stay.,2020-12-21T05:24:21,LABEL_2,0.6917620301246643,neutral,0.8709208965301514
-comment,overwatch,2020,ggi3j94,kgyo6c,Damn great job on junkrat!!,2020-12-21T02:23:19,LABEL_2,0.8409803509712219,surprise,0.5239635109901428
-comment,overwatch,2020,ggi76lo,kgyo6c,Was hoping for a random picture of a hamster and gorilla to be in here lol,2020-12-21T02:52:31,LABEL_1,0.7261217832565308,neutral,0.4970625042915344
-comment,overwatch,2020,ggi5pdo,kgyo6c,Great job! I love Grand Moff Tarkin Sigma,2020-12-21T02:40:41,LABEL_2,0.9906793236732483,joy,0.9829270243644714
-comment,overwatch,2020,ggi3yet,kgyo6c,"Ana, McCree and Sigma look absolutely incredible and so realistic. Really, they all do, but those are the ones that stick out to me. Great job.",2020-12-21T02:26:37,LABEL_2,0.9869383573532104,neutral,0.553076446056366
-comment,overwatch,2020,ggiam7p,kgyo6c,"For all those too lazy to click on the link, or if you can’t tell, here ya go 
-
-From left to right, top to bottom: Young Ana, Ashe, Baptiste, Brigitte, D.Va, Doomfist, Genji, Young Hanzo, Hanzo, Junkrat, Lucio, McCree,  Mei, Mercy, Moira, Pharah, Young Reaper/Gabe, Reinhardt, Young Reinhardt, Sigma, Young 76, Sombra, Symmetra, Torbjorn, Tracer, Widowmaker and finally, Zarya",2020-12-21T03:20:21,LABEL_1,0.7480927109718323,neutral,0.8679506778717041
-comment,overwatch,2020,ggi57ka,kgyo6c,"Torb looked a little off to me, [fixed that for you](https://i.imgur.com/Ze7vYlQ.png).",2020-12-21T02:36:39,LABEL_1,0.5415101051330566,neutral,0.8847294449806213
-comment,overwatch,2020,ggi0oq7,kgyo6c,"For a closer look at these images, here's the link to the album. [https://imgur.com/gallery/pT4dMeb](https://imgur.com/gallery/pT4dMeb)
-
-Edit 1: I'm so sorry for not labeling them, but each picture in the album is labeled if there are any issues identifying any of them! :)
-
-Edit 2: Also, I'm unable to make robots or animals since Artbreeder only recognizes human-like faces. Sorry about that and I wish I could make the hamster. :(
-
-Edit 3: I'll attempt to make an updated version of this series in the future, including my take on Roadhog, Soujorn, and older versions of Soldier, Ana, etc.
-
-Edit 4: There is a new version posted! [https://www.reddit.com/r/Overwatch/comments/kk3uk1/part\_2updated\_my\_attempt\_at\_making\_realistic/](https://www.reddit.com/r/Overwatch/comments/kk3uk1/part_2updated_my_attempt_at_making_realistic/)",2020-12-21T02:00:09,LABEL_1,0.46998995542526245,sadness,0.7650535106658936
-comment,overwatch,2020,ggi2fwg,kgyo6c,Zarya be looking fine! And Moira looks like the Sherminator😂,2020-12-21T02:14:33,LABEL_2,0.914795994758606,neutral,0.5895140171051025
-comment,overwatch,2020,ge22yai,k3cxz8,He's so clueless and confused lol,2020-11-30T01:30:31,LABEL_0,0.8041576743125916,disgust,0.4066031277179718
-comment,overwatch,2020,ge23ala,k3cxz8,Hahahaha I want to see one of your teammates perspectives of you standing on his head,2020-11-30T01:33:22,LABEL_1,0.7045130729675293,neutral,0.7120477557182312
-comment,overwatch,2020,ge25or2,k3cxz8,This guy has more tunnel vision than a sniper on 2fort,2020-11-30T01:53:10,LABEL_0,0.940849244594574,neutral,0.4647037982940674
-comment,overwatch,2020,ge2ifh1,k3cxz8,The intelligence of a Bastion player and the trolly attitude of a Hammond player. You guys are living up to the stereotypes.,2020-11-30T03:33:57,LABEL_1,0.4519340395927429,neutral,0.9259588122367859
-comment,overwatch,2020,ge26xke,k3cxz8,"That was the best. Reminds me of a match I had in the Busan sanctuary. A guy was playing with Genji, and each time the other team would take the objective he would just sit on top of the statue to prevent them from taking control. He did that 4 times, and the other team never caught it. He basically won the match for us.",2020-11-30T02:03:27,LABEL_2,0.9126752614974976,neutral,0.7421239018440247
-comment,overwatch,2020,ge23qaf,k3cxz8,Poor Bastion. He was trying to hard :(,2020-11-30T01:37:03,LABEL_0,0.8493525385856628,sadness,0.7399559617042542
-comment,overwatch,2020,ge23zv3,k3cxz8,"Not gonna lie, even though it's funny I am really mad you wouldn't just kill him.",2020-11-30T01:39:15,LABEL_0,0.733767032623291,anger,0.5235918760299683
-comment,overwatch,2020,ge3fs27,k3cxz8,"Bastion: ""Must have been the wind.""",2020-11-30T07:42:59,LABEL_1,0.7548877596855164,neutral,0.49858802556991577
-comment,overwatch,2020,ge25md2,k3cxz8,and this is in \*GOLD\*,2020-11-30T01:52:37,LABEL_1,0.8267042636871338,neutral,0.7648366093635559
-comment,overwatch,2020,fln0f9i,fpu6zt,"Fucking incredible craftsmanship, but if I was one of your neighbors that would trip me the fuck out seeing a dude with glowing wings while I’m washing the dishes.",2020-03-27T18:19:00,LABEL_0,0.7109857201576233,disgust,0.8265618085861206
-comment,overwatch,2020,fln09yk,fpu6zt,"Imagine walking on the street and someone erects their mercy wings out of nowhere, awesome!",2020-03-27T18:16:03,LABEL_2,0.8262302875518799,surprise,0.7995988726615906
-comment,overwatch,2020,flmyzq5,fpu6zt,"Nice, juste need blonde hair now 😉",2020-03-27T17:50:26,LABEL_2,0.7663798928260803,neutral,0.47657743096351624
-comment,overwatch,2020,flmywsl,fpu6zt,Well that’s fucking awesome.,2020-03-27T17:48:44,LABEL_2,0.955097496509552,joy,0.7481611967086792
-comment,overwatch,2020,fln5vsf,fpu6zt,"Thank you so much for your support guys!!! I'm so surprised by all the kind words I've gotten <3
-
-If you're curious about animatronic costumes that I've made (including these wings) please check out my [Instagram](https://instagram.com/zibartas_cosplay) and [YouTube](https://www.youtube.com/channel/UCIUcaFkvBjO-MgNGxubz1mw) \- I go into greater detail and show them off more :)",2020-03-27T19:55:24,LABEL_2,0.9881104230880737,surprise,0.969487726688385
-comment,overwatch,2020,fln09qh,fpu6zt,"I mean, that’s great and all, but you are supposed to be wearing thigh boots, a busty breastplate, and a ponytail.",2020-03-27T18:15:56,LABEL_1,0.6068651080131531,disgust,0.6368005871772766
-comment,overwatch,2020,fln1btg,fpu6zt,You sir have a future in the 80s movie industry...,2020-03-27T18:36:24,LABEL_2,0.6449745893478394,neutral,0.8771925568580627
-comment,overwatch,2020,fln0g16,fpu6zt,This Mercy is hot!,2020-03-27T18:19:24,LABEL_2,0.9475216269493103,joy,0.4420482814311981
-comment,overwatch,2020,flnifk7,fpu6zt,"imagine walking down the street with these on at night and you run into someone who’s tripping fucking balls. i they would truly think you weren’t human, but rather a mystical entity.",2020-03-27T22:27:56,LABEL_0,0.8723233938217163,surprise,0.4933677315711975
-comment,overwatch,2021,hj7txcf,qm7a98,"Woah, that’s really cool! I wonder when that’s coming out!",2021-11-04T07:41:55,LABEL_2,0.9861408472061157,surprise,0.9438998699188232
-comment,overwatch,2021,hj8mw34,qm7a98,At least it's the first time where people actually push the objective,2021-11-04T11:23:26,LABEL_1,0.5812070965766907,neutral,0.8889877796173096
-comment,overwatch,2021,hj899sb,qm7a98,They could have built two community map editors by now.,2021-11-04T09:34:35,LABEL_1,0.7490879893302917,neutral,0.925247848033905
-comment,overwatch,2021,hj8ifen,qm7a98,Can’t wait for no content for two years so that the player base continues to dwindle in anticipation of a sequel. I’m not even convinced overwatch 2 even exists at this point lmao,2021-11-04T10:45:37,LABEL_1,0.35500484704971313,neutral,0.7787243127822876
-comment,overwatch,2021,hj7wnnz,qm7a98,I’m sure they’ll find a way to draw,2021-11-04T08:02:13,LABEL_1,0.6002857685089111,neutral,0.9101771116256714
-comment,overwatch,2021,hj81448,qm7a98,Wow looks like a completely new mode!,2021-11-04T08:34:57,LABEL_2,0.9689740538597107,surprise,0.9555926322937012
-comment,overwatch,2021,hj7wy70,qm7a98,Blizzard just got sent to the burn unit.,2021-11-04T08:04:22,LABEL_1,0.7789077162742615,neutral,0.8958624601364136
-comment,overwatch,2021,hj8dw0r,qm7a98,I used to say let them push it rather than release an incomplete game but.... ive lost faith that pushing it will mean its a complete game on release.,2021-11-04T10:09:33,LABEL_0,0.6490358710289001,sadness,0.5488351583480835
-comment,overwatch,2021,hj7zlrq,qm7a98,I’m still not sold on the 5 v 5. Isnt that going to make things feel empty after playing 6v6 for all these years?,2021-11-04T08:23:59,LABEL_0,0.8932388424873352,sadness,0.970998227596283
-comment,overwatch,2021,hj8nax2,qm7a98,"I genuinely think that if they hadn't changed to 5v5, the game would have a release date by now. They basically shot themselves in the foot. 5v5 has already shown it requires complete reworks of several characters, massive nerfs and buffs and constant trial and error. Not to mention, probably reworking the unreleased characters as well. They should have just released the game 6v6 with some unique kit changes and then slowly gone to 5v5 by simply adding it in the arcade and letting the public test it out over months by simply playing it until they felt confident in it going live. As it is, they're taking a MASSIVE risk by doing 5v5, which could essentially *tank* the game on release if people find it's just no longer fun to play. Which, honestly, I feel like it could very well happen.",2021-11-04T11:27:07,LABEL_1,0.47337502241134644,neutral,0.7292028665542603
-comment,overwatch,2021,glqnvts,laxcqw,"Waiting for a St Patrick’s day event 
-
-Edit: Sadge",2021-02-02T23:29:13,LABEL_1,0.8223254680633545,fear,0.5039246082305908
-comment,overwatch,2021,glqsti0,laxcqw,"1) Open Overwatch twitter.  
-2) **Regret**",2021-02-02T23:57:55,LABEL_1,0.6911583542823792,neutral,0.8575782775878906
-comment,overwatch,2021,glqves1,laxcqw,"The only event that Overwatch NEEDS is talk like a pirate day.
-
-Give all the heroes mandatory eyepatches. Ana can have 2.",2021-02-03T00:13:20,LABEL_1,0.6133647561073303,neutral,0.9582352638244629
-comment,overwatch,2021,glqlzz9,laxcqw,"To be fair,there is a difference between ""a new event of the same theme every year"" and ""the exact same game mode/map for a specific theme every year"".
-
-Of course,I haven't played since 2017,IDK what y'all are doing right now.",2021-02-02T23:17:30,LABEL_1,0.4939996600151062,neutral,0.9125581979751587
-comment,overwatch,2021,glqtln0,laxcqw,Honestly I understand both sides,2021-02-03T00:02:30,LABEL_1,0.580685555934906,neutral,0.8370165824890137
-comment,overwatch,2021,glr3335,laxcqw,Yeah but if you had the same birthday party every year since you were 4 you would probably start to get tired of clowns and balloon animals.,2021-02-03T00:58:39,LABEL_0,0.9258009195327759,neutral,0.8647155165672302
-comment,overwatch,2021,glr0fdf,laxcqw,"I don't do the exact same thing every year for my birthday tho. 
-
-Also Blizzard happily sells loot boxes, you'd think they would reinvest that back into the game.
-
-I don't think it is unfair to expect robust ongoing support in a paid game with loot boxes.",2021-02-03T00:42:23,LABEL_1,0.580177903175354,neutral,0.3964260220527649
-comment,overwatch,2021,glqvbia,laxcqw,"I’m in the same boat. Oh look, Junkenstein, oh look, Lucioball. I appreciated that they try to add variations to the game modes, but it still gets a bit tired.",2021-02-03T00:12:47,LABEL_0,0.48703110218048096,neutral,0.39969849586486816
-comment,overwatch,2021,glr2irq,laxcqw,"Remember when OW players were teased about OW2?? Yeah that was 2+ years ago lol the game isn’t dead, the devs are
-
-Edit wow thanks for the award 🚀🚀bb 🚀🚀",2021-02-03T00:55:11,LABEL_2,0.9195507168769836,surprise,0.8263567090034485
-comment,overwatch,2021,glr0rup,laxcqw,"I understand more could be done for new events. But the additions of 3000 ball Lucio ball, catching snowballs, and mission variants of the archives event, and Capture the flag blitz, (arguably the best mode in the game) were great.
-
-I’d still love to see more. But I really loved all this shiz. (The winter one was the most meh IMO, but the others were great!)",2021-02-03T00:44:26,LABEL_2,0.9772467613220215,joy,0.8074190020561218
-comment,overwatch,2021,gv87yt1,muvnzw,"The r/Overwatch mod team would like to personally thank Jeff for everything he's done for Blizzard, Overwatch, and this subreddit.  We always had a great discussion with him when we were able to talk to him for AMAs and at Blizzcon.  He'll be sorely missed.
-
-Congrats to Aaron (whom we've gotten to know over the years as well)!  We can't wait to see what he'll bring to Overwatch as Game Director.
-
-
----
-
-Because this will undoubtedly reach the top of Reddit quickly, please be mindful of our rules and be awesome to each other in the comments.",2021-04-21T01:56:16,LABEL_2,0.962519645690918,sadness,0.6927787661552429
-comment,overwatch,2021,gv869za,muvnzw,My dream of facing Jeff in Bronze is over now.,2021-04-21T01:44:51,LABEL_1,0.5089973211288452,sadness,0.43657347559928894
-comment,overwatch,2021,gv869an,muvnzw,rip dinoflask,2021-04-21T01:44:43,LABEL_1,0.735282301902771,neutral,0.6358757019042969
-comment,overwatch,2021,gv86bik,muvnzw,Jeff is leaving to pursue a career in wrestling,2021-04-21T01:45:09,LABEL_1,0.9067372679710388,sadness,0.6163668036460876
-comment,overwatch,2021,gv860ik,muvnzw,No more fireside Christmas w/ Papa Kaplan,2021-04-21T01:43:02,LABEL_1,0.7860873937606812,sadness,0.7811621427536011
-comment,overwatch,2021,gv85y8x,muvnzw,Jeff leaving before OW2 releases isn't great.,2021-04-21T01:42:35,LABEL_0,0.7086313962936401,sadness,0.5096237659454346
-comment,overwatch,2021,gv85bg7,muvnzw,Holy shit. End of an era. His statement was only a small paragraph. Wonder what actually happened,2021-04-21T01:38:14,LABEL_0,0.7788124680519104,surprise,0.9419938921928406
-comment,overwatch,2021,gv8j52l,muvnzw,Is anyone else just doomscrolling these comments,2021-04-21T03:11:54,LABEL_1,0.5897447466850281,neutral,0.9025266766548157
-comment,overwatch,2021,gv852o6,muvnzw,Overwatch 2 going well I presume?,2021-04-21T01:36:32,LABEL_2,0.7721465229988098,neutral,0.8522155284881592
-comment,overwatch,2020,gh9daoj,klihub,"If you can’t beat em, beat it",2020-12-28T12:39:45,LABEL_1,0.5042892694473267,neutral,0.5073903203010559
-comment,overwatch,2020,gh9a1sc,klihub,We’re just gaining different type of sr 🤷🏾‍♂️,2020-12-28T12:06:12,LABEL_1,0.8230835795402527,neutral,0.9490706920623779
-comment,overwatch,2020,gh9fh17,klihub,Subbing there so I can get to plat,2020-12-28T13:03:39,LABEL_1,0.874154806137085,neutral,0.8903349041938782
-comment,overwatch,2020,gh9dwyb,klihub,Who says I'm in plat?  I'm much worse than that.,2020-12-28T12:46:28,LABEL_0,0.9425551295280457,disgust,0.6571880578994751
-comment,overwatch,2020,gh9i99c,klihub,I'll go in as a spy and report back,2020-12-28T13:36:15,LABEL_1,0.7465218901634216,neutral,0.4653998017311096
-comment,overwatch,2020,gh9bl0j,klihub,Imagine being stuck in plat and not elo hell bronze,2020-12-28T12:21:38,LABEL_0,0.7118304967880249,neutral,0.5957391262054443
-comment,overwatch,2020,gh9h6mk,klihub,I’m sorry that mercy has some big mommy milkers.,2020-12-28T13:23:32,LABEL_0,0.8016311526298523,sadness,0.9283660650253296
-comment,overwatch,2020,gh9q0gj,klihub,I havent played overwatch since the punching dude came out but you know i like to look at some dva tiddies every once in a while,2020-12-28T15:23:31,LABEL_1,0.658148467540741,neutral,0.7229120135307312
-comment,overwatch,2020,gh99zhi,klihub,So you're saying there is an Overwatch porn subreddit?,2020-12-28T12:05:34,LABEL_0,0.49559614062309265,surprise,0.4887070655822754
-comment,overwatch,2022,ir55srs,xw6732,How the fuck does a skin cost two battle passes,2022-10-05T20:42:26,LABEL_0,0.9389766454696655,anger,0.8180757164955139
-comment,overwatch,2022,ir5l45r,xw6732,The fact that voice lines are $1 each 💀,2022-10-05T22:37:56,LABEL_0,0.46906524896621704,neutral,0.6673113107681274
-comment,overwatch,2022,ir4xeyf,xw6732,Those Junker Queen legendaries are hardly even legendaries. Her *epic* looks more unique than her legendary skins. It's awful.,2022-10-05T19:22:49,LABEL_0,0.6717099547386169,disgust,0.9256276488304138
-comment,overwatch,2022,ir4wjgk,xw6732,"No, they expect you to see this, say fuck it, and shell out $20 for the skin",2022-10-05T19:13:19,LABEL_0,0.8368348479270935,anger,0.8327232003211975
-comment,overwatch,2022,ir4qq7l,xw6732,You don't even get currency through the battle pass which is really weird,2022-10-05T18:00:59,LABEL_0,0.9039832949638367,disgust,0.9463390707969666
-comment,overwatch,2022,ir58rsm,xw6732,"The worst thing is that the skin they sell for 1900 coins were sold 1000 coins on OW1, a sum you could get relatively rapidly...",2022-10-05T21:06:52,LABEL_0,0.7566930055618286,disgust,0.9245832562446594
-comment,overwatch,2022,ir61ca7,xw6732,"Laughing mad at the ""but it's free"" people right now.
-
-Remember kids, things are only free if you don't value your time.",2022-10-06T00:25:21,LABEL_0,0.5084419250488281,neutral,0.3348274827003479
-comment,overwatch,2022,ir52zzw,xw6732,"Shop prices are like double of what they should be, minimum",2022-10-05T20:17:56,LABEL_1,0.5564329028129578,neutral,0.9052582383155823
-comment,overwatch,2022,ir58t50,xw6732,My strategy is to never click on the battlepass button 🗿,2022-10-05T21:07:10,LABEL_1,0.6656476855278015,neutral,0.8264644145965576
-comment,overwatch,2022,ir52gtx,xw6732,3 legendary skins = AAA game,2022-10-05T20:12:59,LABEL_1,0.826738715171814,neutral,0.7584078907966614
-comment,overwatch,2022,itvl2t3,ye16uv,"Hello all.
-
-I commented on the original post [here](https://www.reddit.com/r/Overwatch/comments/ydp56j/blizzards_current_store_practices_are_illegal_in/itvhmkk/) and I'll be mirroring my comment below:
-
-That post is a ""call to action"".  We do not allow users to encourage others to harass, report, accuse, or witchhunt other people on the subreddit. This was re-emphasised this point when there was a huge call for boycotts at launch.  Again, we don't care if you boycott the game, don't pay for skins, or want to report Blizzard for whatever, we just don't want the 'mob mentality' requests to get others to do the same thing.
-
-The responsibility for the removal is mine, which you can blame me for.  I had to walk away in the middle of the removal, didn't get a chance to finish it, and couldn't get back to it in a timely manner.  I've apologized to the mod team and will apologize directly to r/Overwatch.  It won't happen again.
-
--SG
-
-EDIT: Concerning some of the removals of requests for information, a lot of them have been automatically removed by Automod due to reaching a threshold of reports.  Automod automatically posts a removal in these instances stating the following: 
-
-> **Your post has been removed automatically for the following reason:**
-
-> Your submission has reached the maximum amount of reports and sent to the mod team for manual review. If the post is not in violation of the subreddit's rules, it will be restored. Otherwise, the post will remain removed.
-
-> I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.
-
-DOUBLE EDIT:  I'm off to work now, so I'll try to get to everybody's comments in a little bit.  The mod team wanted me to add a few things to this comment:
-
-1) The removal is not to block feedback about the monetization of OW2.  The issue is specifically with the inclusion of the contact information and instructions on how to report them.  This is the call to action, not the discussion of the law.
-
-2) The original intent behind the ""no calls to action"" ruling was to address problems with vote manipulation or raiding (per sitewide rules).  Sometimes it's applied to other areas, particularly in cases where subject matter is repetitive or already well-known.  In this case, Blizzard's monetization issues is extremely well known (see: this sub since launch).
-
- Have we applied this incorrectly in this case?  Possibly.  We'll discuss over the next few days and probably update our guidelines with more information moving forward.
-
-In the meantime, we are going to have an updated sticked thread for bugs and duplicate content so we'll be able to provide users with more information as to the repetitive issues with OW2.",2022-10-27T01:02:29,LABEL_0,0.49590563774108887,anger,0.7014650106430054
-comment,overwatch,2022,itwtiim,ye16uv,Bruh the fact there is a bundle in shop right now for the low low cost of $76 USD is insane,2022-10-27T05:46:29,LABEL_2,0.6600983738899231,surprise,0.8396643400192261
-comment,overwatch,2022,itw1c0v,ye16uv,"The new system basically entirely removed the reward system for me. I won’t be buying a battle pass and the free stuff is all junk, so there really is no reason for me to care about it.",2022-10-27T02:46:42,LABEL_0,0.7614625692367554,neutral,0.7480488419532776
-comment,overwatch,2022,itw5azi,ye16uv,Ive contacted my representative to make sure any predatory monetization system is firmly kept illegal,2022-10-27T03:12:04,LABEL_1,0.5776659846305847,neutral,0.3729560673236847
-comment,overwatch,2022,itvkcmd,ye16uv,!remindme 2 hours,2022-10-27T00:57:49,LABEL_1,0.8008900284767151,neutral,0.7390379905700684
-comment,overwatch,2022,itvmrvc,ye16uv,"I dont mind buying a few things in a free game that I really like, but when they have such a level of greed I won't buy a thing.",2022-10-27T01:13:31,LABEL_0,0.5620810389518738,anger,0.6607699990272522
-comment,overwatch,2022,itvf5na,ye16uv,"My favorite is seeing that “surprise surprise” post getting removed, having the new removal screenshot and reposted under the same title. I honestly hope that keeps happening as long as the mods keep removing them",2022-10-27T00:24:07,LABEL_1,0.4331972897052765,surprise,0.9383885264396667
-comment,overwatch,2022,itw9v0f,ye16uv,"Don't buy stuff from Blizzard... They abandoned all development for OverWatch for 3 years and are now asking people to pay ridiculous amounts of money for OverWatch skins.
-
-Don't enable this behavior by supporting it.",2022-10-27T03:40:53,LABEL_0,0.9441508054733276,anger,0.6689785122871399
-comment,overwatch,2022,itwqkgk,ye16uv,"Imagine 4 skins for $49. Imagine buying a $50 game and only having 4 skins. That's how I feel about their pricing. I don't see ""the game is free"" excuse as valid. That was their choice, not mine so I'm allowed to be critical. 
-
-I paid for Overwatch 1, I'm still playing Overwatch 1 and in Overwatch 1, you could earn skins through currency or get them free during holiday events.
-
-If I bought Overwatch 1, for $50, and it only came with 4 new skins and all the defaults, I'd be pissed off.",2022-10-27T05:26:34,LABEL_0,0.5867083668708801,neutral,0.4848940968513489
-comment,overwatch,2020,g0au9ok,i3dzue,"Jesus, that’s actually really well done and super impressive",2020-08-04T14:10:03,LABEL_2,0.9759514331817627,surprise,0.7584963440895081
-comment,overwatch,2020,g0avht5,i3dzue,"Mercy be looking a little different...
-
-In all seriousness this is actually pretty cool, good work",2020-08-04T14:27:56,LABEL_2,0.9753000140190125,joy,0.641508162021637
-comment,overwatch,2020,g0axs1b,i3dzue,The most thicc mercy that i even seen,2020-08-04T15:02:01,LABEL_1,0.5572918653488159,disgust,0.3150095045566559
-comment,overwatch,2020,g0axne4,i3dzue,"Now I see why mercy stands like that...
-
-Well done! They look great!",2020-08-04T15:00:04,LABEL_2,0.9371509552001953,joy,0.41257578134536743
-comment,overwatch,2020,g0aui8x,i3dzue,Absolutely amazing!! 😮😍,2020-08-04T14:13:32,LABEL_2,0.9814159870147705,joy,0.4487917423248291
-comment,overwatch,2020,g0azq2z,i3dzue,Are you going to be cosplaying mercy? Building them for somebody? Or do you just like to make cool stuff like this?,2020-08-04T15:32:25,LABEL_2,0.6525647640228271,disgust,0.35820087790489197
-comment,overwatch,2020,g0b21fp,i3dzue,"Holy fuck this is amazing. I love how chuffed and excited you are too, made me smile man. You must be so proud!!",2020-08-04T16:10:36,LABEL_2,0.9925823211669922,joy,0.8201652765274048
-comment,overwatch,2020,g0axgfv,i3dzue,"That’s the best rigidity I’ve ever seen in a project like this. I have significant experience in this area, and I’m more impressed by this than I’ve been in a long time. 
-
-Very well done!",2020-08-04T14:57:12,LABEL_2,0.9879207611083984,surprise,0.883271336555481
-comment,overwatch,2020,g0b1axj,i3dzue,Mercy's wings and widowmaker's posture,2020-08-04T15:58:15,LABEL_1,0.8525943160057068,neutral,0.8824481964111328
-comment,overwatch,2022,itc0eiw,yamvac,A team loses when they solo rush into a battle thinking its call of duty and then demand heals while they’re in the enemy spawn zone. I’m not the best support but that’s why a team loses.,2022-10-22T22:12:50,LABEL_0,0.8569502234458923,sadness,0.43593040108680725
-comment,overwatch,2022,itcq7y9,yamvac,The people who think they're winning games 1v5 need to rethink some things.  It's so easy to ignore all the work your team does that enables you to get 30 elims in one match.,2022-10-23T01:18:19,LABEL_0,0.6185616254806519,neutral,0.9069662690162659
-comment,overwatch,2022,itbr10c,yamvac,"Zenyatta is a carry-support. Discord on tank, kill dps and healers yourself, protect team with ultimate.
-
-&#x200B;
-
-All you need is above average aim",2022-10-22T20:53:15,LABEL_1,0.7582660913467407,neutral,0.9506394863128662
-comment,overwatch,2022,itbtynl,yamvac,r/overwatchcirclejerk,2022-10-22T21:19:40,LABEL_1,0.8020917177200317,neutral,0.5317255854606628
-comment,overwatch,2022,itbxccu,yamvac,There’s a difference between “best support” and a grade A healbot. A great example is baptiste. You can be non stop healing the entire game and end with 30k healing but if your ultimates are poorly timed or placed and your lamps are poorly timed and placed and you don’t know when to shoot people rather than topping people off 24/7 then you can justifiably be considered bad in that situation. I personally wouldn’t look at someone with 30k healing and call them bad just because they’re still an anchor and making the game fun for their team but that doesn’t automatically mean you’re the best player in that particular match. It’s the inverse to the Winston or sombra issue. You’re stats may not be the best they may even look bad but you could absolutely be popping off and winning the game for your team by zoning and being a constant threat or some otherwise untracked hard to recognize action,2022-10-22T21:48:12,LABEL_1,0.48483380675315857,neutral,0.41580408811569214
-comment,overwatch,2022,itc0nku,yamvac,Am I the only one feeling like I make a great impact as support? If you play smart as really any support rn you can win fights for your team and make up for mistakes. This type of post really feels like people want to be rewarded for healbotting instead of using their whole kit to make an impact.,2022-10-22T22:14:51,LABEL_1,0.45274582505226135,joy,0.9169312715530396
-comment,overwatch,2022,itcsl8c,yamvac,"The biggest issue ive noticed is people keep trying to solo a team. Lucio respawns first after a team kill? You bet your ass he’s rushing in alone. Reinharts get a boner for it. It makes team play damn near impossible bc so many people have the ‘ooo i got the most kills so im the best and mvp’ mentality. 
-
-Its not cod people, you gotta strategize ir at least stay near your team if you arent a flanker. For example tracer and kiriko is a scary flank, but the entire team neednt try to cover the whole map",2022-10-23T01:34:21,LABEL_0,0.7681390643119812,fear,0.9683139324188232
-comment,overwatch,2022,itbqmep,yamvac,"Define ""Best"" please.",2022-10-22T20:49:35,LABEL_1,0.7478088140487671,neutral,0.9280290007591248
-comment,overwatch,2022,itbxfgp,yamvac,"My ass if you have a shit team (and the enemies aren't completely braindead) you loose that's all
-
-Like bro one time i was Soldier and i hold out the 2 enemy DPS from going in the teamfight and we still lost, when your team loose a 4v3 there's a point you just can't win
-
-&#x200B;
-
-There's also that one game where we killed everyone but a Moira, instead of pushing the Robot everyone was chasing after her, some of them fucking died and blamed me because i was doing the obj instead of chasing a kill (probably for that teamwipe challenge), and it happened multiple time",2022-10-22T21:48:55,LABEL_0,0.9343276023864746,anger,0.8935888409614563
-comment,overwatch,2020,fxqbuqy,hpfx9s,This is the best thing ive seen all week,2020-07-12T03:23:03,LABEL_2,0.9889487028121948,joy,0.9525438547134399
-comment,overwatch,2020,fxqh744,hpfx9s,Is that a cosplay or an image from the game?,2020-07-12T03:47:02,LABEL_1,0.8973995447158813,neutral,0.9196081161499023
-comment,overwatch,2020,fxqibp4,hpfx9s,"There’s an art to “low effort” cosplay. You are a low effort cosplay Van Gogh, bröther.",2020-07-12T03:51:53,LABEL_0,0.48631200194358826,neutral,0.9375321269035339
-comment,overwatch,2020,fxqdc72,hpfx9s,Honestly the best cosplay I’ve seen of anything ever.,2020-07-12T03:28:02,LABEL_2,0.9525600671768188,joy,0.4532288610935211
-comment,overwatch,2020,fxqotck,hpfx9s,COME HEEEEERE,2020-07-12T04:15:29,LABEL_1,0.6893313527107239,neutral,0.8096422553062439
-comment,overwatch,2020,fxr3s45,hpfx9s,Overwatch 2 is going to be sick,2020-07-12T05:17:09,LABEL_2,0.6955098509788513,sadness,0.8118205070495605
-comment,overwatch,2020,fxrnszt,hpfx9s,If you guys want more I have tons of pics with other cosplayers,2020-07-12T06:52:09,LABEL_2,0.6964554786682129,neutral,0.9094896912574768
-comment,overwatch,2020,fxqy0fj,hpfx9s,"When they said ""Be their shield"" so you BECOME their shield",2020-07-12T04:51:17,LABEL_1,0.7298985123634338,neutral,0.9381336569786072
-comment,overwatch,2020,fxqqj0d,hpfx9s,Shouldn’t the shield be red? I’ve never actually seen a blue one,2020-07-12T04:22:04,LABEL_1,0.580188512802124,neutral,0.6207037568092346
-comment,overwatch,2020,fxr4dmf,hpfx9s,If only people would stand behind it 😔,2020-07-12T05:18:45,LABEL_1,0.5671463012695312,neutral,0.5270076394081116
-comment,overwatch,2020,fuo6qd6,h7zn6v,I'd watch the fuck out of this series.,2020-06-13T11:56:00,LABEL_0,0.3633795976638794,anger,0.8296458125114441
-comment,overwatch,2020,fuo48bz,h7zn6v,"Hello everyone :)
-
-I started this project last year but I was so caught up with my school and work but
-
-this quarantine really helped me boost up my work and here it is...!
-
-I really hope you all enjoy it.
-
-Here's the Youtube link - [https://www.youtube.com/watch?v=60Nnv08is94](https://www.youtube.com/watch?v=60Nnv08is94)",2020-06-13T11:27:43,LABEL_2,0.9710232615470886,joy,0.6411250233650208
-comment,overwatch,2020,fuo7njc,h7zn6v,"This is exceptionally good quality, very nicely done mate.",2020-06-13T12:06:43,LABEL_2,0.983954906463623,neutral,0.7853319644927979
-comment,overwatch,2020,fuo5a92,h7zn6v,I love Roadhog at the end just rockin' the logo on his stomach. Made me laugh.,2020-06-13T11:39:30,LABEL_2,0.9764703512191772,joy,0.7630956172943115
-comment,overwatch,2020,fuo5wzp,h7zn6v,"Good choice of anime opening music. My favorite part was showing Winston's past in his glasses, a major part of him honoring his former teacher. He's also my favorite character so that just made me giddy!",2020-06-13T11:46:40,LABEL_2,0.9875303506851196,joy,0.886003851890564
-comment,overwatch,2020,fuo9snv,h7zn6v,Reinhardt All Might is best All Might,2020-06-13T12:32:19,LABEL_2,0.6375666260719299,neutral,0.9254359006881714
-comment,overwatch,2020,fuods5f,h7zn6v,I watched this like 6 times and still cant fing Dva,2020-06-13T13:23:18,LABEL_0,0.5774548649787903,surprise,0.4834844470024109
-comment,overwatch,2020,fuob5d9,h7zn6v,"This was actually amazing. The scene with Moira coalescence on the song climax was kinda awesome ngl.
-
-The reaper smoke showing him before and after his edgy self was also awesome.
-
-I'd love to see this get remastered and made professionally.
-
-Amazing solo work though
-
-P.s. caught the ty for watching on roadhogs license plate thing",2020-06-13T12:48:58,LABEL_2,0.9847177863121033,joy,0.6414340734481812
-comment,overwatch,2020,fuoaw4j,h7zn6v,"Major Itachi-Sasuke vibes for the Shimada Bros, lol  
-
-
-Awesome work.",2020-06-13T12:45:45,LABEL_2,0.9478328824043274,joy,0.8853954076766968
-comment,overwatch,2020,fuo8pg1,h7zn6v,the sequence of scenes at the end is incredible,2020-06-13T12:19:12,LABEL_2,0.9611674547195435,surprise,0.7457239031791687
-comment,overwatch,2022,its1ibc,ydcccg,"I miss hearing “Hello everyone, this is Jeff from the Overwatch team.”",2022-10-26T05:45:04,LABEL_0,0.6221352219581604,neutral,0.5223687291145325
-comment,overwatch,2022,itruf5r,ydcccg,Does anyone know if they fixed the sombra hacking highlight intro yet?,2022-10-26T04:57:59,LABEL_1,0.7876520156860352,neutral,0.8462840914726257
-comment,overwatch,2022,itr9hgb,ydcccg,"> But I think we should all take a moment to appreciate a certain dapper looking gentleman that has been holding the Overwatch team together since day one. Yes you guessed it, it's none other than Jeffrey R. Kaplan, the big dog himself. We all know that I am the heart and soul of this community, and without me, uhm, the Overwatch team would collapse faster than the floor on Petra. These are undisputable facts that you should never forget.
-
-https://youtu.be/w0_h_tDvAuI?t=230",2022-10-26T02:45:16,LABEL_2,0.6612227559089661,neutral,0.800361692905426
-comment,overwatch,2022,its2zvg,ydcccg,I’ll pay full retail price for OW2 if Jeff came back.,2022-10-26T05:55:34,LABEL_1,0.5558058023452759,neutral,0.9228996634483337
-comment,overwatch,2022,its0cbb,ydcccg,I miss Jeff 😭,2022-10-26T05:37:10,LABEL_0,0.5950797200202942,sadness,0.9844404458999634
-comment,overwatch,2022,its3289,ydcccg,This guy was simply awesome. I do not blame him for leaving. I watched through his entire 8-hour [Overwatch Yule Log (2019)](https://www.youtube.com/watch?v=aZ2iFbxIKHw). Good times.,2022-10-26T05:56:03,LABEL_2,0.9661067128181458,joy,0.4097141623497009
-comment,overwatch,2022,itsgvtr,ydcccg,"Lootboxes sucked, sure, but you could at least earn them for free and they had a good chance of paying out amounts of currency that actually pushed you much closer toward being able to buy the legendary skins you wanted (especially when dupes refunded currency). OW was also on sale for $10 for a while there, and usually $20 besides.
-
-But THIS system?
-
-8 months of dedicated weekly grinding for ONE skin, with a battle pass that refunds 0 premium currency and is mostly filler...?
-
-No progression besides BP and comp rank (both of which reset seasonally) to push you toward buying the BP?
-
-FFS, meet us halfway, here: Fortnite and Minion Masters refund huge chunks of premium currency in the BP and have more reliable ways to earn it besides, which makes me feel far more inclined to spend money.
-
-OW2? I feel Bobby's grubby little goblin fingers reaching out of the monitor and groping around the room for my wallet...",2022-10-26T07:38:57,LABEL_1,0.4539045989513397,neutral,0.5741186141967773
-comment,overwatch,2022,itt5ofx,ydcccg,"I honestly despise the F2P model that so many companies adopt, and (to an extent) the people who enable it by forking out hundreds/thousands of dollars on these stupid cash grabs. Bar a few games (LoL and Apex come to mind), all of these games with shitty F2P models always suffer because of it. I agree that gameplay comes first in any competitive game, but the reality is that having some kind of progression outside of that is nice. 
-
-There are so many other small aspects of this game that feel like they've just downgraded, especially in the HUD. Why isn't our account level displayed anymore, and why doesn't it go up as we play. Why can we not even see our own (and teammates) ranks when we are in comp games? Why did they remove the on-fire feature that was literally just a 'feel good' feature.  Maybe there is some upgrade they are gonna add in, but the reality is that they're either gone for good or they'll end up adding them to some kind of shitty new battle pass as filler content between the mediocre skins.",2022-10-26T10:51:35,LABEL_0,0.8984483480453491,disgust,0.7724940776824951
-comment,overwatch,2022,itralht,ydcccg,"It really is disheartening. I want to believe. That Overwatch 2 2021 Blizcon trailer plays on repeat in my head every day… but I don’t know if we ever get that game, I’m losing hope little by little with every game breaking bug….",2022-10-26T02:52:17,LABEL_0,0.9462810158729553,sadness,0.9293690919876099
-comment,overwatch,2022,itspwy8,ydcccg,God I miss Jeff. I wonder what he thinks about all this Fiesta,2022-10-26T08:47:13,LABEL_0,0.5934045314788818,surprise,0.9574451446533203
-comment,overwatch,2021,gx0xtcs,n5emec,Is your B.O.B. taking the picture?,2021-05-05T21:49:08,LABEL_1,0.9066268801689148,neutral,0.6839433908462524
-comment,overwatch,2021,gx0sw2s,n5emec,"What's the dynamite made of?
-Looks cool af.",2021-05-05T21:08:37,LABEL_2,0.9633350372314453,neutral,0.7601373791694641
-comment,overwatch,2021,gx0wkwz,n5emec,Nice!!! Love the dynamite,2021-05-05T21:39:21,LABEL_2,0.9824819564819336,joy,0.761404812335968
-comment,overwatch,2021,gx0pvm1,n5emec,Omg that looks so good!!! My life goal is now to build a life sized B.O.B. cosplay that I can control from inside it,2021-05-05T20:41:46,LABEL_2,0.9896970391273499,surprise,0.877660870552063
-comment,overwatch,2021,gx0w1w0,n5emec,You look great! That gold trim on the vest looks so clean. Awesome cosplay!,2021-05-05T21:35:02,LABEL_2,0.9916694164276123,joy,0.4786732494831085
-comment,overwatch,2021,gx128b9,n5emec,What lipstick are you using? It looks so good on you! I'm not sure if I could pull off the deep red but now I want it!,2021-05-05T22:22:46,LABEL_2,0.985436737537384,surprise,0.47300225496292114
-comment,overwatch,2021,gx0x39y,n5emec,Omg that is amazing,2021-05-05T21:43:25,LABEL_2,0.9832245111465454,surprise,0.9529410004615784
-comment,overwatch,2021,gx0w81v,n5emec,That looks siiick,2021-05-05T21:36:27,LABEL_0,0.8957294225692749,disgust,0.5045931339263916
-comment,overwatch,2021,gx0yqv6,n5emec,"You might say it's
-
-*Dynamite* 😎",2021-05-05T21:56:23,LABEL_1,0.6293970942497253,neutral,0.9456194639205933
-comment,overwatch,2021,gx0pcf8,n5emec,"Love the pose! Checked your profile, keep it up!",2021-05-05T20:36:45,LABEL_2,0.9885481595993042,joy,0.7468041777610779
-comment,overwatch,2020,g6lx0gf,izy03v,"If it doesn’t, they’re stupid. Because this is awesome! What did you make it out of?",2020-09-26T11:08:50,LABEL_2,0.6589896082878113,anger,0.7103032469749451
-comment,overwatch,2020,g6lxytz,izy03v,*ERROR. PROFANITY FILTER ENABLED*,2020-09-26T11:13:47,LABEL_0,0.8177493214607239,neutral,0.47921237349510193
-comment,overwatch,2020,g6lzusj,izy03v,Best overwatch cosplay I’ve seen online so far. And I heavily appreciate the hamster.,2020-09-26T11:23:29,LABEL_2,0.9732785224914551,joy,0.8160435557365417
-comment,overwatch,2020,g6m3c23,izy03v,I... this is cute as fuck.,2020-09-26T11:42:03,LABEL_2,0.9785950779914856,joy,0.5197903513908386
-comment,overwatch,2020,g6m4db6,izy03v,"That's adorable     
-
-If this doesn't count as cosplay we'll have to start another crusade",2020-09-26T11:48:01,LABEL_2,0.8544880151748657,joy,0.3378697633743286
-comment,overwatch,2020,g6md2jy,izy03v,Someone send this to sleepy,2020-09-26T12:58:16,LABEL_1,0.7368460893630981,neutral,0.9533592462539673
-comment,overwatch,2020,g6mda2f,izy03v,"Not only is that clearly overwatch cosplay, it’s also the best overwatch cosplay",2020-09-26T13:00:02,LABEL_2,0.9437828660011292,neutral,0.6595320701599121
-comment,overwatch,2020,g6m9fzy,izy03v,I need this for my 6 guinea pigs. Different species of rodent but still needed,2020-09-26T12:28:38,LABEL_1,0.6700003743171692,neutral,0.9359468221664429
-comment,overwatch,2020,g6m9uuo,izy03v,This would count for what? Because no matter what your talking about that is amazing,2020-09-26T12:31:50,LABEL_2,0.9502776265144348,surprise,0.8109501600265503
-post,overwatch,2020,hznm1a,,"Post-victory, the game should ping the match's leavers and ragequitters with this message",2020-07-29T05:35:36,LABEL_1,0.7794939279556274,anger,0.9571068286895752
-post,overwatch,2020,ekd1pt,,"Hey Blizzard, any chance of whipping up a couple of firefighter skins for Junkrat and Roadhog to raise money for the Aussie wildfires? You did it with Mercy for breast cancer research, and it was a great success. Even Junkrat would get on board with this: he wants to blow things up, not burn the world down.
-
-EDIT: Someone cross-posted this to the Overwatch official forums and asked me to [link it here](https://us.forums.blizzard.com/en/overwatch/t/junkhog-charity-skins-in-support-of-australias-fire-roverwatch/443649)",2020-01-05T21:32:32,LABEL_2,0.502781093120575,neutral,0.8236930966377258
-post,overwatch,2022,yf9w5o,,"It cost me less to buy this charm in real life, than it does in game.",2022-10-28T09:31:56,LABEL_1,0.5287140011787415,neutral,0.7136558890342712
-post,overwatch,2021,mwf8e4,,"thank you r/overwatch and r/cow the communities on r/overwatch and r/Competitiveoverwatch have meant so much to me. i just wanted to sign off one last time and thank you for all of your inspiration, shared stories and highlights, feedback, criticism and comradery. 
+type,subreddit,year,id,text,created_utc,sentiment,sentiment_score
+post,overwatch,2020,hznm1a,"Post-victory, the game should ping the match's leavers and ragequitters with this message",2020-07-29T05:35:36,LABEL_1,0.7794939279556274
+post,overwatch,2020,ekd1pt,"Hey Blizzard, any chance of whipping up a couple of firefighter skins for Junkrat and Roadhog to raise money for the Aussie wildfires? You did it with Mercy for breast cancer research, and it was a great success. Even Junkrat would get on board with this: he wants to blow things up, not burn the world down.
+
+EDIT: Someone cross-posted this to the Overwatch official forums and asked me to [link it here](https://us.forums.blizzard.com/en/overwatch/t/junkhog-charity-skins-in-support-of-australias-fire-roverwatch/443649)",2020-01-05T21:32:32,LABEL_2,0.502781093120575
+post,overwatch,2022,yf9w5o,"It cost me less to buy this charm in real life, than it does in game.",2022-10-28T09:31:56,LABEL_1,0.5287140011787415
+post,overwatch,2021,mwf8e4,"thank you r/overwatch and r/cow the communities on r/overwatch and r/Competitiveoverwatch have meant so much to me. i just wanted to sign off one last time and thank you for all of your inspiration, shared stories and highlights, feedback, criticism and comradery. 
 
 &#x200B;
 
@@ -351,16 +20,16 @@ please take care of the overwatch team. they are wonderful, caring, brilliant pe
 
 &#x200B;
 
-<3 jeffrey",2021-04-23T05:24:31,LABEL_2,0.9745201468467712,joy,0.7829421162605286
-post,overwatch,2020,kgyo6c,,"My attempt at making ""realistic"" portraits on most of the Overwatch roster by using Artbreeder. (Note: features may be missing such as scars, tattoos, etc.)",2020-12-21T01:59:18,LABEL_1,0.6818703413009644,neutral,0.8368561863899231
-post,overwatch,2020,k3cxz8,,The console experience,2020-11-30T01:08:24,LABEL_1,0.8029279112815857,neutral,0.6888560652732849
-post,overwatch,2020,fpu6zt,,My animatronic Mercy wings are almost done after 9 months of work! I built them from metal and they get pretty bright!,2020-03-27T17:47:57,LABEL_2,0.9655959606170654,surprise,0.414563924074173
-post,overwatch,2021,qm7a98,,"Blizzard reveals new Overwatch 2 game mode, called ""Push"", in which development teams fight to continuously push back the release date.",2021-11-04T07:28:52,LABEL_1,0.8149178624153137,neutral,0.8937290906906128
-post,overwatch,2021,laxcqw,,Overwatch Twitter is something else man,2021-02-02T22:56:13,LABEL_0,0.708171546459198,neutral,0.7906208038330078
-post,overwatch,2021,muvnzw,,Jeff Kaplan leaves Blizzard. New Overwatch game director — Aaron Keller,2021-04-21T01:31:47,LABEL_1,0.9091617465019226,sadness,0.4299669861793518
-post,overwatch,2020,klihub,,This is why y’all are stuck in plat,2020-12-28T11:44:51,LABEL_0,0.8288928866386414,neutral,0.8268023133277893
-post,overwatch,2022,xw6732,,Is this a joke? I have to grind 8 months for one legendary skin in the shop? 😆,2022-10-05T17:48:53,LABEL_1,0.5063157081604004,surprise,0.48233532905578613
-post,overwatch,2022,ye16uv,,"This subreddit is in damage control mode This subreddit is deliberately removing posts that give genuine criticism to the monetization system of Overwatch 2.
+<3 jeffrey",2021-04-23T05:24:31,LABEL_2,0.9745201468467712
+post,overwatch,2020,kgyo6c,"My attempt at making ""realistic"" portraits on most of the Overwatch roster by using Artbreeder. (Note: features may be missing such as scars, tattoos, etc.)",2020-12-21T01:59:18,LABEL_1,0.6818703413009644
+post,overwatch,2020,k3cxz8,The console experience,2020-11-30T01:08:24,LABEL_1,0.8029279112815857
+post,overwatch,2020,fpu6zt,My animatronic Mercy wings are almost done after 9 months of work! I built them from metal and they get pretty bright!,2020-03-27T17:47:57,LABEL_2,0.9655959606170654
+post,overwatch,2021,qm7a98,"Blizzard reveals new Overwatch 2 game mode, called ""Push"", in which development teams fight to continuously push back the release date.",2021-11-04T07:28:52,LABEL_1,0.8149178624153137
+post,overwatch,2021,laxcqw,Overwatch Twitter is something else man,2021-02-02T22:56:13,LABEL_0,0.708171546459198
+post,overwatch,2021,muvnzw,Jeff Kaplan leaves Blizzard. New Overwatch game director — Aaron Keller,2021-04-21T01:31:47,LABEL_1,0.9091617465019226
+post,overwatch,2020,klihub,This is why y’all are stuck in plat,2020-12-28T11:44:51,LABEL_0,0.8288928866386414
+post,overwatch,2022,xw6732,Is this a joke? I have to grind 8 months for one legendary skin in the shop? 😆,2022-10-05T17:48:53,LABEL_1,0.5063157081604004
+post,overwatch,2022,ye16uv,"This subreddit is in damage control mode This subreddit is deliberately removing posts that give genuine criticism to the monetization system of Overwatch 2.
 
 It is also removing posts that point to the illegality of the monetization system in current countries such as Australia and most of the EU. 
 
@@ -368,176 +37,39 @@ I urge everyone to continue with the outcry and, if you live in a country where 
 
 Edit: [Here is a link to one of the original posts that were ""inciting a witchhunt"" as the mod in the comments has described it.](https://www.reveddit.com/v/Overwatch/comments/ydp56j/blizzards_current_store_practices_are_illegal_in/?ps_after=1666789901)
 
-Edit2: u/TheBisexualfish has kindly pointed out that there is [an entire list of all deleted posts on this subreddit via this link](https://www.reveddit.com/v/overwatch/?localSort=num_comments)",2022-10-26T23:41:31,LABEL_0,0.6425704956054688,anger,0.6006091237068176
-post,overwatch,2020,i3dzue,,I finally finished my Mercy Wings! All steel+aluminum build.,2020-08-04T14:08:11,LABEL_2,0.6062215566635132,joy,0.4707062840461731
-post,overwatch,2022,yamvac,,Support is fine you guys,2022-10-22T20:46:16,LABEL_2,0.8171753883361816,neutral,0.8672712445259094
-post,overwatch,2020,hpfx9s,,My Reinhardt shield cosplay,2020-07-12T03:21:31,LABEL_1,0.8668450713157654,neutral,0.5308915376663208
-post,overwatch,2020,h7zn6v,,I made an OW anime opening!,2020-06-13T11:27:16,LABEL_1,0.5385560989379883,joy,0.647555410861969
-post,overwatch,2022,ydcccg,,The best days are behind us.,2022-10-26T02:43:19,LABEL_2,0.933646559715271,neutral,0.7847216725349426
-post,overwatch,2021,n5emec,,My Ashe Cosplay,2021-05-05T20:21:43,LABEL_1,0.8300800323486328,neutral,0.7731132507324219
-post,overwatch,2020,izy03v,,If this was on overwatch cosplay. Would it count?,2020-09-26T11:05:27,LABEL_1,0.9185374975204468,neutral,0.9083602428436279
-post,overwatch,2020,fir5o6,,I cannot stress enough just how much I love Brigitte's Katt emote.,2020-03-15T06:49:52,LABEL_2,0.9812856912612915,joy,0.936954915523529
-post,overwatch,2022,ycjr0j,,No skins as rewards for playing the Halloween event sucks,2022-10-25T03:09:08,LABEL_0,0.932712972164154,sadness,0.5053061842918396
-post,overwatch,2020,gtip47,,I used the Workshop to make Lucio's beat increase the amount of shields you get based upon the height you jump from! So of course I jumped off the top of Lijang tower!,2020-05-31T02:07:11,LABEL_1,0.5806493163108826,neutral,0.3157409131526947
-comment,overwatch,2020,fkiwgng,fir5o6,Thank you OP for the wonderful video displaying the details I would otherwise not have been able to see playing on low resolution :'),2020-03-15T07:57:46,LABEL_2,0.9595733880996704,joy,0.7413995265960693
-comment,overwatch,2020,fkiyfq3,fir5o6,I just realized there are paw prints on Brig's shield.,2020-03-15T08:20:35,LABEL_1,0.8502705693244934,surprise,0.8550481200218201
-comment,overwatch,2020,fkir4xn,fir5o6,Okay but look at how happy she is!!,2020-03-15T06:57:39,LABEL_2,0.9799574017524719,joy,0.8903047442436218
-comment,overwatch,2020,fkiwpup,fir5o6,First thing I bought,2020-03-15T08:00:41,LABEL_1,0.6010369658470154,joy,0.47483575344085693
-comment,overwatch,2020,fkj1p5h,fir5o6,"But why does it have a deadly blade attached to its forehead?
-
-An errant glance and your achilles tendon is severed",2020-03-15T08:59:06,LABEL_0,0.8749621510505676,anger,0.41031745076179504
-comment,overwatch,2020,fkj3hvl,fir5o6,"If Brig is happy, I’m happy.",2020-03-15T09:21:03,LABEL_2,0.934472918510437,joy,0.9733052849769592
-comment,overwatch,2020,fkj4bom,fir5o6,So my cat likes to headbutt my face to tell me it's time for pets. I'm thinking the headbutts and headspike combo might be painful,2020-03-15T09:31:06,LABEL_0,0.8584977388381958,sadness,0.6785044074058533
-comment,overwatch,2020,fkisw0h,fir5o6,Now that's a hecken chonk,2020-03-15T07:17:21,LABEL_0,0.8789159059524536,disgust,0.36011865735054016
-comment,overwatch,2020,fkj2zv1,fir5o6,I want someone to look at me the way Brigitte looks at cats.,2020-03-15T09:14:56,LABEL_1,0.7240771651268005,disgust,0.64334636926651
-comment,overwatch,2020,fkj119c,fir5o6,Can we get one with torb and rein,2020-03-15T08:50:58,LABEL_1,0.8613131642341614,neutral,0.8818489909172058
-comment,overwatch,2022,itmzkah,ycjr0j,"Yikes. Spent most of this trailer showing old content.  
-
-Maybe they’re keeping stuff secret for launch but Blizzard really need good publicity so I doubt they’d hide new stuff if they had it.",2022-10-25T04:54:36,LABEL_0,0.4966442883014679,disgust,0.5111868977546692
-comment,overwatch,2022,itmjpse,ycjr0j,Its a nice skin but I ain’t paying 20 bucks for it.,2022-10-25T03:12:51,LABEL_1,0.4885772168636322,neutral,0.5833381414413452
-comment,overwatch,2022,itmjtd3,ycjr0j,One of my favourite parts of the first was playing a different hero just because I got cool event skin,2022-10-25T03:13:31,LABEL_2,0.981021523475647,joy,0.9122450947761536
-comment,overwatch,2022,itmoxzz,ycjr0j,"That skin would have been awesome to earn, I would
-Have grinded the shit out of the event.",2022-10-25T03:46:56,LABEL_2,0.8004934191703796,anger,0.45395657420158386
-comment,overwatch,2022,itmt2hc,ycjr0j,"To be honest, I feel kind of bad for new players jumping into this event. There is zero chance they will be able to enjoy it like we all did during the OW1 days, unlocking and wearing the costumes, using the Ana emote, etc.
-
-Not without dropped a few hundred bucks anyhow.",2022-10-25T04:13:24,LABEL_0,0.8357619643211365,disgust,0.8059746026992798
-comment,overwatch,2022,itn14cp,ycjr0j,"Wow, so they're really committed to their model of ""fuck F2P players"", huh.
-
-I spend money on tons of games, including buying lootboxes back in OW1. But the experience as a free player in OW2 is actually *discouraging* me from spending. 
-
-I think the difference is that most games give free players a steady stream of ""regular"" stuff, and then dangle the extra-cool items as a temptation to break out your wallet. It feels good to get new things and build a collection, so spending a bit to add that one special skin to your vault isn't too much of a leap.
-
-But if I have to pay for *everything*, even the regular stuff? It makes me not want to spend at all. It doesn't feel like I'm ""completing my collection"" anymore, it just feels like I'm getting taken advantage of. Fuck that.",2022-10-25T05:04:44,LABEL_0,0.584999680519104,disgust,0.4301641583442688
-comment,overwatch,2022,itmrq76,ycjr0j,The most rewarding overwatch experience ever!,2022-10-25T04:04:46,LABEL_2,0.9861878156661987,joy,0.6850736141204834
-comment,overwatch,2022,itmrk0q,ycjr0j,"Literally EVERY other F2P shooter has at least ***something*** you can earn in-game. Obviously the majority of the cosmetics will be in the shop, but this is a HUGE mis-step to not have at least 1 skin as an earn-able reward for the event... what a joke...",2022-10-25T04:03:40,LABEL_0,0.6531627178192139,surprise,0.5311949849128723
-comment,overwatch,2022,itnbes3,ycjr0j,"The skins and pricing is a huge elephant in the room that blizzard is just ignoring. Are they seriously not going to address the number 1 thing people are talking about??
-
-The whole point of the seasonal events was to earn skins. Timed skins that were only available during that event. Now it’s just like hey pay $20 with no way to earn it??? That’s just crazy.",2022-10-25T06:15:34,LABEL_0,0.7812304496765137,surprise,0.42049455642700195
-comment,overwatch,2020,fsc768z,gtip47,And then Sombra EMPs them 0.4 seconds later,2020-05-31T03:07:50,LABEL_1,0.5773425102233887,neutral,0.6974802017211914
-comment,overwatch,2020,fsc5p3i,gtip47,"“Oh, let’s break it doooooooooooooooooooooooooooo *gasp* oooooooooooooown!”",2020-05-31T02:59:17,LABEL_1,0.5297684669494629,surprise,0.33472079038619995
-comment,overwatch,2020,fsc72p1,gtip47,"""Look to my coming, at last fight on the 3rd round, at high noon, look to Lijang Tower.""",2020-05-31T03:07:17,LABEL_1,0.855962872505188,fear,0.547237753868103
-comment,overwatch,2020,fsca047,gtip47,LET'S DROP THE BEAAA^(AAAAaaaaa....) **^(\*crunch\*)**,2020-05-31T03:24:21,LABEL_1,0.7177943587303162,neutral,0.5940912365913391
-comment,overwatch,2020,fscggx2,gtip47,Jump into Lijiang from Hoziron and give shields to even your future teammates.,2020-05-31T04:03:38,LABEL_1,0.7929264307022095,neutral,0.8885834217071533
-comment,overwatch,2020,fsbz56r,gtip47,This would be a cool little rework for Lucio. Just make sure to cap it off,2020-05-31T02:21:16,LABEL_2,0.9706584811210632,neutral,0.9554185271263123
-comment,overwatch,2020,fschy6e,gtip47,"I'm surprised the top of the tower has a place you can stand on.
-
-Also how did you get up there? And how did you remove the map limits so you could go from the top of control center to night market?",2020-05-31T04:12:30,LABEL_1,0.6395480036735535,surprise,0.9818037748336792
-comment,overwatch,2020,fscfyyu,gtip47,Lucio in the sky with diamonds,2020-05-31T04:00:40,LABEL_1,0.703392505645752,neutral,0.6101556420326233
-comment,overwatch,2020,fscfz7c,gtip47,"Oh let's break it...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...
-
-&#x200B;
-
-...DOWN !!!",2020-05-31T04:00:42,LABEL_1,0.7216576337814331,neutral,0.48659107089042664
-comment,overwatch,2020,fsc86p8,gtip47,"“Hey, where the hell’s that Lúcio? I heard him drop the beat and I haven’t seen him?”
-
-“Maybe he got stunned, let’s get... wait, what’s that in the sky?”
-
-“Oh, it’s lucio... shit! He’s dropping the beat, someone please for the mother of god tell me they play doom fist!?”",2020-05-31T03:13:39,LABEL_0,0.7769739031791687,surprise,0.8998875617980957
+Edit2: u/TheBisexualfish has kindly pointed out that there is [an entire list of all deleted posts on this subreddit via this link](https://www.reveddit.com/v/overwatch/?localSort=num_comments)",2022-10-26T23:41:31,LABEL_0,0.6425704956054688
+post,overwatch,2020,i3dzue,I finally finished my Mercy Wings! All steel+aluminum build.,2020-08-04T14:08:11,LABEL_2,0.6062215566635132
+post,overwatch,2022,yamvac,Support is fine you guys,2022-10-22T20:46:16,LABEL_2,0.8171753883361816
+post,overwatch,2020,hpfx9s,My Reinhardt shield cosplay,2020-07-12T03:21:31,LABEL_1,0.8668450713157654
+post,overwatch,2020,h7zn6v,I made an OW anime opening!,2020-06-13T11:27:16,LABEL_1,0.5385560989379883
+post,overwatch,2022,ydcccg,The best days are behind us.,2022-10-26T02:43:19,LABEL_2,0.933646559715271
+post,overwatch,2021,n5emec,My Ashe Cosplay,2021-05-05T20:21:43,LABEL_1,0.8300800323486328
+post,overwatch,2020,izy03v,If this was on overwatch cosplay. Would it count?,2020-09-26T11:05:27,LABEL_1,0.9185374975204468
+post,overwatch,2020,fir5o6,I cannot stress enough just how much I love Brigitte's Katt emote.,2020-03-15T06:49:52,LABEL_2,0.9812856912612915
+post,overwatch,2022,ycjr0j,No skins as rewards for playing the Halloween event sucks,2022-10-25T03:09:08,LABEL_0,0.932712972164154
+post,overwatch,2020,gtip47,I used the Workshop to make Lucio's beat increase the amount of shields you get based upon the height you jump from! So of course I jumped off the top of Lijang tower!,2020-05-31T02:07:11,LABEL_1,0.5806493163108826
+post,overwatch,2023,13jdd8d,[Discussion] Overwatch 2 devs announce that most of the original plans for PVE have been scrapped Aaron Keller and Jared Neus just announced that the ambitious plans for PVE and hero progression have been scrapped.,2023-05-17T02:38:27,LABEL_1,0.694716215133667
+post,overwatch,2020,i7880b,How often do you Charge in as Rein? Yes. 2017-2020,2020-08-11T00:35:38,LABEL_1,0.9112780690193176
+post,overwatch,2021,nhxau4,To all you Zarya mains out there: It's been an honor. Sincerely: Your Reinhardts.,2021-05-22T00:57:20,LABEL_2,0.9184321165084839
+post,overwatch,2020,hqhnge,Junkrats have the biggest brains,2020-07-13T23:48:08,LABEL_2,0.5573190450668335
+post,overwatch,2021,lmlb2v,I recreated my favorite Mercy spray!,2021-02-18T20:06:24,LABEL_2,0.9286928176879883
+post,overwatch,2020,gnbbgi,Brig's Katt emote makes Junkenstein's Revenge so much better.,2020-05-20T21:27:22,LABEL_2,0.9374666213989258
+post,overwatch,2020,g4p3i2,Am I sad for making this?,2020-04-20T16:34:15,LABEL_0,0.6899840235710144
+post,overwatch,2020,k55b3f,"I get it’s for balance purposes, but still",2020-12-02T16:11:20,LABEL_1,0.7927441000938416
+post,overwatch,2022,x9cpu8,Say no to greed,2022-09-09T05:43:23,LABEL_1,0.5464683175086975
+post,overwatch,2022,xypjol,Legendary skins for new characters do not capture any unique themes and feel like they could replace default skins and still work with those agent's identities,2022-10-08T18:39:50,LABEL_0,0.49963465332984924
+post,overwatch,2021,l1dhfp,"Had this idea quite a while ago, didn't turn out as good as I wanted it to but here it is anyways.",2021-01-21T01:12:39,LABEL_0,0.5763168334960938
+post,overwatch,2020,g2rfjg,So....why this wasn't an actual animation for POTG??,2020-04-17T08:33:21,LABEL_1,0.6082448959350586
+post,overwatch,2020,ivtgzk,"I literally had one second to save the point, and then THIS happened (Reaper 6K)",2020-09-19T22:26:06,LABEL_1,0.5634850859642029
+post,overwatch,2020,hkbti7,My cosplay transformation into Ashe! [OC],2020-07-03T11:29:15,LABEL_1,0.7904072999954224
+post,overwatch,2020,emthnc,I'm gonna sleep the Genj- wait...,2020-01-11T00:41:39,LABEL_1,0.7692518830299377
+post,overwatch,2020,hi3i7c,Sideshow is on another level of thinking,2020-06-30T00:51:21,LABEL_1,0.49434125423431396
+post,overwatch,2020,hscbaw,I made interlocking shields from the Overwatch 2 short a thing,2020-07-17T00:06:44,LABEL_1,0.8320714235305786
+post,overwatch,2023,133rg9m,"When Tracer ults, she says ""Special Delivery..."" Today, she meant it.",2023-04-30T21:41:27,LABEL_1,0.7908708453178406
+post,overwatch,2021,n0tle1,Who wore it better?,2021-04-29T09:15:49,LABEL_1,0.779908299446106
+post,overwatch,2021,mva9ft,We will miss you,2021-04-21T15:08:17,LABEL_1,0.48124921321868896
+post,overwatch,2021,oi0fu3,Yeah um. The post made it quite far,2021-07-11T16:02:20,LABEL_2,0.7728058099746704
+post,overwatch,2020,gpmm1f,so i gave widowmaker robot spider legs in the workshop --- dynamic limb animation by Therister,2020-05-24T17:10:50,LABEL_1,0.8494459390640259
+post,overwatch,2021,od2jd2,Healer = unnecessary,2021-07-04T01:34:00,LABEL_0,0.6548368334770203
+post,overwatch,2022,zxzofa,Seen this on twitter.,2022-12-29T15:58:59,LABEL_1,0.817679762840271
+post,overwatch,2020,gwzioi,How we know Genji's Voice Actor is a true Genji Main,2020-06-05T14:50:39,LABEL_1,0.7893748879432678

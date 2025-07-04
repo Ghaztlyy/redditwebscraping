@@ -1,465 +1,9 @@
-type,subreddit,year,id,parent_id,text,created_utc,sentiment,sentiment_score,emotion,emotion_score
-comment,dota2,2022,i9b32y0,utph8f,"If that's actually true and main reason for a kick... No words, just... no.",2022-05-20T17:25:26,LABEL_0,0.8013569116592407,neutral,0.6516067981719971
-comment,dota2,2022,i9b2urb,utph8f,What the fuck. This might be the absolute worst reason for kicking a player in dota history,2022-05-20T17:22:24,LABEL_0,0.9757682085037231,disgust,0.6994394063949585
-comment,dota2,2022,i9b619s,utph8f,This is worse than all of Eternalenvy kicks combined yikes.,2022-05-20T18:04:07,LABEL_0,0.9739461541175842,disgust,0.9305660128593445
-comment,dota2,2022,i9b3tx5,utph8f,"SMG and kicking their pos 5, name a more iconic duo
-
-First is Mushi, then Roger, then Ninjaboogie",2022-05-20T17:35:01,LABEL_1,0.5564301609992981,neutral,0.8872555494308472
-comment,dota2,2022,i9c9189,utph8f,"I actually did get fired for losing a loved one and asking for a temporary leave to go to the funeral. 
-
-If anyone in the US has kids/families that use Booster for a school fundraiser, behind the scenes they are the absolutely SHITTIEST company and know they’re treating all of us like garbage",2022-05-20T23:27:48,LABEL_0,0.9669890999794006,disgust,0.7659318447113037
-comment,dota2,2022,i9b3yt5,utph8f,didnt midone's dad passed away during his days with secret and he took a month break or something if im not mistaken?,2022-05-20T17:36:47,LABEL_1,0.6659868955612183,sadness,0.7308287024497986
-comment,dota2,2022,i9b2nde,utph8f,that's pretty fucked up.,2022-05-20T17:19:49,LABEL_0,0.9651201367378235,anger,0.550555944442749
-comment,dota2,2022,i9b3cxo,utph8f,What the hell,2022-05-20T17:28:59,LABEL_0,0.8859050869941711,surprise,0.5501219034194946
-comment,dota2,2022,i9b3be8,utph8f,If this is true then SMG qualifies for r/trashy,2022-05-20T17:28:26,LABEL_1,0.5639123320579529,neutral,0.9492761492729187
-comment,dota2,2022,i9b3s1s,utph8f,"It wouldn't surprise me, since Midone was very quick to convince everyone to kick Mushi from his own team after joining SMG. Like, Mushi extends an olive branch and he casually kicks him rofl.",2022-05-20T17:34:21,LABEL_1,0.6389682292938232,surprise,0.8944808840751648
-comment,dota2,2021,h5zasdt,oo16vu,"Whilst there are some great conversations in the thread around speaking up and calling out behaviour like this in games (which is what should happen), the negative comments and the ""just mute lol"" comments far outweigh the positive ones which is why the thread is now being locked.
-
-Remember: it costs nothing to be respectful.",2021-07-21T16:06:53,LABEL_1,0.43704143166542053,neutral,0.8222367167472839
-comment,dota2,2021,h5vgydu,oo16vu,"You can't ask people not to harass you, you have to position yourself better in lane",2021-07-20T21:42:49,LABEL_1,0.5152553915977478,neutral,0.8667201995849609
-comment,dota2,2021,h5vtxex,oo16vu,"You shouldn’t have to wait until you have a daughter or some shit to treat women like people. In fact, if that’s what it takes for you to treat women like people, then you’re still a shitty person.",2021-07-20T23:19:22,LABEL_0,0.9550720453262329,disgust,0.8047739267349243
-comment,dota2,2021,h5vdzw1,oo16vu,True. Players talk shit to other players but they put higher \*shit talking values\* against women. Must stop! We should hate each other equally.,2021-07-20T21:17:36,LABEL_0,0.950397253036499,anger,0.9057490229606628
-comment,dota2,2021,h5vk9w2,oo16vu,"I don't have to deal with it personally, but I've seen/heard it happen. It is so depressing to watch.
-
-I played a game where our pos 5 was crushing on support, the whole team was happy with the pulls, lane harass, unselfishly securing first blood for the carry and were giving them props. Then pos 5 says ""thanks guys. we got this game"" in a girls voice. There was a brief moment of silence while 60% of the brain cells on our team died. The whole dynamic suddenly shifts... ""are you a girl?!"" ""omg, that so hot"" ""I like gurl"" etc.
-
-I tell them to shut up and play the game but it's too late. Our team turns toxic as everyone plays differently and the girl no longer seems into it (can't blame her at all). our carry players are either too distracted or start dying ""noble deaths"" to save our pos 5 girl. We had a big advantage out of the lane and lost what seemed like instantly. I tried to apologize for them, but I'm pretty sure she had muted our whole team by that point. 
-
-It turns out that both genders can click buttons. so why can't we treat all players like people. Don't die a noble death for your pos 5 - thats dumb, they are there to die a noble death for you. If there is a girl in your lobby, treat her like everyone else. say things like ""pull creeps you piece of shit"" or ""harass the carry you piece of shit"" or ""I literally hate you you piece of shit"" like you say to everyone else.",2021-07-20T22:08:48,LABEL_0,0.8860536813735962,sadness,0.887817919254303
-comment,dota2,2021,h5wolow,oo16vu,"Bullshit, nobody apologizes in dota.",2021-07-21T02:52:34,LABEL_0,0.9091919660568237,disgust,0.6274572014808655
-comment,dota2,2021,h5vums6,oo16vu,"Don't worry, if I had a daughter, she would never have to deal with this. I would never make the mistake of letting my kids play dota",2021-07-20T23:24:19,LABEL_1,0.43698200583457947,fear,0.743454098701477
-comment,dota2,2021,h5vewev,oo16vu,Wtf is wrong in this comment section,2021-07-20T21:25:36,LABEL_0,0.9667196273803711,anger,0.6568984389305115
-comment,dota2,2021,h5vcwwg,oo16vu,"To those of you saying ""just mute them "" stop being dense, the consistency that I see some of my friends get harassed just because they're female is absurd and it shouldn't be a problem at all.
-
-Its bad enough some of them won't play outside of stacks just to avoid having to listen to shitty sexist jokes. People go online and because they're anonymous act like children and just general pieces of garbage.
-
-If it was 1 person every dozen games yea sure just mute them up throw a report and move on, but its not, it's regular every couple of matches and it is well outside of a reasonable way for anyone to act, let alone grown men.",2021-07-20T21:07:55,LABEL_0,0.9211921691894531,disgust,0.6842146515846252
-comment,dota2,2021,h5vlctb,oo16vu,"Been watching Ephey's Twitch stream lately.
-
-Her chat is, frankly, disgusting.  The mods can't even keep up.",2021-07-20T22:17:04,LABEL_0,0.9440138339996338,disgust,0.9907428622245789
-comment,dota2,2021,gnphzha,llh8q5,This was not on my bingo card.,2021-02-17T08:12:52,LABEL_0,0.5947156548500061,neutral,0.8731288313865662
-comment,dota2,2021,gnpk4cu,llh8q5,"Valve uses a hero with extremely safe laning and low complexity to market the game to new players, actual big brain.",2021-02-17T08:31:07,LABEL_2,0.7311266660690308,neutral,0.9489360451698303
-comment,dota2,2021,gnpj30l,llh8q5,"""Wait, what?""
--Literally Everyone",2021-02-17T08:22:13,LABEL_1,0.5181083679199219,surprise,0.679006814956665
-comment,dota2,2021,gnphbql,llh8q5,"I will take ""straight out of left field"" for 500",2021-02-17T08:07:18,LABEL_1,0.7866436839103699,neutral,0.9287195205688477
-comment,dota2,2021,gnpjtqe,llh8q5,"More details from Netflix's official press release:
-
-""The sweeping fantasy series tells the story of Davion, a renowned Dragon Knight devoted to wiping the scourge from the face of the world. Following encounters with a powerful, ancient eldwurm as well as the noble Princess Mirana on a secret mission of her own, Davion becomes embroiled in events much larger than he could have ever imagined.
-
-The series will receive 8 episodes. Studio MIR (The Legend of Korra, Voltron: Legendary Defender) is in charge of the animation production. 
-
-Key staff includes Ryu Ki Hyun (Voltron: Legendary Defender) as co-executive producer and Ashley Miller (Thor, X-Men: First Class) as writer, showrunner, and executive producer.""
-
-source: https://anitrendz.net/news/2021/02/16/dota-dragons-blood-anime-series-announced-for-march-25-on-netflix/",2021-02-17T08:28:36,LABEL_1,0.775662899017334,neutral,0.83513343334198
-comment,dota2,2021,gnpjgro,llh8q5,next patch: dragon knight base armour increased +1,2021-02-17T08:25:30,LABEL_1,0.8568289279937744,surprise,0.5027555823326111
-comment,dota2,2021,gnph50k,llh8q5,what the actual fuck is happening,2021-02-17T08:05:42,LABEL_0,0.9605945348739624,anger,0.9218647480010986
-comment,dota2,2021,gnphjxj,llh8q5,Whoa I didn't think I would ever see  Dota on Netflix,2021-02-17T08:09:13,LABEL_0,0.7143084406852722,surprise,0.9784573316574097
-comment,dota2,2021,gnpina2,llh8q5,"> *After years on the trail of a legendary Eldwurm, the skilled dragon-slayer found himself facing a disappointing foe: the dreaded Slyrak had grown ancient and frail, its wings tattered, its few remaining scales stricken with scale-rot, its fangs ground to nubs, and its fire-gouts no more threatening than a pack of wet matchsticks. Seeing no honor to be gained in dragon-murder, the young knight prepared to turn away and leave his old foe to die in peace. But a voice crept into his thoughts, and Slyrak gave a whispered plea that the knight might honor him with death in combat. The knight agreed, and found himself rewarded beyond expectation for his act of mercy: As he sank his blade in Slyrak's breast, the dragon sank a claw into his throat. As their blood mingled, Slyrak sent his power out along the Blood Route, offering all its strength and centuries of wisdom to the knight. The dragon's death sealed their bond, and Dragon Knight was born. The ancient power slumbers in the knight, waking when he calls it; or perhaps it is the Dragon that calls the Knight...*",2021-02-17T08:18:30,LABEL_1,0.6475841999053955,fear,0.6338334679603577
-comment,dota2,2021,gnphrnj,llh8q5,So it was Netflix calling the dragonknight all along.,2021-02-17T08:11:01,LABEL_1,0.8411587476730347,neutral,0.9760143160820007
-comment,dota2,2021,gxw5gjn,naunux,"One complaint, or suggestion.
-
-You need a new cover for this thing. The art inside looks at least 10 times better than your cover.",2021-05-13T03:45:34,LABEL_1,0.4238855540752411,neutral,0.8923770785331726
-comment,dota2,2021,gxvnhj4,naunux,"here is the depressing original thread https://www.reddit.com/r/DotA2/comments/n405zo/fanfic_dota_2_unknown_warrior/
-
-there seemed to be a lot of passion behind this, so if you are out there u/Lui5-Breakfast-1022 i hope people will finally see your art!",2021-05-13T01:44:57,LABEL_2,0.7264713644981384,sadness,0.9833317995071411
-comment,dota2,2021,gxvr50y,naunux,Nice find. That is very sick.,2021-05-13T02:10:08,LABEL_0,0.5487484335899353,disgust,0.9405857920646667
-comment,dota2,2021,gxvr4po,naunux,"thats battlepass goals quality, good job helping the dude Slakcs",2021-05-13T02:10:04,LABEL_2,0.8550501465797424,joy,0.4994332790374756
-comment,dota2,2021,gxvz3k1,naunux,That omnislash art is something else. Really well done.,2021-05-13T03:04:29,LABEL_2,0.9219310283660889,neutral,0.6092950701713562
-comment,dota2,2021,gxvr1e8,naunux,This man has some damn talent.,2021-05-13T02:09:26,LABEL_2,0.5861806273460388,disgust,0.6236516237258911
-comment,dota2,2021,gxvzr2a,naunux,This one makes creeps look actually scary lol,2021-05-13T03:08:41,LABEL_0,0.7156750559806824,fear,0.9586084485054016
-comment,dota2,2021,gxvs4sc,naunux,"well
-
-what an artwork!
-
-hope it gets enough attention
-
-welldone.",2021-05-13T02:16:57,LABEL_2,0.9272149205207825,surprise,0.5017036199569702
-comment,dota2,2021,gxvvn9r,naunux,"[https://medibang.com/book/5u2105051137236990020434095/view/](https://medibang.com/book/5u2105051137236990020434095/view/)
-
-&#x200B;
-
-Direct link to view the comic! Well done, /u/lui5-breakfast-1022 !",2021-05-13T02:41:05,LABEL_2,0.8766220211982727,joy,0.37861159443855286
-comment,dota2,2021,gxvtvrr,naunux,I hope more people get to see this now! Very cool.,2021-05-13T02:29:00,LABEL_2,0.9876011610031128,joy,0.8941234350204468
-comment,dota2,2021,hh0e1sp,qa3pgd,"""WITH BIG PRIZE, WHY PLAY DOTA MORE?""
-
-Miposhka already thinking about retiring!",2021-10-18T02:00:48,LABEL_1,0.5261023044586182,neutral,0.4266713857650757
-comment,dota2,2021,hh0d01n,qa3pgd,FROM THE WORSE ROOM IN THE HOTEL FOR THE GROUP STAGE TO TI WINNERS. HOLY SHIT TEAM SPIRIT,2021-10-18T01:53:33,LABEL_0,0.9460430145263672,anger,0.32675880193710327
-comment,dota2,2021,hh0czxs,qa3pgd,"what a fucking run, og into vp into ig into secret and then fking lgd holy shit. Actual lower bracket kings. EZ GAME",2021-10-18T01:53:32,LABEL_0,0.8910720944404602,anger,0.6920702457427979
-comment,dota2,2021,hh0do6d,qa3pgd,Team Spirit took more games off of LGD than all the other teams combined.,2021-10-18T01:58:12,LABEL_1,0.7097790837287903,neutral,0.8408470749855042
-comment,dota2,2021,hh0cru8,qa3pgd,">Our strategy is luck
-
-These madmen actually made it work, the secret strat was luck all along. What a fucking run",2021-10-18T01:52:01,LABEL_0,0.6809408068656921,anger,0.8617710471153259
-comment,dota2,2021,hh0cgfb,qa3pgd,"Collapse man, what amazing play. Shout out to Yataro for seemingly being able to dodge every single smoke gank by LGD in game 5 there. Amazing game sense.",2021-10-18T01:49:58,LABEL_2,0.9609833359718323,surprise,0.5427638292312622
-comment,dota2,2021,hh0d3b4,qa3pgd,"Mira & Miposhka deserve a lot of credit for the vision game throughout the entire run, their warding was levels above anyone else in the tournament and Spirit's usage of vision heroes was incredibly good",2021-10-18T01:54:11,LABEL_2,0.9807189702987671,neutral,0.7349120378494263
-comment,dota2,2021,hh0dprx,qa3pgd,"""I don't know. Why would we play dota have anymore? We just won 16 millions""
-
-Love that guy haha congrats team spirit!!!",2021-10-18T01:58:30,LABEL_2,0.8857067823410034,surprise,0.8811312913894653
-comment,dota2,2021,hh0d404,qa3pgd,"""Do we need to play Dota again?""
-
-I think you don't need to Miposhka :) Couple of million ez pz",2021-10-18T01:54:18,LABEL_1,0.6506842374801636,neutral,0.6093654632568359
-comment,dota2,2021,hh0e1bw,qa3pgd,"When backdoor protection kicked in and LGD almost turned it, I almost lost it. What a finish.",2021-10-18T02:00:43,LABEL_0,0.5326218605041504,surprise,0.7990278005599976
-comment,dota2,2020,fp0ym6t,ganyoe,"Yeah, I don't use voice and don't have a female sounding name when playing dota. It's pretty unenjoyable.
-
-Edit: I want to use this opportunity to mention that it isn't an issue strictly related to DotA. This happens in just about all games. 
-
-I think the most annoying thing is the people who treat me specially for being a girl. We're a lot more common, just a lot of us don't communicate because we're sick of random PM's.   
-
-
-There are a lot of people who just treat us like normal everyday people, and I'd like to think that these people are the majority. They're the reason I still play online games.",2020-04-30T12:11:54,LABEL_0,0.825480580329895,joy,0.9393224716186523
-comment,dota2,2020,fp15pw7,ganyoe,"Sometimes, if they're being toxic for other reasons, I just mute them. 
-
-Am girl, and I don't get the same kind of harassment like this. (Got it a lot in CS:GO.) 
-
-Sometimes, they ask for my instagram though. I don't know how that helps with anything.
-
-edit: Okay, now that I think about it, maybe I'm just older these days or something (28), but I think I learned to tune it out or something. I work in tech, and it just be like that. I think I just got a thicker skin over time. Never got the hairy tits type of comment, but I think I'd just ask them if they wanted to lick it.",2020-04-30T13:39:00,LABEL_1,0.524887204170227,neutral,0.6161075234413147
-comment,dota2,2020,fp19ww7,ganyoe,"/r/dota2 now: aww, this is so sad, this community should be more tolerant and kind
-
-/r/dota2 the rest of the time: we should physically exterminate pinoys/russians/all other third world subhumans",2020-04-30T14:38:12,LABEL_0,0.9379327893257141,sadness,0.9647876620292664
-comment,dota2,2020,fp14guw,ganyoe,"as a dota lady too who can relate to you, shoot me a message if you want to party up. I either just talk and mute anyone the minute they're shitty and try to group up with other people I know.",2020-04-30T13:22:30,LABEL_0,0.5402717590332031,disgust,0.411515474319458
-comment,dota2,2020,fp0v6xl,ganyoe,"Yeah, you're right that it is something which must not be tolerated. But I think there's nothing you can do apart from what you should do when facing the other kinds of toxic behaviour, like racial comments, hate speech, etc: simply muting and report.
-
-Edit: Yes, that includes at first telling him ""hey dude, fuck off, shut up"", not just standing silent. But after that, if they won't stop, just block communications and report.",2020-04-30T11:34:15,LABEL_0,0.8043611645698547,anger,0.39050379395484924
-comment,dota2,2020,fp0x0wd,ganyoe,"get some friends to play with that can get over the rarity of a female gamer.
-
-i've had my mic muted for years so i dont get sucked into toxic trash talking..althou i seem to do it anyways when shit gets personal",2020-04-30T11:54:03,LABEL_0,0.5815303325653076,anger,0.4641757309436798
-comment,dota2,2020,fp11u1k,ganyoe,Anytime I hear that kind of abuse I report them. Probably doesn't do much but at least it's something.,2020-04-30T12:49:12,LABEL_0,0.7008553147315979,disgust,0.6837037801742554
-comment,dota2,2020,fp14n1m,ganyoe,"As a dude, muting the team and communicating with voice lines/chat wheel made the game better.",2020-04-30T13:24:45,LABEL_2,0.7814695239067078,neutral,0.7427266240119934
-comment,dota2,2020,fp0wucw,ganyoe,"As soon as you hear that shit just mute them, they are obviously gonna provide nothing of use over coms anyways.",2020-04-30T11:52:03,LABEL_0,0.9235552549362183,neutral,0.5276579260826111
-comment,dota2,2020,fp132v7,ganyoe,"I've been playing for 5 years. The harassment has gotten SO much better than it was. Now its not whole teams of men hating on me just because I'm a lady. The occasional incel is usually drowned out by that one dude that doesn't deal with that shit and shuts him down. 
-
-Its not perfect but its way better than it used to be. #oldladydota",2020-04-30T13:04:31,LABEL_2,0.6245864629745483,anger,0.6946325898170471
-comment,dota2,2020,frsvyk0,gqgv4a,">
-Anytime the match is paused, one of three different mini-games will appear to help you pass the time until all players are ready and accounted for. Try your hand at Whack-a-Meepo, Musical Chairs, and Hero Hunt. Who knows, maybe you'll never want the pause to end.
-
-
-Genius way of making people respect the pause",2020-05-26T04:29:09,LABEL_2,0.4886886179447174,neutral,0.9534357190132141
-comment,dota2,2020,frsptlh,gqgv4a,"If you think that im going to spend my money for a  skin that was free 6 years ago, you're absolutely right",2020-05-26T03:35:03,LABEL_1,0.5098048448562622,neutral,0.5892072916030884
-comment,dota2,2020,frssxg6,gqgv4a,everyone talking about the arcanas and I ask myself why valve added an opening to the game after 10 years without the valve guy?,2020-05-26T04:02:27,LABEL_1,0.7082823514938354,surprise,0.8112165927886963
-comment,dota2,2020,frsm8gs,gqgv4a,Windranger Arcana LMAO. Slacks on suicide watch.,2020-05-26T03:03:24,LABEL_0,0.598863422870636,sadness,0.5978963375091553
-comment,dota2,2020,frsm51s,gqgv4a,SAY IT WITH ME ----- ALL HAIL THE ONE TRUE KING!!,2020-05-26T03:02:33,LABEL_2,0.6145381331443787,neutral,0.7646890878677368
-comment,dota2,2020,frsm7v5,gqgv4a,"> QOP arcana
-
-I lost.
-
-> Female Anti-Mage
-
-I fucking double lost.
-
-> SKELETON KING 
-
-I'M CUUUUUMMIIIIIIIIIIINNNNNNNNNGGGGGGGG",2020-05-26T03:03:15,LABEL_0,0.885627031326294,sadness,0.3637690842151642
-comment,dota2,2020,frsm2in,gqgv4a,"WAIFU ANTIMAGE
-
-THIS IS HOW WE PASS $50 MILLION",2020-05-26T03:01:55,LABEL_1,0.5713819265365601,neutral,0.7985849380493164
-comment,dota2,2020,frsmehn,gqgv4a,THERE ARE SO MUCH ARCANAS BUT WITH ONE KIDNEY LEFT AHHHHH,2020-05-26T03:04:52,LABEL_1,0.517856776714325,surprise,0.7904988527297974
-comment,dota2,2020,frspos4,gqgv4a,"It's 5 AM here in Australia, I haven't played a game of Dota 2 since 2019 and I am hyped as fuck! Is this what relapsing into addiction feels like?",2020-05-26T03:33:51,LABEL_2,0.8142550587654114,surprise,0.4655226469039917
-comment,dota2,2020,frsobun,gqgv4a,the battle pass website crashed,2020-05-26T03:21:54,LABEL_0,0.92996746301651,sadness,0.9118608236312866
-comment,dota2,2022,ihzsj4s,waaajl,wtf I'm not ready for this high quality meme,2022-07-28T22:24:52,LABEL_0,0.8198425769805908,surprise,0.30193522572517395
-comment,dota2,2022,ihzsbts,waaajl,i will engrave this zeus-homelander hybrid in my mind forever,2022-07-28T22:23:27,LABEL_2,0.5451174378395081,joy,0.9370657801628113
-comment,dota2,2022,ihzmgk0,waaajl,Your prayers are answered.,2022-07-28T21:42:35,LABEL_2,0.8328458070755005,neutral,0.8825222849845886
-comment,dota2,2022,ii0mrrt,waaajl,holy jesus,2022-07-29T01:40:02,LABEL_1,0.6104776859283447,surprise,0.7766087651252747
-comment,dota2,2022,ihzprp5,waaajl,this is fucking GOLD! ! !,2022-07-28T22:05:40,LABEL_2,0.879622220993042,anger,0.44957801699638367
-comment,dota2,2022,ihzqgpf,waaajl,It wasn't an accident. I just have good map awareness. Don't question me!!!,2022-07-28T22:10:34,LABEL_2,0.8383716344833374,anger,0.4100743234157562
-comment,dota2,2022,ihzrf71,waaajl,"I'm no zeus player but I remember once I pressed ult to kill enemy midlaner and got a triple kill instead, truly one of the best feelings in dota imo",2022-07-28T22:17:16,LABEL_2,0.9558004140853882,joy,0.6142210364341736
-comment,dota2,2022,ihzr38l,waaajl,Of course it's tsunami lol,2022-07-28T22:14:57,LABEL_1,0.6204128861427307,neutral,0.6419579982757568
-comment,dota2,2022,ihzum78,waaajl,quality content,2022-07-28T22:39:09,LABEL_1,0.598056435585022,neutral,0.9098502397537231
-comment,dota2,2022,ihzyjxr,waaajl,Best meme of the year right here,2022-07-28T23:05:39,LABEL_2,0.9679085612297058,neutral,0.6901721954345703
-comment,dota2,2020,gb7yzz0,johl2w,High quality shitpost? Are we waiting for another Immortal Treasure or what?,2020-11-05T20:24:12,LABEL_0,0.6465098261833191,neutral,0.4477677047252655
-comment,dota2,2020,gb7zfda,johl2w,Requesting bearJAM on bttv pls,2020-11-05T20:29:52,LABEL_1,0.8982521295547485,neutral,0.936096727848053
-comment,dota2,2020,gb7xiqo,johl2w,LMFAO this is why I sort by new,2020-11-05T20:03:26,LABEL_1,0.5674772262573242,neutral,0.7597572803497314
-comment,dota2,2020,gb7ya07,johl2w,Nature is not for the weak.,2020-11-05T20:14:23,LABEL_1,0.60013347864151,neutral,0.9024430513381958
-comment,dota2,2020,gb80g29,johl2w,They only thing that's missing is a Techies carting around money in the background.,2020-11-05T20:42:52,LABEL_0,0.5261679291725159,neutral,0.9002835154533386
-comment,dota2,2020,gb7yq1q,johl2w,can you give a provide the original so it can be a meme template ?,2020-11-05T20:20:29,LABEL_1,0.8366155624389648,neutral,0.9245557188987732
-comment,dota2,2020,gb85539,johl2w,"It's not $40M since it's only 25% of what the community spent ...   
-
-Hello $160 000 000. 
-
-E: (minus VAT)",2020-11-05T21:35:56,LABEL_1,0.6859055161476135,neutral,0.46642711758613586
-comment,dota2,2020,gb7zff6,johl2w,The coin of the realm?,2020-11-05T20:29:53,LABEL_1,0.858219563961029,neutral,0.630865216255188
-comment,dota2,2020,gb827i9,johl2w,"this is why the ""pay 4 chest key"" update bothers me.
-
-it's another money-grab after $40m fundraiser. share the love a little ffs valve",2020-11-05T21:03:53,LABEL_0,0.8442814350128174,sadness,0.3416430652141571
-comment,dota2,2021,gpirccm,lwntzt,"I was born in it, molded by it. I didn't see the light until I was already a man and by then it was nothing to me but сука блять",2021-03-03T18:38:26,LABEL_1,0.5703253149986267,fear,0.32346200942993164
-comment,dota2,2021,gpizda6,lwntzt,I have a speech impediment so every time we start losing that is the first thing the toxic teammate starts making fun of me for. It’s like yeah very original buddy. Go jump in a lake,2021-03-03T20:31:09,LABEL_0,0.7198008894920349,disgust,0.45924752950668335
-comment,dota2,2021,gpitaf9,lwntzt,"Meanwhile I never even use voice chat even though Im a dude lol, too much anxiety",2021-03-03T19:08:57,LABEL_0,0.8510118722915649,fear,0.9272176027297974
-comment,dota2,2021,gpimolx,lwntzt,"It is true that everyone gets flamed in Dota, one way or another. But if they know that you are a girl, it’s not gonna be just “your shit and noob just go uninstall” there’s gonna be an additional layer of sexist remarks on top of what they usually say to noobs.",2021-03-03T17:21:55,LABEL_0,0.7754726409912109,disgust,0.5926778316497803
-comment,dota2,2021,gpisld5,lwntzt,"Dotaplayers are a weird demographic. They age like a wine. Turning into vinegar with the years of being in a moist cellar. Im so sorry for every person that chose to play that wonderful game nonetheless. Cyka blyat, amanakoi!",2021-03-03T18:58:17,LABEL_0,0.8888187408447266,sadness,0.8132030963897705
-comment,dota2,2021,gpijg26,lwntzt,"I recently had a game where my pos 4 got tilted and said
-
-> I don't like being told what to do by a girl
-
-I am not shitting you, this was his exact fucking line. Pos 3, the girl, then got clearly tilted because he continuously refused to play with her based due to her sex and in the end we lost the game because two out of five people were tilted and brain afk feeding around the map. All this just because this moron can't deal with a girl asking him to pull in the nicest, most casual way ever.
-
-I can't stress this enough: If you have problems with girls asking you to do things in a fucking competitive team based game, then don't fucking play this game you sexist fucking dingus.",2021-03-03T16:30:25,LABEL_0,0.9617558717727661,anger,0.6038463115692139
-comment,dota2,2021,gpj56j2,lwntzt,"the deniers in this thread are hilarious, even the amount of people who would add the female player of my old stack of friends just because we referred to her as a “her” or “she” in chat or team voice was disturbing. she would only talk in discord or skype and still would get flamed if we accidentally out her as a female to the other players, randoms or opponents.",2021-03-03T21:33:04,LABEL_0,0.7486007809638977,disgust,0.6807042956352234
-comment,dota2,2021,gpisy4v,lwntzt,"I really wish more women played Dota, for the good of the game. Then again there probably are tons in my pubs but they're afraid to use voice chat because of reactions like the ones you've described. It really sucks and I'm sorry that you and other players  have to experience that.
-
-Just know that not all of us are like that. Some of us just flame you because you're an absolute noob, not because of your sex.",2021-03-03T19:03:42,LABEL_0,0.9033887982368469,disgust,0.5278076529502869
-comment,dota2,2021,gpipyid,lwntzt,I have a female friend that I used to play with who has since quit. I found myself having to defend her constantly from virgins trash talking her for no reason other than her gender. It's sad how many of these low lives are playing the game we love.,2021-03-03T18:15:00,LABEL_0,0.8482409119606018,sadness,0.9469408392906189
-comment,dota2,2021,gpihdys,lwntzt,"It is kinda sad, but I also find it admireable how she toughened up and didn't throw the towel. I Always wonder how come girls in games are actually ""discovered"", i couldn't tell you the gender of anyone in my last 5 ranked games if my life depended on it...",2021-03-03T15:58:31,LABEL_0,0.5672096610069275,sadness,0.9237663745880127
-comment,dota2,2022,ionhd7z,xfoeb1,Feels like playing Horizon series. I like it.,2022-09-16T19:28:45,LABEL_2,0.9709921479225159,joy,0.9553907513618469
-comment,dota2,2022,iongbo8,xfoeb1,"Dope, I think I would use it shuffled with immo set",2022-09-16T19:18:09,LABEL_1,0.7064125537872314,neutral,0.9554896950721741
-comment,dota2,2022,ionh1cu,xfoeb1,Kuku will love this shit,2022-09-16T19:25:25,LABEL_0,0.6833030581474304,disgust,0.6262306571006775
-comment,dota2,2022,ionhpap,xfoeb1,"Dayummm I am not even a fan of this theme, but this one is just executed so I will rock it over my arcana",2022-09-16T19:32:07,LABEL_2,0.6625750064849854,neutral,0.8722544312477112
-comment,dota2,2022,ionhvox,xfoeb1,Looks awesome! Please don't let Kuku see this.,2022-09-16T19:33:55,LABEL_2,0.9373134970664978,anger,0.26787686347961426
-comment,dota2,2022,ioni2di,xfoeb1,"I'm usually not a fan of sets that stray too far from the original concept, but I think this looks great! Still reads as veno, the shape and the fact that there's toxic tubes just works so well.",2022-09-16T19:35:41,LABEL_2,0.9585428237915039,neutral,0.5350779891014099
-comment,dota2,2022,ionhac5,xfoeb1,"This set looks epic, reminds me of Beast Wars.  Would buy this set 100%",2022-09-16T19:27:56,LABEL_2,0.9858056902885437,neutral,0.5654134154319763
-comment,dota2,2022,ioniptg,xfoeb1,I love Bionicle,2022-09-16T19:41:54,LABEL_2,0.9835047721862793,joy,0.9760899543762207
-comment,dota2,2022,ionjq4g,xfoeb1,so good 9/10 i'd use it over the immortals,2022-09-16T19:51:22,LABEL_2,0.894507646560669,joy,0.5843940377235413
-comment,dota2,2021,gytydtn,nh2t4v,Ceb seems pretty 7ckngMad.,2021-05-20T23:19:37,LABEL_1,0.5674652457237244,surprise,0.3930802047252655
-comment,dota2,2021,gyu6lso,nh2t4v,"[This tweet](https://mobile.twitter.com/teamsecret/status/1395078226461007878) probably broke ceb, aside from the ""taking the trash out"".",2021-05-21T00:17:16,LABEL_0,0.7022531628608704,neutral,0.6654253602027893
-comment,dota2,2021,gyu525r,nh2t4v,"great marketing move
-
-now all the other teams are going to buy the og pack so they can spam ""offended""",2021-05-21T00:06:16,LABEL_1,0.468280166387558,anger,0.4904140532016754
-comment,dota2,2021,gytzlyz,nh2t4v,Full conversation --> [Full Conversation between Ceb & Midormeepo](https://twitter.com/midormeepo/status/1395400140370894851?s=20),2021-05-20T23:28:14,LABEL_1,0.8436152338981628,neutral,0.9290739893913269
-comment,dota2,2021,gyv1vrj,nh2t4v,"Seems like a classic case of someone who can dish, but can't take it.",2021-05-21T03:55:12,LABEL_0,0.8285279870033264,disgust,0.5744764804840088
-comment,dota2,2021,gytygca,nh2t4v,"Anyone know what the context is here?
-
-[Edit](https://giphy.com/gifs/kobe-bryant-soft-xT1XGESDlxj0GwoDRe)",2021-05-20T23:20:07,LABEL_1,0.8323243260383606,neutral,0.9153485894203186
-comment,dota2,2021,gytyub1,nh2t4v,Ceb [follow up tweet](https://twitter.com/Ceb/status/1395399161172963328/photo/1) with some more of the log.,2021-05-20T23:22:51,LABEL_1,0.9003927111625671,neutral,0.8896316289901733
-comment,dota2,2021,gytxqoy,nh2t4v,[Offended?](https://i.imgur.com/mWAyqJt.png),2021-05-20T23:15:03,LABEL_1,0.5476077795028687,anger,0.8981451392173767
-comment,dota2,2021,gytyi3j,nh2t4v,it's looking spicy!,2021-05-20T23:20:27,LABEL_2,0.9083174467086792,joy,0.9129934906959534
-comment,dota2,2021,gytxq06,nh2t4v,Ceb = Offended,2021-05-20T23:14:56,LABEL_0,0.6896325349807739,anger,0.8778165578842163
-comment,dota2,2021,hjy3qyd,qq4y02,"""What about your autobattler and card game-""
-
-""Don't know what you're talking about, next question.""",2021-11-09T23:46:45,LABEL_1,0.49820366501808167,neutral,0.6337148547172546
-comment,dota2,2021,hjy3cp6,qq4y02,"""I have big monster Roshan, he has big monster Nashor""",2021-11-09T23:44:01,LABEL_1,0.7309907078742981,neutral,0.7650709748268127
-comment,dota2,2021,hjy95kv,qq4y02,"You changed the script and made it worse? 
-
-'I make a tournament with $40m prize pool... He cannot afford $40m prize pool. Great success'",2021-11-10T00:23:27,LABEL_0,0.5582332015037537,disgust,0.36457985639572144
-comment,dota2,2021,hjyo8g1,qq4y02,Wasn't the League animated series announced 2 years before dragons blood tho?,2021-11-10T02:02:37,LABEL_1,0.8804375529289246,neutral,0.6468030214309692
-comment,dota2,2021,hjxz2cr,qq4y02,"They have a balanced money system and don't rely on one single turnament.
-
-I really like the big Ti prize pool but why can't it be like this.
-
-70% go to Ti.
-
-20% go to Majors
-
-10% are used to hold some T2 and T3 tournaments.
-
-That would still make a prizepool of 28 million for Ti which is huge.
-
-The young scene could develop much better.",2021-11-09T23:14:06,LABEL_2,0.5463206171989441,neutral,0.7091502547264099
-comment,dota2,2021,hjxy3ny,qq4y02,"League of Legends is a much, much, much better product. Dota 2 is a better game. That's about it. As long as we can find a match in Dota, there is no need to bother with what's more popular, tbh.",2021-11-09T23:07:12,LABEL_2,0.7522237300872803,neutral,0.9396844506263733
-comment,dota2,2021,hjy7v4s,qq4y02,I think lol announced they were making an anime before dota,2021-11-10T00:14:47,LABEL_1,0.82593834400177,neutral,0.4920654594898224
-comment,dota2,2021,hjy05gs,qq4y02,"On a side note, their new anime, Arcane, is super good. Highly recommend it",2021-11-09T23:21:46,LABEL_2,0.989410936832428,joy,0.8274737000465393
-comment,dota2,2021,hjyu63m,qq4y02,"As an old fan of Dota I think that this comparison with LoL only makes the game better and vice versa. It's good that there are enough differences between these two games so they can both grow and enough common elements for both games to influence one another.
-
-In the end of the day they both are just games so grab a chill pill everybody and have fun.",2021-11-10T02:42:00,LABEL_2,0.88416588306427,joy,0.6211698651313782
-comment,dota2,2022,hzkq97w,t7xvg8,"35,974 hours on record, wow.
-
-https://steamcommunity.com/id/lena417",2022-03-06T21:53:47,LABEL_2,0.6961197853088379,surprise,0.9585016369819641
-comment,dota2,2022,hzkjvn4,t7xvg8,Deepest condolences. Take care and stay safe. May she play in peace.,2022-03-06T20:47:58,LABEL_2,0.5221024751663208,sadness,0.8213040232658386
-comment,dota2,2022,hzl6lta,t7xvg8,"hey Taysbirdie, your post has been shared in the Chinese community and everybody is conveying deepest condolences for your loss. I believe the days are dark and hopeless but I wish you can stay strong. My cousin lost his father at your age, I can feel the pain as he does. Your mother was a great lady who raise you up and be the most important part of your life. Her passion and achievement in Dota2 will be forever memorized by all Dota2 players. 
-节哀.",2022-03-07T00:04:46,LABEL_2,0.4996979236602783,sadness,0.9780373573303223
-comment,dota2,2022,hzkj8xt,t7xvg8,"I really, REALLY need support right now. She left me so fast. I know that she really liked to open this post from time to time and read comments. It made her days a little bit brighter when she was sad. I hope she's watching me right now. I hope there's Dota2 in heaven for her because she loved it so much.",2022-03-06T20:40:52,LABEL_2,0.6161283850669861,sadness,0.7847514748573303
-comment,dota2,2022,hzl86q4,t7xvg8,I will play a game of Warlock to honor her.,2022-03-07T00:15:59,LABEL_2,0.7239139080047607,neutral,0.6245993375778198
-comment,dota2,2022,hzkksru,t7xvg8,"I salute you Mama Warlock. ❤
-
-And to OP, my sincere and deepest condolences to you and your family. Your 2nd fam, the dota2 community sends you love and regards in these hard times. 
-
-
-Take care of yourself x 
-
-*Twill be night for all soon enough. The fiends will welcome me - Warlock*",2022-03-06T20:58:09,LABEL_2,0.8617733716964722,sadness,0.34408363699913025
-comment,dota2,2022,hzkjmcb,t7xvg8,"Please take good care of yourself , I hope your mother rest well in heaven. Where she can watch dota for as long as she wants",2022-03-06T20:45:06,LABEL_2,0.8151316046714783,neutral,0.6820894479751587
-comment,dota2,2022,hzkkx8o,t7xvg8,"this fucking sucks, hope your mom R.I.P, read your post from last year, can feel the love she had for the game. 
-
-When she is watching from heaven, she wants you to take good care of yourself, so don't let yourself go, take care.",2022-03-06T20:59:31,LABEL_0,0.5108613967895508,anger,0.7486570477485657
-comment,dota2,2022,hzkoxuj,t7xvg8,"Deepest condolences. 
-
-She would love to see you stay strong and live a happy life with friends and people you care about. Just as WLK and his 4 friends. :)",2022-03-06T21:41:14,LABEL_2,0.8688968420028687,sadness,0.8258057236671448
-comment,dota2,2022,hzl5712,t7xvg8,"[Zan Karabos](https://static.wikia.nocookie.net/dota2_gamepedia/images/2/29/Vo_warlock_warl_incant_02.mp3).  
-
-As a fellow Warlock player I will reserve a page in her memory in my black grimoire.",2022-03-06T23:54:46,LABEL_1,0.848446786403656,neutral,0.5549303293228149
-comment,dota2,2023,jh30qel,12tjhef,"Zeus: 
-
-New passive ability granted by Aghanim's Shard
-Increases Zeus' attack range by 100. Zeus' attacks create Arc Lightnings that deal 50% of its damage (illusions deal 20%)
-
-Bro… what the fuck?",2023-04-21T08:17:26,LABEL_0,0.4907253384590149,anger,0.6678616404533386
-comment,dota2,2023,jh319o6,12tjhef,Can't have an unfair new player experience if everyone is a new player,2023-04-21T08:21:36,LABEL_1,0.4754892587661743,neutral,0.7465518712997437
-comment,dota2,2023,jh32puh,12tjhef,"MEGAMEEPO
-New ability granted by Aghanim's Scepter
-Primary Meepo mounts all other Meepos in a 600 radius around him on top of his shoulders. While in this form, he gains 50% of the other Meepo stats and can Fling them at enemies, dealing 225 damage and slowing them by 60% for 3s. While active, Earthbind generates additional nets and Poof deals bonus damage based on the amount of Meepos riding on top. Casting Dig cancels MegaMeepo. Has no Mana Cost. Cooldown: 60s. Duration: 20s. Fling Cooldown: 0.5s
-
-This is like some power rangers assemble into a megazord meme",2023-04-21T08:32:59,LABEL_1,0.7673530578613281,neutral,0.8471606969833374
-comment,dota2,2023,jh2xmye,12tjhef,Poor Purge will die of old age before hes through all of that.,2023-04-21T07:53:06,LABEL_0,0.9451143145561218,sadness,0.8870588541030884
-comment,dota2,2023,jh2xo7k,12tjhef,other mobas make their maps smaller.. dota2 the gigachad makes it 40% bigger WTF,2023-04-21T07:53:21,LABEL_1,0.5206587314605713,surprise,0.5509491562843323
-comment,dota2,2023,jh2ytjy,12tjhef,"Not even a new meta, new fucking game. wtf.",2023-04-21T08:02:20,LABEL_0,0.9310656189918518,disgust,0.5366049408912659
-comment,dota2,2023,jh2x98t,12tjhef,40% bigger map LMAO WHAT,2023-04-21T07:50:18,LABEL_1,0.5573708415031433,surprise,0.7145821452140808
-comment,dota2,2023,jh2xa10,12tjhef,"> Map reworked. Expanded all 4 edges of the map. Added new paths and objectives
-
-literally something",2023-04-21T07:50:28,LABEL_1,0.7296671271324158,neutral,0.5443447828292847
-comment,dota2,2023,jh3543r,12tjhef,"> Players can stockpile this fruit, and then combine it into even larger, higher-value fruit in the late game. This larger fruit can even be combined into incredibly large fruit. What happens if you combine the incredibly large fruit? Probably nothing. (Definitely something.)
-
-The frog has been playing too much merge 3 games",2023-04-21T08:51:48,LABEL_1,0.5104541778564453,neutral,0.8658624887466431
-comment,dota2,2021,gq9nzmb,m0suug,thank you for your service.,2021-03-09T07:17:07,LABEL_2,0.918964147567749,joy,0.6387432217597961
-comment,dota2,2021,gq9of7z,m0suug,Thank you for everything you've done for this community!,2021-03-09T07:20:55,LABEL_2,0.9895837903022766,joy,0.7981305718421936
-comment,dota2,2021,gq9sx3o,m0suug,"This hurts as much as the day u/SirBelvedere stopped posting updates.  
-Thank you for all the time you spent on the wiki, it's really priceless.  
-  
- 
-Might be controversial and i don't want to discredit Slack's project, but I can't help but feel that a project like the wiki would deserve a fundraising even more than the new player experience, to pay the people that spent (and keep spending) huge amount of time, years, promptly updating this kind of content.",2021-03-09T08:00:21,LABEL_0,0.4924974739551544,joy,0.5735286474227905
-comment,dota2,2021,gq9pb9b,m0suug,"Sad to say this is the first time I hear of you. Wish Valve paid you guys for this awesome work.
-
-EDIT: Using my own comment to promote this too: Also replay websites and highlight makers (Eventvods and noobfromUA). Should be endorsed by Valve. So I can watch the games I missed at school  and work knowing the organizers are getting views and more  advertisement revenue. Keeping muh game alive!",2021-03-09T07:28:48,LABEL_2,0.8038849234580994,sadness,0.9461502432823181
-comment,dota2,2021,gq9p54w,m0suug,"Thank you for your dedication during those year my dude, it has been an honour using your works.",2021-03-09T07:27:20,LABEL_2,0.9767104983329773,joy,0.6230781674385071
-comment,dota2,2021,gqa1spw,m0suug,"As Dota Imba lead-dev, I've been using the wiki mostly everyday in order to recreate every abilities and cosmetics into it. Can't thank you enough for your insane work. I'm also considering contributing to the cosmetics part of the wiki, with the experience I have with Dota 2 tools mode.",2021-03-09T09:20:49,LABEL_2,0.9029565453529358,neutral,0.7028297781944275
-comment,dota2,2021,gq9qhm6,m0suug,In the digital information era you are basically a hero to me. I cannot say I have ever looked at the cosmetics database personally but volunteers make the internet the wonder it is. Please consider coming back to the game now that you’re done working for it!,2021-03-09T07:39:11,LABEL_2,0.9316767454147339,surprise,0.8000094890594482
-comment,dota2,2021,gq9x9t6,m0suug,"A well earned rest, Lemon.",2021-03-09T08:39:33,LABEL_2,0.6106044054031372,neutral,0.5470367670059204
-comment,dota2,2021,gq9pu6k,m0suug,Thanks for the information you provided. Best of luck in life.,2021-03-09T07:33:27,LABEL_2,0.9622469544410706,joy,0.6050993800163269
-comment,dota2,2021,gq9saoc,m0suug,"Wow, I didn’t realize that amount of work was taken care of by just a person or two. Thanks for the incredible effort over the years, the cosmetics page I’ve used dozens of times over the years so I just want to specifically thank you for that note as well. Best of luck for the future man :)",2021-03-09T07:54:54,LABEL_2,0.985481858253479,surprise,0.9756293892860413
-comment,dota2,2020,gg9f0lg,kfn0sw,"''You can't just summon a tree for your shackleshot..''
-
-...
-
-Me, who's just trying to kill the enemy carry..",2020-12-19T00:01:43,LABEL_0,0.5261308550834656,disgust,0.3605480194091797
-comment,dota2,2020,gg9fuvl,kfn0sw,"Okay, that's quality.",2020-12-19T00:08:19,LABEL_1,0.6095802187919617,neutral,0.8786929845809937
-comment,dota2,2020,gg9e2i7,kfn0sw,I like how high resolution the secret shop textures are,2020-12-18T23:53:48,LABEL_2,0.9443655014038086,joy,0.9843258261680603
-comment,dota2,2020,gg9cynj,kfn0sw,lmao great,2020-12-18T23:44:25,LABEL_2,0.7756811380386353,joy,0.681998074054718
-comment,dota2,2020,gg9svfp,kfn0sw,They sold million dollar WR arcana and now drop price of their golden-egg-chicken. Out standing move,2020-12-19T01:39:21,LABEL_0,0.5647469758987427,neutral,0.7130336165428162
-comment,dota2,2020,gg9axbl,kfn0sw,Hahahahahaha nice!!!!,2020-12-18T23:26:32,LABEL_2,0.9439051747322083,joy,0.9405125379562378
-comment,dota2,2020,gg9k4qf,kfn0sw,Top quality sh*t post.,2020-12-19T00:38:26,LABEL_0,0.5222821831703186,disgust,0.7232449054718018
-comment,dota2,2020,gg9kqmu,kfn0sw,Timeless. Did you make this?,2020-12-19T00:42:43,LABEL_1,0.8014256358146667,surprise,0.8041817545890808
-comment,dota2,2020,gg9bs2l,kfn0sw,lol perfect reaction,2020-12-18T23:34:06,LABEL_2,0.8619555234909058,joy,0.6451852321624756
-comment,dota2,2020,gg9spg4,kfn0sw,"Can it be that wr and treant...?    
-.    
-.    
-.    
-
-No no no its too vile...definitely not...*unless*...",2020-12-19T01:38:17,LABEL_0,0.9516510367393494,disgust,0.2682941257953644
-comment,dota2,2024,m0d8ihr,1h6g7n7,"hook, line and sinker",2024-12-04T21:50:59,LABEL_1,0.592274010181427,neutral,0.8099167943000793
-comment,dota2,2024,m0d8qkk,1h6g7n7,I shall not report you,2024-12-04T21:52:24,LABEL_0,0.5593676567077637,anger,0.34658879041671753
-comment,dota2,2024,m0d8x4i,1h6g7n7,Goat but why’s the screenshot in 240p,2024-12-04T21:53:35,LABEL_1,0.5584520101547241,surprise,0.5045440793037415
-comment,dota2,2024,m0djtqy,1h6g7n7,He walked right to it 👌,2024-12-04T22:59:25,LABEL_2,0.6534000635147095,neutral,0.8097319602966309
-comment,dota2,2024,m0dn2fj,1h6g7n7,That's desolate level pure damage,2024-12-04T23:17:28,LABEL_0,0.9524211287498474,sadness,0.5379040241241455
-comment,dota2,2024,m0dgx13,1h6g7n7,No skin = high skill players or griefer with new account,2024-12-04T22:42:55,LABEL_1,0.7779206037521362,neutral,0.7285040616989136
-comment,dota2,2024,m0d9p9a,1h6g7n7,Gotteem lmao XD... damn this post is gold.. hahahaha,2024-12-04T21:58:32,LABEL_2,0.8904607892036438,surprise,0.38674601912498474
-comment,dota2,2024,m0dwe37,1h6g7n7,"> old
-
-> marci
-
-pick one",2024-12-05T00:06:47,LABEL_1,0.8520375490188599,neutral,0.9491186738014221
-comment,dota2,2020,fk92ftt,fh5xsh,We know this is your throwaway Slacks...,2020-03-12T06:56:05,LABEL_1,0.5048275589942932,neutral,0.6637267470359802
-comment,dota2,2020,fk9eljj,fh5xsh,Link to the tweet : https://twitter.com/SirActionSlacks/status/1237607216116424704,2020-03-12T08:55:00,LABEL_1,0.8224130272865295,neutral,0.9036147594451904
-comment,dota2,2020,fk9a34c,fh5xsh,"The fuck man, Slacks' powerplay is sick. Wasn't expecting this.",2020-03-12T08:10:32,LABEL_0,0.9702222943305969,disgust,0.5489533543586731
-comment,dota2,2020,fk9f2zj,fh5xsh,His comment is really good! But is it as good as dota2 tho?🤔,2020-03-12T08:59:46,LABEL_2,0.9542950987815857,neutral,0.5526983737945557
-comment,dota2,2020,fk9gtah,fh5xsh,"so I posted this exact tweet 12 hours ago and Mods deleted my post IDK why...  
-fucking mods",2020-03-12T09:16:20,LABEL_0,0.9082727432250977,anger,0.8058549761772156
-comment,dota2,2020,fk9ckfb,fh5xsh,My biggest weakness is that im better at lol than dota.but i love watching dota so much more,2020-03-12T08:35:02,LABEL_2,0.8089157342910767,joy,0.9202430248260498
-comment,dota2,2020,fk9zvfn,fh5xsh,#saveDOTAwithmemes,2020-03-12T12:38:44,LABEL_1,0.69327712059021,neutral,0.7260759472846985
-comment,dota2,2020,fk97olj,fh5xsh,You are amazing. This is what we all should be doing.,2020-03-12T07:47:00,LABEL_2,0.9879240989685059,surprise,0.8956506848335266
-comment,dota2,2020,fk9bpho,fh5xsh,the twitter equivalent of farming upvotes,2020-03-12T08:26:32,LABEL_1,0.5556636452674866,neutral,0.6565062999725342
-comment,dota2,2020,fk9n91v,fh5xsh,"Ok I can't be the only one who after the newest 'spread the word about dota *by literally spamming it in everything*' who thinks this is gonna backfire right?
-
-I'm not 100% but i'm still fairly confident if in everything related to Dota2 you had several people trolling games and throwing and then going 'that's cool, but is it as POG as LoL/Fortnite/Whatever is fucking popular' Dota fans would fucking despise it.",2020-03-12T10:16:41,LABEL_0,0.7684992551803589,anger,0.5367483496665955
-comment,dota2,2021,goi52bt,lqrf9h,Actually pretty funny,2021-02-24T04:35:04,LABEL_2,0.9573741555213928,surprise,0.6957335472106934
-comment,dota2,2021,goi6zw4,lqrf9h,"that's plenty of estus, he'll be fine",2021-02-24T04:47:28,LABEL_2,0.7816100716590881,neutral,0.9313432574272156
-comment,dota2,2021,goi2aro,lqrf9h,Original Video https://www.reddit.com/r/funny/comments/lj706u/final_boss/,2021-02-24T04:17:24,LABEL_1,0.801967203617096,joy,0.39948081970214844
-comment,dota2,2021,goi8r64,lqrf9h,"This guy, Anatoly Karpov former World chess champion, ~~actually let the kid win~~ offered the kid a draw in the end even though the kid made a mistake and would've lost cuz of it, that kid at the time of the filming was 3 and a chess prodigy so Karpov wanted the kid to enjoy that he didn't lose to a world-famous chess GM and that he challenged the legend (and not get stomped so Karpov is an ethical smurf).
-
-[As the dude below said] (https://www.reddit.com/r/DotA2/comments/lqrf9h/dota_2_new_player_experience/goi9whw/) what actually happened was that Karpov offered a draw but the kid didn't accept so he lost on time and cried (which is really normal considering he was playing in front of cameras and an audience and he was 3), i watched the video relatively a long time ago so i forgot about the details so my bad for the misinformation (always check if you're not sure 100%), [Here's the link](https://www.youtube.com/watch?v=HhrvwHrceRg) to the video for People curious about it, it has Eng subtitles.",2021-02-24T04:58:41,LABEL_0,0.47049278020858765,neutral,0.7130211591720581
-comment,dota2,2021,goia7tb,lqrf9h,"I'll just go defend the Intel on 2fort,cya guys",2021-02-24T05:08:07,LABEL_1,0.7435293197631836,neutral,0.9606372117996216
-comment,dota2,2021,goihryo,lqrf9h,"I literary had this idea when the original video trended a week ago, but i dont know how to edit video and iam lazy, thank you for making this, its great :D",2021-02-24T06:02:05,LABEL_2,0.8675151467323303,sadness,0.5324570536613464
-comment,dota2,2021,goi9m5l,lqrf9h,"I know who that is, and I'd fucking cry too kid.",2021-02-24T05:04:09,LABEL_0,0.9309679865837097,anger,0.5396716594696045
-comment,dota2,2021,goix5kz,lqrf9h,kid needs to stop crying and take that as a lEaRnInG oPpOrTuNiTy,2021-02-24T08:06:13,LABEL_0,0.5749780535697937,sadness,0.5655365586280823
-comment,dota2,2021,goifzhv,lqrf9h,"Hilarious vid.
-
-It would be a lot funnier if you photoshopped dark souls HUD to Dota 2 HUD tho.",2021-02-24T05:48:31,LABEL_1,0.45082879066467285,joy,0.9615596532821655
-comment,dota2,2022,i9toxz3,uwt8is,"""babe stop feeding""
-
-""Why call random people babe?""
-
-""Not babe stop feeding""
-
-Ah, the negotiator.",2022-05-25T00:33:38,LABEL_0,0.6153372526168823,neutral,0.5470697283744812
-comment,dota2,2022,i9u5ql3,uwt8is,This will surely be a reasonable comment section,2022-05-25T02:29:00,LABEL_2,0.6422479152679443,neutral,0.9294975996017456
-comment,dota2,2022,i9tllaw,uwt8is,a lot of games are like this but DOTA really is one of the worse ones. Whenever I happen to have a girl on my team and she isn't in a party with the other players I get ready for some cringe from my other teammates,2022-05-25T00:10:59,LABEL_0,0.9137296080589294,disgust,0.513908863067627
-comment,dota2,2022,i9tso96,uwt8is,"Dota Players: I want a girl who loves Dota.
-
-Also Dota players: \*rampart sexism\*
-
-
-Edit:  So turns out, I got the meaning of rampart all wrong. I'll just leave it there tho. If anyone knows the word I'm looking for, I'd be very thankful.
-
-Edit2: RAMPANT",2022-05-25T00:58:58,LABEL_1,0.4279738664627075,neutral,0.7503363490104675
-comment,dota2,2022,i9tic38,uwt8is,I play dota muted,2022-05-24T23:48:43,LABEL_1,0.8068593144416809,neutral,0.6740351915359497
-comment,dota2,2022,i9tq2sq,uwt8is,"This comment section is disappointing. You guys are tripping if you think that regular flame is the same thing as immediately getting told to uninstall, threatened with rape, etc, as soon as you go on mic regardless of your performance. The number of people in the comment section just telling OP to mute or get over it is telling of how accepted this kind of shit is in the community",2022-05-25T00:41:15,LABEL_0,0.9670442342758179,disgust,0.5191349983215332
-comment,dota2,2022,i9uohp2,uwt8is,I'm sorry. I'm a guy and even I find voice chat exhausting most of the time and text chat some of the time. I could not put up with half of the shit you have to put up with. I hope this improves soon.,2022-05-25T04:40:36,LABEL_0,0.8885030746459961,sadness,0.7140109539031982
-comment,dota2,2022,i9u5m0g,uwt8is,I am a man and I quit playing dota because of the toxicity. I can only imagine how bad it is if you’re a woman. Wish this wasn’t a reality for women gamers.,2022-05-25T02:28:07,LABEL_0,0.9458906054496765,disgust,0.3579867482185364
-comment,dota2,2022,i9u52pu,uwt8is,People only talk like this because the being punched in the face ratio is lost when chatting online.,2022-05-25T02:24:20,LABEL_0,0.8859153985977173,disgust,0.286175936460495
-comment,dota2,2022,i9tk4ig,uwt8is,such losers lmfao,2022-05-25T00:00:55,LABEL_0,0.9029247760772705,sadness,0.42544320225715637
-comment,dota2,2022,it1fqs0,y8qge7,Lol caught me off guard. Thought it was a production bug,2022-10-20T14:25:58,LABEL_0,0.48594793677330017,surprise,0.5119842886924744
-comment,dota2,2022,it1ft9f,y8qge7,"""Low priority. No idea who reported me."" 
-
-lol",2022-10-20T14:26:51,LABEL_0,0.5122769474983215,disgust,0.22796398401260376
-comment,dota2,2022,it1fqo6,y8qge7,Low prio for 8 years KEKL,2022-10-20T14:25:56,LABEL_1,0.7616971731185913,neutral,0.8050864338874817
-comment,dota2,2022,it1fxu1,y8qge7,"""We won't be working with him again.""
-
-Little did they know, he had Buyback this entire time.",2022-10-20T14:28:29,LABEL_0,0.592633068561554,neutral,0.8151097893714905
-comment,dota2,2022,it1fqk7,y8qge7,omfg lmao. JAMES IS NOT AN ASS?,2022-10-20T14:25:54,LABEL_0,0.6933737993240356,surprise,0.9322408437728882
-comment,dota2,2022,it1fqf7,y8qge7,Return of the King,2022-10-20T14:25:50,LABEL_1,0.7772104740142822,neutral,0.7746170163154602
-comment,dota2,2022,it1glgi,y8qge7,"I don't use reddit anymore because of their corporate greed and anti-user policies.
-
-Come over to Lemmy, it's a reddit alternative that is run by the community itself, spread across multiple servers.
-
-You make your account on one server (called an instance) and from there you can access everything on all other servers as well. [Find one you like here](https://lemmyverse.net/), maybe not the largest ones to spread the load around, but it doesn't really matter.
-
-You can then look for communities to subscribe to on https://lemmyverse.net/communities, this website shows you all communities across all instances.
-
-If you're looking for some (mobile?) apps, [this topic](https://lemm.ee/post/363116) has a great list.
-
-One personal tip: For your convenience, I would advise you to use [this userscript I made](https://greasyfork.org/en/scripts/469273-lemmy-universal-link-switcher) which automatically changes all links everywhere on the internet to the server that you chose.
-
-The original comment is preserved below for your convenience:
-
-~~[Here is the full moment](https://streamable.com/npxjam)~~  
-
-^^^^^^AzzuLemmyMessageV2",2022-10-20T14:37:13,LABEL_1,0.504829466342926,neutral,0.9658910036087036
-comment,dota2,2022,it1g5fr,y8qge7,"His ass was killed when production was bad.
-
-He is resurrected when production is just as bad.
-
-Long live 2GD.",2022-10-20T14:31:18,LABEL_0,0.8857376575469971,disgust,0.6083245277404785
-comment,dota2,2022,it1g0tu,y8qge7,"for those finding the original reddit post:
-
-https://www.reddit.com/r/DotA2/comments/47sc46/update_from_the_shanghai_major/",2022-10-20T14:29:35,LABEL_1,0.8500810861587524,neutral,0.7977551817893982
-comment,dota2,2022,it1ft6n,y8qge7,"I legit thought Yames hijacked the stream with some masterhacker skills LMAO. He is literally shaking during the first few seconds.
-
-I teared up hearing him in TI again",2022-10-20T14:26:50,LABEL_0,0.45376405119895935,fear,0.9471133947372437
-comment,dota2,2023,j9h282i,118hbb2,">This patch created a honeypot: a section of data inside the game client that would never be read during normal gameplay, but that could be read by these exploits. Each of the accounts banned today read from this ""secret"" area in the client, giving us extremely high confidence that every ban was well-deserved.
-
-Well played, damn lmao",2023-02-22T06:42:21,LABEL_1,0.43232911825180054,neutral,0.8804041743278503
-comment,dota2,2023,j9h1nhy,118hbb2,">If you are running any application that reads data from the Dota client as you're playing games, your account can be permanently banned from playing Dota. This includes professional players, who will be banned from all Valve competitive events.
-
-Is there any case already?",2023-02-22T06:38:41,LABEL_0,0.7534027695655823,anger,0.4764014780521393
-comment,dota2,2023,j9h1uxk,118hbb2,fuck yeah two posts in a week baby,2023-02-22T06:40:00,LABEL_0,0.5249017477035522,anger,0.6131837368011475
-comment,dota2,2023,j9h2349,118hbb2,Banhammer 40k incident,2023-02-22T06:41:28,LABEL_1,0.7649616599082947,fear,0.38240566849708557
-comment,dota2,2023,j9h3uje,118hbb2,Lmao.  cheating pro players will be exposed as well. 😂 Imagine arriving to Lima for major and suddenly losing access to your main account.,2023-02-22T06:53:04,LABEL_0,0.7144148945808411,sadness,0.4505891799926758
-comment,dota2,2023,j9ha7zd,118hbb2,"40,000 cheaters in a single patch, imagine how many smurfs there are.",2023-02-22T07:36:05,LABEL_0,0.9456457495689392,neutral,0.7837632894515991
-comment,dota2,2023,j9h2jif,118hbb2,"me, who painfully ploughed through every ""scripting/hacking"" case at 0.25x speed in overwatch: 
-
-https://imgur.com/a/RqDSkA4",2023-02-22T06:44:26,LABEL_1,0.5458492636680603,fear,0.8484204411506653
-comment,dota2,2023,j9h4c7y,118hbb2,Can’t wait for the “My innocent account just got banned” posts from a Tinker spammer with less than 500 games,2023-02-22T06:56:17,LABEL_0,0.4327838718891144,neutral,0.6821185350418091
-comment,dota2,2023,j9h3wol,118hbb2,How hilarious would it be if someone gets to Lima and cannot use their account all of a sudden.,2023-02-22T06:53:27,LABEL_1,0.4466034173965454,surprise,0.5989402532577515
-comment,dota2,2023,j9hhshl,118hbb2,Trade ban them.,2023-02-22T08:29:12,LABEL_0,0.5603471398353577,neutral,0.47817620635032654
-comment,dota2,2020,fw4x29i,hgmg52,Can't harass somebody if you never speak or interact with them. Next level plays.,2020-06-27T12:15:22,LABEL_0,0.776210606098175,neutral,0.5449650883674622
-comment,dota2,2020,fw4ukxm,hgmg52,EE always playing 5d chess,2020-06-27T11:45:49,LABEL_1,0.8354413509368896,neutral,0.8900161981582642
-comment,dota2,2020,fw4zvwz,hgmg52,Hope people realize this is a joke. I've taken lots of photos with cosplayers. At least I hope for myself this is a joke. Yikes,2020-06-27T12:50:31,LABEL_1,0.4873703122138977,joy,0.5344409942626953
-comment,dota2,2020,fw53hk5,hgmg52,[Envy doesn't fuck around with 3D](https://imgur.com/aGGPAlS),2020-06-27T13:39:00,LABEL_1,0.6049426794052124,neutral,0.40457919239997864
-comment,dota2,2020,fw4yemq,hgmg52,1 dimension too many,2020-06-27T12:31:55,LABEL_1,0.6489390730857849,neutral,0.604077160358429
-comment,dota2,2020,fw4yd0h,hgmg52,"This could be a fiftee/fiftee. 
-
-Ruins chance with a girl, saves Dota career.",2020-06-27T12:31:21,LABEL_1,0.6177471876144409,neutral,0.8814588785171509
-comment,dota2,2020,fw5fgt5,hgmg52,"LMAO I met EE a while back at an anime convention. Me and my bud were having a chat with him at a hotel lobby while we waited for our friends coming back from the convention and we talked about university programs. Later, a fan of his shows up and started a convo with him. He was clearly ~~nervous~~ alpha talking to her and at the end she was trying to get his number but he just awkwardly laughed. When she left, EE looked at us and we just told him ""how tf did you not see what she was trying to do"". He then said, ""Should I get her number?"" at which point we just pointed to the direction she went and he sprinted to find her (he runs like Niko Bellic). I'd say 5 min later he came back saying he lost her and then the rest of our friends came back and we all took a group photo with EE at the center. That's my story on how I met this legend and how I got into dota!",2020-06-27T16:48:26,LABEL_1,0.713746964931488,fear,0.8691830039024353
-post,dota2,2022,utph8f,,Ninjaboogie on why SMG kicked him,2022-05-20T17:14:48,LABEL_1,0.7239481210708618,anger,0.57130366563797
-post,dota2,2021,oo16vu,,"Y'all need to reevaluate your life & hopefully when you have a daughter in the future, you dont have to deal with these kind of craps.",2021-07-20T20:36:12,LABEL_0,0.7880376577377319,neutral,0.8765567541122437
-post,dota2,2021,llh8q5,,DOTA: Dragon's Blood | Netflix,2021-02-17T08:02:33,LABEL_1,0.9174379706382751,neutral,0.7290941476821899
-post,dota2,2021,naunux,,"This dude made a full 49 page fan comic, where he did all the art himself and posted it to r/dota2 and it got 1 upvote. Thought it was pretty cool and deserved some attention!",2021-05-13T01:43:22,LABEL_2,0.9757044315338135,neutral,0.47515639662742615
-post,dota2,2021,qa3pgd,,"Congratulations to the Winners of the International 10! [Team Spirit are The International 10 Champions and win $18,208,300.](https://i.imgur.com/x5gheQ6.jpg)
+type,subreddit,year,id,text,created_utc,sentiment,sentiment_score
+post,dota2,2022,utph8f,Ninjaboogie on why SMG kicked him,2022-05-20T17:14:48,LABEL_1,0.7239481210708618
+post,dota2,2021,oo16vu,"Y'all need to reevaluate your life & hopefully when you have a daughter in the future, you dont have to deal with these kind of craps.",2021-07-20T20:36:12,LABEL_0,0.7880376577377319
+post,dota2,2021,llh8q5,DOTA: Dragon's Blood | Netflix,2021-02-17T08:02:33,LABEL_1,0.9174379706382751
+post,dota2,2021,naunux,"This dude made a full 49 page fan comic, where he did all the art himself and posted it to r/dota2 and it got 1 upvote. Thought it was pretty cool and deserved some attention!",2021-05-13T01:43:22,LABEL_2,0.9757044315338135
+post,dota2,2021,qa3pgd,"Congratulations to the Winners of the International 10! [Team Spirit are The International 10 Champions and win $18,208,300.](https://i.imgur.com/x5gheQ6.jpg)
 
 
 [](/logo-spirit ""Team Spirit"") [](/ru ""Russia"") [**Team Spirit**](https://twitter.com/Team__Spirit):
@@ -488,8 +32,8 @@ PSG.LGD are The International 10 Runners-up and win $5,202,400.
 
 
 
-[Match Thread](https://redd.it/q9x48g)",2021-10-18T01:47:56,LABEL_2,0.5727705359458923,neutral,0.6715835928916931
-post,dota2,2020,ganyoe,,"the amount of sexual harassment I receive as a female dotA player is abhorrent Over 2,500 hours on dota. Played 3 pub games today and in every one after using my mic/revealing myself as a female there was a creep. In my last game I had a guy harassing me for tit pics (and then when I refused he started demanding how much I weigh, because ""with my voice I had to be over 200lbs or a man with hairy tits."") lovely, right? That is one voice line from 3 games of hearing this shit. I'm fucking over it. the kicker? not a single teammate spoke up or told the douchenozzles to knock it off. this is a community issue. sexual harassment should NOT be tolerated and there needs to be more severe punishment for this vs feeding or afking. 
+[Match Thread](https://redd.it/q9x48g)",2021-10-18T01:47:56,LABEL_2,0.5727705359458923
+post,dota2,2020,ganyoe,"the amount of sexual harassment I receive as a female dotA player is abhorrent Over 2,500 hours on dota. Played 3 pub games today and in every one after using my mic/revealing myself as a female there was a creep. In my last game I had a guy harassing me for tit pics (and then when I refused he started demanding how much I weigh, because ""with my voice I had to be over 200lbs or a man with hairy tits."") lovely, right? That is one voice line from 3 games of hearing this shit. I'm fucking over it. the kicker? not a single teammate spoke up or told the douchenozzles to knock it off. this is a community issue. sexual harassment should NOT be tolerated and there needs to be more severe punishment for this vs feeding or afking. 
 
 I am losing my love for this game and the community. 
 
@@ -497,17 +41,17 @@ I am losing my love for this game and the community.
 
 
 
-*end rant*",2020-04-30T11:19:13,LABEL_0,0.9722083210945129,disgust,0.7343041896820068
-post,dota2,2020,gqgv4a,,The International Battle Pass 2020,2020-05-26T02:55:41,LABEL_1,0.9227125644683838,neutral,0.808119535446167
-post,dota2,2022,waaajl,,When you're trying to get a solo kill mid and accidentally help the side lanes,2022-07-28T21:41:03,LABEL_1,0.6322588324546814,anger,0.407081663608551
-post,dota2,2020,johl2w,,Meanwhile at Valve,2020-11-05T20:00:54,LABEL_1,0.8262801766395569,neutral,0.8334851264953613
-post,dota2,2021,lwntzt,,An Honest Review from a woman playing DotA 2,2021-03-03T15:12:08,LABEL_1,0.8569240570068359,neutral,0.5335496664047241
-post,dota2,2022,xfoeb1,,Finished a new Venomancer set with a mechanical theme. What do you guys think?,2022-09-16T19:11:52,LABEL_1,0.9096398949623108,neutral,0.6537284851074219
-post,dota2,2021,nh2t4v,,Fan message to midormeepo,2021-05-20T23:13:07,LABEL_1,0.8898668885231018,neutral,0.6047650575637817
-post,dota2,2021,qq4y02,,My name-a Dota.,2021-11-09T22:33:20,LABEL_1,0.7029000520706177,neutral,0.6292992234230042
-post,dota2,2022,t7xvg8,,"My mom died two days ago because of COVID. Dota2 was the huge part of her live. She was so proud the community noticed her success. Please, let's honor her memory.",2022-03-06T20:35:35,LABEL_2,0.7028921842575073,sadness,0.8778810501098633
-post,dota2,2023,12tjhef,,The New Frontiers Update && DOTA 7.33 GAMEPLAY UPDATE!!!,2023-04-21T07:48:27,LABEL_1,0.6819297671318054,neutral,0.6770941019058228
-post,dota2,2021,m0suug,,"I am retiring from Dota 2 Wiki. Here's what that means for the community. I'm Lemon, head admin of [Dota 2 Wiki](http://dota2.gamepedia.com/Dota_2_Wiki). For the last 9 years, I've been keeping the wiki updated (with much help from /u/Bu3nyy and others). But I haven't played Dota for many years now, and simply don't have time to keep doing this. So I'm retiring.
+*end rant*",2020-04-30T11:19:13,LABEL_0,0.9722083210945129
+post,dota2,2020,gqgv4a,The International Battle Pass 2020,2020-05-26T02:55:41,LABEL_1,0.9227125644683838
+post,dota2,2022,waaajl,When you're trying to get a solo kill mid and accidentally help the side lanes,2022-07-28T21:41:03,LABEL_1,0.6322588324546814
+post,dota2,2020,johl2w,Meanwhile at Valve,2020-11-05T20:00:54,LABEL_1,0.8262801766395569
+post,dota2,2021,lwntzt,An Honest Review from a woman playing DotA 2,2021-03-03T15:12:08,LABEL_1,0.8569240570068359
+post,dota2,2022,xfoeb1,Finished a new Venomancer set with a mechanical theme. What do you guys think?,2022-09-16T19:11:52,LABEL_1,0.9096398949623108
+post,dota2,2021,nh2t4v,Fan message to midormeepo,2021-05-20T23:13:07,LABEL_1,0.8898668885231018
+post,dota2,2021,qq4y02,My name-a Dota.,2021-11-09T22:33:20,LABEL_1,0.7029000520706177
+post,dota2,2022,t7xvg8,"My mom died two days ago because of COVID. Dota2 was the huge part of her live. She was so proud the community noticed her success. Please, let's honor her memory.",2022-03-06T20:35:35,LABEL_2,0.7028921842575073
+post,dota2,2023,12tjhef,The New Frontiers Update && DOTA 7.33 GAMEPLAY UPDATE!!!,2023-04-21T07:48:27,LABEL_1,0.6819297671318054
+post,dota2,2021,m0suug,"I am retiring from Dota 2 Wiki. Here's what that means for the community. I'm Lemon, head admin of [Dota 2 Wiki](http://dota2.gamepedia.com/Dota_2_Wiki). For the last 9 years, I've been keeping the wiki updated (with much help from /u/Bu3nyy and others). But I haven't played Dota for many years now, and simply don't have time to keep doing this. So I'm retiring.
 
 Luckily, over the last few years Buny has taken over game mechanics updates, while I still update the hats, events, lore, TI, and generally anything that's not gameplay mechanics. So after I leave, **the cosmetics database will stop being updated**. Pages for events like [Aghanim's Labyrinth](https://dota2.gamepedia.com/Aghanim%27s_Labyrinth) will no longer be made, at least not by me. 
 
@@ -555,22 +99,22 @@ Thanks everybody. Goodbye.
 
 Edit: Thanks for the appreciation everyone! If anyone wants to donate a few bucks to me, there's a link on the wiki's [Twitter profile](https://twitter.com/dota2wiki). I am really poor and will use it for dental work ;_;
 
-Edit 2: Wow, thanks for all the recognition & gold & donations everybody! It's really gonna help me out. I'm going to bed now, so goodnight and thanks again to all, and I hope the best for the future of the Dota 2 community.",2021-03-09T07:12:37,LABEL_1,0.5376672148704529,neutral,0.5084541440010071
-post,dota2,2020,kfn0sw,,I have to make this one,2020-12-18T23:20:45,LABEL_1,0.6866068243980408,neutral,0.7695676684379578
-post,dota2,2024,1h6g7n7,,This is why I love DotA | (G)Old <3,2024-12-04T21:39:17,LABEL_2,0.981132447719574,joy,0.748598039150238
-post,dota2,2020,fh5xsh,,Thanks Slacks,2020-03-12T06:43:56,LABEL_1,0.6877847909927368,neutral,0.8549154996871948
-post,dota2,2021,lqrf9h,,Dota 2 New Player Experience,2021-02-24T03:56:43,LABEL_1,0.8835827112197876,neutral,0.9094817042350769
-post,dota2,2022,uwt8is,,"POV: You're a woman in dota. This mentality has been prevalent since I started playing mobas, 12+ years ago. Isn't it time to be better, together? (I don't have any answers, simply exhausted from being met with this.)",2022-05-24T23:19:14,LABEL_0,0.5996974110603333,neutral,0.7715991139411926
-post,dota2,2022,y8qge7,,"2GD is back!!! Holy shit
+Edit 2: Wow, thanks for all the recognition & gold & donations everybody! It's really gonna help me out. I'm going to bed now, so goodnight and thanks again to all, and I hope the best for the future of the Dota 2 community.",2021-03-09T07:12:37,LABEL_1,0.5376672148704529
+post,dota2,2020,kfn0sw,I have to make this one,2020-12-18T23:20:45,LABEL_1,0.6866068243980408
+post,dota2,2024,1h6g7n7,This is why I love DotA | (G)Old <3,2024-12-04T21:39:17,LABEL_2,0.981132447719574
+post,dota2,2020,fh5xsh,Thanks Slacks,2020-03-12T06:43:56,LABEL_1,0.6877847909927368
+post,dota2,2021,lqrf9h,Dota 2 New Player Experience,2021-02-24T03:56:43,LABEL_1,0.8835827112197876
+post,dota2,2022,uwt8is,"POV: You're a woman in dota. This mentality has been prevalent since I started playing mobas, 12+ years ago. Isn't it time to be better, together? (I don't have any answers, simply exhausted from being met with this.)",2022-05-24T23:19:14,LABEL_0,0.5996974110603333
+post,dota2,2022,y8qge7,"2GD is back!!! Holy shit
 
 [Clip] (https://clips.twitch.tv/HonorablePeppyPigeonPRChase-KEFIDVJXnGngMFaB)
 
 Context: https://www.reddit.com/r/DotA2/comments/47sc46/_/
 
-James no longer an ass ಥ⁠‿⁠ಥ",2022-10-20T14:25:04,LABEL_0,0.41781702637672424,surprise,0.6786578893661499
-post,dota2,2023,118hbb2,,Cheaters Will Never Be Welcome in Dota,2023-02-22T06:36:49,LABEL_0,0.9394842386245728,sadness,0.5374258160591125
-post,dota2,2020,hgmg52,,About Eternal Envy,2020-06-27T11:42:17,LABEL_1,0.8772923350334167,neutral,0.9303800463676453
-post,dota2,2020,hip4ou,,"It is time to expose DOTA2 cheats and for Valve to make an effort. Patches updating. People blinded by the excitement and spending altogether millions and millions of dollars. Occasionally you may find yourself asking sometimes when you lose a game: ""Skywrath is scripting"",""Meepo is scripting"", ""Tinker can't possibly spam all spells and items that fast"". And all you think is that you should report that bastard and ease yourself with your own theory that 1 out of 10 games, there is at least one cheater. No my friend, ***what if I told you that 10 out of 10 games, there is always someone cheating?*** I Am expecting that every time i'm playing right now.
+James no longer an ass ಥ⁠‿⁠ಥ",2022-10-20T14:25:04,LABEL_0,0.41781702637672424
+post,dota2,2023,118hbb2,Cheaters Will Never Be Welcome in Dota,2023-02-22T06:36:49,LABEL_0,0.9394842386245728
+post,dota2,2020,hgmg52,About Eternal Envy,2020-06-27T11:42:17,LABEL_1,0.8772923350334167
+post,dota2,2020,hip4ou,"It is time to expose DOTA2 cheats and for Valve to make an effort. Patches updating. People blinded by the excitement and spending altogether millions and millions of dollars. Occasionally you may find yourself asking sometimes when you lose a game: ""Skywrath is scripting"",""Meepo is scripting"", ""Tinker can't possibly spam all spells and items that fast"". And all you think is that you should report that bastard and ease yourself with your own theory that 1 out of 10 games, there is at least one cheater. No my friend, ***what if I told you that 10 out of 10 games, there is always someone cheating?*** I Am expecting that every time i'm playing right now.
 
 Because cheats are still available as before and you can actually spend just a mere ***2 dollar*** for a **whole weeks** access to cheat your way through in Dota2. What is this cheat i'm talking about? This page is currently only in russian language. With a little help of automatic google translate, I could easily find out where to press the buttons and finally found myself in the buying section.
 
@@ -624,69 +168,97 @@ Let us assume that 70 000 registered members actually spent 2 dollars once for a
 
 Second. Me stating that 10 out of 10 games having a cheater, should be taken very lightly since it's just a plain assumption without any source. Altough I still believe that cheats are as common as always having a teleport scroll in your inventory.
 
-**I REPEAT**: These cheats will NOT make you a better player! As many people have stated here. Skill overcomes cheaters but it is a true fact that being aware of your enemy team is a big game breaker and therefore, it is a very dangerous feature! Many people here have talked about their friends having these scripts. But imagine a team of full house using scripts together and using communication skills to actually break the game completely to your benefits. That is the real deal I am trying to achieve here.",2020-06-30T23:09:17,LABEL_0,0.5844717025756836,neutral,0.6738801002502441
-post,dota2,2020,hpv6p1,,The correct use of face mask,2020-07-12T22:24:42,LABEL_1,0.6938809156417847,neutral,0.9348690509796143
-post,dota2,2020,hekw1r,,Sir Action Slacks on recent shit.,2020-06-24T03:11:46,LABEL_0,0.8835896849632263,disgust,0.8771997094154358
-comment,dota2,2020,fwhhttz,hip4ou,I hope this post does not get deleted since it seems you have put a lot of effort into it.,2020-06-30T23:51:35,LABEL_1,0.5513610243797302,neutral,0.9466882348060608
-comment,dota2,2020,fwhpxz5,hip4ou,"Year 2018  [https://www.youtube.com/watch?v=6q1mtgqrDRk](https://www.youtube.com/watch?v=6q1mtgqrDRk) 
+**I REPEAT**: These cheats will NOT make you a better player! As many people have stated here. Skill overcomes cheaters but it is a true fact that being aware of your enemy team is a big game breaker and therefore, it is a very dangerous feature! Many people here have talked about their friends having these scripts. But imagine a team of full house using scripts together and using communication skills to actually break the game completely to your benefits. That is the real deal I am trying to achieve here.",2020-06-30T23:09:17,LABEL_0,0.5844717025756836
+post,dota2,2020,hpv6p1,The correct use of face mask,2020-07-12T22:24:42,LABEL_1,0.6938809156417847
+post,dota2,2020,hekw1r,Sir Action Slacks on recent shit.,2020-06-24T03:11:46,LABEL_0,0.8835896849632263
+post,dota2,2021,q7j7al,I'm not crying you're crying,2021-10-14T03:53:09,LABEL_1,0.47396954894065857
+post,dota2,2023,105n5bo,Michael Rosen Describes Every Dota Hero,2023-01-07T19:43:34,LABEL_1,0.8740733861923218
+post,dota2,2020,kf6qkg,The Mistwoods Update -- Introducing Hoodwink & Dota 7.28,2020-12-18T05:29:53,LABEL_1,0.9305986762046814
+post,dota2,2022,xltjmf,"my death letter (probably) Hello. This is Kamyab. An Iranian Dota player, filmmaker and photographer.
+As you guys may know, Iran is having a revolution right now. Police killed a 22 year old girl because of fucking hijab. People are in the streets for 6 days now. They are taking police stations, banks, mayors' offices and everything. Government cuts off out internet most of the dayand all of the night. I sat in my room for 6 days now, watching all the videos of people fighting the regime. I can't anymore! I am crying as im writing this. So now, 1:35 pm, im going to play 1 more dota game. My love, my escape, my joy, my life. Then im gonna go join my brothers and sisters on the streets. To help them, to help my country get back what she deserves. To take back the Iran we had 40 years ago. 
+Im asking you to share the hashtag #opiran and #mahsaamini in your social accounts; maybe the world helps us win this civil war. 
+If you guys didnt see me, didnt hear from me or even if you DON'T FUCKING CARE for me and my country, just know that this community gave me life. I LOVE ALL OF YOU. From pro players to noobs like myself. From cyka blyat saying mad russians to weird SEA players. From casters to analysers. I LOVE U ALL! I loved every single second I spent in this game. I loved every piece of this community.
+WISH US LUCK! 
+Much Love, Kamyab Tizrø.
+___________________
+EDIT: Update: just got home. It's 1:52 am now. Man, I did not expect all this respect and love. I did not know that our dota community is so caring. 1 week ago, as an Iranian, I thought that we are alone in this world. I thought everybody hates us. But through this week and specially in the past couple of minutes that I got to read some of your responses, I understood that no matter what culture people have or what country people live in, we're all human and we care for each other and we are against non human things. Did I say I love you enough times to thank you for your kindness? This community definitely knows the way to cheer up a broken soul. Some of you wrote some dota related jokes, some of you sent straight forward love, some of you told their stories. Man, I'm gonna fall sleep reading these comments.
+As an update to the situation. Police forces are doubled, at least where I went to. They are beating people alot. At first they just attacked young people but now they are beating up the adults and older people. All the girls have removed their scarves and just burning them. I was on my way to the car to come back to home when a group of 10 took me to a corner and interrogate me. they hit me once in the leg which was not painful at all but they hit me once in the head too which was a little painful at the moment, but I just held my head like I was in alot of pain so they leave me. They searched my phone for pictures and messages but I dont keep any on my phone. They also searched my camera bag and went through some of my photos on my camera which they couldnt find anything useful to them. They were somewhat concerned about hitting me in the head and they just let me go. Tonight was a success, because we are just making the regime tired. They cant hold on forever. the police needs rest. But us, people, are more than them and we can finally outrun them. I will go out again every night and I will update this post here. One more time, I FKN LOVE YOU PEOPLE. 1 for all and all for 1 🧡✊
+________________________
+EDIT2: update:
+so, it's been about a week since my last update. we go to the streets every second day. ( i dont know if this phrase is right, i mean that i go today, i take a day off and i go the day after that). this way we have more chance that the police can't recognize us. the police is tired. alot! they are using religious children with police uniforms (without ranks) to fill out the streets. some cities are under people's full control. the regime is using tanks and heavy guns to take back those cities. people are tired too. they can't work, they can't communicate. we have no mobile data. we only have internet for home telephones and that is so weak. a majority of people around iran are having a strike. they are not going to work, so this way the economy forces the regime to answer our needs. oh, aside from all of this, did I tell you they FUCKING BANNED DOTA2 today. so i guess,""my death letter"" title was not that much of a joke. i dont know if this censorship is permanent or not, i guess not, but I hope I can play this game again, someday.
+______________
+Edit3: update:
+So, I'm alive, but they killed alot. They are killing at least 20 people everyday. They are weak. Some news says that the officials of Iran are sending their families to other countries with private planes. People are going to the streets more and more everyday. They sent a man with AK47 to a mosque in Shiraz and he killed 15 people. Innocent people. It's the kind of mosque that security will search down to your asshole! And he brought a fkn AK47! Regime says it was ISIS but they designed a poster about the Terrorist Attack and posted it an hour before the attack! :)) anyway, the people around the world are protesting for us and they are giving us such energy and hope that we are destroying the regime everyday. I will update this more frequently from now on. Thanks for being our voice ✊🇮🇷🧡
+___________
+Edit4: update
+November 10th 2022
+So we have 2 important days coming. 1 is today. The other one is Nov19th. 
+7 days ago they killed a boy from my city. Erfan. We all knew him. Thousands of people from the neighbour cities came to our city for the funeral. Police didnt let us mourn our friend. They brought special forces and shot at the people. People resisted a lot. But they couldnt handle the gunshots and smoke grenades. Today is the 7th day and more people are about to come here and to their own cities. The regime shared a statement to all cities via news and megaphones through the streets that all the shops and malls and etc should be closed. It's literally war! Today is going to be a blood bath in all over Iran. but! Nov19th is different. All the countries around the world are rising for Iran. All the iranians and non iranians who love iranian people are going to the streets at the same time to be the voice of iran. Also the iranians are going to go to the streets with full power. Kids, old people, teenagers, doctors, teachers, everyone!  We are calling it ""the last uprising"" 
+You know what it means! 
+The guy who commented ' tell zeus to ulti when u need it ' , it's time brother, we gonna need that ulti soon!
+Oh, and nov12th is my birthday. I hope I get a 'free iran' as my birthday gift.
+🇮🇷 🖤 woman, life, freedom!",2022-09-23T18:15:29,LABEL_2,0.4385753571987152
+post,dota2,2021,rde3e0,Bamboe. One of our favourite streamer and fellow dota activist bamboe passed away. Bamboe was a great guy and I still remember watching him and laughing along side him. Wish I knew more about what happened but at this point i am just speechless will miss him we lost a good guy.,2021-12-11T01:43:17,LABEL_2,0.5927021503448486
+post,dota2,2020,gduivs,Ballet lesson,2020-05-05T17:23:09,LABEL_1,0.7975467443466187
+post,dota2,2020,j9lwy6,"For the first time ever, Dota 2 has lost players for 5 consecutive months",2020-10-12T14:40:34,LABEL_0,0.9146638512611389
+post,dota2,2020,eu6utz,Jerax Retired.,2020-01-26T21:45:05,LABEL_1,0.7550809383392334
+post,dota2,2021,r8zg2n,"Dear Valve, how in the world is this allowed and there's no option to report it? Nazi racist BC team name and pic",2021-12-05T05:21:25,LABEL_0,0.9551053047180176
+post,dota2,2020,hmkftj,Use this wisely,2020-07-07T08:48:22,LABEL_1,0.6453438401222229
+post,dota2,2021,qhw6dx,Post Nut Clarity,2021-10-29T04:45:22,LABEL_1,0.8504493832588196
+post,dota2,2021,moobsq,OG.Ana Returns,2021-04-11T18:01:50,LABEL_1,0.8786516189575195
+post,dota2,2021,ouielm,What Dota Sounds Like To Your Parents,2021-07-30T18:59:13,LABEL_1,0.7014500498771667
+post,dota2,2021,lzn20q,What is the solution to this? How do we address this?,2021-03-07T17:12:19,LABEL_1,0.7091878056526184
+post,dota2,2021,mckxeo,Dota 2: New Home Page / New Approach To Helping Players Learn Dota,2021-03-25T08:14:54,LABEL_1,0.8271423578262329
+post,dota2,2022,uy6rv8,Shoutout to JeffHill from valve for actively checking reddit and fixing bugs,2022-05-26T20:43:09,LABEL_2,0.6717537045478821
+post,dota2,2020,f50rc6,Enough to make a grown man cry.,2020-02-17T09:22:30,LABEL_0,0.6474179625511169
+post,dota2,2020,hvgm2j,This is what Icefrog's office looks like when a new patch is coming out,2020-07-22T05:45:11,LABEL_1,0.7926986217498779
+post,dota2,2021,n60kys,Entities that have a hitcount to be killed should have a hitcounter instead of healthbar.,2021-05-06T14:06:22,LABEL_0,0.6907115578651428
+post,dota2,2021,m6008n,Balance in All Things,2021-03-16T11:31:07,LABEL_1,0.8408570885658264
+post,dota2,2021,pmkyb9,Welcome back bud,2021-09-12T11:09:01,LABEL_2,0.9042267203330994
+post,dota2,2020,ioskim,Good morning Valve ♡♡♡ GIVE TREASURE III♧♧♧,2020-09-08T20:22:44,LABEL_2,0.9216412305831909
+post,dota2,2022,yfjaj4,made it all the way here and still need to be carried,2022-10-28T17:19:26,LABEL_1,0.7372149229049683
+post,dota2,2021,meertt,Bad news: there will be some delays from the Secret Shop for a few days,2021-03-27T22:24:47,LABEL_0,0.8234907388687134
+post,dota2,2021,lnm6oo,DOTA: Dragon's Blood | Official Teaser | Netflix,2021-02-20T02:00:12,LABEL_1,0.9252303838729858
+post,dota2,2020,gvkmal,"Thank you Valve for giving us 1.95% more levels. We really don't deserve 1.95% levels, especially for the TI10 and the world on crisis. A decade of supporting and following the game, 1.95% free levels feels so wrong. It feels like we're stealing 1.95% wealth of Lord Gaben, Valve and it's executives; especially the executives.
 
-Nothing changed and would not be changed I guess.",2020-07-01T00:56:01,LABEL_1,0.6927765011787415,neutral,0.6047786474227905
-comment,dota2,2020,fwhph7t,hip4ou,I had an unranked game 2-3 weeks ago where the enemy CM would deward 100% of my wards. My team was upset because I was putting them in obvious spots (not all of them were obvious) so I put one in the middle of some trees and she eventually dewarded it lol. I watched the replay and there was no way she could have known except for some kind of cheat. I read this and thought now it all makes sense. We lost that game.,2020-07-01T00:52:22,LABEL_0,0.5695292353630066,neutral,0.6408748626708984
-comment,dota2,2020,fwhq348,hip4ou,"Some russian talent made a very detailed Video about this topic (i believe v1lad) 2 years ago with a huge response on Reddit and guess what happened, nothing. I dont believe valve will put any effort into fixing even the Server sided Bugs (for example the Ward/Vision problematic).
+I know it's hard to say but, the dota 2 community doesn't deserve 1.95% levels. With the TI10 BattlePass full of evenly distributed generous rewards like Disco Balls, Hot Peppers, ~~(Ralai) (Rilai) (Rylia)~~ Rylai spin and recycling through Sideshop, which are definitely not a scam and gambling.
 
-Luckily it is as you said, it doesnt make you a better player, i would guess your gain is less than 500mmr, so i still have a good mind about this game because if im the better player i will still win.
+How can the community have the audacity to complain and not be grateful of 1.95% more levels? How can they say TI10 BattlePass is a spendfest, pay to pay, and gambling when we got more 1.95% more levels?
 
-On the other hand its more dramatic in csgo, since every Script Kiddy can 1v5 a pro Team with the right spinbot.",2020-07-01T00:57:08,LABEL_1,0.5285903811454773,surprise,0.7104406952857971
-comment,dota2,2020,fwhs4xn,hip4ou,"Valve is an indie company, they dont have the money to spend on anti-cheat efforts.",2020-07-01T01:13:31,LABEL_0,0.5399563908576965,neutral,0.904422402381897
-comment,dota2,2020,fwhoww3,hip4ou,"Yeah man, really nice work you did there. Awesome cheating detection. Might u/OtherJeff_Valve be willing to look at this?",2020-07-01T00:47:51,LABEL_2,0.924277663230896,joy,0.5209652781486511
-comment,dota2,2020,fwhm889,hip4ou,Thank you for doing the research and posting this,2020-07-01T00:26:39,LABEL_2,0.9177266359329224,joy,0.4596722722053528
-comment,dota2,2020,fxu6u6v,hpv6p1,"Why does BH even have a mask? Not like the bottom half of his face is the only distinctive characteristics he has. 
+To be honest, the community deserve less immortal treasures, a shorter version of temporary ^(ceb) voice line for reaching or buying out for the prestigious level 100 reward, and more limited edition Arcana to not definitely create fear of missing out.
 
-“Hey someone stole Crystal Maidens gold”  
-“Did you see who it was?”  
-“Nah he wore a mask”  
-“Hmmm enemy team consists of Bounty Hunter, Doom, Shadow Fiend, Ursa and Ogre Magi, so it must have been one of those”  
-“Hard to tell, as I said the perpetrator wore a mask, maybe it was Doom”  
-“Ah did the robber have huge wings?”  
-“I don’t know, he wore a mask”",2020-07-12T23:55:26,LABEL_1,0.4890902042388916,neutral,0.5749473571777344
-comment,dota2,2020,fxu4dmg,hpv6p1,What's the difference in their int? Maybe there's a link.,2020-07-12T23:33:22,LABEL_1,0.874167799949646,neutral,0.8456323742866516
-comment,dota2,2020,fxu8sa9,hpv6p1,"What, gotta use a mask skin to make it safe? Totally pay to win wtf.",2020-07-13T00:12:42,LABEL_1,0.4771091639995575,disgust,0.4610327482223511
-comment,dota2,2020,fxu54w9,hpv6p1,What if BH's a mouthbreather ?,2020-07-12T23:40:26,LABEL_1,0.8185594081878662,fear,0.336110919713974
-comment,dota2,2020,fxu6o0y,hpv6p1,"[He got better.](https://gamepedia.cursecdn.com/dota2_gamepedia/f/f2/Cosmetic_icon_Master_Assassin%27s_Mask.png?version=40c4083fc34efef7bff2db84830b6811)
+If Valve continue to give out 1.95% more levels, they might ran out of budget for the new player experience. Also, they definitely did not nerfed the wagering and guild contract points before launch, fortunately, Valve is very generous and ""increased"" the points you can earn from them.
 
-But really? Those neck sleeve things? They aren't going to protect you. They will not block the virus.",2020-07-12T23:53:56,LABEL_0,0.6192291378974915,surprise,0.6710622310638428
-comment,dota2,2020,fxua74k,hpv6p1,quality content,2020-07-13T00:25:15,LABEL_1,0.598056435585022,neutral,0.9098502397537231
-comment,dota2,2020,fxuq40o,hpv6p1,Doesn't Bounty need his sense of smell to track though... TA has traps that can track her enemies. 🤔,2020-07-13T02:42:35,LABEL_1,0.7128362059593201,neutral,0.7556164860725403
-comment,dota2,2020,fxuu32z,hpv6p1,Alien psysiology is weird. For all we know BH could be breathing through his butthole.,2020-07-13T03:17:55,LABEL_0,0.8456171154975891,disgust,0.8555770516395569
-comment,dota2,2020,fxukkrf,hpv6p1,Gonar have coronavirus confirmed,2020-07-13T01:54:12,LABEL_1,0.7472952008247375,neutral,0.8741748332977295
-comment,dota2,2020,fxucbpk,hpv6p1,"Bounty Hunter is from Southern California.  TA is from Maine.  That should tell you everything you need to know.  Don't bother looking this up in their lore, I already did that",2020-07-13T00:44:02,LABEL_1,0.6224062442779541,neutral,0.8849552869796753
-comment,dota2,2020,fvrz3zo,hekw1r,"I feel like I'm watching a father dealing with a harsh reality that the son they loved committed a heinous crime and is deserving of the punishment coming their way. 
+Once again, I can't thank enough Valve for 1.95% more levels from Valve. We, from the community are very thankful for 1.95% more levels.
 
-""A person I would have taken a fucking bullet for 48 hours ago"" really hit home with me.",2020-06-24T03:51:55,LABEL_0,0.9490841031074524,disgust,0.5490648150444031
-comment,dota2,2020,fvruto4,hekw1r,3 mins in. It's hard seeing Slacks like this.,2020-06-24T03:17:11,LABEL_0,0.8160961866378784,disgust,0.49817728996276855
-comment,dota2,2020,fvrymj2,hekw1r,This is why slacks is loved. Him and purge have been great examples of how to conduct yourself. Even though they have completely different personalities they have the same soul.,2020-06-24T03:47:59,LABEL_2,0.9022960066795349,neutral,0.6667478084564209
-comment,dota2,2020,fvrx1p9,hekw1r,"I don't always like his type of comedy (don't hate it though), but I've always appreciated the guy. You gotta recognise a genuine person.",2020-06-24T03:35:09,LABEL_2,0.6857718229293823,joy,0.46614041924476624
-comment,dota2,2020,fvrxges,hekw1r,">Don't be a fucking asshole, specially to people who have hard things to say
+٩(\^▿\^)۶Thank you Valve for 1.95% more levels.٩(\^▿\^)۶",2020-06-03T09:41:43,LABEL_0,0.41688382625579834
+post,dota2,2021,mno4ob,Introducing Dawnbreaker,2021-04-10T02:59:12,LABEL_1,0.8402270078659058
+post,dota2,2022,uv3lwy,The Legendary Death Prophet Cosplay,2022-05-22T12:36:17,LABEL_1,0.8646259903907776
+post,dota2,2020,iyvbuw,Yes there is,2020-09-24T19:19:25,LABEL_1,0.5914269089698792
+post,dota2,2021,n405zo,"FANFIC DOTA 2 Unknown Warrior From a fan to fans I hope you like it  :D
 
-Well said Slacks. 
+https://preview.redd.it/a231s46zjxw61.png?width=2480&format=png&auto=webp&s=c151fd1803c86d4ee54941bd4b93170285193cda
 
-Also god dude's a fucking mess right now and it hurts to look at him like this",2020-06-24T03:38:29,LABEL_0,0.9769396781921387,disgust,0.5135254263877869
-comment,dota2,2020,fvrz85g,hekw1r,"Dear Slacks,  
+online:
 
+\-english : [https://medibang.com/book/5u2105051137236990020434095/](https://medibang.com/book/5u2105051137236990020434095/)
 
-You are an absolute treasure to this community and we love you. It breaks our hearts to see you like this. I can only imagine how much pain you must feel knowing that all this was going on around you and you are finding out how bad it all really was all in one day. I know there are many in this community who are hurting just like you and feel betrayed by people we once looked up to or supported behaving the way they did. Keep doing what you do and make us laugh and cringe hard. No one does it better than you and we truly admire all the work you put in to making our lives a little easier. Please don't ever change.  
+\-español: [https://medibang.com/book/qv2105040041089700020434095/](https://medibang.com/book/qv2105040041089700020434095/)",2021-05-04T00:17:04,LABEL_2,0.604150652885437
+post,dota2,2020,isaavf,"I have decided to create the New Player Experience on my own, and this is the result in just 2 hours.",2020-09-14T08:30:38,LABEL_2,0.554678201675415
+post,dota2,2020,ekt535,"Please, don't ask...",2020-01-06T19:52:04,LABEL_1,0.5519091486930847
+post,dota2,2022,y9eyti,"Valve owes the community an explanation around this year's TI The most glaring of issues that we know about, to date, deserves answers to these questions:
 
+* Does Valve feel like the integrity of the matches are compromised by the fact that there are no sound proof booths, giving advantage to the English speaking players? 
 
-P.S. I'd also like to tell Kyle not to change and to never ever shut up. You are another legend just like Slacks and we need you around for a long long time. Peace.",2020-06-24T03:52:53,LABEL_2,0.5924580693244934,sadness,0.905311107635498
-comment,dota2,2020,fvs1v04,hekw1r,"""The point of the matter is, that as long as there's positive growth it is worth the pain.""
+* Is there a chance that a non-English primary language team may have been eliminated due to playing an English primary language team that may have been able to use the caster and crowd noises to their advantage?
 
-This really hit home with me, man. As someone else who feels a lot of pain through this situation, seeing people who I feel have been a part of my life, my community, have this shit to say is painful. It fucking sucks. I don't want to hear it. But you are right. This needs to happen. These assholes, Grant and *anyone else who has done this shit* need to be exposed and excised from this community. No matter their past contributions or what our impressions of them are from the outside, they need to be removed. We need to grow as a community. We need to get better, be better, together. 
+* Did Valve decide to be hands off with this year's TI, leaving the quality and integrity of Dota's premier tournament in the sole hands of PGL?
 
-""Let people change you. Get changed by this, it's good. Growth is good, it's one of the best things a human can do.""
+* Did Valve issue an RFP out to tournament organizers and if PGL's proposal won, did they meet expectations for a Dota TI caliber tournament?
 
-Words to live by. /u/SirActionSlacks- You are a fucking treasure and I thank you infinitely for speaking to the people in the middle of this. For giving  us someone who we can empathize with who is struggling to understand all of this the same way we are so that hopefully we can all grow together. Thank you.",2020-06-24T04:14:18,LABEL_0,0.581995964050293,anger,0.45558151602745056
-comment,dota2,2020,fvsf2wa,hekw1r,"I disliked Slacks for a long time. I said something about how dumb his build was in Twitch one day while I was checking out his stream (BS lvl 5 dragon rush) and he picked up my comment, read it out loud, and then made fun of me for like 5 minutes straight. He was really mad at me and let me have it. I became a huge fan of this guy after that lol. This video makes me like him even more. 
+* If they did not meet the expectations, how will PGL be held accountable? 
 
-I love his personal outlook on gaming. Thanks, Slacks. And sorry I made fun of you in Twitch chat. You’re awesome. This stuff does suck and I’m glad there’s someone with a voice in the Dota community calling for reason and willing to show emotion and be vulnerable.",2020-06-24T06:03:04,LABEL_2,0.5256220698356628,disgust,0.5449714660644531
-comment,dota2,2020,fvru8ix,hekw1r,"Sry about title, wasn't sure what to type.",2020-06-24T03:12:24,LABEL_0,0.6391404867172241,disgust,0.3407481610774994
-comment,dota2,2020,fvs2jto,hekw1r,"""don't be a level 1 piece of shit, grow and level up just like in dota""",2020-06-24T04:19:54,LABEL_0,0.7817108035087585,neutral,0.577746570110321
+* If there were thousands of people queued up to buy tickets for TI, why did PGL book an event space that only had 500 seats for the playoffs?
+
+* Should the community lower its expectations about future TIs or will Valve ensure that the quality of the production and the integrity of the games meet a certain minimum standard going forward?",2022-10-21T08:37:36,LABEL_0,0.539013147354126
+post,dota2,2020,j08jyo,Learning to animate by making Wards,2020-09-26T23:59:25,LABEL_1,0.7499715685844421

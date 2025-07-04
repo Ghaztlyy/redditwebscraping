@@ -1,111 +1,30 @@
-type,subreddit,year,id,parent_id,text,created_utc,sentiment,sentiment_score,emotion,emotion_score
-comment,assasinscreed,2024,m1d3wqj,1hb2bsj,Should have hid on a bench and took down 2 or 3 wanted posters. Cops never would have got him then.,2024-12-10T22:39:35,LABEL_0,0.665666937828064,neutral,0.6056293845176697
-comment,assasinscreed,2024,m1d196v,1hb2bsj,"His manifesto looks very similar to AC death corridors, ngl. He forgot to write requiescat in pace.",2024-12-10T22:23:09,LABEL_0,0.5126081705093384,neutral,0.8358389139175415
-comment,assasinscreed,2024,m1dgzjh,1hb2bsj,Why didn't bro take down wanted posters and bribed heralds.,2024-12-10T23:54:02,LABEL_0,0.5859876275062561,neutral,0.408336341381073
-comment,assasinscreed,2024,m1dx7w4,1hb2bsj,"No it's actually Mario Auditore's brother, Luigi.",2024-12-11T01:19:56,LABEL_1,0.8142068386077881,neutral,0.8205291032791138
-comment,assasinscreed,2024,m1dpz2a,1hb2bsj,*You can now play as Luigi.*,2024-12-11T00:42:06,LABEL_1,0.6708157658576965,neutral,0.8524616360664368
-comment,assasinscreed,2024,m1dyjy1,1hb2bsj,Bro looks like Desmond,2024-12-11T01:26:56,LABEL_1,0.8064855933189392,neutral,0.9035841822624207
-comment,assasinscreed,2024,m1d09o3,1hb2bsj,Haha good one.,2024-12-10T22:16:59,LABEL_2,0.9163264632225037,joy,0.8440357446670532
-comment,assasinscreed,2024,m1fxep0,1hb2bsj,Accept Ezio was more of a badass and knew how to hide instead of the guy on the right who was stupid enough to go to McDonald's,2024-12-11T07:40:19,LABEL_1,0.4653458893299103,neutral,0.7862067818641663
-comment,assasinscreed,2024,m1dxjeb,1hb2bsj,LMAO WHO ESLE THOUGHT THIS SHIT TOO .,2024-12-11T01:21:36,LABEL_0,0.7468305826187134,surprise,0.3346702754497528
-comment,assasinscreed,2024,m1ejfud,1hb2bsj,I seen someone on twitter call him luigi mangione fa firenze,2024-12-11T03:14:44,LABEL_1,0.8817281126976013,neutral,0.8963698148727417
-comment,assasinscreed,2024,m2t4lma,1hhqb5a,The only Assassins Creed to be banned in Merica.,2024-12-19T19:38:23,LABEL_1,0.7200465798377991,sadness,0.7814648151397705
-comment,assasinscreed,2024,m2tpofi,1hhqb5a,"""Just today, the CEO of UnitedHealthcare appears to have been murdered in cold blood by an assailant wielding a... vacuum cleaner?""",2024-12-19T22:16:13,LABEL_0,0.9256117343902588,disgust,0.38299092650413513
-comment,assasinscreed,2024,m2uwng2,1hhqb5a,Omg this 🤣🤣🤣🤣👍👍👍,2024-12-20T02:23:07,LABEL_2,0.9027886390686035,surprise,0.9200311899185181
-comment,assasinscreed,2024,m2w7zwz,1hhqb5a,This idea would work well as a whole new segment of the Hitman: World Of Assassination platform lol,2024-12-20T06:37:19,LABEL_2,0.8210023641586304,neutral,0.8417781591415405
-comment,assasinscreed,2024,m2ug4ja,1hhqb5a,Od play the fuck outta this lol,2024-12-20T00:43:58,LABEL_0,0.796964704990387,anger,0.7300214767456055
-comment,assasinscreed,2024,m2wpy3f,1hhqb5a,So him being scared was just an act? He's giving 47 a run for his money.,2024-12-20T08:26:48,LABEL_0,0.5079054236412048,neutral,0.6062614917755127
-comment,assasinscreed,2024,m2xju2m,1hhqb5a,“Your claim was denied.”,2024-12-20T11:39:30,LABEL_0,0.6017709374427795,anger,0.5174124836921692
-comment,assasinscreed,2024,m2yufko,1hhqb5a,"Now would be a good time for AC present day, where it's Desmond's turn to use all the knowledge from his ancestors to end wealth inequality by taking out top 1%ers by tracking them down using flight trackers, sneaking into high security buildings and homes taking out top earning CEOs and some members of government who are more concerned about enriching themselves than they are representing their constituents. This game would fly off the shelves",2024-12-20T19:25:10,LABEL_1,0.49608343839645386,neutral,0.9115196466445923
-comment,assasinscreed,2024,m33eumv,1hhqb5a,what Desmond's story should've been,2024-12-21T13:04:42,LABEL_1,0.8703309893608093,neutral,0.787103533744812
-comment,assasinscreed,2024,kssmnpm,1b3il3o,Revelations.,2024-03-01T10:34:08,LABEL_1,0.81147301197052,disgust,0.4273122251033783
-comment,assasinscreed,2024,ksszcsc,1b3il3o,Mine will always be 3. For me it’s a masterpiece in storytelling and lore-wise. Plus it was my intro into the series as a teen,2024-03-01T12:02:27,LABEL_2,0.9255834221839905,joy,0.648388683795929
-comment,assasinscreed,2024,kstdtc0,1b3il3o,the Ezio trilogy. AC 2 the most,2024-03-01T14:05:18,LABEL_1,0.6094922423362732,surprise,0.45091626048088074
-comment,assasinscreed,2024,kstu38f,1b3il3o,black flag my love,2024-03-01T17:10:04,LABEL_2,0.8459998369216919,joy,0.6135976314544678
-comment,assasinscreed,2024,kst3srh,1b3il3o,"Revelations for me. Loved the bomb making, the hook blade, and the trailer had me so hyped! Introduced me to Woodkid too",2024-03-01T12:37:04,LABEL_2,0.9889223575592041,joy,0.9491628408432007
-comment,assasinscreed,2024,kstwweq,1b3il3o,Black flag,2024-03-01T17:45:26,LABEL_1,0.706234335899353,anger,0.40546923875808716
-comment,assasinscreed,2024,kstluoy,1b3il3o,"Probably I have to go with Origins. I know it's not the best one, but for me that I grew up with The Mummy it was very special, although it's set much after than the golden age of Egypt.",2024-03-01T15:30:32,LABEL_2,0.7215550541877747,neutral,0.9116584658622742
-comment,assasinscreed,2024,kstdmgo,1b3il3o,"So far unity, nexus or ac 3, ive only played those so far",2024-03-01T14:03:29,LABEL_1,0.7992831468582153,neutral,0.7368341684341431
-comment,assasinscreed,2024,ksulpr7,1b3il3o,"As someone who played all of them, AC 2 is what made me fall in love with the franchise.",2024-03-01T21:42:54,LABEL_2,0.9700480699539185,joy,0.5195096731185913
-comment,assasinscreed,2024,lst9bpn,1g7tlg6,Lmao actually funny rage bait 😂,2024-10-20T16:01:01,LABEL_2,0.6957538723945618,neutral,0.435846745967865
-comment,assasinscreed,2024,lstanz1,1g7tlg6,points for bravery,2024-10-20T16:16:29,LABEL_1,0.5827745795249939,neutral,0.5789032578468323
-comment,assasinscreed,2024,lstwdq0,1g7tlg6,What happened to assassins creed valhalla for the list. Did it fall into a different category? Just wondering as It was pretty good but long,2024-10-20T20:10:20,LABEL_2,0.5512837171554565,surprise,0.8015952706336975
-comment,assasinscreed,2024,lsul6xx,1g7tlg6,Finally a real fan,2024-10-20T22:56:12,LABEL_2,0.5885600447654724,neutral,0.5430654287338257
-comment,assasinscreed,2024,lsult1m,1g7tlg6,im kinda fuckin with this one,2024-10-20T22:59:35,LABEL_0,0.6987521052360535,anger,0.38892167806625366
-comment,assasinscreed,2024,lswhnu4,1g7tlg6,"Well honestly Odyssey *is* my favourite game in the series, and I’ve played every game in the series except Liberation.
+type,subreddit,year,id,text,created_utc,sentiment,sentiment_score
+post,assasinscreed,2024,1hb2bsj,haha italian assassin,2024-12-10T21:58:08,LABEL_1,0.5262933373451233
+post,assasinscreed,2024,1hhqb5a,"Assassin's Creed I would definitely buy.  Posted this in Assassin's Creed memes sub and it got removed didn't even want to post it at main Assassin's Creed sub because they delete everything, I don't understand why, hopefully here it will stay.",2024-12-19T18:48:25,LABEL_0,0.46140700578689575
+post,assasinscreed,2024,1b3il3o,What's yours favourite AC Game ? Mine is Odyssey.,2024-03-01T10:09:16,LABEL_1,0.5928712487220764
+post,assasinscreed,2024,1g7tlg6,"My honest tier list, Thoughts?",2024-10-20T15:48:06,LABEL_1,0.8726908564567566
+post,assasinscreed,2024,1hbwqsx,"Black Flag  If Haytam Kenway is Edward's son and the latter sympathized and was a member of the brotherhood of the Assassins, at what point did Haytam become a Templar?",2024-12-12T00:01:37,LABEL_1,0.7906830310821533
+post,assasinscreed,2024,1ha5g9x,Playing all games from Assassins Creed 1,2024-12-09T16:42:00,LABEL_1,0.9403719902038574
+post,assasinscreed,2024,1gu4sup,"Here is my tier list, feel free to bash my opinions",2024-11-18T21:34:20,LABEL_1,0.5731287598609924
+post,assasinscreed,2024,1bzba38,What is the most sad moment in an Assassin’s Creed game?,2024-04-09T06:17:09,LABEL_0,0.7035766243934631
+post,assasinscreed,2024,1hgix3n,Personal favorite AC right here,2024-12-18T03:41:25,LABEL_2,0.9376688003540039
+post,assasinscreed,2024,1glmoqc,"My tier list, pretty proud of it. Thoughts?",2024-11-07T17:33:02,LABEL_2,0.9531471729278564
+post,assasinscreed,2024,1gz7cpt,Here's my Tier List as a person who played all AC games:,2024-11-25T09:32:07,LABEL_1,0.9199277758598328
+post,assasinscreed,2024,1h8qoyh,Finished AC Syndicate after almost 9 years of it is release Easy to say that'i ve loved alongside all the other ac games i ve played,2024-12-07T19:38:20,LABEL_2,0.9529565572738647
+post,assasinscreed,2024,1hcxswu,It doesn't make sense,2024-12-13T06:53:15,LABEL_0,0.9423820376396179
+post,assasinscreed,2024,1gwyonh,What game has the best Master Assassin robes?,2024-11-22T11:39:16,LABEL_1,0.8501733541488647
+post,assasinscreed,2024,1g005dm,"Replaying the series again! Here's my tier list, thoughts? They are also in order from left to right within the tiers, so Odyssey is my #1 (yea controversial i know, but im in love with Greek Mythology IRL and RPG's are my favorite genre, so i was basically the perfect target demo lol) & AC1 is my #12 (story was good but the gameplay just felt way too repetitive, a remake could potentially see it bumped up in between Unity & Rogue if done right).
 
-To be fair, I’ve only played like an hour of syndicate, but that hour was enough to show me I wasn’t gonna love it.",2024-10-21T04:49:31,LABEL_1,0.37149325013160706,neutral,0.715311586856842
-comment,assasinscreed,2024,lstwdjt,1g7tlg6,I mean Odyssey was my favorite.,2024-10-20T20:10:17,LABEL_2,0.8639646768569946,neutral,0.4368012845516205
-comment,assasinscreed,2024,lstftr3,1g7tlg6,At least you're honest about not playing the others,2024-10-20T17:16:18,LABEL_1,0.6907461881637573,neutral,0.9288877844810486
-comment,assasinscreed,2024,lsu81ym,1g7tlg6,"Origins is really good too, tho. I’m on my new game plus with that one. Annnd ima start a new game plus with Odyssey here soon.",2024-10-20T21:36:48,LABEL_2,0.9837273359298706,joy,0.7684780955314636
-comment,assasinscreed,2024,lsuoejl,1g7tlg6,If you liked Odyssey I’d recommend Origins.,2024-10-20T23:14:06,LABEL_2,0.8652064204216003,neutral,0.770863950252533
-comment,assasinscreed,2024,m1jls9i,1hbwqsx,Edward was killed by a Templar who used edwards templar ring he got from the governor to convince Haytham his father had been a templar also. By the time Haytham could have learned the truth he was already committed to templar cause (I can’t remember if he ever did learn the truth though),2024-12-12T00:26:31,LABEL_0,0.5667188763618469,sadness,0.6590076088905334
-comment,assasinscreed,2024,m1k3xw4,1hbwqsx,"In the novel Foresaken we learn that Edward was killed by mercenaries hired by Reginald Birch, the british templar Grandmaster. After this he adopted Haytham and raised him in the Order. So really, Haytham never actually made the choice to become a templar as much as being groomed to believe that was his only option.",2024-12-12T01:59:38,LABEL_1,0.5163681507110596,sadness,0.8604186773300171
-comment,assasinscreed,2024,m1jikv1,1hbwqsx,you can actually cut the middle man here.like get an actual edward face and just force a face swap.would make it look a tad bit better.also i absolueyly love this,2024-12-12T00:09:42,LABEL_2,0.9516155123710632,neutral,0.6546410918235779
-comment,assasinscreed,2024,m1m5uf9,1hbwqsx,"When he forget to take the pill of seriuosness and start to do the clown and colonizer.
+*I have played a small part of revelations back in the day but 14 year old me could NOT beat that carriage chase. I really need to go back and try again, I loved 2 & Brotherhood so much. Always bothered me that I never finished Ezio's story...",2024-10-10T03:40:32,LABEL_2,0.6221863627433777
+post,assasinscreed,2024,1gbtpak,This is my list! I'm 35 year old gamer. I love Assassin's Creed! So here is my list!,2024-10-25T21:01:56,LABEL_2,0.9698250889778137
+post,assasinscreed,2024,1hei3jh,"I finished ac unity... The story was pretty flat but good. The Parkour was so good and the flashy moves arno does to get down was very cool. The world was built very well for parkour, tightly knitted buildings, ropes to cross distant buildings I rarely no infact I don't remember dropping down to cross. It is pretty annoying to get down to cross two buildings in the new ac games.
 
-Yeah, i am playing AC 3",2024-12-12T08:22:57,LABEL_1,0.614612340927124,neutral,0.4407269358634949
-comment,assasinscreed,2024,m1op0lq,1hbwqsx,"Haytham was groomed to be a Templar, even when he found out his father was an assassin he already was a deep believer to the Templars",2024-12-12T20:59:58,LABEL_1,0.6275439262390137,anger,0.39590534567832947
-comment,assasinscreed,2024,m1thcq5,1hbwqsx,Isn't this AI?,2024-12-13T13:41:41,LABEL_1,0.7779009342193604,surprise,0.70440673828125
-comment,assasinscreed,2024,m21xkea,1hbwqsx,Edward best dad out of all assassins creed,2024-12-15T02:50:36,LABEL_2,0.5594866871833801,neutral,0.8621909022331238
-comment,assasinscreed,2024,m1jjc5l,1hbwqsx,After Edward was killed by the Sage who then took Haytham under his wing to twist his world view into being a Templar.,2024-12-12T00:13:41,LABEL_1,0.5476299524307251,sadness,0.5844659805297852
-comment,assasinscreed,2024,m166o92,1ha5g9x,Bro talk with this girl every second if u want all achievements,2024-12-09T17:40:55,LABEL_1,0.6146135330200195,neutral,0.9368241429328918
-comment,assasinscreed,2024,m16b8ud,1ha5g9x,"Me too mate, I've been doing this on and off since COVID. Just started again a couple of months ago with Rogue and then onto Unity. I need a break before Syndicate though because as much as I enjoyed Unity, it fucking drained me 🤣",2024-12-09T18:34:03,LABEL_0,0.6804234981536865,sadness,0.34256118535995483
-comment,assasinscreed,2024,m16a3w1,1ha5g9x,Bro's in for one amazing journey. Enjoy it.,2024-12-09T18:21:06,LABEL_2,0.9805912375450134,joy,0.8339013457298279
-comment,assasinscreed,2024,m16c7oq,1ha5g9x,"Just like me! I played rogue, then decided that I'd didn't like not getting all the the lore references, and got Black flag, finished it and started over from AC1. So the ending of AC3 hit pretty hard, being the ""ending"" for my journey, since I had an Xbox 360.",2024-12-09T18:44:53,LABEL_0,0.6128070950508118,neutral,0.6492010951042175
-comment,assasinscreed,2024,m17s5dg,1ha5g9x,"There is a “secret” quest in the modern day, talk to Lucy when you can, use her computer when she says you can, and pay attention to the messages, some of them offer instructions on what to do next to unlock the next computer/area. At some point (early) youll be able to exit your room in the “night” (just after you enter the room and the door closes), you can exit again and there will be nobody to watch you so you can do whatever you want (basically spying the computers of the abstergo workers, or even re-enter the animus on your own like a mad-man, i wonder what Abstergo would think if they see their captive escaping in the night just for doing the same stuff he is forced to do in the day, but i guess the animus itself wasnt that bad, i would do it too if Abstergo kidnaps me 😂)
+Since I played mirage and unity side by side the difference was huge. I missed the double assissnation in mirage. The Parkour felt very lively compared to mirage. Imo arno got the best drip.
 
-By the way, for some reason it makes me happy to know someone is starting this journey from the beginning, enjoy it! Youll eventually know why older players LOVED the ezio games, you will understand. Take in mind years has passed, dont expect 100h games, i think you can beat the 4 first games in that time",2024-12-10T00:44:39,LABEL_2,0.7511723637580872,neutral,0.588570773601532
-comment,assasinscreed,2024,m19pcw0,1ha5g9x,I just love the vibe of AC1. I think they nailed it an were never able to recreate that unsafe and creepy feeling environment of Abstergo,2024-12-10T06:44:36,LABEL_2,0.8813793063163757,fear,0.8962643146514893
-comment,assasinscreed,2024,m1d3exr,1ha5g9x,"Same here, currently playing AC III Remastered",2024-12-10T22:36:32,LABEL_1,0.8466718792915344,neutral,0.9547833204269409
-comment,assasinscreed,2024,m165t5m,1ha5g9x,Ac 1 is very very underrated.,2024-12-09T17:30:44,LABEL_0,0.8518455624580383,neutral,0.4882529675960541
-comment,assasinscreed,2024,m16arm9,1ha5g9x,"Free important tip: play in AC1 without HUD
-It will be feels different then with HUD",2024-12-09T18:28:38,LABEL_1,0.5646250247955322,neutral,0.9135677814483643
-comment,assasinscreed,2024,lxr82h2,1gu4sup,The “haven’t played” just made me feel so old.,2024-11-18T21:56:50,LABEL_0,0.8471738696098328,sadness,0.47157225012779236
-comment,assasinscreed,2024,lxranb2,1gu4sup,"Unity S tier while ACII is at B?? Haven’t played Brotherhood?! You, good sir, have just ruined my day.",2024-11-18T22:13:20,LABEL_0,0.9287406206130981,surprise,0.5343037247657776
-comment,assasinscreed,2024,lxr5454,1gu4sup,I am kinda curious why Origins is so low and Odyssey so high?,2024-11-18T21:37:33,LABEL_1,0.575020968914032,surprise,0.9032370448112488
-comment,assasinscreed,2024,lxrf8nj,1gu4sup,Swap odyssey and origins,2024-11-18T22:41:32,LABEL_1,0.8265225291252136,neutral,0.8064863681793213
-comment,assasinscreed,2024,lxrvfim,1gu4sup,I don't have anything to say besides Play Brotherhood and Revelations since they add a lot to AC2's story and Ezio.,2024-11-19T00:11:07,LABEL_1,0.7893054485321045,neutral,0.9460590481758118
-comment,assasinscreed,2024,lxx2bdv,1gu4sup,Democracy was a mistake.,2024-11-19T20:43:27,LABEL_0,0.9187987446784973,disgust,0.5076848268508911
-comment,assasinscreed,2024,lxrbsu0,1gu4sup,"I get not playing ac1 because of accessibility issues, but brotherhood and rev?
+Paris was very beautifuly crafted all the churches and the poity thing🤌. It is as they say one of the best looking ac games. Tho for me origins followed by unity.
 
-(Unless ac2 was the last game in the series you played and you haven’t gotten to those two yet)",2024-11-18T22:20:29,LABEL_0,0.5929365754127502,neutral,0.7489722967147827
-comment,assasinscreed,2024,lxrqm15,1gu4sup,Unity and Mirage in S with AC2 being in B? I respect it but man that’s controversial.,2024-11-18T23:45:32,LABEL_1,0.6590007543563843,neutral,0.6634348034858704
-comment,assasinscreed,2024,lxrs7up,1gu4sup,"I think black flag is so divided because of ship.combat. You either love it or hate it. Personally I a big fan of ship combat and think the mechanics are decent. I do wish there were a bit more tactics available because after you get the vibe it becomes a bit easy , even with the legendary ships. With thay said I thinn your list is decent. I do think I'd put valhalla up to s along with 3",2024-11-18T23:54:04,LABEL_2,0.6227759718894958,neutral,0.5011334419250488
-comment,assasinscreed,2024,lxuadus,1gu4sup,You haven't played Brotherhood?? Stop what you're doing now and go download it.,2024-11-19T07:38:51,LABEL_0,0.5704246759414673,anger,0.8659330606460571
-comment,assasinscreed,2024,kyor4ib,1bzba38,Arguably the ending of Black Flag in general or that moment in Origins where the child of that woman was killed and Bayek had to find her son's body being weighed down in the water. Shit was pretty dark.,2024-04-09T06:49:51,LABEL_0,0.8997105360031128,disgust,0.8056824207305908
-comment,assasinscreed,2024,kyq3362,1bzba38,"I mean, it's easily the ending of black flag when the game brings to your attention the fact that almost every single character you've met so far is dead.",2024-04-09T12:17:31,LABEL_0,0.713774561882019,neutral,0.5625114440917969
-comment,assasinscreed,2024,kyqxvoo,1bzba38,Lowkey I felt like they really nailed the Bayek and Aya interactions in the last few hours of Origins. You can tell they both realize that the world they've helped create just isn't one where they can be together even if they both love each other. Bayek tries to fight it and Aya accepts it.,2024-04-09T18:11:36,LABEL_2,0.643287181854248,neutral,0.7223065495491028
-comment,assasinscreed,2024,kyq4yse,1bzba38,"The Auditores being hung in front of Ezio, Blackbeard and Mary’s deaths in Black Flag, the ending to Black Flag and the death of Bayek’s son",2024-04-09T12:34:16,LABEL_0,0.5211694240570068,sadness,0.4984564781188965
-comment,assasinscreed,2024,kyq90vd,1bzba38,"Achilles death. And connor having to dig his grave in the rain, that one really got me when I first played the game",2024-04-09T13:12:59,LABEL_1,0.5388928055763245,sadness,0.7592620253562927
-comment,assasinscreed,2024,kyqsckp,1bzba38,I would say Bayek's dialogue with Khemu when you visit any of the stargazing locations. They nailed that side content by tying it to his character,2024-04-09T17:03:24,LABEL_2,0.6189150810241699,neutral,0.9495458602905273
-comment,assasinscreed,2024,kyq5hy9,1bzba38,Shadyas death,2024-04-09T12:39:06,LABEL_1,0.5922428369522095,sadness,0.6995156407356262
-comment,assasinscreed,2024,kyr1y0k,1bzba38,"Bayek accidentally killing his own son, hands down saddest thing in any of the games.",2024-04-09T18:55:26,LABEL_0,0.9498851895332336,sadness,0.7566615343093872
-comment,assasinscreed,2024,kyr5z89,1bzba38,"The loss of Bayek’s son, and eventually him and Aya separating while still loving each other. He lost so much in that game 😭",2024-04-09T19:31:14,LABEL_0,0.6794583201408386,sadness,0.9809412360191345
-comment,assasinscreed,2024,kyt6bj3,1bzba38,The ending of the love quests in Brotherhood. That shit was deep. Its the main thing I remember about that game and it is partly the reason why Brotherhood is my favorite entry.,2024-04-10T03:01:13,LABEL_2,0.8834863305091858,disgust,0.8775368332862854
-post,assasinscreed,2024,1hb2bsj,,haha italian assassin,2024-12-10T21:58:08,LABEL_1,0.5262933373451233,neutral,0.5310103893280029
-post,assasinscreed,2024,1hhqb5a,,"Assassin's Creed I would definitely buy.  Posted this in Assassin's Creed memes sub and it got removed didn't even want to post it at main Assassin's Creed sub because they delete everything, I don't understand why, hopefully here it will stay.",2024-12-19T18:48:25,LABEL_0,0.46140700578689575,neutral,0.5685239434242249
-post,assasinscreed,2024,1b3il3o,,What's yours favourite AC Game ? Mine is Odyssey.,2024-03-01T10:09:16,LABEL_1,0.5928712487220764,neutral,0.555191695690155
-post,assasinscreed,2024,1g7tlg6,,"My honest tier list, Thoughts?",2024-10-20T15:48:06,LABEL_1,0.8726908564567566,neutral,0.7192645072937012
-post,assasinscreed,2024,1hbwqsx,,"Black Flag  If Haytam Kenway is Edward's son and the latter sympathized and was a member of the brotherhood of the Assassins, at what point did Haytam become a Templar?",2024-12-12T00:01:37,LABEL_1,0.7906830310821533,fear,0.3772956132888794
-post,assasinscreed,2024,1ha5g9x,,Playing all games from Assassins Creed 1,2024-12-09T16:42:00,LABEL_1,0.9403719902038574,neutral,0.9123877286911011
-post,assasinscreed,2024,1gu4sup,,"Here is my tier list, feel free to bash my opinions",2024-11-18T21:34:20,LABEL_1,0.5731287598609924,anger,0.817533552646637
-post,assasinscreed,2024,1bzba38,,What is the most sad moment in an Assassin’s Creed game?,2024-04-09T06:17:09,LABEL_0,0.7035766243934631,sadness,0.9799485802650452
-post,assasinscreed,2024,1hgix3n,,Personal favorite AC right here,2024-12-18T03:41:25,LABEL_2,0.9376688003540039,neutral,0.7352307438850403
-comment,assasinscreed,2024,m2jqu63,1hgix3n,"It’s a perfectly decent game, Story is meh but London was fun to explore and clear out boroughs and the stealth gameplay was very fun",2024-12-18T04:20:09,LABEL_2,0.9623398780822754,joy,0.97027188539505
-comment,assasinscreed,2024,m2jqoy1,1hgix3n,I really enjoy Syndicate i don't get the hate,2024-12-18T04:19:22,LABEL_2,0.85688716173172,joy,0.9848448634147644
-comment,assasinscreed,2024,m2jyfis,1hgix3n,"Replaying it as we speak!
-Love to switch between the twins: Evie when I want to go all stealth and Jacob when I want chaos haha, and the combat is so fun to me.",2024-12-18T05:00:32,LABEL_2,0.9746381044387817,joy,0.9737076163291931
-comment,assasinscreed,2024,m2jrt3x,1hgix3n,"It's pretty much that AC game to me where I'm just like ""Oh yeah, that one exists"". Pretty much the AC of all time.
+Gameplay was okayish or they could have done better since I finished syndicate first i felt alot of elements missing(sling shot was not one of them) The absence of quick access wheel made it a bit chaotic.
 
-I like just running around however, and I also really like the Rope Launcher since you can weave it smoothly in you freeruns and get back up quickly if you failed a jump (well, if this game had a jump button anyway).",2024-12-18T04:25:25,LABEL_2,0.7587270736694336,neutral,0.8009951710700989
-comment,assasinscreed,2024,m2kcw18,1hgix3n,The story is ok and the dlcs are good imo but the combat is trash,2024-12-18T06:17:54,LABEL_0,0.467695027589798,disgust,0.4709068238735199
-comment,assasinscreed,2024,m2kjw7v,1hgix3n,"I don’t hate it but it was definitely the first step down.
-- Downfall of parkour in the series.
-- Enemies health was buffed a lot leading to drawn out combat.
-- Jacob didn’t feel like an assassin at all.
-- Lastly the story is pretty forgettable.",2024-12-18T06:57:20,LABEL_0,0.9053027629852295,sadness,0.41953611373901367
-comment,assasinscreed,2024,m2k25wo,1hgix3n,"Story was blah, the romance with Evie was the most forced Ive ever seen, but gameplay was good. Interesting way to add in the character switching.",2024-12-18T05:20:28,LABEL_2,0.4379483759403229,neutral,0.4754168689250946
-comment,assasinscreed,2024,m2jwfye,1hgix3n,"Idk, got it free from ubi, and it was great game, tbh story was better than unity",2024-12-18T04:50:04,LABEL_2,0.9525138735771179,joy,0.8915077447891235
-comment,assasinscreed,2024,m2k8r0v,1hgix3n,"jokes, jokes, jokes...",2024-12-18T05:55:22,LABEL_1,0.5596660375595093,joy,0.6804647445678711
-comment,assasinscreed,2024,m2lejfw,1hgix3n,"I just don't see what it does better than any other entry. Story is meh, parkour is gutted, combat is hard to take seriously with how slapstick it is, it looks worse than Unity that came out earlier. Top it off with being generally buggy and having a poor pc port, there's really nothing that elevates it above any other entry in the series. It's middling at best IMO. Perfectly okay to like it, it's subjective after all.",2024-12-18T10:03:46,LABEL_0,0.815617024898529,disgust,0.907264232635498
+The game was unfinished felt rushed to me. But regardless hands down one of the best AC game.",2024-12-15T09:44:36,LABEL_2,0.6906848549842834
+post,assasinscreed,2024,1h2oecy,Why is ezio the smoothest assassin 😂😂,2024-11-29T23:36:25,LABEL_1,0.5733804702758789
+post,assasinscreed,2024,1hik0ak,Bring it back!,2024-12-20T21:40:46,LABEL_2,0.6742126941680908
